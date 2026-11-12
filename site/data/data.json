@@ -7,31 +7,36 @@
    "cle": "decouvrir",
    "num": 1,
    "titre": "Je découvre",
-   "desc": "Présentation de l'activité et du rôle de jeune officiel."
+   "desc": "Présentation de l'activité et du rôle de jeune officiel.",
+   "image": "assets/etapes/etape-1-decouvrir.webp"
   },
   {
    "cle": "regles",
    "num": 2,
    "titre": "Je connais les règles essentielles",
-   "desc": "Les fiches par poste et les points de règlement à maîtriser."
+   "desc": "Les fiches par poste et les points de règlement à maîtriser.",
+   "image": "assets/etapes/etape-2-regles.webp"
   },
   {
    "cle": "analyse",
    "num": 3,
    "titre": "J'analyse et je valide la situation",
-   "desc": "Quiz « Valable ou Faute ? » pour juger des situations réelles."
+   "desc": "Quiz « Valable ou Faute ? » pour juger des situations réelles.",
+   "image": "assets/etapes/etape-3-analyse.webp"
   },
   {
    "cle": "construction",
    "num": 4,
-   "titre": "Je décide",
-   "desc": "Scénarios vidéo et situations de décision (en construction)."
+   "titre": "Je sais décider",
+   "desc": "Scénarios vidéo et situations de décision (en construction).",
+   "image": "assets/etapes/etape-4-en-construction.webp"
   },
   {
    "cle": "certification",
    "num": 5,
    "titre": "Je m'entraîne à la certification",
-   "desc": "Entraînement aux épreuves de certification district, départemental et académique."
+   "desc": "Entraînement aux épreuves de certification district, départemental et académique.",
+   "image": "assets/etapes/etape-5-certification.webp"
   }
  ],
  "sports": [
@@ -148,7 +153,8 @@
      "url": "https://wayground.com/join?gc=15064054",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-combine-athletique"
   },
   {
    "id": "aviron-indoor",
@@ -248,7 +254,8 @@
      "url": "https://wayground.com/join?gc=18482605",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA5-musculation"
   },
   {
    "id": "badminton",
@@ -323,7 +330,8 @@
      "url": "https://wayground.com/join?gc=61524982",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-badminton"
   },
   {
    "id": "badten",
@@ -393,7 +401,8 @@
      "url": "https://wayground.com/join?gc=27994115",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-tennis-de-table"
   },
   {
    "id": "basket-ball",
@@ -468,7 +477,8 @@
      "url": "https://wayground.com/join?gc=42885117",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-basket-ball"
   },
   {
    "id": "bike-and-run",
@@ -563,7 +573,8 @@
      "url": "https://wayground.com/join?gc=48230261",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-run-bike"
   },
   {
    "id": "boxe-assaut",
@@ -633,7 +644,8 @@
      "url": "https://wayground.com/join?gc=03024757",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-boxe-francaise"
   },
   {
    "id": "circuit-training",
@@ -718,7 +730,8 @@
      "url": "https://wayground.com/join?gc=45467517",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-cross-training"
   },
   {
    "id": "course-d-orientation",
@@ -813,7 +826,8 @@
      "url": "https://wayground.com/join?gc=49639021",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA2-course-orientation"
   },
   {
    "id": "escalade",
@@ -888,7 +902,8 @@
      "url": "https://wayground.com/join?gc=15064054",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA2-escalade"
   },
   {
    "id": "football",
@@ -984,7 +999,8 @@
      "url": "https://wayground.com/join?gc=14865293",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-football"
   },
   {
    "id": "futsal",
@@ -1064,7 +1080,8 @@
      "url": "https://wayground.com/join?gc=56524517",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-futsal"
   },
   {
    "id": "golf",
@@ -1154,7 +1171,8 @@
      "url": "https://wayground.com/join?gc=16703662",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA2-golf"
   },
   {
    "id": "gymnastique-artistique",
@@ -1454,7 +1472,8 @@
      "url": "https://wayground.com/join?gc=14084750",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA3-gymnastique"
   },
   {
    "id": "handball",
@@ -1524,7 +1543,8 @@
      "url": "https://wayground.com/join?gc=61524982",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-handball"
   },
   {
    "id": "laser-run",
@@ -1614,7 +1634,8 @@
      "url": "https://wayground.com/join?gc=43524461",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-laser-run"
   },
   {
    "id": "natation",
@@ -1694,7 +1715,8 @@
      "url": "https://wayground.com/join?gc=14628725",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-natation-vitesse"
   },
   {
    "id": "petanque",
@@ -1774,7 +1796,8 @@
      "url": "https://wayground.com/join?gc=66919550",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-boccia-adapte"
   },
   {
    "id": "raid-multisports",
@@ -1869,7 +1892,8 @@
      "url": "https://wayground.com/join?gc=36927245",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-course-nature"
   },
   {
    "id": "step",
@@ -1949,7 +1973,8 @@
      "url": "https://wayground.com/join?gc=40955518",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA3-step"
   },
   {
    "id": "surf",
@@ -2044,7 +2069,8 @@
      "url": "https://wayground.com/join?gc=28478221",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA2-activites-nautiques"
   },
   {
    "id": "savate-boxe-francaise",
@@ -2114,7 +2140,8 @@
      "url": "https://wayground.com/join?gc=37381237",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-boxe-francaise"
   },
   {
    "id": "tennis-de-table",
@@ -2204,7 +2231,8 @@
      "url": "https://wayground.com/join?gc=45571693",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-tennis-de-table"
   },
   {
    "id": "triathlon",
@@ -2314,7 +2342,8 @@
      "url": "https://wayground.com/join?gc=20514830",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA1-triathlon-athletique"
   },
   {
    "id": "ultimate",
@@ -2409,7 +2438,8 @@
      "url": "https://wayground.com/join?gc=14865293",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-ultimate"
   },
   {
    "id": "voile",
@@ -2504,7 +2534,8 @@
      "url": "https://wayground.com/join?gc=58936941",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA2-activites-nautiques"
   },
   {
    "id": "volley-ball",
@@ -2584,7 +2615,8 @@
      "url": "https://wayground.com/join?gc=53448638",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA4-volley-ball"
   },
   {
    "id": "vtt",
@@ -2659,7 +2691,8 @@
      "url": "https://wayground.com/join?gc=38377475",
      "type": "wayground"
     }
-   ]
+   ],
+   "icone": "CA2-vtt"
   },
   {
    "id": "gym-acro",
@@ -2669,7 +2702,8 @@
    "regles": [],
    "analyse": [],
    "construction": [],
-   "certification": []
+   "certification": [],
+   "icone": "CA3-acrosport"
   },
   {
    "id": "danse-hip-hop",
@@ -2679,7 +2713,8 @@
    "regles": [],
    "analyse": [],
    "construction": [],
-   "certification": []
+   "certification": [],
+   "icone": "CA3-danse"
   },
   {
    "id": "danse-choregraphiee",
@@ -2689,7 +2724,8 @@
    "regles": [],
    "analyse": [],
    "construction": [],
-   "certification": []
+   "certification": [],
+   "icone": "CA3-danse"
   },
   {
    "id": "judo",
@@ -2699,7 +2735,8 @@
    "regles": [],
    "analyse": [],
    "construction": [],
-   "certification": []
+   "certification": [],
+   "icone": "CA4-judo"
   },
   {
    "id": "tir-a-l-arc",
@@ -2709,7 +2746,8 @@
    "regles": [],
    "analyse": [],
    "construction": [],
-   "certification": []
+   "certification": [],
+   "icone": "CA2-biathlon-co-tir-arc"
   }
  ],
  "version": 1

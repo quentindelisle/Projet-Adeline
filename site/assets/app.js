@@ -5,70 +5,99 @@
   let DATA = null;
   const COUL = ['', 'e1', 'e2', 'e3', 'e4', 'e5'];
 
-  const sportsActifs = () => DATA.sports.filter(s => s.actif !== false);
-  const remplie = (s, cle) => (s[cle] || []).length > 0;
+
+  const icone = s => s.icone ? `assets/icones/${encodeURIComponent(s.icone)}.png` : '';
+  const imgIcone = (s, cls = '') => s.icone ? `<img class="${cls}" src="${icone(s)}" alt="" loading="lazy">` : `<span class="ini ${cls}" aria-hidden="true">${esc(initiales(s.nom))}</span>`;
 
   /* ---------- Accueil ---------- */
   function accueil() {
     document.title = DATA.titre;
+    document.body.classList.add('accueil');
     const tri = [...DATA.sports].sort((a, b) => (a.actif === false) - (b.actif === false) || a.nom.localeCompare(b.nom, 'fr'));
     app.innerHTML = `
-      <section class="hero">
-        <h1>${esc(DATA.titre)}</h1>
-        <p>${esc(DATA.accroche || 'Choisis ton activité, puis suis les cinq étapes du parcours pour devenir jeune juge ou jeune arbitre certifié.')}</p>
-      </section>
-      <ul class="etapes-legende" aria-label="Les cinq étapes">
-        ${DATA.etapes.map(e => `<li><span class="pastille ${COUL[e.num]}">${e.num}</span>${esc(e.titre)}</li>`).join('')}
-      </ul>
-      <div class="outils">
+      <div class="hero-ligne">
+        <div><h1>${esc(DATA.titre)}</h1>
+        <p>${esc(DATA.accroche || 'Choisis ton activité, puis suis les cinq étapes du parcours pour devenir jeune juge ou jeune arbitre certifié.')}</p></div>
         <label class="sr" for="cherche">Rechercher une activité</label>
         <input id="cherche" class="recherche" type="search" placeholder="Rechercher une activité…" autocomplete="off">
       </div>
-      <div class="grille" id="grille">
-        ${tri.map(s => carteSport(s)).join('')}
+      <div class="grille tuiles" id="grille">
+        ${tri.map(s => tuile(s)).join('')}
       </div>`;
     const champ = document.getElementById('cherche');
     champ.addEventListener('input', () => {
       const v = JAJJ.slug(champ.value);
-      document.querySelectorAll('#grille .sport').forEach(c => { c.hidden = v && !c.dataset.cle.includes(v); });
+      document.querySelectorAll('#grille .tuile').forEach(c => { c.hidden = v && !c.dataset.cle.includes(v); });
     });
   }
-  function carteSport(s) {
+  function tuile(s) {
     const actif = s.actif !== false;
-    const jauge = DATA.etapes.map(e => `<i class="${remplie(s, e.cle) ? 'ok ' : ''}${COUL[e.num]}" title="${esc(e.titre)}${remplie(s, e.cle) ? '' : ' : à venir'}"></i>`).join('');
-    const inner = `<span class="ini" aria-hidden="true">${esc(initiales(s.nom))}</span><h2>${esc(s.nom)}</h2>${actif ? `<div class="jauge" aria-hidden="true">${jauge}</div>` : '<span class="badge">Bientôt disponible</span>'}`;
+    const inner = `${imgIcone(s)}<b>${esc(s.nom)}</b>${actif ? '' : '<span class="bientot">Bientôt</span>'}`;
     return actif
-      ? `<a class="sport" href="#/s/${esc(s.id)}" data-cle="${esc(JAJJ.slug(s.nom))}">${inner}</a>`
-      : `<div class="sport inactif" data-cle="${esc(JAJJ.slug(s.nom))}" aria-disabled="true">${inner}</div>`;
+      ? `<a class="tuile" href="#/s/${esc(s.id)}" data-cle="${esc(JAJJ.slug(s.nom))}">${inner}</a>`
+      : `<div class="tuile inactif" data-cle="${esc(JAJJ.slug(s.nom))}" aria-disabled="true" title="Bientôt disponible">${inner}</div>`;
   }
 
-  /* ---------- Page d'une activité ---------- */
+  /* ---------- Page d'une activité : mise en page d'origine (5 images) ---------- */
   function pageSport(id) {
     const s = DATA.sports.find(x => x.id === id);
     if (!s) return introuvable();
     document.title = s.nom + ' — ' + DATA.titre;
+    const E = DATA.etapes;
+    const img = e => {
+      const items = s[e.cle] || [];
+      const n = items.length;
+      const label = n ? (n === 1 ? '1 ressource' : n + ' ressources') : 'Bientôt';
+      const direct = n === 1 && items[0].type !== 'quiz' && urlIntegree(items[0]);
+      const href = !n ? '' : direct ? '' : `href="#/s/${esc(s.id)}/${e.cle}"`;
+      const tag = n && !direct ? 'a' : 'button';
+      return `<${tag} class="etape-img${n ? '' : ' vide'}" ${href} ${direct ? `data-direct="${e.cle}"` : ''} ${!n ? 'aria-disabled="true" disabled style="border:0;padding:0;cursor:default"' : tag === 'button' ? 'style="border:0;padding:0;cursor:pointer"' : ''} aria-label="Étape ${e.num} : ${esc(e.titre)} (${label})">
+        <img src="${esc((!n && e.imageVide) || e.image || '')}" alt="Étape ${e.num} — ${esc(e.titre)}"${!n && e.imageVide ? ' style="filter:none;opacity:1"' : ''}>${!n && e.imageVide ? '' : `<span class="nb">${label}</span>`}</${tag}>`;
+    };
     app.innerHTML = `
       <p class="fil"><a href="#/">Activités</a> › ${esc(s.nom)}</p>
-      <div class="entete-sport"><span class="ini" aria-hidden="true">${esc(initiales(s.nom))}</span><h1>${esc(s.nom)}</h1></div>
-      <div class="parcours">
-        ${DATA.etapes.map(e => blocEtape(s, e)).join('')}
-      </div>`;
-    app.querySelectorAll('[data-ouvrir]').forEach(b => b.addEventListener('click', () => {
-      const [cle, i] = b.dataset.ouvrir.split(':');
-      ouvrir(s[cle][+i]);
-    }));
+      <div class="cadre-sport"><div class="hub">
+        <a class="retour-rond" href="#/" aria-label="Retour aux activités">←</a>
+        <div class="col">${img(E[0])}${img(E[1])}</div>
+        <div class="centre">
+          <img class="logo-hub" src="assets/logo-unss-nantes.png" alt="UNSS Académie de Nantes">
+          ${img(E[2])}
+          <h1 class="nom-sport">${s.icone ? `<img src="${icone(s)}" alt="">` : ''}${esc(s.nom)}</h1>
+        </div>
+        <div class="col">${img(E[3])}${img(E[4])}</div>
+      </div></div>`;
+    app.querySelectorAll('[data-direct]').forEach(b => b.addEventListener('click', () => ouvrir(s[b.dataset.direct][0])));
   }
-  function blocEtape(s, e) {
-    const items = s[e.cle] || [];
+
+  /* ---------- Page d'une étape ---------- */
+  function pageEtape(id, cle) {
+    const s = DATA.sports.find(x => x.id === id);
+    const e = DATA.etapes.find(x => x.cle === cle);
+    if (!s || !e) return introuvable();
+    document.title = e.titre + ' — ' + s.nom;
+    const items = s[cle] || [];
     let html = '', groupe = null;
     items.forEach((it, i) => {
       if ((it.groupe || null) !== groupe) { groupe = it.groupe || null; if (groupe) html += `<li class="groupe-titre">${esc(groupe)}</li>`; }
-      html += `<li>${bouton(it, e.cle, i)}</li>`;
+      html += `<li>${bouton(it, cle, i)}</li>`;
     });
-    return `<section class="etape" style="--c:var(--e${e.num})" id="etape-${e.cle}">
-      <header><span class="pastille ${COUL[e.num]}">${e.num}</span><div><h2>${esc(e.titre)}</h2>${e.desc ? `<p>${esc(e.desc)}</p>` : ''}</div></header>
-      ${items.length ? `<ul class="items">${html}</ul>` : '<p class="vide">Contenu en préparation.</p>'}
-    </section>`;
+    const autres = DATA.etapes.filter(x => x.cle !== cle && (s[x.cle] || []).length);
+    app.innerHTML = `
+      <p class="fil"><a href="#/">Activités</a> › <a href="#/s/${esc(s.id)}">${esc(s.nom)}</a> › ${esc(e.titre)}</p>
+      <div class="tete-etape">
+        ${e.image ? `<img class="ill" src="${esc(e.image)}" alt="">` : ''}
+        <div style="flex:1"><h1>${esc(e.titre)}</h1><p>${esc(s.nom)}${e.desc ? ' — ' + esc(e.desc) : ''}</p></div>
+        ${s.icone ? `<img class="icone-sport" src="${icone(s)}" alt="">` : ''}
+      </div>
+      <section class="etape" style="--c:var(--e${e.num})">
+        ${items.length ? `<ul class="items" style="padding-top:14px">${html}</ul>` : '<p class="vide" style="padding-top:16px">Contenu en préparation.</p>'}
+      </section>
+      <div class="nav-etapes"><a class="btn prim" href="#/s/${esc(s.id)}">← Retour au parcours ${esc(s.nom)}</a>
+        ${autres.map(x => `<a class="btn" href="#/s/${esc(s.id)}/${x.cle}">${x.num}. ${esc(x.titre)}</a>`).join('')}</div>`;
+    app.querySelectorAll('[data-ouvrir]').forEach(b => b.addEventListener('click', () => {
+      const [k, i] = b.dataset.ouvrir.split(':');
+      ouvrir(s[k][+i]);
+    }));
   }
   function bouton(it, cle, i) {
     const t = TYPES[it.type] || TYPES.lien;
@@ -99,6 +128,8 @@
     let q;
     try { q = await JAJJ.chargerQuiz(id); } catch (e) { return introuvable(); }
     const s = DATA.sports.find(x => x.id === q.sport);
+    const et = s && DATA.etapes.find(e => (s[e.cle] || []).some(it => it.quiz === q.id));
+    const lienEtape = s && et ? `#/s/${s.id}/${et.cle}` : s ? `#/s/${s.id}` : '#/';
     document.title = q.titre + ' — Quiz';
     const etat = { melange: false, extrait: 0 };
 
@@ -113,7 +144,7 @@
       const total = themes.reduce((a, t) => a + t.questions.length, 0);
       let n = 0;
       app.innerHTML = `
-        <p class="fil"><a href="#/">Activités</a> › ${s ? `<a href="#/s/${esc(s.id)}">${esc(s.nom)}</a> › ` : ''}Quiz</p>
+        <p class="fil"><a href="#/">Activités</a> › ${s ? `<a href="#/s/${esc(s.id)}">${esc(s.nom)}</a> › ` : ''}${et ? `<a href="${esc(lienEtape)}">${esc(et.titre)}</a> › ` : ''}Quiz</p>
         <div class="quiz-tete">
           ${q.entete ? `<div class="sur">${esc(q.entete)}</div>` : ''}
           <h1>${esc(q.titre)}</h1>
@@ -167,7 +198,7 @@
       const pct = Math.round(ok / total * 100);
       const msg = pct >= 90 ? 'Excellent ! Tu maîtrises le règlement.' : pct >= 70 ? 'Très bien ! Encore quelques détails à revoir.' : pct >= 50 ? 'Pas mal : relis les fiches pour progresser.' : 'Reprends les fiches de l\'étape 2 avant de recommencer.';
       document.getElementById('bilan').innerHTML = `<div class="bilan"><div class="gros">${ok}/${total}</div><p>${pct} % de bonnes réponses — ${msg}</p>
-        <div class="options-quiz" style="justify-content:center"><button class="btn prim" id="refaire">Recommencer</button>${s ? `<a class="btn" href="#/s/${esc(s.id)}">Retour au parcours</a>` : ''}</div></div>`;
+        <div class="options-quiz" style="justify-content:center"><button class="btn prim" id="refaire">Recommencer</button><a class="btn" href="${esc(lienEtape)}">Retour aux quiz</a></div></div>`;
       document.getElementById('refaire').addEventListener('click', () => { construire(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
       document.getElementById('bilan').scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
@@ -182,7 +213,9 @@
   function route() {
     if (dlg.open) dlg.close();
     const h = location.hash.replace(/^#\/?/, '').split('/');
-    if (h[0] === 's' && h[1]) pageSport(decodeURIComponent(h[1]));
+    document.body.classList.remove('accueil');
+    if (h[0] === 's' && h[1] && h[2]) pageEtape(decodeURIComponent(h[1]), h[2]);
+    else if (h[0] === 's' && h[1]) pageSport(decodeURIComponent(h[1]));
     else if (h[0] === 'q' && h[1]) pageQuiz(decodeURIComponent(h[1]));
     else accueil();
     app.focus({ preventScroll: true });

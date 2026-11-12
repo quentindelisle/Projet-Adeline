@@ -131,11 +131,14 @@
       </div>
       <div class="bloc"><h2>Les cinq étapes du parcours</h2>
         ${D.etapes.map((e, i) => `<div class="ligne"><div class="champ" style="flex:.8"><label>Étape ${e.num} — titre</label><input data-etape="${i}" data-c="titre" value="${esc(e.titre)}"></div>
-          <div class="champ"><label>Description</label><input data-etape="${i}" data-c="desc" value="${esc(e.desc || '')}"></div></div>`).join('')}
+          <div class="champ"><label>Description</label><input data-etape="${i}" data-c="desc" value="${esc(e.desc || '')}"></div>
+          <div class="champ" style="flex:.8"><label>Illustration</label><div style="display:flex;gap:8px;align-items:center">${e.image ? `<img src="${esc(e.image)}" alt="" style="width:46px;height:46px;object-fit:cover;border-radius:8px">` : ''}
+            <select data-etape-img="${i}">${JAJJ.IMAGES_ETAPES.map(f => `<option value="assets/etapes/${esc(f)}"${'assets/etapes/' + f === e.image ? ' selected' : ''}>${esc(f.replace(/\.\w+$/, ''))}</option>`).join('')}</select></div></div></div>`).join('')}
       </div>
       <div class="note">Astuce : le bouton <b>Aperçu</b> montre le site avec tes modifications avant de les publier. Le bouton <b>Contrôle qualité</b> liste les liens cassés, en double ou incomplets.</div>`;
     ed.querySelectorAll('[data-g]').forEach(i => i.addEventListener('input', () => { D[i.dataset.g] = i.value; modifie(); }));
     ed.querySelectorAll('[data-etape]').forEach(i => i.addEventListener('input', () => { D.etapes[+i.dataset.etape][i.dataset.c] = i.value; modifie(); }));
+    ed.querySelectorAll('[data-etape-img]').forEach(i => i.addEventListener('change', () => { D.etapes[+i.dataset.etapeImg].image = i.value; modifie(); renderGeneral(); }));
   }
 
   /* ---------- Édition d'une activité ---------- */
@@ -159,12 +162,17 @@
         <div class="champ" style="flex:.6"><label for="s-actif">Visibilité</label>
           <select id="s-actif"><option value="1"${s.actif !== false ? ' selected' : ''}>Publiée (cliquable)</option><option value="0"${s.actif === false ? ' selected' : ''}>« Bientôt disponible »</option></select></div>
         <div style="flex:0 0 auto"><button class="btn dang" id="s-suppr">Supprimer l'activité</button></div>
-      </div></div>
+      </div>
+      <div class="champ"><label for="s-icone">Icône de la tuile</label>
+        <div style="display:flex;gap:10px;align-items:center">${s.icone ? `<img src="assets/icones/${esc(s.icone)}.png" alt="" style="width:46px;height:46px">` : ''}
+        <select id="s-icone"><option value="">— initiales —</option>${JAJJ.ICONES.map(n => `<option value="${esc(n)}"${n === s.icone ? ' selected' : ''}>${esc(n.replace(/^CA\d-/, '').replace(/-/g, ' '))} (${esc(n.slice(0, 3))})</option>`).join('')}</select></div></div>
+      </div>
       ${D.etapes.map(e => blocEtapeEd(s, e)).join('')}`;
     ed.querySelector('[data-retour]').onclick = () => aller({ type: 'general' });
     ed.querySelector('#s-nom').addEventListener('input', e => { s.nom = e.target.value; modifie(); });
     ed.querySelector('#s-nom').addEventListener('change', () => renderCote());
     ed.querySelector('#s-actif').addEventListener('change', e => { s.actif = e.target.value === '1'; modifie(); });
+    ed.querySelector('#s-icone').addEventListener('change', e => { s.icone = e.target.value; modifie(); renderSport(s); });
     ed.querySelector('#s-suppr').onclick = () => {
       ouvrirDlg(`<h2>Supprimer « ${esc(s.nom)} » ?</h2><p>L'activité et ses liens seront retirés du site à la prochaine publication. Ses quiz seront aussi supprimés (${quizDuSport(s.id).length}).</p>
         <div class="pied-dlg"><button class="btn" data-x="non">Annuler</button><button class="btn prim" data-x="oui" style="background:var(--rouge);border-color:var(--rouge)">Supprimer</button></div>`, x => {

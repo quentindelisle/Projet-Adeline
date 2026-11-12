@@ -67,6 +67,14 @@ Dans Google Docs, Slides ou Sheets : **Fichier › Partager › Publier sur le w
 
 ---
 
+## Icônes et images
+
+- `site/assets/icones/` contient les icônes des tuiles d'activités. On choisit l'icône d'une activité dans l'espace gestion. Pour ajouter une nouvelle icône : déposer le fichier .png dans ce dossier, puis ajouter son nom dans la liste `ICONES` de `site/assets/commun.js`.
+- `site/assets/etapes/` contient les 5 illustrations du parcours (Je découvre… Je m'entraîne à la certification). Pour en remplacer une, déposer un fichier du même nom.
+- `site/assets/logo-unss-nantes.png` est le logo utilisé dans le bandeau, en fond de la page d'accueil et au centre de chaque page d'activité.
+
+---
+
 ## Consulter le site sur son ordinateur (sans Internet pour le site lui-même)
 
 Double-cliquer sur `site/index.html`. Les données sont alors lues depuis `site/data/hors-ligne.js`.
