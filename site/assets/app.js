@@ -48,7 +48,7 @@
     const img = e => {
       const items = s[e.cle] || [];
       const n = items.length;
-      const label = n ? (n === 1 ? '1 ressource' : n + ' ressources') : 'Bientôt';
+      const label = n ? (e.cle === 'videos' ? (n === 1 ? '1 vidéo' : n + ' vidéos') : n === 1 ? '1 ressource' : n + ' ressources') : 'Bientôt';
       const direct = n === 1 && items[0].type !== 'quiz' && urlIntegree(items[0]);
       const href = !n ? '' : direct ? '' : `href="#/s/${esc(s.id)}/${e.cle}"`;
       const tag = n && !direct ? 'a' : 'button';
@@ -57,7 +57,7 @@
     };
     app.innerHTML = `
       <p class="fil"><a href="#/">Activités</a> › ${esc(s.nom)}</p>
-      <div class="cadre-sport"><div class="hub">
+      <div class="cadre-sport"><div class="hub${E.slice(5).some(e => (s[e.cle] || []).length) ? ' avec-plus' : ''}">
         <a class="retour-rond" href="#/" aria-label="Retour aux activités">←</a>
         <div class="col">${img(E[0])}${img(E[1])}</div>
         <div class="centre">
@@ -66,6 +66,7 @@
           <div class="nom-sport${s.nom.length > 13 ? ' long' : ''}">${s.icone ? `<img src="${icone(s)}" alt="">` : ''}<h1>${esc(s.nom)}</h1></div>
         </div>
         <div class="col">${img(E[3])}${img(E[4])}</div>
+        ${E.slice(5).filter(e => (s[e.cle] || []).length).map(e => `<div class="col col-plus">${img(e)}</div>`).join('')}
       </div></div>`;
     app.querySelectorAll('[data-direct]').forEach(b => b.addEventListener('click', () => ouvrir(s[b.dataset.direct][0])));
   }
@@ -93,8 +94,10 @@
       <section class="etape" style="--c:var(--e${e.num})">
         ${items.length ? `<ul class="items" style="padding-top:14px">${html}</ul>` : '<p class="vide" style="padding-top:16px">Contenu en préparation.</p>'}
       </section>
-      <div class="nav-etapes"><a class="btn prim" href="#/s/${esc(s.id)}">← Retour au parcours ${esc(s.nom)}</a>
-        ${autres.map(x => `<a class="btn-etape e${x.num}" href="#/s/${esc(s.id)}/${x.cle}">${x.image ? `<img src="${esc(x.image)}" alt="">` : ''}<span>${x.num}. ${esc(x.titre)}</span></a>`).join('')}</div>`;
+      <nav class="nav-etapes" aria-label="Autres étapes">
+        ${autres.map(x => `<a class="btn-etape e${x.num}" href="#/s/${esc(s.id)}/${x.cle}">${x.image ? `<img src="${esc(x.image)}" alt="">` : ''}<span>${x.optionnelle ? '' : x.num + '. '}${esc(x.titre)}</span></a>`).join('')}
+      </nav>
+      <a class="btn-retour" href="#/s/${esc(s.id)}"><span class="fleche" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></span>Retour au parcours ${esc(s.nom)}</a>`;
     app.querySelectorAll('[data-ouvrir]').forEach(b => b.addEventListener('click', () => {
       const [k, i] = b.dataset.ouvrir.split(':');
       ouvrir(s[k][+i]);

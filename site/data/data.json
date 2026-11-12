@@ -37,6 +37,14 @@
    "titre": "Je m'entraîne à la certification",
    "desc": "Entraînement aux épreuves de certification district, départemental et académique.",
    "image": "assets/etapes/etape-5-certification.webp"
+  },
+  {
+   "cle": "videos",
+   "num": 6,
+   "titre": "Regarder une situation d'arbitrage",
+   "desc": "Vidéos d'arbitrage commentées, à analyser.",
+   "image": "assets/etapes/etape-6-videos.webp",
+   "optionnelle": true
   }
  ],
  "sports": [
@@ -154,7 +162,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-combine-athletique"
+   "icone": "CA1-combine-athletique",
+   "videos": []
   },
   {
    "id": "aviron-indoor",
@@ -255,7 +264,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA5-musculation"
+   "icone": "CA5-musculation",
+   "videos": []
   },
   {
    "id": "badminton",
@@ -331,7 +341,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-badminton"
+   "icone": "CA4-badminton",
+   "videos": []
   },
   {
    "id": "badten",
@@ -402,7 +413,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-tennis-de-table"
+   "icone": "CA4-tennis-de-table",
+   "videos": []
   },
   {
    "id": "basket-ball",
@@ -478,7 +490,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-basket-ball"
+   "icone": "CA4-basket-ball",
+   "videos": []
   },
   {
    "id": "bike-and-run",
@@ -574,7 +587,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-run-bike"
+   "icone": "CA1-run-bike",
+   "videos": []
   },
   {
    "id": "boxe-assaut",
@@ -645,7 +659,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-boxe-francaise"
+   "icone": "CA4-boxe-francaise",
+   "videos": []
   },
   {
    "id": "circuit-training",
@@ -731,7 +746,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-cross-training"
+   "icone": "CA1-cross-training",
+   "videos": []
   },
   {
    "id": "course-d-orientation",
@@ -827,7 +843,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA2-course-orientation"
+   "icone": "CA2-course-orientation",
+   "videos": []
   },
   {
    "id": "escalade",
@@ -903,7 +920,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA2-escalade"
+   "icone": "CA2-escalade",
+   "videos": []
   },
   {
    "id": "football",
@@ -1000,7 +1018,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-football"
+   "icone": "CA4-football",
+   "videos": []
   },
   {
    "id": "futsal",
@@ -1011,11 +1030,6 @@
      "titre": "Jeune Arbitre Futsal",
      "url": "https://docs.google.com/presentation/d/e/2PACX-1vQM6usmxGzaJlg8oC89vg0782w60VDJ3nrbOzxpwMXoqZ4W0cqyJUHay1VLhKYIwWPHtPv51CYzU2e5/pubembed?start=false&loop=false&delayms=3000",
      "type": "slides"
-    },
-    {
-     "titre": "Vidéo Tuto Arbitrage Futsal UNSS",
-     "type": "video",
-     "url": "https://www.youtube.com/watch?v=1RQ7qBDAFAk"
     }
    ],
    "regles": [
@@ -1086,7 +1100,14 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-futsal"
+   "icone": "CA4-futsal",
+   "videos": [
+    {
+     "titre": "Vidéo Tuto Arbitrage Futsal UNSS",
+     "type": "video",
+     "url": "https://www.youtube.com/watch?v=1RQ7qBDAFAk"
+    }
+   ]
   },
   {
    "id": "golf",
@@ -1177,7 +1198,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA2-golf"
+   "icone": "CA2-golf",
+   "videos": []
   },
   {
    "id": "gymnastique-artistique",
@@ -1478,7 +1500,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA3-gymnastique"
+   "icone": "CA3-gymnastique",
+   "videos": []
   },
   {
    "id": "handball",
@@ -1549,7 +1572,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-handball"
+   "icone": "CA4-handball",
+   "videos": []
   },
   {
    "id": "laser-run",
@@ -1640,7 +1664,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-laser-run"
+   "icone": "CA1-laser-run",
+   "videos": []
   },
   {
    "id": "natation",
@@ -1721,7 +1746,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-natation-vitesse"
+   "icone": "CA1-natation-vitesse",
+   "videos": []
   },
   {
    "id": "petanque",
@@ -1802,7 +1828,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-boccia-adapte"
+   "icone": "CA4-boccia-adapte",
+   "videos": []
   },
   {
    "id": "raid-multisports",
@@ -1898,7 +1925,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-course-nature"
+   "icone": "CA1-course-nature",
+   "videos": []
   },
   {
    "id": "step",
@@ -1979,7 +2007,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA3-step"
+   "icone": "CA3-step",
+   "videos": []
   },
   {
    "id": "surf",
@@ -2075,7 +2104,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA2-activites-nautiques"
+   "icone": "CA2-activites-nautiques",
+   "videos": []
   },
   {
    "id": "savate-boxe-francaise",
@@ -2146,7 +2176,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-boxe-francaise"
+   "icone": "CA4-boxe-francaise",
+   "videos": []
   },
   {
    "id": "tennis-de-table",
@@ -2237,7 +2268,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-tennis-de-table"
+   "icone": "CA4-tennis-de-table",
+   "videos": []
   },
   {
    "id": "triathlon",
@@ -2348,7 +2380,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA1-triathlon-athletique"
+   "icone": "CA1-triathlon-athletique",
+   "videos": []
   },
   {
    "id": "ultimate",
@@ -2444,7 +2477,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-ultimate"
+   "icone": "CA4-ultimate",
+   "videos": []
   },
   {
    "id": "voile",
@@ -2540,7 +2574,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA2-activites-nautiques"
+   "icone": "CA2-activites-nautiques",
+   "videos": []
   },
   {
    "id": "volley-ball",
@@ -2621,7 +2656,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA4-volley-ball"
+   "icone": "CA4-volley-ball",
+   "videos": []
   },
   {
    "id": "vtt",
@@ -2697,7 +2733,8 @@
      "type": "wayground"
     }
    ],
-   "icone": "CA2-vtt"
+   "icone": "CA2-vtt",
+   "videos": []
   },
   {
    "id": "gym-acro",
@@ -2708,7 +2745,8 @@
    "analyse": [],
    "construction": [],
    "certification": [],
-   "icone": "CA3-acrosport"
+   "icone": "CA3-acrosport",
+   "videos": []
   },
   {
    "id": "danse-hip-hop",
@@ -2719,7 +2757,8 @@
    "analyse": [],
    "construction": [],
    "certification": [],
-   "icone": "CA3-danse"
+   "icone": "CA3-danse",
+   "videos": []
   },
   {
    "id": "danse-choregraphiee",
@@ -2730,7 +2769,8 @@
    "analyse": [],
    "construction": [],
    "certification": [],
-   "icone": "CA3-danse"
+   "icone": "CA3-danse",
+   "videos": []
   },
   {
    "id": "judo",
@@ -2741,7 +2781,8 @@
    "analyse": [],
    "construction": [],
    "certification": [],
-   "icone": "CA4-judo"
+   "icone": "CA4-judo",
+   "videos": []
   },
   {
    "id": "tir-a-l-arc",
@@ -2752,7 +2793,8 @@
    "analyse": [],
    "construction": [],
    "certification": [],
-   "icone": "CA2-biathlon-co-tir-arc"
+   "icone": "CA2-biathlon-co-tir-arc",
+   "videos": []
   }
  ],
  "version": 1

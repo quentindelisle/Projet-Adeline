@@ -3,7 +3,7 @@
   const { esc, slug, TYPES } = JAJJ;
   const ed = document.getElementById('ed');
   const dlg = document.getElementById('dlg'), dlgIn = document.getElementById('dlg-in');
-  const ETAPES_CLES = ['decouvrir', 'regles', 'analyse', 'construction', 'certification'];
+  const ETAPES_CLES = ['decouvrir', 'regles', 'analyse', 'construction', 'certification', 'videos'];
   const CLE_REGLAGES = 'jajj-reglages-v1';
 
   let D = null, ORIG = '';            // données du site et version publiée (texte)
@@ -282,7 +282,7 @@
       const nom = document.getElementById('n-nom').value.trim();
       if (x !== 'oui' || !nom) return;
       let id = slug(nom), k = 2; while (sport(id)) id = slug(nom) + '-' + k++;
-      D.sports.push({ id, nom, actif: false, decouvrir: [], regles: [], analyse: [], construction: [], certification: [] });
+      D.sports.push({ id, nom, actif: false, decouvrir: [], regles: [], analyse: [], construction: [], certification: [], videos: [] });
       modifie(); aller({ type: 'sport', id });
     }, () => document.getElementById('n-nom').focus());
   });
@@ -390,7 +390,7 @@
     const out = [], parUrl = new Map(), parQuiz = new Map();
     for (const s of D.sports) {
       if (s.actif !== false) {
-        const vides = D.etapes.filter(e => !(s[e.cle] || []).length).map(e => e.num);
+        const vides = D.etapes.filter(e => !e.optionnelle && !(s[e.cle] || []).length).map(e => e.num);
         if (vides.length) out.push({ niv: 'inf', sport: s.id, txt: `Étape(s) ${vides.join(', ')} vide(s) : « Contenu en préparation » sera affiché.` });
       }
       let sessions = 0;
