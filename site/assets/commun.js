@@ -31,7 +31,7 @@ const JAJJ = (() => {
     if (/docs\.google\.com\/spreadsheets/.test(u)) return 'sheet';
     if (/docs\.google\.com\/document/.test(u)) return 'doc';
     if (/sharepoint\.com|onedrive/.test(u)) return 'sharepoint';
-    if (/youtube\.com|youtu\.be|vimeo\.com|peertube|tube\.|podeduc|\.mp4$/.test(u)) return 'video';
+    if (/youtube\.com|youtu\.be|vimeo\.com|dailymotion\.com|dai\.ly|peertube|tube[-.]|podeduc|\.(mp4|webm)(\?|$)/.test(u) || /drive\.google\.com\/file/.test(u)) return 'video';
     return 'lien';
   }
 
@@ -42,9 +42,16 @@ const JAJJ = (() => {
     if (it.type === 'slides' && /\/pub(embed)?(\?|$)/.test(u)) return u.replace('/pub?', '/pubembed?').replace(/\/pub$/, '/pubembed');
     if (it.type === 'sheet' && /\/pubhtml/.test(u)) return u + (u.includes('?') ? '&' : '?') + 'widget=true&headers=false';
     if (it.type === 'video') {
-      let m = u.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]{6,})/);
-      if (m) return 'https://www.youtube-nocookie.com/embed/' + m[1];
-      if (/peertube|tube\.|\/videos\/embed\//.test(u)) return u.replace('/w/', '/videos/embed/');
+      let m = u.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/|embed\/)|youtu\.be\/)([\w-]{6,})/);
+      if (m) return 'https://www.youtube-nocookie.com/embed/' + m[1] + '?rel=0';
+      m = u.match(/vimeo\.com\/(?:video\/)?(\d+)/);
+      if (m) return 'https://player.vimeo.com/video/' + m[1];
+      m = u.match(/dailymotion\.com\/video\/([\w]+)|dai\.ly\/([\w]+)/);
+      if (m) return 'https://www.dailymotion.com/embed/video/' + (m[1] || m[2]);
+      m = u.match(/drive\.google\.com\/file\/d\/([\w-]+)/);
+      if (m) return 'https://drive.google.com/file/d/' + m[1] + '/preview';
+      if (/\/w\/|\/videos\/watch\//.test(u) && /tube|peertube/.test(u)) return u.replace('/w/', '/videos/embed/').replace('/videos/watch/', '/videos/embed/');
+      if (/\/videos\/embed\//.test(u) || /\.(mp4|webm)(\?|$)/i.test(u)) return u;
     }
     return null;
   }

@@ -15,6 +15,7 @@
     document.body.classList.add('accueil');
     const tri = [...DATA.sports].sort((a, b) => (a.actif === false) - (b.actif === false) || a.nom.localeCompare(b.nom, 'fr'));
     app.innerHTML = `
+      <div class="banniere"><img src="assets/bandeau.webp" srcset="assets/bandeau-1024.webp 1024w, assets/bandeau.webp 2048w" sizes="(max-width: 1200px) 100vw, 1150px" alt="Jeunes juges et jeunes arbitres UNSS — Académie de Nantes" fetchpriority="high"></div>
       <div class="hero-ligne">
         <div><h1>${esc(DATA.titre)}</h1>
         <p>${esc(DATA.accroche || 'Choisis ton activité, puis suis les cinq étapes du parcours pour devenir jeune juge ou jeune arbitre certifié.')}</p></div>
@@ -62,7 +63,7 @@
         <div class="centre">
           <img class="logo-hub" src="assets/logo-unss-nantes.png" alt="UNSS Académie de Nantes">
           ${img(E[2])}
-          <h1 class="nom-sport">${s.icone ? `<img src="${icone(s)}" alt="">` : ''}${esc(s.nom)}</h1>
+          <div class="nom-sport${s.nom.length > 13 ? ' long' : ''}">${s.icone ? `<img src="${icone(s)}" alt="">` : ''}<h1>${esc(s.nom)}</h1></div>
         </div>
         <div class="col">${img(E[3])}${img(E[4])}</div>
       </div></div>`;
@@ -84,7 +85,7 @@
     const autres = DATA.etapes.filter(x => x.cle !== cle && (s[x.cle] || []).length);
     app.innerHTML = `
       <p class="fil"><a href="#/">Activités</a> › <a href="#/s/${esc(s.id)}">${esc(s.nom)}</a> › ${esc(e.titre)}</p>
-      <div class="tete-etape">
+      <div class="tete-etape" style="--c:var(--e${e.num})">
         ${e.image ? `<img class="ill" src="${esc(e.image)}" alt="">` : ''}
         <div style="flex:1"><h1>${esc(e.titre)}</h1><p>${esc(s.nom)}${e.desc ? ' — ' + esc(e.desc) : ''}</p></div>
         ${s.icone ? `<img class="icone-sport" src="${icone(s)}" alt="">` : ''}
@@ -93,19 +94,30 @@
         ${items.length ? `<ul class="items" style="padding-top:14px">${html}</ul>` : '<p class="vide" style="padding-top:16px">Contenu en préparation.</p>'}
       </section>
       <div class="nav-etapes"><a class="btn prim" href="#/s/${esc(s.id)}">← Retour au parcours ${esc(s.nom)}</a>
-        ${autres.map(x => `<a class="btn" href="#/s/${esc(s.id)}/${x.cle}">${x.num}. ${esc(x.titre)}</a>`).join('')}</div>`;
+        ${autres.map(x => `<a class="btn-etape e${x.num}" href="#/s/${esc(s.id)}/${x.cle}">${x.image ? `<img src="${esc(x.image)}" alt="">` : ''}<span>${x.num}. ${esc(x.titre)}</span></a>`).join('')}</div>`;
     app.querySelectorAll('[data-ouvrir]').forEach(b => b.addEventListener('click', () => {
       const [k, i] = b.dataset.ouvrir.split(':');
       ouvrir(s[k][+i]);
     }));
   }
+  const SVG = {
+    doc: '<path d="M7 3h7l5 5v13H7z"/><path d="M14 3v5h5"/><path d="M10 12h6M10 15.5h6M10 19h4"/>',
+    slides: '<rect x="3" y="4" width="18" height="12" rx="1.5"/><path d="M12 16v4M8 20h8"/><path d="M10 8.5l4 1.8-4 1.8z"/>',
+    sheet: '<rect x="4" y="4" width="16" height="16" rx="1.5"/><path d="M4 10h16M4 15h16M10 4v16"/>',
+    quiz: '<circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.6 2.6L16.5 9"/>',
+    video: '<rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9v6l5-3z" fill="currentColor"/>',
+    wayground: '<path d="M7 8h10a4 4 0 0 1 4 4v1a3 3 0 0 1-5.4 1.8L14 13h-4l-1.6 1.8A3 3 0 0 1 3 13v-1a4 4 0 0 1 4-4z"/><path d="M7.5 10.5v3M6 12h3M15.5 11.5h.01M17.5 13h.01"/>',
+    sharepoint: '<path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/>',
+    lien: '<path d="M14 4h6v6M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/>',
+  };
+  const icoSvg = type => `<span class="ico ${esc(type)}" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${SVG[type] || SVG.lien}</svg></span>`;
   function bouton(it, cle, i) {
     const t = TYPES[it.type] || TYPES.lien;
-    const ico = `<span class="ico ${esc(it.type)}" aria-hidden="true">${esc(t.ico)}</span>`;
-    const txt = `<span class="t">${esc(it.titre)}<small>${esc(t.nom)}</small></span>`;
+    const ico = icoSvg(it.type);
+    const txt = `<span class="t">${esc(it.titre)}</span><span class="sr">(${esc(t.nom)})</span>`;
     if (it.type === 'quiz') return `<a class="item" href="#/q/${esc(it.quiz)}">${ico}${txt}</a>`;
     if (urlIntegree(it)) return `<button class="item" data-ouvrir="${cle}:${i}">${ico}${txt}</button>`;
-    return `<a class="item" href="${esc(urlOnglet(it))}" target="_blank" rel="noopener">${ico}${txt}<span aria-hidden="true">↗</span><span class="sr">(nouvel onglet)</span></a>`;
+    return `<a class="item" href="${esc(urlOnglet(it))}" target="_blank" rel="noopener">${ico}${txt}<span class="ext" aria-hidden="true">↗</span><span class="sr">(nouvel onglet)</span></a>`;
   }
 
   /* ---------- Visionneuse ---------- */

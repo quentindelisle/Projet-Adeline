@@ -189,7 +189,7 @@
         s[cle].push({ titre: q.titre, type: 'quiz', quiz: q.id });
         modifie(); aller({ type: 'quiz', id: q.id }); return;
       }
-      s[cle].push({ titre: '', type: 'lien', url: '' }); modifie(); renderSport(s);
+      s[cle].push({ titre: '', type: type === 'video' ? 'video' : 'lien', url: '' }); modifie(); renderSport(s);
       const rs = ed.querySelectorAll(`[data-cle=${cle}]`); rs[rs.length - 1]?.querySelector('[data-f=url]')?.focus();
     }));
   }
@@ -198,6 +198,7 @@
     return `<section class="bloc" id="ed-${e.cle}"><h2><span class="pastille e${e.num}">${e.num}</span>${esc(e.titre)}</h2>
       ${items.length ? items.map((it, i) => rangHtml(s, e.cle, it, i)).join('') : '<p class="vide-ed">Aucun contenu pour l\'instant : l\'étape affichera « Contenu en préparation ».</p>'}
       <div class="ligne" style="flex-wrap:wrap;gap:6px"><button class="btn petit" data-ajout="${e.cle}:lien" style="flex:0 0 auto">+ Ajouter un lien ou un document</button>
+      <button class="btn petit" data-ajout="${e.cle}:video" style="flex:0 0 auto">+ Ajouter une vidéo</button>
       <button class="btn petit" data-ajout="${e.cle}:quiz" style="flex:0 0 auto">+ Créer un quiz Valable / Faute</button></div></section>`;
   }
   function rangHtml(s, cle, it, i) {
@@ -206,7 +207,7 @@
     const cible = it.type === 'quiz'
       ? `<div style="display:flex;gap:4px"><select data-f="quiz" aria-label="Quiz"><option value="">— choisir —</option>${qz.map(q => `<option value="${esc(q.id)}"${q.id === it.quiz ? ' selected' : ''}>${esc(q.titre)} (${JAJJ.nbQuestions(q)} q.)</option>`).join('')}</select>
          <button class="btn petit" data-editer-quiz ${it.quiz ? '' : 'disabled'}>Éditer</button></div>`
-      : `<input data-f="url" type="url" value="${esc(it.url || '')}" placeholder="Colle ici le lien (Google, Wayground, vidéo…)" aria-label="Lien">`;
+      : `<input data-f="url" type="url" value="${esc(it.url || '')}" placeholder="${it.type === 'video' ? 'Lien de la vidéo (YouTube, Vimeo, Tubes apps.education, Drive…)' : 'Colle ici le lien (Google, Wayground, vidéo…)'}" aria-label="Lien">`;
     const msgs = avertissementsItem(it).map(([c, t]) => `<div class="msg ${c}">⚠ ${esc(t)}</div>`).join('');
     return `<div class="rang" data-cle="${cle}" data-i="${i}">
       <select data-f="type" aria-label="Type">${opts}</select>
@@ -225,9 +226,10 @@
     const u = r.querySelector('[data-f=url]');
     if (u) {
       u.addEventListener('input', () => { it.url = u.value.trim(); delete it.alerte; modifie(); });
-      u.addEventListener('change', () => {
+      u.addEventListener('change', async () => {
         const t = JAJJ.typeDepuisUrl(it.url);
-        if (it.type === 'lien' || !it.type) it.type = t;
+        if (it.type === 'lien' || !it.type || (it.type === 'video' && t !== 'lien')) it.type = t;
+        if (!it.titre && it.type === 'video') it.titre = await titreVideo(it.url) || '';
         if (!it.titre) it.titre = TYPES[it.type].nom;
         modifie(); renderSport(s);
       });
@@ -252,6 +254,18 @@
       }
       modifie(); renderSport(s);
     });
+  }
+  /* Titre automatique d'une vidéo YouTube / Vimeo / Dailymotion */
+  async function titreVideo(url) {
+    const services = [
+      [/youtube\.com|youtu\.be/, 'https://www.youtube.com/oembed?format=json&url='],
+      [/vimeo\.com/, 'https://vimeo.com/api/oembed.json?url='],
+      [/dailymotion\.com|dai\.ly/, 'https://www.dailymotion.com/services/oembed?format=json&url='],
+    ];
+    const sv = services.find(([re]) => re.test(url || ''));
+    if (!sv) return '';
+    try { const r = await fetch(sv[1] + encodeURIComponent(url)); if (r.ok) return (await r.json()).title || ''; } catch (e) {}
+    return '';
   }
   const estReference = id => D.sports.some(s => ETAPES_CLES.some(k => (s[k] || []).some(it => it.type === 'quiz' && it.quiz === id)));
   function supprimerQuiz(id) { if (QZ_ORIG[id]) SUPPR.add(id); delete QZ[id]; delete QZ_ORIG[id]; }

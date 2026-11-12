@@ -204,3 +204,56 @@ body.accueil main{padding-top:16px}
   .etape-img{width:auto}
   .hub .centre .logo-hub{max-height:70px}
 }
+
+/* ===== Couleurs des 5 étapes (reprises des illustrations) ===== */
+:root{--e1:#0a3faa;--e2:#f4c20d;--e3:#089f3b;--e4:#f45d06;--e5:#4f1f96}
+/* Ressources : icônes dessinées, sans sous-titre */
+.item{min-height:56px;gap:12px;font-weight:600}
+.item .t{font-size:15px}
+.item .ico{width:38px;height:38px;border-radius:11px;color:#fff;font-size:0}
+.item .ico svg{width:22px;height:22px}
+.ico.doc{background:linear-gradient(135deg,#3b7bf0,#1d4fc4)}
+.ico.slides{background:linear-gradient(135deg,#ffb52e,#f08a00)}
+.ico.sheet{background:linear-gradient(135deg,#27b265,#118545)}
+.ico.quiz{background:linear-gradient(135deg,#2bb34f,#0b8a36)}
+.ico.video{background:linear-gradient(135deg,#ff4b4b,#d60a3d)}
+.ico.wayground{background:linear-gradient(135deg,#9a55e0,#6a2bb5)}
+.ico.lien,.ico.sharepoint{background:linear-gradient(135deg,#6f7f99,#4a5872)}
+.item .ext{color:var(--doux)}
+/* Boutons de navigation entre étapes */
+.btn-etape{display:inline-flex;align-items:center;gap:8px;padding:5px 12px 5px 5px;border-radius:12px;background:var(--c);color:#fff;text-decoration:none;font-weight:700;font-size:14px;box-shadow:0 2px 6px rgba(0,0,0,.15);transition:transform .12s,filter .12s}
+.btn-etape img{width:34px;height:34px;border-radius:8px;object-fit:cover;background:#fff}
+.btn-etape:hover{transform:translateY(-1px);filter:brightness(1.08)}
+.btn-etape.e1{--c:var(--e1)}.btn-etape.e2{--c:var(--e2);color:#10233d}.btn-etape.e3{--c:var(--e3)}.btn-etape.e4{--c:var(--e4)}.btn-etape.e5{--c:var(--e5)}
+.nav-etapes .btn.prim{border-radius:12px;padding:10px 14px}
+.tete-etape{border-left:8px solid var(--c,var(--bleu))}
+/* Accueil : icônes de sport plus grandes */
+.grille.tuiles{grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:10px}
+.tuile{padding:8px 4px 8px;gap:3px}
+.tuile img,.tuile .ini{width:78px;height:78px}
+.tuile b{font-size:12.5px;min-height:2.3em}
+
+/* ===== Police douce (Nunito, hébergée avec le site) ===== */
+@font-face{font-family:'Nunito';font-style:normal;font-weight:600 900;font-display:swap;src:url(polices/nunito-latin.woff2) format('woff2')}
+.hero-ligne h1,.tete-etape h1,.quiz-tete h1,.tuile b,.btn-etape,.item .t,.etape h2,.marque b,.theme-titre,.bilan .gros{font-family:'Nunito',system-ui,sans-serif}
+.tuile b{font-weight:800;font-size:13.5px}
+.hero-ligne h1,.tete-etape h1,.quiz-tete h1{font-weight:900;letter-spacing:.1px}
+.item .t{font-weight:700;font-size:15.5px}
+.btn-etape{font-weight:800;font-size:14.5px}
+/* Nom de l'activité au centre de la page */
+.hub .nom-sport{display:flex;align-items:center;justify-content:center;gap:14px;text-transform:none;letter-spacing:0}
+.hub .nom-sport img{width:clamp(64px,7.5vw,104px);height:auto;filter:drop-shadow(0 3px 6px rgba(22,53,159,.18))}
+.hub .nom-sport h1{margin:0;font-family:'Nunito',system-ui,sans-serif;font-weight:900;color:var(--bleu);font-size:clamp(26px,3.4vw,44px);line-height:1.05;text-align:left}
+.hub{--h:calc(100vh - 250px)}
+.hub{grid-template-columns:repeat(3,minmax(0,1fr))}
+.hub .nom-sport{max-width:100%}
+.hub .nom-sport.long h1{font-size:clamp(20px,2.4vw,32px)}
+.hub .nom-sport.long img{width:clamp(56px,6vw,84px)}
+@media (max-width:760px){.hub{grid-template-columns:1fr 1fr}}
+
+/* ===== Bandeau illustré de l'accueil ===== */
+.banniere{border-radius:18px;overflow:hidden;margin:0 0 14px;box-shadow:0 4px 16px rgba(22,53,159,.15);background:#fff;height:clamp(130px,26vh,300px)}
+.banniere img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 42%}
+body.accueil::before{inset:auto 0 0 0;top:auto;height:62vh}
+.hero-ligne h1{font-size:clamp(19px,2.4vw,24px)}
+@media (max-width:600px){.banniere{height:auto}.banniere img{height:auto;object-fit:contain}}
