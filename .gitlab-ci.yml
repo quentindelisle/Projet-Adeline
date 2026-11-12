@@ -1,0 +1,28 @@
+# Publication automatique du site sur les Pages de la Forge
+# À chaque modification (depuis l'espace gestion ou à la main), les fichiers
+# de données sont vérifiés puis le dossier « site » est mis en ligne.
+
+image: node:20-alpine
+
+stages:
+  - verification
+  - deploy
+
+verifier-donnees:
+  stage: verification
+  script:
+    - node scripts/verifier.js
+  rules:
+    - if: $CI_COMMIT_BRANCH
+
+pages:
+  stage: deploy
+  script:
+    - node scripts/hors-ligne.js
+    - rm -rf public
+    - cp -r site public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
