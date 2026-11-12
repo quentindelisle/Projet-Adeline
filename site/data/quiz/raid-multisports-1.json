@@ -1,0 +1,265 @@
+{
+ "id": "raid-multisports-1",
+ "titre": "Signaleur, contrôleur & juge-arbitre",
+ "sousTitre": "Quiz Jeune Officiel Raid Multisports",
+ "entete": "",
+ "sport": "raid-multisports",
+ "source": "https://candid-pithivier-32f337.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le signaleur assure le balisage d'un chemin ou d'un danger de façon claire et précise.",
+     "r": "valable",
+     "e": "Avant l'épreuve, le signaleur assure le balisage d'un chemin ou d'un danger de façon claire et précise."
+    },
+    {
+     "q": "Le signaleur n'a aucun rôle avant le début de l'épreuve.",
+     "r": "faute",
+     "e": "Le signaleur a justement un rôle de balisage avant le début de l'épreuve."
+    },
+    {
+     "q": "Pendant l'épreuve, le signaleur assure le pointage des équipes passées à son poste.",
+     "r": "valable",
+     "e": "Pendant l'épreuve, le signaleur assure le pointage des équipes passées au point de signalisation."
+    },
+    {
+     "q": "Le signaleur n'a pas besoin de compter les équipes passant par son poste.",
+     "r": "faute",
+     "e": "Le pointage des équipes passées est justement l'une de ses missions principales."
+    },
+    {
+     "q": "Le signaleur prévient les coureurs d'un danger sur le parcours.",
+     "r": "valable",
+     "e": "Le signaleur prévient les coureurs d'un danger pendant l'épreuve."
+    },
+    {
+     "q": "Le signaleur peut laisser les coureurs traverser une route ouverte sans se soucier de la circulation.",
+     "r": "faute",
+     "e": "Il doit au contraire préserver la priorité des véhicules et la sécurité des coureurs lors de cette traversée."
+    },
+    {
+     "q": "Le signaleur assure la traversée d'une route ouverte en préservant la priorité des véhicules.",
+     "r": "valable",
+     "e": "Le signaleur assure la traversée d'une route ouverte en préservant la priorité des véhicules et la sécurité des coureurs."
+    },
+    {
+     "q": "Le signaleur garde pour lui les incidents constatés, sans les transmettre.",
+     "r": "faute",
+     "e": "Il doit au contraire transmettre rapidement et précisément tout problème à la direction de course."
+    },
+    {
+     "q": "Le signaleur transmet rapidement tout problème à la direction de course.",
+     "r": "valable",
+     "e": "Le signaleur transmet rapidement et précisément tout problème auprès de la direction de course."
+    },
+    {
+     "q": "Le signaleur peut laisser le matériel de signalisation sur place après l'épreuve.",
+     "r": "faute",
+     "e": "Il doit au contraire replier les éléments de signalisation après l'épreuve."
+    },
+    {
+     "q": "Après l'épreuve, le signaleur replie les éléments de signalisation.",
+     "r": "valable",
+     "e": "Après l'épreuve, le signaleur replie les éléments de signalisation."
+    },
+    {
+     "q": "Le contrôleur ne s'occupe jamais des trousses de secours.",
+     "r": "faute",
+     "e": "Le contrôleur vérifie justement le contenu des trousses de secours."
+    },
+    {
+     "q": "Le signaleur limite les traces de passage des concurrents en ramassant les éventuels oublis.",
+     "r": "valable",
+     "e": "Après l'épreuve, le signaleur limite les traces de passages des concurrents (ramassage des éventuels oublis)."
+    },
+    {
+     "q": "Le contrôleur ne vérifie jamais le matériel obligatoire des équipes.",
+     "r": "faute",
+     "e": "Le contrôleur vérifie au contraire le matériel obligatoire des équipes."
+    },
+    {
+     "q": "Le contrôleur vérifie la conformité des équipements de sécurité avant l'épreuve.",
+     "r": "valable",
+     "e": "Avant l'épreuve, le contrôleur vérifie la conformité des équipements de sécurité."
+    },
+    {
+     "q": "Le contrôleur ne se préoccupe jamais des écarts de départ entre les équipes.",
+     "r": "faute",
+     "e": "Faire respecter les écarts de départ fait partie de son rôle durant l'épreuve."
+    },
+    {
+     "q": "Le contrôleur vérifie la validité des Équipements de Protection Individuels.",
+     "r": "valable",
+     "e": "Le contrôleur vérifie la validité des Équipements de Protection Individuels (EPI)."
+    },
+    {
+     "q": "Le port du casque n'est jamais contrôlé pendant l'épreuve.",
+     "r": "faute",
+     "e": "Le contrôleur fait justement respecter le port du casque pendant l'épreuve."
+    },
+    {
+     "q": "Pendant l'épreuve, le contrôleur fait respecter les conditions d'équité, comme les écarts de départ.",
+     "r": "valable",
+     "e": "Pendant l'épreuve, le contrôleur fait respecter les conditions d'équité durant l'épreuve (écarts des départs)."
+    },
+    {
+     "q": "Le contrôleur n'a rien à transmettre à la direction de course après l'épreuve.",
+     "r": "faute",
+     "e": "Il doit au contraire transmettre rapidement l'état des lieux des incidents à la direction de course."
+    },
+    {
+     "q": "Le contrôleur fait respecter le port du casque durant l'épreuve.",
+     "r": "valable",
+     "e": "Le contrôleur fait respecter les conditions de sécurité durant l'épreuve, dont le port du casque."
+    },
+    {
+     "q": "Le juge-arbitre n'a aucun rôle dans le classement final.",
+     "r": "faute",
+     "e": "Le classement est au contraire au cœur de la responsabilité du juge-arbitre."
+    },
+    {
+     "q": "Le contrôleur fait respecter les consignes de sécurité lors des ateliers de tir.",
+     "r": "valable",
+     "e": "Le contrôleur fait respecter les conditions de sécurité, notamment les consignes de sécurité lors des ateliers de tir."
+    },
+    {
+     "q": "Le juge-arbitre arrive uniquement après le début de l'épreuve, sans préparation en amont.",
+     "r": "faute",
+     "e": "Il participe au contraire activement à la mise en place de l'épreuve avant son début."
+    },
+    {
+     "q": "Après l'épreuve, le contrôleur fait un état des lieux précis des incidents de son poste.",
+     "r": "valable",
+     "e": "Après l'épreuve, le contrôleur fait un état des lieux précis et rapide des différents incidents du poste."
+    },
+    {
+     "q": "Le juge-arbitre n'a pas besoin d'anticiper la façon dont les résultats seront rendus.",
+     "r": "faute",
+     "e": "Il doit au contraire prévoir le rendu rapide des résultats en amont."
+    },
+    {
+     "q": "Le juge-arbitre a une responsabilité dans l'établissement du classement de l'épreuve.",
+     "r": "valable",
+     "e": "Les juges-arbitres ont une responsabilité dans l'établissement du classement de l'épreuve."
+    },
+    {
+     "q": "Le juge-arbitre reste passif face aux imprévus pendant l'épreuve.",
+     "r": "faute",
+     "e": "Il doit au contraire se montrer réactif face aux problèmes pouvant survenir."
+    },
+    {
+     "q": "Avant l'épreuve, le juge-arbitre participe activement à la mise en place de l'épreuve.",
+     "r": "valable",
+     "e": "Avant l'épreuve, le juge-arbitre participe activement à la mise en place de l'épreuve dans sa dimension de compétition."
+    },
+    {
+     "q": "Le juge-arbitre n'a besoin d'aucune méthode particulière pour la prise de temps.",
+     "r": "faute",
+     "e": "Il doit au contraire mettre en place des routines fiables pour la prise de temps."
+    },
+    {
+     "q": "Le juge-arbitre prévoit le rendu rapide des résultats.",
+     "r": "valable",
+     "e": "Avant l'épreuve, le juge-arbitre prévoit le rendu rapide des résultats."
+    },
+    {
+     "q": "Le juge-arbitre peut prendre plusieurs jours pour rendre les résultats.",
+     "r": "faute",
+     "e": "Le rendu des résultats doit au contraire être rapide."
+    },
+    {
+     "q": "Pendant l'épreuve, le juge-arbitre se montre réactif face aux problèmes (déplacement d'un poste, etc.).",
+     "r": "valable",
+     "e": "Pendant l'épreuve, le juge-arbitre gère le bon déroulement en se montrant réactif face aux problèmes éventuels."
+    },
+    {
+     "q": "Les jeunes officiels agissent en totale autonomie, sans tutelle d'un adulte responsable.",
+     "r": "faute",
+     "e": "Chaque rôle est au contraire placé sous la tutelle conjointe d'un adulte responsable et de la direction de course."
+    },
+    {
+     "q": "Le juge-arbitre met en place des routines de correction et de prise de temps.",
+     "r": "valable",
+     "e": "Le juge-arbitre met en place les routines de correction et de prise de temps permettant un rendu rapide et fiable des résultats."
+    },
+    {
+     "q": "Un Jeune Officiel peut toujours rester seul à son poste, sans supervision.",
+     "r": "faute",
+     "e": "Un adulte doit être en proximité visuelle, le JO ne peut pas rester totalement seul."
+    },
+    {
+     "q": "Après l'épreuve, le juge-arbitre rend rapidement les résultats de l'épreuve confiée.",
+     "r": "valable",
+     "e": "Après l'épreuve, le juge-arbitre rend rapidement les résultats de l'épreuve qui lui était confiée."
+    },
+    {
+     "q": "Aucun des 3 rôles n'utilise de feuille de recueil de données spécifique.",
+     "r": "faute",
+     "e": "Chaque rôle dispose au contraire d'une feuille de recueil de données spécifique en annexe."
+    },
+    {
+     "q": "Le juge-arbitre établit un bilan à transmettre à la direction de course.",
+     "r": "valable",
+     "e": "Le juge-arbitre établit le bilan de l'épreuve confiée pour le transmettre à la direction de course."
+    },
+    {
+     "q": "Le jeune officiel n'a pas besoin de connaître sa place dans l'organisation générale de l'épreuve.",
+     "r": "faute",
+     "e": "Il doit au contraire connaître sa place dans l'organisation générale de l'épreuve."
+    },
+    {
+     "q": "Chacun des 3 rôles (signaleur, contrôleur, juge-arbitre) est placé sous la tutelle d'un adulte responsable.",
+     "r": "valable",
+     "e": "Chacun de ces rôles est placé sous la tutelle conjointe d'un adulte responsable du poste et de la direction de course."
+    },
+    {
+     "q": "Le signaleur peut pointer les équipes n'importe comment, sans rigueur particulière.",
+     "r": "faute",
+     "e": "Le signaleur doit tenir un compte précis des équipes passées, avec rigueur."
+    },
+    {
+     "q": "Un Jeune Officiel ne peut rester seul à un poste sans adulte en proximité visuelle.",
+     "r": "valable",
+     "e": "C'est un rappel explicite du livret : un JO ne peut rester seul à un poste où il n'y a pas d'adulte en proximité visuelle."
+    },
+    {
+     "q": "Le contrôleur peut ignorer le contenu des trousses de secours lors de son contrôle avant l'épreuve.",
+     "r": "faute",
+     "e": "Le contrôleur vérifie justement le contenu des trousses de secours avant l'épreuve."
+    },
+    {
+     "q": "Le signaleur doit comprendre et remplir la feuille de contrôle présentée en annexe.",
+     "r": "valable",
+     "e": "Le signaleur doit être capable de remplir et comprendre les spécificités de la feuille de contrôle."
+    },
+    {
+     "q": "Le juge-arbitre peut improviser sa méthode de prise de temps sans routine particulière.",
+     "r": "faute",
+     "e": "Le juge-arbitre doit au contraire mettre en place des routines fiables de correction et de prise de temps."
+    },
+    {
+     "q": "Le contrôleur doit lui aussi savoir remplir une feuille de contrôle spécifique à son poste.",
+     "r": "valable",
+     "e": "Le contrôleur doit être capable de remplir et comprendre les spécificités de la feuille de contrôle présentée en annexe."
+    },
+    {
+     "q": "Le jeune officiel peut ignorer les adaptations du règlement décidées en cours d'épreuve.",
+     "r": "faute",
+     "e": "Le jeune officiel doit au contraire faire preuve de réactivité face aux adaptations du règlement."
+    },
+    {
+     "q": "Le juge-arbitre doit comprendre la feuille de résultats présentée en annexe.",
+     "r": "valable",
+     "e": "Le juge-arbitre doit être capable de remplir et comprendre les spécificités de la feuille de résultat."
+    },
+    {
+     "q": "Le signaleur peut pointer les équipes n'importe comment, sans rigueur particulière.",
+     "r": "faute",
+     "e": "Le signaleur doit tenir un compte précis des équipes passées, avec rigueur."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "badten-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre Badten",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT BADTEN UNSS",
+ "sport": "badten",
+ "source": "https://stately-jalebi-10c6f7.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Une équipe peut marquer au maximum 150 points dans une rencontre normale.",
+     "r": "valable",
+     "e": "10 sets de 15 points : 150 points au maximum."
+    },
+    {
+     "q": "Une équipe peut marquer au maximum 100 points dans une rencontre normale.",
+     "r": "faute",
+     "e": "C'est faux. 10 sets de 15 points : 150 points au maximum."
+    },
+    {
+     "q": "À 87/87 à la fin d'une rencontre, on rejoue la rencontre entière.",
+     "r": "faute",
+     "e": "C'est faux. Un tirage au sort est effectué puis le double mixte est prolongé."
+    },
+    {
+     "q": "À 87/87 à la fin d'une rencontre, on organise une prolongation avec le double mixte.",
+     "r": "valable",
+     "e": "Un tirage au sort est effectué puis le double mixte est prolongé."
+    },
+    {
+     "q": "Lors de la prolongation, les 4 premiers points se jouent au badminton.",
+     "r": "faute",
+     "e": "C'est faux. Tennis de table puis badminton, dans cet ordre."
+    },
+    {
+     "q": "Lors de la prolongation, les 4 premiers points se jouent au tennis de table.",
+     "r": "valable",
+     "e": "Tennis de table puis badminton, dans cet ordre."
+    },
+    {
+     "q": "Au point décisif, le vainqueur du tirage choisit de servir ou de relancer, et le perdant l'activité.",
+     "r": "faute",
+     "e": "C'est faux. Le vainqueur du tirage choisit l'activité ; le perdant choisit de servir ou de relancer."
+    },
+    {
+     "q": "Au point décisif, le perdant du tirage choisit de servir ou de relancer.",
+     "r": "valable",
+     "e": "Le vainqueur du tirage choisit l'activité ; le perdant choisit de servir ou de relancer."
+    },
+    {
+     "q": "Dans une poule de 3, seule l'égalité entre trois équipes reste possible.",
+     "r": "valable",
+     "e": "Seule l'égalité entre 3 équipes reste possible."
+    },
+    {
+     "q": "Dans une poule de 3, seule l'égalité entre deux équipes est possible.",
+     "r": "faute",
+     "e": "C'est faux. Seule l'égalité entre 3 équipes reste possible."
+    },
+    {
+     "q": "Le point-average est la différence entre les points gagnés et les points perdus.",
+     "r": "valable",
+     "e": "Total de points = différence points gagnés / points perdus."
+    },
+    {
+     "q": "Le point-average est le nombre de rencontres gagnées.",
+     "r": "faute",
+     "e": "C'est faux. Total de points = différence points gagnés / points perdus."
+    },
+    {
+     "q": "Quand un joueur se blesse, l'autre équipe est créditée de 15 points pour le match arrêté.",
+     "r": "valable",
+     "e": "L'autre équipe est créditée de 15 points."
+    },
+    {
+     "q": "Quand un joueur se blesse, l'autre équipe est créditée de 10 points pour le match arrêté.",
+     "r": "faute",
+     "e": "C'est faux. L'autre équipe est créditée de 15 points."
+    },
+    {
+     "q": "L'équipe du joueur blessé perd tous les points acquis dans le match arrêté.",
+     "r": "faute",
+     "e": "C'est faux. Le match arrêté est perdu, mais l'équipe du blessé conserve ses points."
+    },
+    {
+     "q": "L'équipe du joueur blessé conserve les points acquis avant l'arrêt.",
+     "r": "valable",
+     "e": "Le match arrêté est perdu, mais l'équipe du blessé conserve ses points."
+    },
+    {
+     "q": "Si le blessé ne peut pas être remplacé, chaque match qu'il aurait dû jouer est perdu 30/0.",
+     "r": "valable",
+     "e": "Un match entier (2 sets) est perdu 30/0."
+    },
+    {
+     "q": "Si le blessé ne peut pas être remplacé, chaque match qu'il aurait dû jouer est perdu 15/0.",
+     "r": "faute",
+     "e": "C'est faux. Un match entier (2 sets) est perdu 30/0."
+    },
+    {
+     "q": "Après un carton rouge, le joueur est exclu de la compétition.",
+     "r": "faute",
+     "e": "C'est faux. 3e incident = perte du match 30/0 + carton jaune au match suivant."
+    },
+    {
+     "q": "Après un carton rouge, le joueur reçoit un carton jaune au match suivant.",
+     "r": "valable",
+     "e": "3e incident = perte du match 30/0 + carton jaune au match suivant."
+    },
+    {
+     "q": "Un nouvel incident après un carton rouge entraîne uniquement la disqualification du joueur.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur est disqualifié et son équipe exclue de la compétition."
+    },
+    {
+     "q": "Un nouvel incident après un carton rouge entraîne la disqualification du joueur et l'exclusion de son équipe.",
+     "r": "valable",
+     "e": "Le joueur est disqualifié et son équipe exclue de la compétition."
+    },
+    {
+     "q": "En sport partagé, un set se joue en 15 points.",
+     "r": "faute",
+     "e": "C'est faux. En SP, un set se joue en 10 points."
+    },
+    {
+     "q": "En sport partagé, un set se joue en 10 points.",
+     "r": "valable",
+     "e": "En SP, un set se joue en 10 points."
+    },
+    {
+     "q": "En sport partagé, le changement de côté s'effectue à 7 points.",
+     "r": "faute",
+     "e": "C'est faux. En SP, le changement de côté s'effectue à 5 points."
+    },
+    {
+     "q": "En sport partagé, le changement de côté s'effectue à 5 points.",
+     "r": "valable",
+     "e": "En SP, le changement de côté s'effectue à 5 points."
+    },
+    {
+     "q": "En sport partagé, une rencontre comporte cinq matchs.",
+     "r": "faute",
+     "e": "C'est faux. Quatre simples et quatre doubles."
+    },
+    {
+     "q": "En sport partagé, une rencontre comporte huit matchs.",
+     "r": "valable",
+     "e": "Quatre simples et quatre doubles."
+    },
+    {
+     "q": "En sport partagé, le résultat additionne les points de 10 sets.",
+     "r": "faute",
+     "e": "C'est faux. 8 matchs × 2 sets = 16 sets."
+    },
+    {
+     "q": "En sport partagé, le résultat additionne les points de 16 sets.",
+     "r": "valable",
+     "e": "8 matchs × 2 sets = 16 sets."
+    },
+    {
+     "q": "Au 4e service d'un double, A sert sur C.",
+     "r": "faute",
+     "e": "C'est faux. 1er : A sert C ; 2e : B sert D ; 3e : C sert A ; 4e : D sert B."
+    },
+    {
+     "q": "Au 4e service d'un double, D sert sur B.",
+     "r": "valable",
+     "e": "1er : A sert C ; 2e : B sert D ; 3e : C sert A ; 4e : D sert B."
+    },
+    {
+     "q": "Après 4 services, seuls les joueurs de droite ont servi.",
+     "r": "faute",
+     "e": "C'est faux. Chaque équipe dispose de 2 services exécutés par ses 2 joueurs."
+    },
+    {
+     "q": "Après 4 services, tous les joueurs des deux équipes ont servi une fois.",
+     "r": "valable",
+     "e": "Chaque équipe dispose de 2 services exécutés par ses 2 joueurs."
+    },
+    {
+     "q": "En double, le porteur du brassard est désigné après le tirage au sort.",
+     "r": "valable",
+     "e": "Le placement droite/gauche est déterminé après le tirage au sort."
+    },
+    {
+     "q": "En double, le porteur du brassard est désigné avant le tirage au sort.",
+     "r": "faute",
+     "e": "C'est faux. Le placement droite/gauche est déterminé après le tirage au sort."
+    },
+    {
+     "q": "Ce sont les joueurs qui notent S et R sur la feuille de match.",
+     "r": "faute",
+     "e": "C'est faux. Le J.A. indique le serveur et le receveur sur la feuille de match."
+    },
+    {
+     "q": "Le JA entoure S et R et trace des flèches sur la feuille de match.",
+     "r": "valable",
+     "e": "Le J.A. indique le serveur et le receveur sur la feuille de match."
+    },
+    {
+     "q": "L'arbitre adjoint vérifie l'avancement du score avec l'arbitre principal avant l'autorisation de jouer.",
+     "r": "valable",
+     "e": "Le jeu ne peut reprendre qu'une fois cet accord effectué."
+    },
+    {
+     "q": "L'arbitre adjoint vérifie le score avec l'arbitre principal après la reprise du jeu.",
+     "r": "faute",
+     "e": "C'est faux. Le jeu ne peut reprendre qu'une fois cet accord effectué."
+    },
+    {
+     "q": "A5 et A6 ne changent pas d'activité lors de la rotation.",
+     "r": "valable",
+     "e": "A1 et A2 permutent, A3 et A4 permutent ; A5 et A6 ne changent pas."
+    },
+    {
+     "q": "A5 et A6 changent d'activité lors de la rotation, comme A1 et A2.",
+     "r": "faute",
+     "e": "C'est faux. A1 et A2 permutent, A3 et A4 permutent ; A5 et A6 ne changent pas."
+    },
+    {
+     "q": "Si A5 est absent, la feuille de rencontre est renseignée par le Jeune Coach.",
+     "r": "faute",
+     "e": "C'est faux. C'est le responsable d'aire qui assume cette fonction."
+    },
+    {
+     "q": "Si A5 est absent, le responsable d'aire renseigne la feuille de rencontre.",
+     "r": "valable",
+     "e": "C'est le responsable d'aire qui assume cette fonction."
+    },
+    {
+     "q": "Pour la certification départementale, le jeune arbitre doit être investi au niveau de son académie.",
+     "r": "faute",
+     "e": "C'est faux. Pré requis départemental : investi au niveau de son district."
+    },
+    {
+     "q": "Pour la certification départementale, le jeune arbitre doit être investi au niveau de son district.",
+     "r": "valable",
+     "e": "Pré requis départemental : investi au niveau de son district."
+    },
+    {
+     "q": "Au niveau académique, la note pratique est comprise entre 11 et 16 points.",
+     "r": "faute",
+     "e": "C'est faux. Entre 11 et 16 correspond au niveau national."
+    },
+    {
+     "q": "Au niveau académique, la note pratique est comprise entre 8,5 et 10 points.",
+     "r": "valable",
+     "e": "Entre 11 et 16 correspond au niveau national."
+    },
+    {
+     "q": "Le QCM théorique du championnat de France est noté sur 4 points.",
+     "r": "valable",
+     "e": "Théorie sur 4 points, pratique sur 16 points."
+    },
+    {
+     "q": "Le QCM théorique du championnat de France est noté sur 10 points.",
+     "r": "faute",
+     "e": "C'est faux. Théorie sur 4 points, pratique sur 16 points."
+    }
+   ]
+  }
+ ]
+}

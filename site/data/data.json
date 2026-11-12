@@ -1,0 +1,2716 @@
+{
+ "titre": "Formations Jeune Juge / Jeune Arbitre UNSS",
+ "sousTitre": "Académie de Nantes",
+ "maj": "2026-11-12",
+ "etapes": [
+  {
+   "cle": "decouvrir",
+   "num": 1,
+   "titre": "Je découvre",
+   "desc": "Présentation de l'activité et du rôle de jeune officiel."
+  },
+  {
+   "cle": "regles",
+   "num": 2,
+   "titre": "Je connais les règles essentielles",
+   "desc": "Les fiches par poste et les points de règlement à maîtriser."
+  },
+  {
+   "cle": "analyse",
+   "num": 3,
+   "titre": "J'analyse et je valide la situation",
+   "desc": "Quiz « Valable ou Faute ? » pour juger des situations réelles."
+  },
+  {
+   "cle": "construction",
+   "num": 4,
+   "titre": "Je décide",
+   "desc": "Scénarios vidéo et situations de décision (en construction)."
+  },
+  {
+   "cle": "certification",
+   "num": 5,
+   "titre": "Je m'entraîne à la certification",
+   "desc": "Entraînement aux épreuves de certification district, départemental et académique."
+  }
+ ],
+ "sports": [
+  {
+   "id": "athletisme",
+   "nom": "Athlétisme",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Juge Athletisme",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vSeFCes84qjrFQxOooECRm5Hckk5AwHEpeJFNIzNgFzKm4lMRhvo4kc1sU4DGMiPCw4MEiEVUmmXka2/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 2 / 12 – La chronométrie électrique",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSOtR6cdh957RxiGMJXEqbRqpv0v1F4sw6pP7Tyaq3r87JigOxr-QiHL8-g57zc1g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 12 – Les commissaires de courses",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSY-OOujhF_NLBT8VowQhYOs8CocfTyZt1geWjxSyOLSLRIAVlBfshCZ6Fa5_dimQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 12 – Les départs",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTYnREOAMsKNJ-FWbwi47kDZaDNKr0r8BiFjmlM45CMv56WQY27K-5FKqKvJKexkw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 12 – Juges d'arrivée et compteurs de tours",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRGeXbZlmOd3-vabA44mtqNW9OrRD6FBppouLW-8cNkOdYqcacWFekOrhIKRXBYaQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 6 / 12 – Le saut en hauteur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS1MfVNbfyoZh_AgWyat-zgHKKAh0uDa5KdG_BSPDVRiKMyRcbc5KylDYQMPygi1Q/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 7 / 12 – Le lancer de javelot",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSx7M3V1eVok8nW5bMlYhpBSnF7KpeC6Ent4n1hJcfB41Q-FQnaPAmsphiwTd13hg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 8 / 12 – Le lancer de disque",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS4h9jCVI-Qk8eMT0KmbAScRZ9Euuaa53Yv_lqZpxOsFUmyPS5UZ1Az_ohKRAmrPw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 9 / 12 – Le saut en longueur et le triple saut",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSbOdFQqES-KwODGKOMVN3cdOQtP3habyK1jvgwWOnHRerE3ySiFdlYkBhZBNO3vg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 9/ 12 – Le saut à la perche",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQuUGrmqhWM7gO0B7E_GOCKQQW86LFcW5GV92sBjQyn--7A1Ld3OC4CDVnS-4AD7A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 11 / 12 – Le lancer de poids",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSuV3psnLG8qPNBpb1bbaFsno3Dux1ffze4uOqyZ8fRmZtUO5eyh53adIT_82b0IA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Ressource 11",
+     "url": "https://joathle.glide.page/dl/59c414",
+     "type": "lien"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Le Carnet du Juge",
+     "type": "quiz",
+     "quiz": "athletisme-2"
+    },
+    {
+     "titre": "Le Carnet du Juge",
+     "type": "quiz",
+     "quiz": "athletisme-3"
+    },
+    {
+     "titre": "Le Carnet du Juge",
+     "type": "quiz",
+     "quiz": "athletisme-1"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scénarios Vidéo",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWI_DGYWxQqOg7jkQPZVXzjhd80pGhuA-rTZuAn8EKWlN66RmXKfK0zHbWKltVwQ/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scénarios vidéo (SharePoint)",
+     "url": "https://unionnationalsportscolaire-my.sharepoint.com/:x:/g/personal/adeline_couturier-detrez_unss_org/IQAMAhLYkyI6ToxWRnZs4VtWAUuOIxrRWzO4P51LVTr-KXc?e=fgU860",
+     "type": "sharepoint"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=26295286",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=50901070",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=15064054",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "aviron-indoor",
+   "nom": "Aviron indoor",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Juge AvironIndoor",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vS6qxU8-87zAht0G0axDnuoUBAZFcyLVYaGrMrDO1thoVMYq5Hfwmr397H7GRvfzQ/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "UNSS — 25 I 26",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTexrpwa9omGt_DaqaEPwEZWsrI1hJz9hebtS7j4Rl70Pw1TYJMzm4w3scGD5leDw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "PENDANT LA COURSE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSakob3F450AD_2scKxOUcguEoihD4NfvMBMMspI18AaOn85xBSuet_-YBFDvf9Pg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Présentation de l'activité",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSXzFTi5YG1T22vNrlr-XEXN-AuYS7yWtOueH8p5Ktxm3pTu6CF9yVPgNf83jYOYg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AVANT LA COURSE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSx9eabejFN8-BkSGmlzkb3LUjFdzNmWn67i9NPWsyQcevOQJx4WkTPFatscph1cA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "PROCÉDURE Le départ et le faux départ",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRO_k5I8ApBdvb1tebYwV9k_UybOm_bajoZbc73qkUtakZX0R8JzGC6Ir-mrupy_g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "L'ÉQUIPE Le jeune coach et le sport partagé",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR28GxZq_2Ezj3N3292H0QvFqp8Mf7RO9bNSeub2RR0heN2UAyQB-zFqROcU6ylOg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "LES CARTONS Cartons jaune, rouge et blanc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTG6LBY09W0qGzuXszadtUPiS8yODsTVgWNrb7ALfzEJ0JJEB_1cZpikKEah5qAbA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "LE RELAIS Le relais 4x500m",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSZli90--HM2-THptLH_wfTh5f0tNO2KKoebSyTMM_CfQ3weWWBwAHngSkeoGhfkg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "PROCÉDURE Réclamations, incidents et ex-aequo",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRXgj1R4111FzX1XnAiKTWFwiIDri_Q3acG3zM7OomIKIhWxjr03AyAJ9xYgHHwzA/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Avant et pendant la course",
+     "type": "quiz",
+     "quiz": "aviron-indoor-1"
+    },
+    {
+     "titre": "Le départ et les sanctions",
+     "type": "quiz",
+     "quiz": "aviron-indoor-2"
+    },
+    {
+     "titre": "Le relais, réclamations et sport partagé",
+     "type": "quiz",
+     "quiz": "aviron-indoor-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video AvironIndoor",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSpumYz9RalnAjzkJSPefpOYTBGDHyJtQXOX6ZgYoK-hxZhwoj2OjE2qvHiM_UX8A/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=55261613",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=37468589",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=18482605",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "badminton",
+   "nom": "Badminton",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Arbitre Badminton",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQVzpcqwxcSlnN7Fhzo0OS_3LebFKNgOfjvdnjNSobgG4POrKmuLMpeiiDPBkOP89zFqXYmynKCGzph/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 4 – Le jeune arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTm0FbuXyIStH9Ses-3J4z8-xkGBaprTp83JOTQlcYUWT9Bg_vbwhIAUQDT82I7bw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 4 – Le Scoreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRnyS-GgG9Iwr4lgmuMP85NCDCCesULduFUeXXsXmQe0d3oOzXVk-Fiw7voW4cD1A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 4 – Le Juge de Service",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ_gqeZJDVJ8qtmd6magWHILN_pzfs9E89XNM7NhiNQ4zF5yFY2uxVxoXQViaSUBw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 4 – Le Juge de Ligne",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSq0KLl7VGYayjP7GrUNSS3XzovbpyCe975JVOiKHtwCYr_c0jpfWRS9IOJQ3XmyQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Terrain, matériel et officiels",
+     "type": "quiz",
+     "quiz": "badminton-1"
+    },
+    {
+     "titre": "Service, fautes de jeu et LET",
+     "type": "quiz",
+     "quiz": "badminton-2"
+    },
+    {
+     "titre": "Championnats, coaching et cas particuliers",
+     "type": "quiz",
+     "quiz": "badminton-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Badminton",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRC5ekWhFfz88XfNfJeV7vH6RLGVvfpe8514it-hCImSmDd6IGXnn-Ilw3dtA6s0Q/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=58797046",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=54139894",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=61524982",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "badten",
+   "nom": "Badten",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Arbitre Badten",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQ4kmlkS3bqP-ziyivSPSsP0VUfN8epZObCn9W3a6WbLjfo5e-PoTQrum2-BFP2mQ/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 3 – L'arbitre principal",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR-3KdvlkLGypB7bKWszcNjRkO7afN6YRPUYgnJuDuNshEnyVwiqzEQTf4p4w_nxA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 3 – L'arbitre A5 et les juges de lignes",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTqqNNbJhnc0g-ohT7mcmdJg2fJ3-Fg2-17ruA2yppD5mTTbDqTT-yRCgr3HYVeIw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – L'arbitre adjoint",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRP18VKSUER23GTcZZNh24RjJq89j52Rka00cznEBOD1HSTLe88hoI11hYqb3Hb7w/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "badten-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "badten-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "badten-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Badten",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsReYn5_JQppZolyX6JAeDipFoEzATPo_XJqGXpR351mTpwgqGFaPzWefBYra5Hw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=25872387",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=62400515",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=27994115",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "basket-ball",
+   "nom": "Basket-ball",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Arbitre Basket",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vR7s_Gzpz4_DMja1wtfPgr2cBUpaGXg4-gziUKv29r6ndR_j3fOwy3vx_2AwAr80A/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 4 – Le jeune arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTm0FbuXyIStH9Ses-3J4z8-xkGBaprTp83JOTQlcYUWT9Bg_vbwhIAUQDT82I7bw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 4 – Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSZt7lvB5EDNJwvxuTWna7iLqopjFnsBZNHLVqdUB0we0fA5rJ0PS4CenKPgNkLpQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 4 – Le marqueur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS8oMYCMfqfk5pkWHVQynbV2qlbLw_FyxGvl3hpzLg54YwUO1N5Guf7Zae4xAiYog/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 4 – L’opérateur des 24 secondes",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSLK3ft8xXK7vuRQFBCxoaBgnueh5PnHD6ce5LCrGBl2mjGl3qeEZRBhmNplUAk0w/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "basket-ball-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "basket-ball-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "basket-ball-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Basketball (1)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4TZ-L1RfKTuULWxNGvrpnBuHfv-u-6otu0QAnPr8JhZGzPNPtkdur4ge-p-BVFA/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=35151869",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=06447101",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=42885117",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "bike-and-run",
+   "nom": "Bike and run",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRdOGh4Nfaqsh3pBw7Z5PlXLQd8Qf_E5lLjPE84q-bK5Hio2GmGnrVmI-bPGVPdTm_ZD3enAVzriaFa/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 5 / 10 – Le juge dans le parc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQJ-6mpHuSGy4ZnkWANqN8Y9yWJuG9_YkV69Ze63iD_RA1g4wmErqYyHugGZbsKmw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "STE 1 / 10 juge de chambre d'appel",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSMAYJs6svPIsII7-7SZwYXWpB4XlZuBM1WtOuUGfgi3H6BbD4c1JyZvGckpDsshw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 8 – Le contrôleur technique",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTt-FBFPhM3EA6urTPrNuNlw3_pp-ehi6oRY4_9oOl-gXG5Zny61CYsVqh6YLN82Q/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 10 – Le starter",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTNvV4e6X4gTD5ImGMtiY67xGWtSheg5Cvg9qep7vtYSOAY8u0CDn6if3nW3VJzzw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 10 – Le juge d'entrée et de sortie de parc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR4g60sv3lHmzIOnR3c99G9bWWtThACJ75t_rZj6mWrEXgDfI9ZlODk9o4_tOthCw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 6 / 10 – Le juge de relais",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR33yD3mLe-ElOG9TxFTY-b5KD6b6cyFDlPNju2pcuBUg8JYmNeqcVvC5MqLbNzWw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 7 / 10 – Le pointeur-chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ9agAkoz3hxKLx633FG-XrR7fFcrLETlUeQlYOdgjqfziUVkRmT79eWe0VHRDJmw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 8 / 8 – Le juge de zone dépose vélos",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTMMB4aKTn0nbelN96Lz49AwOo5IqaPNvclE28KyGyY4drqopnrEBSGP1l5jTKL0g/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Chambre d'appel, contrôleur technique & starter",
+     "type": "quiz",
+     "quiz": "bike-and-run-1"
+    },
+    {
+     "titre": "Le parc à vélos : transition, box & relais",
+     "type": "quiz",
+     "quiz": "bike-and-run-2"
+    },
+    {
+     "titre": "Zone dépose vélos, arrivée & sanctions",
+     "type": "quiz",
+     "quiz": "bike-and-run-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Run and Bike",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9C9Gd9mhKwF0cSluUhwk8nhul7fEkImqS9kyoI73IRa9NncgLMBpZqmZEA3Vjfg/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=36073333",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=19722101",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=48230261",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "boxe-assaut",
+   "nom": "Boxe assaut",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vTJ8n1xPpZltBS4f0lRJTPjxj4MlRMVrbWxia4BfdzDfjECyXTtDbnlkynkY8IwK864dNnV8eLqaqZ6/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 3 / 3 – Le juge",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQt_V9QHbsMdFOm4quX9GpUv-MLz58YMLDU_4BJcfD43GozUlMu-6WBwPrGwonBPw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 1 / 3 – Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTXYDHdJvEU-l_Eu3dl3vuxGBBi0buPlZXjeqsg0c5Cc6MO-h7pMuJlqac8P3JR3w/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – Le directeur d'assaut",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTJsByQPX5wdNa1ETROx2CE_hAuaDknhJxwZUngK0g5Zhk2NrobS7jEkVqMkZI-jA/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "boxe-assaut-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "boxe-assaut-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "boxe-assaut-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video BoxeAssaut",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZzceRksXbycfbyTMuGqgcRNbLm2-oLZjaXixX9Iow2abDq1-nhPrkpTfxrV_tgQ/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=10897269",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=36030325",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=03024757",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "circuit-training",
+   "nom": "Circuit training",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Juge Circuit Training",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vTYDvtXfTqTvwWKCrRVcxEoeNlmL6ylMFSDlDcGNhc6TMJgkaKJGjAwIxwkC01wiQ/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 3 / 5 – Le secrétaire",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSgqagefV6hDQA7HGMwzUcHA5Yi63Zo0wQJ7H-1HE-OtaVytxa7YV4BQqcWkU0MJA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 1 / 5 – Le chargeur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTWP39mptIrh_cF1tyVsBbEHW63lyAk41ppIF-durMtvWAIgn9ia0aLwSRfF_mePg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 5 – Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRfjnhaGnFY-wiCR2NBc_GZGM2ckhe3-J1FToOpRzH6GbapHfW6TTwT3Dt9M9rGmA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 5 – Le juge à l'atelier de performance",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQrI9vw2VtwcUarp_T8b8T7tRipAOpwyDbaT-ZqR4gCYMHkeIZtWMscPRkiyxuq2g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 5 – Le juge aux circuits",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSh1OriFoEqk81yQt6MSamvh6zcpBvnL49pU8lGXVO_khk2194w0ATFrs4RqKBcoQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "circuit-training-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "circuit-training-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "circuit-training-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scénarios vidéo (SharePoint)",
+     "url": "https://unionnationalsportscolaire-my.sharepoint.com/:x:/g/personal/adeline_couturier-detrez_unss_org/IQAh9Ew-s860TrpgpRFtGpzSAVLY7sPWwCZl1ZrxTQWN7Og?e=ujmO3I",
+     "type": "sharepoint"
+    },
+    {
+     "titre": "Scenarios Video Circuit Training",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Vc0uvpvYJ-UIfdZ20PGNIUQwr4SRUlQkttkNJ_1BCBtOvkTpM13sr4ip81cY4g/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=11654974",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=31452797",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=45467517",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "course-d-orientation",
+   "nom": "Course d'orientation",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Juge Course Orientation",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vTyIRo6LDsl7a9a-uTlPDeXyJhASYCcEJK-KzR8VcxOEpkEc2O_-vBaXXYxbQYyaw/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "Présentation de l'activité et règlement du championnat",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSkHDDJI8PC36qVvWzqI28eremtu4P39LJO066mxHu_idd5maGwPKw3WtiU-JE6aw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ATELIERS 5, 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRcMSEXbKGR59bTpxq94FGDLiq02vsA2UMa5YYMn_JI-jSpAj_BUFeC1I2dESYcuA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ATELIERS 1 ET 11",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQSRmROXCFMhx14Bl2P7d9lVXNW9MoS9QiceMYUBTOEnnJlmWlvVF2VlcNdrzRcPA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ATELIERS 2, 3 ET 4",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSxqDEW06QqWzYjh9-0OWSBbVMHE7Ypi4BhRMygroOTL0HPlaxMfii9qUPHuDzTWQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "SPORT PARTAGÉ",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRpWKLVUXkJgEFnq1a5N8qy6e7OIcwMvCgTidHFhvVjtKShcKllOAVP9-J21jT-IQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ATELIERS 7 ET 8",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR7Pjp7f17sdZv48RTFgSKZ7ELUYbbQ8W2xf-PHIs_Eb8WJAt5x-LZ6X2HfwDug4g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "JOUR 2 La répartition sur réseau de postes",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSQQylhjniqzGPSJzqPM1774IEExa2v1TC0FcvBOsb4RV4n0YzR7AfynDsz1kng2g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ÉPREUVE PRATIQUE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQx2vsiVd3WLCbtUatmXzusYGn1-00YS6x4y5aQ1A7sCRESCXnM6YZxuGghAgxz4Q/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Règlement du championnat",
+     "type": "quiz",
+     "quiz": "course-d-orientation-1"
+    },
+    {
+     "titre": "Rôles et ateliers du jeune juge",
+     "type": "quiz",
+     "quiz": "course-d-orientation-2"
+    },
+    {
+     "titre": "Certification, pré-balisage et sport partagé",
+     "type": "quiz",
+     "quiz": "course-d-orientation-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Course Orientation",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-wQ-mq6ImFxYDdikjQ2yN7NO3ReXhKsDR81MdPD5oHkQX42OLGiBrSCyLCM1F5Q/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=34352749",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=19574381",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=49639021",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "escalade",
+   "nom": "Escalade",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQVxNKAPtLVJlHBQ7MrB0wNrkcgC7bLjUmsqyeMKR1QlRbIBEfL0FZGbvI5OM3ysHZfKY7kDy4-k-_T/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 3 – Juge de Voie — Difficulté",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS0IRY5yulDLQb8LDkeT6vq1ij2Uh4ihFgOaZtAc6yUH0vSXmqLF7N7V6HOU_Nn7w/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – Juge de Bloc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR1Ny9sYWdWXllYaO2D_EJU0C0p0Ai_yC2VmnRnzL_QVfb9B9GL8A7poJXY5tmSRA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 3 – Juge de Vitesse",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQuzsbINUkxK_NAjeJ1zPjULfYks0cbkCei-OpwXWt0-EA4nkGr6JUf7z_eQcRRAQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Difficulté",
+     "type": "quiz",
+     "quiz": "escalade-1"
+    },
+    {
+     "titre": "Bloc",
+     "type": "quiz",
+     "quiz": "escalade-2"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scripts Video 1 Difficulte",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMBrYnm3bvrsz212bVUQrmiyJum39Y964cNppZy5vYxUAH3hOK-CW5w4emKpPvgw/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 2 Bloc",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIt0SnVnUiI7wGovdVFNsnPxjgsd4p5GUOl7yFzQpgxJvt0zEl-yzTWmy_zsNyPg/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 3 Vitesse",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR93iLmrezqc_NNcMcInOSkfrhaDeFMfLvGEz0l4cyKBi_FndK_YDSxVSQZmuiyAg/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=26295286",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=50901070",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=15064054",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "football",
+   "nom": "Football",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Page introuvable",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQrUmkcSX23WbgcBo1sEKbuuUfsYA6FiP-b_Nqp7FZnO3_PUvq_C1f4ULmPy4849kDhkSSL5QagXlGz/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides",
+     "alerte": "Lien Google renvoyant une erreur 410"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "ÉTAPE 1 / 3 Avant le match",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTl-8db5qcVpdmFgX79nCd6YPPAmk1dsxw0TLJIraePLm7MkdYm33v734DTEIP5Tw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "L'ÉQUIPE ARBITRALE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTE8GMiJpGXRZflRdtykK1enyga8YFysIX8FA-GVgxVeW1JoUnfLF-1ozSA_K4wzQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ÉTAPE 2 / 3 Pendant le match",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR8h7_IWdGg2XHh9Jq25o2Qmik8bc4Y9g3KRGuNEyRrL9eX_GsgONgeFLBZ34_4PA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ÉTAPE 3 / 3 Après le match",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSB5p9iF5fzftPqAw38gVQsZCX6rMwtZ1Bck6Hry8QLmZdAmOy2OxUwkra_jvwPZA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "LES CARTONS Le carton blanc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTqhu9eQNhcOp16S19aGOPXuWgFOE2wE1PmhQf46y_LGxUEITVHUFUM4XA3ccyyUw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "LES CARTONS Cartons jaune, rouge et blanc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTG6LBY09W0qGzuXszadtUPiS8yODsTVgWNrb7ALfzEJ0JJEB_1cZpikKEah5qAbA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "L'ÉQUIPE Le jeune coach et les accompagnateurs",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTdtjhuMcGYJYRzEbwSeaPbNE7wtPQyhetVDSq3YWmldiRfTGHVzVOYOujiRsH5WQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "PROCÉDURE Réserve technique et réserve administrative",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRUPJzMvyxIGLujcrlsylQt-SqWuIj5MKfJW-ouapSiU7LsgNUjIk3DWdUGbqItkQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Avant, pendant, après le match",
+     "type": "quiz",
+     "quiz": "football-2"
+    },
+    {
+     "titre": "Cartons et lois du jeu",
+     "type": "quiz",
+     "quiz": "football-1"
+    },
+    {
+     "titre": "Formats de jeu, règlement et certification",
+     "type": "quiz",
+     "quiz": "football-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Football",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTE4Cn-SvEVk2qR029k2J-LMKnwDYWPkCEp_jhDreyPMzdUz6Jl62MPCjN_To8SUw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=03777421",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=12096397",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=14865293",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "futsal",
+   "nom": "Futsal",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Arbitre Futsal",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQM6usmxGzaJlg8oC89vg0782w60VDJ3nrbOzxpwMXoqZ4W0cqyJUHay1VLhKYIwWPHtPv51CYzU2e5/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 5 – Jeune Arbitre 1",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSXjComwcX_4lVqac6ZerZoaviILqQPQsiwRPssYOMA4BfTBGJ1XIqBHdGEYGXIXA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 5 – Jeune Arbitre 2",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT3Bj9W87vDLDqH7oMyMwLqdhy_Day7Pa6U0xUNSCH-SRK65MWqxCoZ1YpHZgd8UQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 5 – Jeune Arbitre 3",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT4fIEE-qJ89y3GRuQCIhoye6p4hkyKf15e5V1ddeUx8eXXP4KlVYTpb9eKupLotw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 5 – Jeune Arbitre 4",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQV8n-_1WEFqQDTDIpMS2OYsGUPwzI8kZZhx72X1Xl8cR35vm3NMBetHzhdiXipCw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 5 – Jeune Arbitre 5",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQFgiVZ2u1RDq-xPkZguvZa1farbGe4i6nBJjtY-t8Ts0tS9aTLB7JaWXck2CwsBw/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "futsal-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "futsal-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "futsal-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Futsal",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSowgdaGY-khFtSg_VyLFLYOaHsWj4VELC5m2gtbOkSmKxbxwY-z2M-RmBy6tYf4g/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=40140517",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=24805093",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=56524517",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "golf",
+   "nom": "Golf",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vT84aPf7wb2rFs8Z-CcUDpg3S32zhf7mSAQhc_z8qfe9n4oBecz6heTa8gabXooRgWk3UNzWTXpUQR1/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "MISSION 1 / 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTDwlklQRHpWmJgsgtSWQf1Vl5fV_JEZOJDQ8-u4eYGLio8ROJRwN3FIOyWXHzJVw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "MISSION 3 / 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT2vI-DrlancNQ5l1UXS4oo78VuTFGL21haY1vK37FRdfPNshLdx--3RrEXNRR4rA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "MISSION 2 / 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTDhyaeKm_7voLqeuRJY6_K6cyWCD2fJg9aa0UdrcLMoW-PIHtIDLqJaOJe_5I4jQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "MISSION 4 / 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS8Wrjll49eiRJiRPTSTiGPujkrmVAmiWi3IyZnsKxaRnNRKe3EvV_SuYnSnvX7hA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "MISSION 5 / 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTjvFXRt1EHv0zm_D2JUjodfkbAlU5HNLGY_X_xCVj9W-yJSJzaxRaMdDc4rt2rJw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "MISSION 6 / 6",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR1dpck54h4KB1anfRM0GxpjjAFtLaNqXl0AfgQImMO1DHFJs8PAQYfQ5G0ragzOQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "SÉCURITÉ L'échelle des sanctions",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSD2OQxZfpN2RpZ8wW-NkUJnFOfTOzcgQMHlS5qfT4O95rd0Jtjq-fhrRFqsUUyKQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Règles simplifiées du jeu",
+     "type": "quiz",
+     "quiz": "golf-2"
+    },
+    {
+     "titre": "Les missions du jeune arbitre",
+     "type": "quiz",
+     "quiz": "golf-1"
+    },
+    {
+     "titre": "Sanctions, sport partagé & pratiquants",
+     "type": "quiz",
+     "quiz": "golf-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scénarios vidéo (SharePoint)",
+     "url": "https://unionnationalsportscolaire-my.sharepoint.com/:x:/g/personal/adeline_couturier-detrez_unss_org/IQDXCiNdVDZDTIiDgEbbAxrAAUZzWGObCYwen4iIeMG7wMc?e=6YnTZ0",
+     "type": "sharepoint"
+    },
+    {
+     "titre": "Scenarios Video Golf",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTOjMn0mqPcxxMVc8xnpvXexPhfOSBRlKywCyeLC3o2C4eW_UgXe41p0mvoJrhBDw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=46619021",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=16703662",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "gymnastique-artistique",
+   "nom": "Gymnastique artistique",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Juge Gymnastique Artistique",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vSKx-zWJVU8vJRvU8sdAWX-uBJ6S0IpfO916DhtRcDpnytwIZO02Mlx2zLlLazNZw/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    },
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQcz7UZStQZnEyuNpTNfm22zNJWfWSlMksdLIgCuYGNf28I0vIkNBdNEzcQ6K0miRK0bevHF6KjuKku/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "AGRÈS 1 / 7 GAF",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ1WrVBkz0OIJ8ltJLKAV_Elbvu9VMNE8HPF8GuzH1DnU_wUIHEqz9BfdXoFNW0rw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 2 / 7 GAF",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQHVyGXF3A7Jrctv45bJbuv_Xjim5tC7FC6tIcbIDLXNeIEcLT2Xvrm1xyClfbpww/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 3 / 7 GAF",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRqfw_6izJAkDySTqjhQ295Az3SkIQM91EngPu7aBh-HI1LDNwusZbVdVaxWHpeLQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 4 / 7 GAM",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRgLmcMC2UcBqveJeI6feBOpn-wlWyatCuFMBWPlF0pXUKacztVYGyR0PQ2zJhYOg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 5 / 7 MIXTE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRwVp-etX-nHwTq40TzqGIfu-P44Iy4FIBPG1ThTgkw5YwBDmUVMh5sNvycr4aWJA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 6 / 7 GAM",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSvBmkeQPSBLw2HunF86BcqAYOVT3iNNmFacdRmwN4MzDUfKlQmpUjDwqZ68jhVhA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 7 / 7 MIXTE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRaF0WtZZJeZ4r8fc2edqat7IPhW_KiyCJGiSm1ksRD1F2kZJH4tOZ3whWvxnM7LQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 1 / 3 – Jeune Juge — Jury D",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTfiuvKhPd1GvlxFi6vk_c3GbYpO_IZpKjrmPaUsAXPuYGQy4X2VeYyEmgicZWWEQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – Jeune Juge — Jury E",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR1Cq-BD7zqPhHaI6fHGujU6sle4P1OrElXLWrt7J1oXYGs9ptDN80-QCmMUzNeYQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 3 – Le Juge Arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSmFQBwwQ0O3ySzYx3mkkn0tPFfm4sKnFDwjE3H2mp4bfXqvJDRvg2i-y0qhodLeg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 1 / 7 GAF",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQejBRb1NGMQAD1JZIruwp2ga4uwPHnmsJIq3wDtiGD0RRANNlvk_q_HW_eKAdgQQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 2 / 7 GAF",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRWhE5WnwPLuRQtt5Sq6Npa8NtgMQyU-rw2pJIfbXogO7RD3UMlqlEWuT174I-KXQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 4 / 7 GAM",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRq5yglE6lFuyX8R2Y3RB_BONl3xvOJlWhJER1l_afQtYaFTOYXE7UD0murWzeVDQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 5 / 7 MIXTE",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT3e7upCluTyNokeK0G8UYXyPeXP9Btduu5ob6nG1u1IH_2yob1CVOT6odjjDEMsQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 6 / 7 GAM",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTMdLeZ428WmQ24lyGakta83dpB2yty7vHaKZawF-JftuG2Rdu_vnTGfuqMPrbb_g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "AGRÈS 7 / 7 GAM",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQU7Wtbw834rxBv0kAM-xWLnFlr3red2j9ct5-TAHaaBEpC4FXgYlBgFsY6V_qzvg/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Quiz (site Netlify protégé)",
+     "type": "lien",
+     "url": "https://jolly-longma-b0fb47.netlify.app/",
+     "alerte": "Ce quiz Netlify demande une connexion (erreur 401) : il est inaccessible aux élèves. Ressaisir les questions ici."
+    },
+    {
+     "titre": "Quiz (site Netlify protégé)",
+     "type": "lien",
+     "url": "https://stirring-cactus-b5656c.netlify.app/",
+     "alerte": "Ce quiz Netlify demande une connexion (erreur 401) : il est inaccessible aux élèves. Ressaisir les questions ici."
+    },
+    {
+     "titre": "Barres asymétriques",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-1",
+     "groupe": "Gym artistique (établissement)"
+    },
+    {
+     "titre": "Poutre",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-2",
+     "groupe": "Gym artistique (établissement)"
+    },
+    {
+     "titre": "Sol filles",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-3",
+     "groupe": "Gym artistique (établissement)"
+    },
+    {
+     "titre": "Sol garçons",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-4",
+     "groupe": "Gym artistique (établissement)"
+    },
+    {
+     "titre": "Barres parallèles",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-6",
+     "groupe": "Gym artistique (établissement)"
+    },
+    {
+     "titre": "Mini trampoline",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-7",
+     "groupe": "Gym artistique (établissement)"
+    },
+    {
+     "titre": "Poutre",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-8",
+     "groupe": "Gym Excellence"
+    },
+    {
+     "titre": "Sol filles",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-9",
+     "groupe": "Gym Excellence"
+    },
+    {
+     "titre": "Sol garçons",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-10",
+     "groupe": "Gym Excellence"
+    },
+    {
+     "titre": "Barres parallèles",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-11",
+     "groupe": "Gym Excellence"
+    },
+    {
+     "titre": "Barre fixe",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-12",
+     "groupe": "Gym Excellence"
+    },
+    {
+     "titre": "Saut",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-5",
+     "groupe": "Gym artistique (établissement)"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scripts Video 1 Barres Asymetriques (2)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ5jU_GqGGmQuK8Lyn088zlf4GeKxeNkVm5B1I8wCdK_9q_AT6gRqCN8NmwiuInw/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 2 Poutre (1)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTKghB-lMw7l-QpyO8npwOO5oVZW8WAFr4dJ3bQd0rbkH0W0kUq7WlOpqP16Lrwcg/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 5 Saut (1)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQt7X1Emnr17m_ob-1B4TFqj-3V1strdJ_BwUJNABopQMnaTiyz9_S7HHFRAp8Ztg/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 3 Sol Filles (1)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTUR4AoJMOlOYWYFiBzfKNfuJEM853LBvq9K_ElQbjT54JnRD7c4awTXn8u8yOTVg/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 4 Sol Garcons (1)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQu-1J6sl8Xvi6S_-a8D-e4d99OoVfDUuOiPFhJH1hTOOhGBK6RduzfRv2XKUcofA/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 6 Barres Paralleles (1)",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRUPSzDAGDSedlqcfOKTxp0hONqb_HbOtY6BBZS-uJvPO5dzQI5itRbmJo2qo2COQ/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 7 Mini Trampoline",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRLf-9Dyh81Gaft32-JCSZArh4oP77Ep2z2n6WQJldrOd393fbSyqr2ZdHZCejkYQ/pubhtml",
+     "type": "sheet"
+    },
+    {
+     "titre": "Scripts Video 7 Barre Fixe",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQfE5E4z4CoJVlUWUmXLJyVEaSRP_k9hf6iLuVIq8sNVbCuWuuEWcARj-yp41fxVw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=02572005",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=29998821",
+     "type": "wayground"
+    },
+    {
+     "titre": "Sol filles",
+     "type": "quiz",
+     "quiz": "gymnastique-artistique-9",
+     "groupe": "Gym Excellence"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=55639781",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°4 (Wayground)",
+     "url": "https://wayground.com/join?gc=28638949",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°5 (Wayground)",
+     "url": "https://wayground.com/join?gc=11206373",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°6 (Wayground)",
+     "url": "https://wayground.com/join?gc=24772325",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°7 (Wayground)",
+     "url": "https://wayground.com/join?gc=10136725",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°8 (Wayground)",
+     "url": "https://wayground.com/join?gc=25455765",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°9 (Wayground)",
+     "url": "https://wayground.com/join?gc=44723349",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°10 (Wayground)",
+     "url": "https://wayground.com/join?gc=25062549",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°11 (Wayground)",
+     "url": "https://wayground.com/join?gc=40725653",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°12 (Wayground)",
+     "url": "https://wayground.com/join?gc=35768974",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°13 (Wayground)",
+     "url": "https://wayground.com/join?gc=14084750",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "handball",
+   "nom": "Handball",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Arbitre Handball",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRGaO9nWSpDS2eiKHAMCzrQU7kgQ4hqlJnbc6ly3W081b9-LLsJy-QiLuOS239_krR6FAm_DmUPRbzy/pubembed?start=false&loop=false&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 3 – Les Arbitres",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSfxxeUTwHywHOkBYBP5HLd1EERKYuHkZ7yDg02CKI2ZBlgLJC_ogyQpaGXDjPC6Q/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – Le secrétaire",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vREXm0Iau3IflydBl2VHCRtmyXmEq4h_Mxtg4J5fII5srilu7vZ4Lakah4cyKfP3A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 3 – Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQlK8o8Z-Qgge8V5wfnQ8I-0x4OoXKy9UPb5nl6AoQ24KHlqXUyxmFYUX4mOzBd3g/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "handball-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "handball-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "handball-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Handball",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQKPHnLIoT7bnjbRMRXqdY8uHQo6G6PKCXxFBHbrWVLyHZVzONRzWGB4Cr0znXFfw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=58797046",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=54139894",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=61524982",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "laser-run",
+   "nom": "Laser run",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Arbitre LaserRun",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vS6gLv65kTTmkbVF4sWyXI86oiWHil4G0X_llG1GNXnUF9-_LvaA4lkw005RbxW9g/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "RÔLE 1 / 7 Arbitre de chambre d'appel",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRiRsZ2WgjWq6BFZNn0kFFk3FyAtxNsKK6cMuqsO1vV-GPCcY2Cthr3Yw0dU_lxow/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 4 / 7 Arbitre de départ",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTRCp6D9GJ_ALvGvByfBInT3MxFkDgdLVlT4yDlX3VmD51wh90eUvAff_wOifO2qQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 2 / 7 Arbitre chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTym4GklpDINw0cLHE2UdhUOfYmupdMm56-Hz9FK-GIFVpUsbbRG5gg7eaG8ZZFhg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 3 / 7 Arbitre de tir et arbitre de contrôle",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTyZC31vocY3mSvwsaHORG3F0fnpH4dSLXUp0P8sgG8p2kYxcYhhxeLZ1n59B2a6w/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 5 / 7 Arbitre de relais",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTRkdkaPS9Z_1di76Tt9h1JwZLoqcKBdRRjS5uxcpQPK-sIEEtKz_CxG7MGU1GCTQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 6 / 7 Arbitre de parcours",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSBjl0ROow_HrPswLPhCDIDL0cZn3WRmZKp3LfhloikhOH3WbgF-_dEKtfxpR-Qfg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Le barème des pénalités",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSbsnRTvkieCzplZ0wr5wKLldDawTnlApSMhf3z0F2krDuKKcf21Ha7PdT7sbjTmQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Les rôles au tir",
+     "type": "quiz",
+     "quiz": "laser-run-2"
+    },
+    {
+     "titre": "Les rôles sur la course",
+     "type": "quiz",
+     "quiz": "laser-run-1"
+    },
+    {
+     "titre": "Pénalités, phases et certification",
+     "type": "quiz",
+     "quiz": "laser-run-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video LaserRun",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4tE0HvoXw2_lrFU4fxo2KlGA-wTrhzEI0BnWz2rVI12QPgis5SKzhxDGPaxsPpA/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=13959533",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=63127917",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=43524461",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "natation",
+   "nom": "Natation",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRowL3I52wzSU55DZYBGViOrCrZ7kqIe46XZodRtP9y-Y8ndfl6J76jGQ0MVEOqICzWdbpr0PFRBGcZ/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 5 – Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTSD1tP2WYO6I9Ji_1Sss5ymbxnx8LwzgUS_8Rbasx1m1NVBlEbUH10XCT3xHi2aA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 5 – Le juge arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQJmDy9FZwqkTyoJYsvR2MXrIMATatn6ADylvAWbmRzhHADa-KcJ8WgrnRF2fUHew/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 5 – Le juge à l'arrivée",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSUxuntx-9yktcKIkJnS_4bYuabiyfRo8oKkbyjKiz_CDnuCMcQxPui_y3lgutWUQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 5 – Le starter",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR_iTcE-GwpZa67tAHTooqp9M-BtfM_tHl8aBOjDqSDadVy8XzBoTt-A8d8flThLw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 5 – Le juge de nage et de virages",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQh9pnB_N76fPN5-ScEemrNAX0qmJgo11VXPlm2nN-Umn01Yblfx4TRCYRpp7niQA/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "natation-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "natation-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "natation-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Natation",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQcn-o9eyu9PX-V7-1M7RXu7WNplcxpL9vEYzGuamUIuByqabVxhDlaHdekHLBHjA/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=08116085",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=21247861",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=14628725",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "petanque",
+   "nom": "Pétanque",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Juge Petanque",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRKX_L60-zqWyyGWmQEZc1OIh7GkJ8BskKl3ZU4gnmk7pEG3OY0tmROwOLnM248jw/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 5 – L'arbitre de terrain",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRQgIXnpniKtSpQMAuqZuXuOAirKhh-QCC6ogeGemEPT9knjRkkLskpFlFgE1xN-A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 5 – Les sanctions et les autres rôles",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQsmkd4SspuLMtxQtdCrD5T3_LD2EIDw9k0aGAv2ZP0Lam8BGzg43VfHfXxHzew4g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 5 – La mesure et les cas particuliers",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQqs7IsoC5ywoipjv3t0RVb6Hs3B5o9rFdJ_anwUi000HmuVHvfXN1UAnHTAOHgIQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 5 – Le cercle, le but et les boules",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTo2vcAOcvwvGxCXt77clz5Zx6uiZDOCOUCUEosqB9Qb4EXtKR_HGVJ6tjUFLPncw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 5 – Le combiné, la rencontre et le classement",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQl1Wn6sXo394G6wTzCD17O9KdmODMAx7JF7bu8j9qfhSjz73gxzTRYIAaD1OozXQ/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "petanque-2"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "petanque-3"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "petanque-1"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Petanque",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbfGsPxaSnAeC33BOJ5s2xAfpAtavGQOS27wjetXxcKK3GWmxEAa1b2_GHAgAzEg/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=52792446",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=60199550",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=66919550",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "raid-multisports",
+   "nom": "Raid multisports",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRrvbhB-bsZNzGm_a7wDEJ5iF9LTAeNIgrFiqPloPdaiDkeVljC0mKoD8sUj3ZIQ8ht7X2KSb7l_YSB/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 3 – Le signaleur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRVku5RhIZ6QxziUWj1SmglO9rTMvAZIZNcbWr2g2RDYi5v4WEczsoWM_WmxUWHrw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "SÉCURITÉ & MATÉRIEL",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTxND_J9mXvIgxBcZOYrIhWe5jkkd9pSZx28GWVlSvZV7MQdSNPYzheTqBimY6-uw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – Le contrôleur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQh7OHPekVVLJeXwesW5aZxeuFx9kah5p3hetLXD_3y4PklaHioCskBrCUZR8ZYDg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 3 – Le juge-arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR1BhmfxshLXiT1rzYeGQOB2waBaqPpeQMWWFq9dr_6sKIo8V97psaI9W8rUH1Pkg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "SÉCURITÉ & MATÉRIEL",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQpjcnsWmbgELjHNLRTkcJxGKgOg-V5MFej0u43W2smR1Vh913473zD08wFngv82w/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "JUGEMENT Le jury technique",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRdJhMfes2OyHwrXv4rcQ3BqnIXntFY5mUmtuq-z9XLivAIC_euUmqF21mv7zr0CA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "SÉCURITÉ & MATÉRIEL",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQikSiEdlhESncMYCYHzOG5ZD7-EcbFNtY-Fb4iPCodMFjuRoOL8RKlArxOPT7Xmg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "L'ÉQUIPE Le professeur accompagnateur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ7Od8fK525UPSQ52B7VgyKDUMpiULfm9R2Dpfa273kWPLF4H97CalDI9yLqubwsw/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Présentation, format & classement",
+     "type": "quiz",
+     "quiz": "raid-multisports-2"
+    },
+    {
+     "titre": "Signaleur, contrôleur & juge-arbitre",
+     "type": "quiz",
+     "quiz": "raid-multisports-1"
+    },
+    {
+     "titre": "Matériel, EPI, sanctions & jury technique",
+     "type": "quiz",
+     "quiz": "raid-multisports-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Raid Multisports",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRNpU8vikhdN5pcQi2ZLF8mlia-N_1liL4u2A6aMRHTQIeFxKfOQurPrQXo0BzszA/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=58152717",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=05125901",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=36927245",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "step",
+   "nom": "Step",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Juge Step",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vTa7Ycgx9xR4EwHauLWeZG-eZpN0vPTtxurp7y-CRvE6bCxO5Mz_QaPLp180L9n5Q/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 5 / 6 – Le juge de lignes",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQjDddOO8zzeorRv3HfPnxZoWF2RAJqbfgCrSb3Ai_Xc4cABzIkaacPZ0YuZA_Y-Q/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 1 / 6 – Le juge de création artistique",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTAcnH5hq62kvjdxlxnjtKVv8QqHlD7tPKlTdQbUVnodW-N93aamosjNl_yjCqOsg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 6 – Le juge de synchronisation",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRTrjUppzepmeEH2n4o5EefRbHu3CmkNw8LFfYzdqqbSfpeAlg5YvGZ-ANRVi1jeA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 6 – Le juge de technique des bras",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRJR6BmzxNVdqXfMJ1VtmtgL5xyrlCvjqm6YLH8qG1Kkoig8loH9oV89wMuQaRtrw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 6 – Le juge de technique des pas",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRyXhlJH7m58UR6s9UYHwasd_6vM06aN4z3Vl4s5-U2xDVobl0h7gUas7kD3GhKXA/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "step-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "step-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "step-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Step",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRZ9gKHT2qfu1ZN1ec_UadjdRwQiyG92yEKyw8v5KMZSRgvZxCnVFvCQkdec__ltg/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=12449406",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=14339710",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=40955518",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "surf",
+   "nom": "Surf",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRQLmbPFjkkUVLfRHj1G-VizLGwKTVmqqZfu_3MNkAVDC4kM3NerWMvlcGYpb_dabtPoCo7_RZtYg9I/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 8 – Le beach marshall",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS4Y3M12Ng1nUoYwNwb0_IedIC8ixFBDL5QLJnFmlv4psq578UIaXmm4ubhzFQeGg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 8 – Le juge de box",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSrTBm5_q5gu0J2IOlby_zZh3CKpNpVfVLkjFjyUMhgGVPgDwxjxh3ueiF7JCgZog/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 8 – Le spoter",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRFhNFWQ0eHuWbfDNRheZXHX8H_zZp6OPeTf67nk4I8JY93pSyBhvrGOeM2v9tsSg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 8 – Le juge",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQHbrw68Uu0MoNezKgHNVxacM-vIWrsy-hR0JhI56LiRnD62bz_ATMpF_XlYCkPCg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 8 – Le juge d'affichage",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQY1u_cU8c3Guvka6Pa6Hj_ZKz7R3-oWCbnc6UTBu1YUIPWDtJJT_g5LNbE3BqwpQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 6 / 8 – Le juge comptable",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR51wg98DxgwA0ATUgA7mHoQ-0pz4toAp6SIm2187B8w9lOnh-QEBfEucI81wkGug/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 7 / 8 – Le chef juge",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSc8OCJN5KUE1aCDFiLrRFDJrrPdcGWJLf-rW0XQ0o6ehMCZEM5Qu-lT4ixDjTdlQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "UNSS — 2024 I 2028",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSaOy_Satd1ApnGMFvEdBTfy1TTZgrc9JEWF9Imd7OzpvLav4gy6saNaXadM65HCw/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Organisation & sécurité",
+     "type": "quiz",
+     "quiz": "surf-1"
+    },
+    {
+     "titre": "Jugement & notation",
+     "type": "quiz",
+     "quiz": "surf-2"
+    },
+    {
+     "titre": "Box, comptabilité & sanctions",
+     "type": "quiz",
+     "quiz": "surf-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Raid Multisports",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRNpU8vikhdN5pcQi2ZLF8mlia-N_1liL4u2A6aMRHTQIeFxKfOQurPrQXo0BzszA/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=10924813",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=12120845",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=28478221",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "savate-boxe-francaise",
+   "nom": "Savate boxe française",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vSLmSHxo3zoWiN-7hzzdJOuG9vLCOneuxh8yIcr8c3DPiNbhPHl41j30qRR9P4HvE4C8m4zCHnC4Z4w/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 3 – L'arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRN5vMPWZYV9EfD7OB82UxMfSCG5hve9Ck7gIekC2D3z6eM0E9gB4GlW3iQepvi4A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 3 – Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQLtw2FygHiCDSiYy6ljsAuYvDBh82MJxPzGT2e6WfzE8tjQoI3PDeILoo5FBmR9A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 3 – Le juge",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT2aWhAG1z_gcDpZzFD4dH6Z8szW38DLEJfzcNcHgP6bojJuH-8lVjX5oflbtjoDg/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "savate-boxe-francaise-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "savate-boxe-francaise-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "savate-boxe-francaise-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Savate",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTkUsN7WAAFtBSO9o7OYKvV7AnTZc87RpJ0Z_9ybEdm8GiLeml4dT2z5M05blcN_g/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=28656757",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=00173173",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=37381237",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "tennis-de-table",
+   "nom": "Tennis de table",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Arbitre TennisDeTable",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQFNyr1TqIOHcC7icR8mh0HwbgUc6HivYj3ODOp9fJhSITbRcC07o5J6pzFNGFL5Q/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "RÔLE 1 / 2 L'arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRRQDGaNWMSklw7nMJMy8ThSY6gaMC8EuO7ARA33hL5sFWxBwlPRuuKUeSe647n4Q/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Les moments particuliers",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ-NT1xzC04QK8Ay5rIdhwhU3UAxPfDPFjHOANpejZWeCVy-DgLx_19w8xudlIl-Q/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 2 / 2 L'arbitre adjoint",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQE5hDrE-f3d8kdCe5fGVvWYstwdOLUcM3furHf7B8Q209VFHOJNZo4l5ft2iEEaQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Les 8 étapes du jeune arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRMj_hTDjkc8cubsCv7i6xY8FmEa5f9yEfdS2bTsd0rgo1OWr1kL6X-WYOsh5nYEA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "La feuille de partie",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQa0J8OxYwO09IsdZRAPZsq3Byd6l4lqItcOOwSlON68jYC1Gw5A4TKkAXSly9gzw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Le double Très important en double",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ9FdIFXDjXauI6nb4rYljnfZ7wtRdBh2fvFdbUmd1hxgtJXMhrYtrOni6kwMg2Fg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Règlement spécifique Sport Partagé (Handisport)",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRmWMnoE_pIz7bTnbUJaXCFzPJJd0-YAm82ojz8t3wRh4O2081ouLiezfZzX8a2Hg/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "L'arbitre, l'arbitre adjoint et le service",
+     "type": "quiz",
+     "quiz": "tennis-de-table-2"
+    },
+    {
+     "titre": "Annonces, gestuelle, cartons et temps mort",
+     "type": "quiz",
+     "quiz": "tennis-de-table-1"
+    },
+    {
+     "titre": "Le double, l'accélération et le sport partagé",
+     "type": "quiz",
+     "quiz": "tennis-de-table-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video TennisDeTable",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7ANslVvF36U-whKvD9Um5YkIoiazgWXpdP4zQfyjDzYrkTy5j21VM2x1_JqrVhw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=44441197",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=29466221",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=45571693",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "triathlon",
+   "nom": "Triathlon",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Arbitre Triathlon  (3)",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRVur0W1GR9bpNxQq9ORsCheBzVmGwyBh-fZoiJiyrMDldsjlXjrKs0bb2WsxjjVSHH6oQHMUX79skn/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 10 – Le juge de chambre d'appel",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRvDifpvU7j67BdNPSQixvaOVuDt09Izs1udsaVkpNoPKMqdvPv2h3HYFnWMjd0qQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 10 – Le contrôleur technique",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTmks_rQCr2252Yuxcsjcrjbnm_-hxfBFFrp8OTVMmtYtWe-AuC0a3KoMoaQsCdyg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 10 – Le juge d'entrée et de sortie de parc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSCa_no-f5_mdyva8cZzzrgnOcQv_snAR1FMy1HPpw_5BEbfesGQu_AokJmTMLS1w/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Scénarios vidéo (SharePoint)",
+     "url": "https://unionnationalsportscolaire-my.sharepoint.com/:w:/g/personal/adeline_couturier-detrez_unss_org/IQAGcVwM9OK9QatRHaLgB3MsAZcBRg87cZYTWkloYFuOWiw?e=gvIVek",
+     "type": "sharepoint"
+    },
+    {
+     "titre": "POSTE / 10 – Le juge dans le parc",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS27howB1y8m6esUQl-Q0OFpk6P17G37mrK683tAiEsvpvaNzdviVJ4uszq1d61dw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 10 – Le juge de relais",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRrSYai1FFcq5q9fn26m6ieoIENiYx-0D9XRLjS_hYaIts2XACLkB9dhsIJdkkfZA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 6 / 10 – Le starter",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSEycDGJC1kw25qfbZZ68vpfvOtXVftDlkHB3NiNTnBFCdSY_ivEEoQS-fPDY0iGQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 7 / 10 – Le juge de parcours",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRADo07t4wXXKGVd-Z5WIsg62QN0LEebVPSheqMXrflbAzBcNZiyO1wBFt-5tvUvw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 8 / 10 – Le pointeur-chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRGGEh4bfEZ7SIHXfAlM2nIqd6_UfxZB0HG7apDh5k0bDJlp_Q40vXM1EB1dvea4g/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 9 / 10 – Le juge d'arrivée",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT_1JWMjKOSGfMIM0e8bf4QqiqmRmv6NtWK3jUaJh9Qovf7_6WjBjj6vyVcJpPbqQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 10 / 10 – L'aiguilleur final",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vT4XgjVthk7yD6krIRrZX-3kg2XY8IGfNtU2CG7cEfSF_bfwpISK-QQGG4b5Tjhlw/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Chambre d'appel & contrôle technique",
+     "type": "quiz",
+     "quiz": "triathlon-1"
+    },
+    {
+     "titre": "Le parc à vélos : transition, box & relais",
+     "type": "quiz",
+     "quiz": "triathlon-3"
+    },
+    {
+     "titre": "Départs, parcours, arrivée & sanctions",
+     "type": "quiz",
+     "quiz": "triathlon-2"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Triathlon",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBAlGhpc6OQ9Nyt-KH2_wDXnll6epbpNZbdvnVNm3L-jhH9iFixP1sbAcBL_BRxQ/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=01539813",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=32210661",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=20514830",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "ultimate",
+   "nom": "Ultimate",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Présentation sans titre",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vTsefUnz-7N095bWnwQ_ZcrkAmLV22QL6cn98ylJtJGhhhGsAXhYfMoHdZ7EZNQqSdv4cWLbDYUSf_W/pubembed?start=false&loop=true&delayms=5000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "UNSS — 26 I 27",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTg3LGUFh6fNKmOJ9dWjmosDDlREM-Dzf2np5ExvU_2T3O3uNHtf29Gw6NzOsyE1A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 3 / 3 L'observateur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQ1SwC_S8sDcFCjs4jY1FKZ9TYAszPBYqC6TKryBhDpgV4lCD2Rky0hEL346Ck6gw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 1 / 3 Le secrétaire",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vS_daUCKR4bZsMqiGJMVabhSO3FkuAsNkWeDO7_W9_B3j_UtbHLIIS0w2H9Bk3PQw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 2 / 3 Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSlPzFNfSqSjuK3qqhiRnfwVjDJTpHvp5Mt1Nn-RD3JyP_NGRzGnN7LkqrGFCZ3cw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÈGLE CLÉ Le compte",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTyHPoSizXONBIl-xIOn0sdbyB46_EHP2xsWf1f8lOZxIU_zuZkZt2O4uPxkBZ83w/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÈGLEMENT Les manquements aux règles",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRXBfim6v6GfnhtubUifhxEPjQAiMgZrXkm75-MwnI4yRPYHzajG9XCsWmpFhcNsg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "OBSERVATEUR Les signaux manuels",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQEwxEbV4953Naf7qLJSLSlw90gHHtJ2nT9xV8HrIyjXPiJyEwSb8MIA1ZJZcbCCQ/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "ESPRIT DU JEU",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQUa383lyosWtXMEAwSgreYSe94hv8_MzjdK5Sz1zthsQtlrW3s7T0kZC9RrWY5nw/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Le jeu, l'esprit du jeu & l'équipement",
+     "type": "quiz",
+     "quiz": "ultimate-1"
+    },
+    {
+     "titre": "Le compte, le check & les manquements",
+     "type": "quiz",
+     "quiz": "ultimate-2"
+    },
+    {
+     "titre": "Les rôles du Jeune Superviseur & les signaux",
+     "type": "quiz",
+     "quiz": "ultimate-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Ultimate",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTo_FhUOHNoH2vSJE4xe5FTzc1tuIgr1lQFdC80dh-TIfvaUgsQlxBGQ4abvLipQQ/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=03777421",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=12096397",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=14865293",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "voile",
+   "nom": "Voile",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Le Jeune Arbitre Voile",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQBpPCf-xVemQiYkq4rGzStEjan-S18ODtjnCoVwzERvpB-l2uzLl4Pn0lgBqppAw/pubembed?start=true&loop=true&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "RÔLE 1 / 9 L'umpire",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRsQNKyeLdMwv5V7qlNerIBkES2x4QZmDDk8ZSvSnih2vldIl1L-hSc1Giuk6fzFw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 6 / 9 Le chronométreur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSfAvvhexSnL7EdHFgzVWPUKkWXVkTMoLzYsgHaQPT8M9NLy16JVx5kHvjRssf8jA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 2 / 9 Le président du comité de course",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSFmfnd-x36n-1AVYcB_HjX3vv21DI4DqIMnA3InL2SUM-dTDW1EcSZl-Huk75RkA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 4 / 9 Le pavillonneur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQnRmfqwHiti-3tyR15HqZym_in0bfB7lj2hgVX6KYFEJNBgYsTwdyv6wn1XziXNg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Pénalités, réclamations et sigles de classement",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR7DKNyhkJ1NRo5fljW43ri87TI9iyq6d5un2pT6wprqXaWyfxCZVUbEh2DZs0NLA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "RÔLE 8 / 9 Le mouilleur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vShn0o3jXvZGttjqE2P4xdL228h4KMoo3osiR2ePCh0XA1xWyYMfdmGJdb1x8CwPw/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Le rôle à terre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRWhrJp1XySSZuikEjjhxG0jKJPdBM0l_JNAeGmc5s-nH-bbcMJVHDiu3bH40omfA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "La procédure de départ et les rappels",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vThASHKcCZes4UF2swQL4HW1eBBefZ32YSWPeECwc4R_QkGaj1BIc-8uCueRirOfg/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Départ, pénalités et sport partagé",
+     "type": "quiz",
+     "quiz": "voile-3"
+    },
+    {
+     "titre": "Vocabulaire et règles de priorité",
+     "type": "quiz",
+     "quiz": "voile-1"
+    },
+    {
+     "titre": "Les 9 rôles du jeune arbitre",
+     "type": "quiz",
+     "quiz": "voile-2"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Voile",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRqIGb2EHys_y6ZcckR1Cp7NLtrUc2J1NMMDHEr4lIPKLMOvnr1Eb5o0Cy-LssyOQ/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=26349165",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=07245421",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=58936941",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "volley-ball",
+   "nom": "Volley-ball",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Juge Volleyball",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vR-oKksUY_yBw8ky_H4XN_lYwW72sLlkZHKteOtkMxZY4_Uz64wFjYJjv3lTiTfuw/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "POSTE 1 / 5 – Le premier arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vR05XK0PnQeyeXircji96BUHl_BNa9sNAROyV882pX8Vbnz9wBPGFEL_blzLT8MnA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 3 / 5 – Le marqueur",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRMPv_IpvWo4ZZoUt0x4gbcqTmkTWJFZASEticDzf3CGkR2WWsEk_qA3r4Qz8tGew/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 2 / 5 – Le second arbitre",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSUeY3W0h2RLYNZ9qkLEqKEAZBrJrXV1MDzuV0hc2IN85jHXSyPurLGJqOJKzIwng/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 4 / 5 – Le capitaine et le jeune coach",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTcrbRiDY-cMMqAOqJDTiJFZ7nZWBWb7EvnpcqFNf7pxoRGFpWrrMtyaBkZvAi3Lg/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "POSTE 5 / 5 – Le volley 4x4",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vSFCkq4fPLqzQGUnGI2BvX0WiSFloDPfToJH8FCvXUto79IpA2VcMwzKzXc9aHkrA/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "volley-ball-3"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "volley-ball-1"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "volley-ball-2"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video Volleyball",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSb_QxIXzwvUZ6XSN_Xgu7WsSjpjQLklKN14ASfST2QGXDr6rB0NprEBMBBMWmVCw/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=54077374",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=61868990",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=53448638",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "vtt",
+   "nom": "VTT",
+   "actif": true,
+   "decouvrir": [
+    {
+     "titre": "Jeune Juge VTT",
+     "url": "https://docs.google.com/presentation/d/e/2PACX-1vRpSLD0lND-_V-26FZLC512MSKuX20xQgBxAPeSpibPyUBp7FuC9kmC83fICjAoZw/pubembed?start=false&loop=false&delayms=3000",
+     "type": "slides"
+    }
+   ],
+   "regles": [
+    {
+     "titre": "Le juge arbitre du cross-relais",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vQGRd-vXbAsitqZmQUeb_0xIHFUcaNT8swq6GPpNnhYWXIpf9fMv1-iwvba_if_zA/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Le contrôleur technique",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vRN5BMl3gGE1SjygUZcrqzuA9dlVyZZ3ZTHo913qyDFfhTQjnj-XMAC6f0EUbSG-A/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Le juge arbitre du rallye enduro",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTCCY2LaF_NGCLDLaGFEBCiSnuuDqE5z_T6rJQCvx4dKtWH7fXBZL4hJ5jufky5Ag/pub?embedded=true",
+     "type": "doc"
+    },
+    {
+     "titre": "Le juge arbitre du trial",
+     "url": "https://docs.google.com/document/d/e/2PACX-1vTMdIxcadAQZ8vi5S2oDcGNldJ9F7bACvw7yDAn8470qQRx5q_In_8x6koA8tPMdg/pub?embedded=true",
+     "type": "doc"
+    }
+   ],
+   "analyse": [
+    {
+     "titre": "Niveau 1 (Facile)",
+     "type": "quiz",
+     "quiz": "vtt-1"
+    },
+    {
+     "titre": "Niveau 2 (Intermédiaire)",
+     "type": "quiz",
+     "quiz": "vtt-2"
+    },
+    {
+     "titre": "Niveau 3 (Difficile)",
+     "type": "quiz",
+     "quiz": "vtt-3"
+    }
+   ],
+   "construction": [
+    {
+     "titre": "Scenarios Video VTT",
+     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS4Jlljx1OziMUfuGhlTlUoMkAW4_LKFDFI97BG3oKBt064qIB5yVzN9rJLERavhQ/pubhtml",
+     "type": "sheet"
+    }
+   ],
+   "certification": [
+    {
+     "titre": "Entraînement n°1 (Wayground)",
+     "url": "https://wayground.com/join?gc=00780291",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°2 (Wayground)",
+     "url": "https://wayground.com/join?gc=26023939",
+     "type": "wayground"
+    },
+    {
+     "titre": "Entraînement n°3 (Wayground)",
+     "url": "https://wayground.com/join?gc=38377475",
+     "type": "wayground"
+    }
+   ]
+  },
+  {
+   "id": "gym-acro",
+   "nom": "Gym acro",
+   "actif": false,
+   "decouvrir": [],
+   "regles": [],
+   "analyse": [],
+   "construction": [],
+   "certification": []
+  },
+  {
+   "id": "danse-hip-hop",
+   "nom": "Danse hip-hop",
+   "actif": false,
+   "decouvrir": [],
+   "regles": [],
+   "analyse": [],
+   "construction": [],
+   "certification": []
+  },
+  {
+   "id": "danse-choregraphiee",
+   "nom": "Danse chorégraphiée",
+   "actif": false,
+   "decouvrir": [],
+   "regles": [],
+   "analyse": [],
+   "construction": [],
+   "certification": []
+  },
+  {
+   "id": "judo",
+   "nom": "Judo",
+   "actif": false,
+   "decouvrir": [],
+   "regles": [],
+   "analyse": [],
+   "construction": [],
+   "certification": []
+  },
+  {
+   "id": "tir-a-l-arc",
+   "nom": "Tir à l'arc",
+   "actif": false,
+   "decouvrir": [],
+   "regles": [],
+   "analyse": [],
+   "construction": [],
+   "certification": []
+  }
+ ],
+ "version": 1
+}

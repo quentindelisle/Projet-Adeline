@@ -1,0 +1,265 @@
+{
+ "id": "surf-3",
+ "titre": "Box, comptabilité & sanctions",
+ "sousTitre": "Quiz Jeune Officiel Surf",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT SURF UNSS",
+ "sport": "surf",
+ "source": "https://admirable-faloodeh-fcde79.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le juge de box vérifie les passages du relais dans le box.",
+     "r": "valable",
+     "e": "Le juge de box vérifie les passages du relais dans le box."
+    },
+    {
+     "q": "Le juge de box ne s'occupe jamais des relais.",
+     "r": "faute",
+     "e": "Le contrôle des relais est justement sa mission principale."
+    },
+    {
+     "q": "Le franchissement de la ligne du box se fait avec les deux pieds pour valider le relais.",
+     "r": "valable",
+     "e": "Le franchissement de la ligne avec deux pieds valide le relais."
+    },
+    {
+     "q": "Le franchissement de la ligne se fait avec un seul pied.",
+     "r": "faute",
+     "e": "Les deux pieds sont nécessaires pour valider le relais, pas un seul."
+    },
+    {
+     "q": "Un compétiteur qui passe le relais à l'extérieur du box perd 2 points.",
+     "r": "valable",
+     "e": "Un compétiteur passant le relais à l'extérieur du box entraîne moins 2 points."
+    },
+    {
+     "q": "Un compétiteur qui passe le relais à l'extérieur du box ne perd aucun point.",
+     "r": "faute",
+     "e": "Cette faute entraîne bien une pénalité de 2 points."
+    },
+    {
+     "q": "Un compétiteur qui regagne son box sans sa planche perd 2 points.",
+     "r": "valable",
+     "e": "Un compétiteur regagnant son box sans sa planche entraîne moins 2 points."
+    },
+    {
+     "q": "La planche n'est jamais nécessaire pour regagner le box.",
+     "r": "faute",
+     "e": "Regagner le box sans sa planche est au contraire sanctionné."
+    },
+    {
+     "q": "Une équipe qui regagne le box en retard à la fin de la série perd 3 points.",
+     "r": "valable",
+     "e": "Une équipe regagnant le box en retard à la fin de la série entraîne moins 3 points."
+    },
+    {
+     "q": "Un retard en fin de série n'entraîne aucune pénalité.",
+     "r": "faute",
+     "e": "Un retard en fin de série entraîne bien une pénalité de 3 points."
+    },
+    {
+     "q": "Un compétiteur qui dépasse le nombre de vagues autorisées perd 2 points par vague supplémentaire.",
+     "r": "valable",
+     "e": "Le dépassement du nombre de vagues autorisées entraîne moins 2 points par vague supplémentaire."
+    },
+    {
+     "q": "Les vagues supplémentaires ne sont jamais pénalisées.",
+     "r": "faute",
+     "e": "Chaque vague supplémentaire entraîne une pénalité de 2 points."
+    },
+    {
+     "q": "La sortie du box d'un compétiteur autre que le coach fait perdre 2 points.",
+     "r": "valable",
+     "e": "La sortie du box d'un compétiteur autre que le coach entraîne moins 2 points."
+    },
+    {
+     "q": "N'importe quel compétiteur peut sortir du box sans conséquence.",
+     "r": "faute",
+     "e": "Seul le coach est autorisé à sortir du box ; les autres compétiteurs sont sanctionnés."
+    },
+    {
+     "q": "Le coach qui va dans l'eau fait perdre 2 points à son équipe.",
+     "r": "valable",
+     "e": "Le coach qui va dans l'eau entraîne moins 2 points pour son équipe."
+    },
+    {
+     "q": "Le coach peut entrer dans l'eau librement sans sanction.",
+     "r": "faute",
+     "e": "Le coach entrant dans l'eau est au contraire sanctionné de 2 points."
+    },
+    {
+     "q": "Seules les 2 meilleures vagues de chaque surfeur sont comptabilisées en établissement.",
+     "r": "valable",
+     "e": "Seules les 2 meilleures vagues de chaque surfeur sont comptabilisées, soit 8 vagues au total pour l'équipe."
+    },
+    {
+     "q": "Toutes les vagues surfées sont comptabilisées sans limite.",
+     "r": "faute",
+     "e": "Seules les 2 meilleures vagues de chaque surfeur comptent, pas toutes les vagues."
+    },
+    {
+     "q": "Le score de l'équipe se base sur un total de 8 vagues en établissement.",
+     "r": "valable",
+     "e": "Avec 2 meilleures vagues par surfeur sur 4 compétiteurs, le total est de 8 vagues pour l'équipe."
+    },
+    {
+     "q": "Le score de l'équipe se base sur 20 vagues.",
+     "r": "faute",
+     "e": "Le score se base sur 8 vagues (2 par surfeur x 4 compétiteurs), pas 20."
+    },
+    {
+     "q": "Une équipe incomplète dans son box à la fin de la série est disqualifiée, sauf blessure constatée.",
+     "r": "valable",
+     "e": "L'équipe qui n'est pas complète dans son box à la fin de la série est disqualifiée, sauf blessure constatée."
+    },
+    {
+     "q": "Une équipe incomplète n'est jamais disqualifiée, quelle que soit la raison.",
+     "r": "faute",
+     "e": "Elle est disqualifiée sauf en cas de blessure constatée, ce n'est pas jamais."
+    },
+    {
+     "q": "Un juge absent ou en retard pour juger sa série élimine son équipe de la compétition.",
+     "r": "valable",
+     "e": "Le juge qui se présente en retard ou est absent pour juger sa série élimine de la compétition son équipe."
+    },
+    {
+     "q": "L'absence d'un juge n'a aucune conséquence pour l'équipe qu'il représente.",
+     "r": "faute",
+     "e": "L'absence du juge entraîne l'élimination de son équipe de la compétition."
+    },
+    {
+     "q": "Le juge comptable s'organise en binôme pour relever les notes sans gêner les juges.",
+     "r": "valable",
+     "e": "Le juge comptable s'organise à 2 pour relever les notes sans gêner les juges, dès le surfeur rentré."
+    },
+    {
+     "q": "Le juge comptable travaille toujours seul.",
+     "r": "faute",
+     "e": "Le juge comptable travaille en binôme, pas seul."
+    },
+    {
+     "q": "Le juge comptable vérifie que toutes les feuilles de juges ont été rendues.",
+     "r": "valable",
+     "e": "Le juge comptable s'assure que toutes les feuilles ont été rendues."
+    },
+    {
+     "q": "Le juge comptable ne vérifie jamais les feuilles de juges.",
+     "r": "faute",
+     "e": "Cette vérification est justement l'une de ses missions principales."
+    },
+    {
+     "q": "Le juge comptable transmet les résultats au juge d'affichage.",
+     "r": "valable",
+     "e": "Le juge comptable transmet les résultats au juge d'affichage."
+    },
+    {
+     "q": "Le juge comptable transmet les résultats directement au public.",
+     "r": "faute",
+     "e": "Les résultats sont transmis au juge d'affichage, pas directement au public."
+    },
+    {
+     "q": "Le juge d'affichage récupère les résultats de la comptabilité pour le panneau.",
+     "r": "valable",
+     "e": "Le juge d'affichage récupère les résultats de la comptabilité et tient à jour le panneau d'affichage."
+    },
+    {
+     "q": "Le juge d'affichage invente ses propres résultats.",
+     "r": "faute",
+     "e": "Il récupère les résultats officiels de la comptabilité, il ne les invente pas."
+    },
+    {
+     "q": "Le juge d'affichage transmet toute information utile au beach marshall.",
+     "r": "valable",
+     "e": "Le juge d'affichage transmet toute information utile au beach marshall."
+    },
+    {
+     "q": "Le juge d'affichage ne communique avec personne.",
+     "r": "faute",
+     "e": "Il communique justement avec le beach marshall pour transmettre les informations utiles."
+    },
+    {
+     "q": "En cas d'égalité de points, la meilleure vague sans bonification départage les équipes.",
+     "r": "valable",
+     "e": "En cas d'égalité de points en fin de série, la meilleure vague sans bonification des surfeurs départage les équipes."
+    },
+    {
+     "q": "En cas d'égalité, un tirage au sort départage systématiquement les équipes.",
+     "r": "faute",
+     "e": "C'est la meilleure vague qui départage, pas un tirage au sort."
+    },
+    {
+     "q": "Si l'égalité persiste, la seconde meilleure vague est prise en compte, jusqu'à la 8ème vague.",
+     "r": "valable",
+     "e": "Si l'égalité persiste, la seconde meilleure vague est prise en compte, et ainsi de suite jusqu'à la huitième vague."
+    },
+    {
+     "q": "Si l'égalité persiste, la compétition s'arrête sans vainqueur désigné.",
+     "r": "faute",
+     "e": "Le processus continue jusqu'à la 8ème vague pour désigner un vainqueur."
+    },
+    {
+     "q": "En sport partagé, l'équipe est composée de 4 élèves dont 2 en situation de handicap.",
+     "r": "valable",
+     "e": "En sport partagé, la composition d'équipe est de 4 élèves dont 2 élèves en situation de handicap."
+    },
+    {
+     "q": "En sport partagé, tous les élèves doivent être valides.",
+     "r": "faute",
+     "e": "2 des 4 élèves doivent être en situation de handicap, pas tous valides."
+    },
+    {
+     "q": "La mixité en sport partagé exige au moins 1 fille ou 1 garçon parmi les 4 compétiteurs.",
+     "r": "valable",
+     "e": "La mixité est obligatoire parmi les 4 compétiteurs : 1 fille ou 1 garçon minimum."
+    },
+    {
+     "q": "La mixité n'est jamais exigée en sport partagé.",
+     "r": "faute",
+     "e": "La mixité est au contraire obligatoire en sport partagé."
+    },
+    {
+     "q": "En sport partagé, chaque élève peut prendre 10 vagues.",
+     "r": "valable",
+     "e": "En sport partagé, chaque élève peut prendre 10 vagues (seules les 2 meilleures sont comptabilisées)."
+    },
+    {
+     "q": "En sport partagé, chaque élève ne peut prendre qu'une seule vague.",
+     "r": "faute",
+     "e": "Chaque élève peut prendre jusqu'à 10 vagues, pas une seule."
+    },
+    {
+     "q": "Si l'équipe sport partagé comporte plusieurs filles, le score de la meilleure vague est doublé pour les deux meilleures, dans la limite de 10 points.",
+     "r": "valable",
+     "e": "C'est la bonification prévue pour les équipes sport partagé comportant plusieurs filles."
+    },
+    {
+     "q": "Aucune bonification n'existe pour les filles en sport partagé.",
+     "r": "faute",
+     "e": "Une bonification existe bien, doublant le score de la meilleure vague dans la limite de 10 points."
+    },
+    {
+     "q": "En sport partagé, un élève valide ou l'accompagnateur peut aider un élève en situation de handicap dans l'eau et hors de l'eau.",
+     "r": "valable",
+     "e": "Le ou les élèves valides ainsi que l'accompagnateur peuvent aider un élève en situation de handicap dans l'eau et hors de l'eau."
+    },
+    {
+     "q": "Aucune aide n'est autorisée en sport partagé, même pour un élève en situation de handicap.",
+     "r": "faute",
+     "e": "L'aide est au contraire explicitement autorisée dans ce cadre."
+    },
+    {
+     "q": "Seul l'élève surfeur porte le lycra de son équipe en sport partagé.",
+     "r": "valable",
+     "e": "Seul l'élève surfeur porte le lycra de son équipe."
+    },
+    {
+     "q": "Tous les membres de l'équipe sport partagé doivent porter le lycra, y compris les accompagnateurs.",
+     "r": "faute",
+     "e": "Seul l'élève surfeur porte le lycra, pas les accompagnateurs."
+    }
+   ]
+  }
+ ]
+}

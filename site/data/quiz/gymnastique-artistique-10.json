@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-10",
+ "titre": "Sol garçons",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Excellence",
+ "entete": "QUIZ 4 / 7 · RÈGLEMENT GYMNASTIQUE EXCELLENCE UNSS · GAM",
+ "sport": "gymnastique-artistique",
+ "source": "https://ubiquitous-rugelach-fb0045.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La durée maximale de l'enchaînement au sol garçons est de 1 minute 30 en Excellence.",
+     "r": "valable",
+     "e": "Le règlement Excellence porte la durée à 1mn30, contre 1 minute en Équipe Établissement."
+    },
+    {
+     "q": "La durée maximale au sol garçons reste de 1 minute en Excellence.",
+     "r": "faute",
+     "e": "La durée passe à 1mn30 en Excellence, un allongement par rapport à l'Équipe Établissement."
+    },
+    {
+     "q": "La pénalité pour « mouvement sans sortie » ne s'applique pas au sol en Excellence.",
+     "r": "valable",
+     "e": "Cette exception reste identique à celle prévue en Équipe Établissement."
+    },
+    {
+     "q": "La pénalité pour mouvement sans sortie s'applique désormais au sol en Excellence.",
+     "r": "faute",
+     "e": "Le règlement maintient cette exception : la pénalité ne s'applique pas au sol."
+    },
+    {
+     "q": "L'exigence AC AV au sol garçons Excellence impose une série d'au moins 2 éléments avant avec envol et salto.",
+     "r": "valable",
+     "e": "Cette exigence renforcée est spécifique à l'Excellence, plus exigeante qu'en Équipe Établissement."
+    },
+    {
+     "q": "L'exigence AC AV impose un seul élément acrobatique avant, sans série ni salto obligatoire.",
+     "r": "faute",
+     "e": "L'Excellence exige une série de 2 éléments avec salto, pas un élément isolé."
+    },
+    {
+     "q": "L'exigence AC AR au sol garçons Excellence impose une série d'au moins 2 éléments arrière avec envol et salto.",
+     "r": "valable",
+     "e": "Cette exigence renforcée est spécifique à l'Excellence."
+    },
+    {
+     "q": "L'exigence AC AR impose un seul élément acrobatique arrière, sans série ni salto obligatoire.",
+     "r": "faute",
+     "e": "L'Excellence exige une série de 2 éléments avec salto, pas un élément isolé."
+    },
+    {
+     "q": "Les exigences de composition au sol garçons Excellence sont ATR, S/M/AP, AC AV et AC AR.",
+     "r": "valable",
+     "e": "Ces 4 exigences reprennent la structure de l'Équipe Établissement, avec des séries renforcées pour AC AV/AR."
+    },
+    {
+     "q": "Les exigences sont entièrement différentes de celles de l'Équipe Établissement.",
+     "r": "faute",
+     "e": "La structure des exigences reste proche de l'Équipe Établissement, mais les séries acrobatiques sont renforcées."
+    },
+    {
+     "q": "Le barème de difficulté au sol garçons Excellence va de C = 0,40 pt à F = 1,00 pt.",
+     "r": "valable",
+     "e": "Le règlement Excellence utilise les lettres C à F."
+    },
+    {
+     "q": "Le barème au sol garçons reste A = 0,40 pt à D = 1,00 pt en Excellence.",
+     "r": "faute",
+     "e": "Le barème Excellence utilise C à F, pas A à D."
+    },
+    {
+     "q": "Utilisation insuffisante de l'espace au sol garçons Excellence est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique reste applicable en Excellence."
+    },
+    {
+     "q": "L'utilisation de l'espace n'est plus évaluée au sol garçons en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point reste appliquée pour cette faute spécifique."
+    },
+    {
+     "q": "Une réception d'un élément directement hors des lignes est pénalisée de 0,30 point au sol garçons Excellence.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute n'est plus pénalisée en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point reste appliquée en Excellence."
+    },
+    {
+     "q": "Une touche des mains, des pieds ou d'une autre partie du corps hors des lignes est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute est pénalisée de 0,10 point seulement en Excellence.",
+     "r": "faute",
+     "e": "La pénalité reste de 0,30 point, pas 0,10 point."
+    },
+    {
+     "q": "Une touche d'une main ou d'un pied à l'extérieur des lignes est pénalisée de 0,10 point.",
+     "r": "valable",
+     "e": "Cette pénalité légère reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute légère est pénalisée de 0,30 point en Excellence.",
+     "r": "faute",
+     "e": "La pénalité reste de 0,10 point, pas 0,30 point."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins au sol garçons Excellence est pénalisé de 2 points.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins n'entraîne aucune pénalité en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 2 points reste appliquée pour un exercice trop court."
+    },
+    {
+     "q": "Le chronomètre au sol garçons démarre au premier mouvement et s'arrête au dernier mouvement.",
+     "r": "valable",
+     "e": "Ce principe de chronométrage reste identique à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "Le chronomètre démarre uniquement au premier salto de l'enchaînement.",
+     "r": "faute",
+     "e": "Le chronomètre démarre bien au premier mouvement, sans changement de règle."
+    },
+    {
+     "q": "L'exigence ATR au sol garçons Excellence impose un élément passant par l'appui tendu renversé.",
+     "r": "valable",
+     "e": "Cette exigence reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence ATR impose un élément de rotation latérale en Excellence.",
+     "r": "faute",
+     "e": "ATR désigne un élément passant par l'appui tendu renversé, sans changement."
+    },
+    {
+     "q": "L'exigence S/M/AP regroupe les éléments de Souplesse, de Maintien ou d'Appui au sol garçons Excellence.",
+     "r": "valable",
+     "e": "Cette exigence reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence S/M/AP ne concerne que les éléments de Souplesse en Excellence.",
+     "r": "faute",
+     "e": "Cette exigence regroupe bien Souplesse, Maintien et Appui, sans restriction."
+    },
+    {
+     "q": "La note de composition maximale au sol garçons Excellence est de 2 points.",
+     "r": "valable",
+     "e": "Cette note maximale reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "La note de composition maximale au sol garçons Excellence est de 3 points.",
+     "r": "faute",
+     "e": "La note de composition reste plafonnée à 2 points en Excellence."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS ne reçoit aucune valeur au sol garçons Excellence.",
+     "r": "valable",
+     "e": "Cette règle générale reste applicable en Excellence."
+    },
+    {
+     "q": "Un élément non reconnu reçoit automatiquement une valeur par défaut en Excellence.",
+     "r": "faute",
+     "e": "Un élément non reconnu ne reçoit aucune valeur, sans exception."
+    },
+    {
+     "q": "Aux fautes spécifiques du sol garçons s'ajoutent les fautes de tenue, de technique et de comportement.",
+     "r": "valable",
+     "e": "Ces fautes générales s'appliquent en plus des fautes spécifiques en Excellence."
+    },
+    {
+     "q": "Seules les fautes spécifiques au sol comptent en Excellence, sans les fautes générales.",
+     "r": "faute",
+     "e": "Les fautes générales s'ajoutent bien aux fautes spécifiques du sol garçons."
+    },
+    {
+     "q": "La note finale au sol garçons Excellence est égale à (Note D + Note E) moins les pénalités.",
+     "r": "valable",
+     "e": "Ce mode de calcul reste identique à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "La note finale au sol garçons Excellence ne prend en compte que la Note D.",
+     "r": "faute",
+     "e": "La note finale combine bien Note D et Note E, moins les pénalités."
+    },
+    {
+     "q": "Un élément identique réalisé deux fois au sol garçons Excellence n'est comptabilisé qu'une seule fois.",
+     "r": "valable",
+     "e": "Cette règle de comptage reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Un élément identique répété deux fois est comptabilisé deux fois en Excellence.",
+     "r": "faute",
+     "e": "L'élément identique n'est comptabilisé qu'une seule fois, sans changement."
+    },
+    {
+     "q": "Aucune musique n'est obligatoire au sol garçons Excellence, comme en Équipe Établissement.",
+     "r": "valable",
+     "e": "Cette absence d'obligation musicale reste identique entre les deux catégories."
+    },
+    {
+     "q": "La musique devient obligatoire au sol garçons en Excellence.",
+     "r": "faute",
+     "e": "Aucune musique n'est requise au sol garçons, ni en Excellence ni en Équipe Établissement."
+    },
+    {
+     "q": "Le barème de valeur d'un élément F au sol garçons Excellence est de 1,00 point.",
+     "r": "valable",
+     "e": "F correspond à la valeur maximale du barème Excellence."
+    },
+    {
+     "q": "Le barème de valeur d'un élément F au sol garçons Excellence est de 0,80 point.",
+     "r": "faute",
+     "e": "F vaut 1,00 point, la valeur maximale, pas 0,80 point (qui correspond à E)."
+    },
+    {
+     "q": "Le barème de valeur d'un élément D au sol garçons Excellence est de 0,60 point.",
+     "r": "valable",
+     "e": "D correspond à la deuxième valeur du barème Excellence."
+    },
+    {
+     "q": "Le barème de valeur d'un élément D au sol garçons Excellence est de 0,40 point.",
+     "r": "faute",
+     "e": "D vaut 0,60 point, pas 0,40 point (qui correspond à C)."
+    },
+    {
+     "q": "Un élément peut être déclassé à une valeur inférieure s'il n'est pas techniquement conforme au sol garçons.",
+     "r": "valable",
+     "e": "Cette règle de déclassement reste applicable en Excellence."
+    },
+    {
+     "q": "Le déclassement n'existe pas au sol garçons en Excellence.",
+     "r": "faute",
+     "e": "Le déclassement à une valeur inférieure reste possible en Excellence."
+    },
+    {
+     "q": "Le barème Excellence C à F permet des éléments plus difficiles que le barème A à D de l'Équipe Établissement.",
+     "r": "valable",
+     "e": "L'Excellence est construite pour accueillir des gymnastes de niveau technique supérieur."
+    },
+    {
+     "q": "Les barèmes Excellence et Équipe Établissement couvrent exactement le même niveau technique.",
+     "r": "faute",
+     "e": "Le barème Excellence vise un niveau technique supérieur à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "La devise « simple et correct vaut mieux que difficile et incorrect » reste valable au sol garçons Excellence.",
+     "r": "valable",
+     "e": "Cette philosophie du jugement UNSS s'applique à toutes les catégories."
+    },
+    {
+     "q": "Cette devise ne s'applique plus en Excellence, où seule la difficulté compte.",
+     "r": "faute",
+     "e": "La devise reste un principe directeur du jugement, y compris en Excellence."
+    }
+   ]
+  }
+ ]
+}

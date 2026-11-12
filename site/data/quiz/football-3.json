@@ -1,0 +1,265 @@
+{
+ "id": "football-3",
+ "titre": "Formats de jeu, règlement et certification",
+ "sousTitre": "Quiz Jeune Arbitre Football",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT FOOTBALL UNSS",
+ "sport": "football",
+ "source": "https://storied-chaja-ed8c0f.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "L'arrêt à la mi-temps est de 20 minutes.",
+     "r": "faute",
+     "e": "Attention : mi-temps : 10' maximum."
+    },
+    {
+     "q": "À 8, une équipe compte 8 joueurs plus 2 remplaçants.",
+     "r": "faute",
+     "e": "Attention : 8 joueurs dont 1 gardien + 5 remplaçants."
+    },
+    {
+     "q": "Le football à 7 est destiné aux lycées garçons et filles (établissement).",
+     "r": "valable",
+     "e": "Le foot à 7 concerne les championnats établissement lycées."
+    },
+    {
+     "q": "Le temps mort est interdit dans les 5 dernières minutes de jeu.",
+     "r": "valable",
+     "e": "Temps mort interdit dans les 5 dernières minutes."
+    },
+    {
+     "q": "L'évaluation pratique observe 10 critères notés de 0 à 2 points.",
+     "r": "faute",
+     "e": "Attention : 4 critères notés de 1 (insuffisant) à 4 (très bonne maîtrise)."
+    },
+    {
+     "q": "Le ballon utilisé est un ballon n°5.",
+     "r": "valable",
+     "e": "Ballon n°5 (68 à 70 cm, 410 à 450 g)."
+    },
+    {
+     "q": "Les buts du football à 7 ou à 8 mesurent 7,32 m sur 2,44 m en toutes circonstances.",
+     "r": "faute",
+     "e": "Attention : but de 6 m x 2,10 m (7,32 m autorisé en lycée, phase qualificative)."
+    },
+    {
+     "q": "Les buts du football à 7 ou à 8 mesurent 6 m sur 2,10 m.",
+     "r": "valable",
+     "e": "But de 6 m x 2,10 m (7,32 m autorisé en lycée, phase qualificative)."
+    },
+    {
+     "q": "À 11, une équipe avec moins de 8 joueurs sur le terrain est déclarée forfait, sauf exclusion temporaire.",
+     "r": "valable",
+     "e": "Moins de 8 joueurs = forfait (sauf exclusion temporaire)."
+    },
+    {
+     "q": "Le rayon du cercle central est de 6 m à 11.",
+     "r": "faute",
+     "e": "Attention : cercle central de 9,15 m de rayon à 11."
+    },
+    {
+     "q": "Sur le banc, les adultes accompagnateurs peuvent s'adresser à l'arbitre à tout moment.",
+     "r": "faute",
+     "e": "Attention : seul le jeune coach s'adresse à l'arbitre ; les adultes non."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 14/20.",
+     "r": "faute",
+     "e": "Attention : national : 16/20."
+    },
+    {
+     "q": "Sur le banc, seul le jeune coach peut s'adresser à l'arbitre.",
+     "r": "valable",
+     "e": "Seul le jeune coach s'adresse à l'arbitre ; les adultes non."
+    },
+    {
+     "q": "Les buts du football à 11 mesurent 7,32 m sur 2,44 m.",
+     "r": "valable",
+     "e": "But de 7,32 m x 2,44 m à 11."
+    },
+    {
+     "q": "Chaque équipe peut utiliser un temps mort de 5 minutes par période.",
+     "r": "faute",
+     "e": "Attention : temps mort de 1'30 par période."
+    },
+    {
+     "q": "Le rayon du cercle central est de 6 m à 7 et à 8.",
+     "r": "valable",
+     "e": "Cercle central de 6 m à 7/8."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 16/20.",
+     "r": "valable",
+     "e": "National : 16/20."
+    },
+    {
+     "q": "Le football à 8 concerne les collèges garçons et filles (établissement).",
+     "r": "valable",
+     "e": "Le foot à 8 : collèges établissement et collèges filles excellence."
+    },
+    {
+     "q": "Le temps mort est autorisé à tout moment, même dans les 5 dernières minutes.",
+     "r": "faute",
+     "e": "Attention : temps mort interdit dans les 5 dernières minutes."
+    },
+    {
+     "q": "À 8, une équipe compte 8 joueurs dont un gardien, plus 5 remplaçants.",
+     "r": "valable",
+     "e": "8 joueurs dont 1 gardien + 5 remplaçants."
+    },
+    {
+     "q": "Le rayon du cercle central est de 9,15 m à 11.",
+     "r": "valable",
+     "e": "Cercle central de 9,15 m de rayon à 11."
+    },
+    {
+     "q": "Un terrain à 7 ou à 8 mesure de 90 à 120 m de long.",
+     "r": "faute",
+     "e": "Attention : à 7 et à 8 : 50 à 75 m x 45 à 55 m."
+    },
+    {
+     "q": "La certification académique exige une note minimale de 12/20.",
+     "r": "faute",
+     "e": "Attention : académique : 14/20."
+    },
+    {
+     "q": "Les buts du football à 11 mesurent 6 m sur 2,10 m.",
+     "r": "faute",
+     "e": "Attention : but de 7,32 m x 2,44 m à 11."
+    },
+    {
+     "q": "Les filets de buts sont interdits avant les finales nationales.",
+     "r": "faute",
+     "e": "Attention : filets obligatoires dès les finales départementales."
+    },
+    {
+     "q": "Un terrain à 7 ou à 8 mesure de 50 à 75 m de long.",
+     "r": "valable",
+     "e": "À 7 et à 8 : 50 à 75 m x 45 à 55 m."
+    },
+    {
+     "q": "À 11, une équipe peut jouer sans limite à 5 joueurs sur le terrain.",
+     "r": "faute",
+     "e": "Attention : moins de 8 joueurs = forfait (sauf exclusion temporaire)."
+    },
+    {
+     "q": "Le rayon du cercle central est de 9,15 m à 7 et à 8.",
+     "r": "faute",
+     "e": "Attention : cercle central de 6 m à 7/8."
+    },
+    {
+     "q": "La certification académique exige une note minimale de 14/20.",
+     "r": "valable",
+     "e": "Académique : 14/20."
+    },
+    {
+     "q": "La certification départementale exige une note minimale de 16/20.",
+     "r": "faute",
+     "e": "Attention : départemental : 12/20."
+    },
+    {
+     "q": "L'évaluation additionne 4 points de théorie et 16 points de pratique.",
+     "r": "valable",
+     "e": "Théorie sur 4 points + pratique sur 16 points."
+    },
+    {
+     "q": "Les filets de buts sont obligatoires à partir des finales départementales.",
+     "r": "valable",
+     "e": "Filets obligatoires dès les finales départementales."
+    },
+    {
+     "q": "L'évaluation pratique observe 4 critères, notés de 1 à 4 points chacun.",
+     "r": "valable",
+     "e": "4 critères notés de 1 (insuffisant) à 4 (très bonne maîtrise)."
+    },
+    {
+     "q": "Le football à 7 est réservé aux collèges garçons.",
+     "r": "faute",
+     "e": "Attention : le foot à 7 concerne les championnats établissement lycées."
+    },
+    {
+     "q": "L'arrêt à la mi-temps est de 10 minutes maximum.",
+     "r": "valable",
+     "e": "Mi-temps : 10' maximum."
+    },
+    {
+     "q": "Chaque équipe peut utiliser un temps mort de 1'30 par période.",
+     "r": "valable",
+     "e": "Temps mort de 1'30 par période."
+    },
+    {
+     "q": "À 11, une équipe compte 11 joueurs dont un gardien, plus 5 remplaçants.",
+     "r": "valable",
+     "e": "11 joueurs dont 1 gardien + 5 remplaçants."
+    },
+    {
+     "q": "Si un penalty est accordé et un temps mort demandé, le penalty est exécuté avant le temps mort.",
+     "r": "valable",
+     "e": "Le penalty est exécuté avant le temps mort."
+    },
+    {
+     "q": "Les buts doivent impérativement être fixés au sol.",
+     "r": "valable",
+     "e": "La fixation des buts au sol est une règle impérative."
+    },
+    {
+     "q": "À 11, une équipe compte 11 joueurs plus 10 remplaçants.",
+     "r": "faute",
+     "e": "Attention : 11 joueurs dont 1 gardien + 5 remplaçants."
+    },
+    {
+     "q": "Le football à 8 concerne les lycées excellence garçons.",
+     "r": "faute",
+     "e": "Attention : le foot à 8 : collèges établissement et collèges filles excellence."
+    },
+    {
+     "q": "L'évaluation additionne 10 points de théorie et 10 points de pratique.",
+     "r": "faute",
+     "e": "Attention : théorie sur 4 points + pratique sur 16 points."
+    },
+    {
+     "q": "À 11, aucun remplacement n'est possible dans les 5 dernières minutes, sauf blessure constatée.",
+     "r": "valable",
+     "e": "Aucun remplacement dans les 5 dernières minutes sauf blessure."
+    },
+    {
+     "q": "Le ballon utilisé est un ballon n°3.",
+     "r": "faute",
+     "e": "Attention : ballon n°5 (68 à 70 cm, 410 à 450 g)."
+    },
+    {
+     "q": "Un terrain de football à 11 mesure de 50 à 75 m de long.",
+     "r": "faute",
+     "e": "Attention : à 11 : longueur de 90 à 120 m."
+    },
+    {
+     "q": "Un terrain de football à 11 mesure de 90 à 120 m de long.",
+     "r": "valable",
+     "e": "À 11 : longueur de 90 à 120 m."
+    },
+    {
+     "q": "Si un penalty est accordé et un temps mort demandé, le temps mort a lieu avant le penalty.",
+     "r": "faute",
+     "e": "Attention : le penalty est exécuté avant le temps mort."
+    },
+    {
+     "q": "Fixer les buts au sol est seulement une recommandation.",
+     "r": "faute",
+     "e": "Attention : la fixation des buts au sol est une règle impérative."
+    },
+    {
+     "q": "À 11, les remplacements sont libres jusqu'à la dernière seconde.",
+     "r": "faute",
+     "e": "Attention : aucun remplacement dans les 5 dernières minutes sauf blessure."
+    },
+    {
+     "q": "La certification départementale exige une note minimale de 12/20.",
+     "r": "valable",
+     "e": "Départemental : 12/20."
+    }
+   ]
+  }
+ ]
+}

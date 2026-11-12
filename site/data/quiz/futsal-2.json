@@ -1,0 +1,265 @@
+{
+ "id": "futsal-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre Futsal",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT FUTSAL UNSS",
+ "sport": "futsal",
+ "source": "https://effulgent-rugelach-f732e5.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un remplacement peut se faire à tout moment du match, ballon en jeu ou non.",
+     "r": "valable",
+     "e": "Un remplacement peut se faire à tout moment du match dans la zone des 5 mètres, ballon en jeu ou non."
+    },
+    {
+     "q": "Un remplacement ne peut se faire que lorsque le jeu est arrêté.",
+     "r": "faute",
+     "e": "Le remplacement en futsal peut se faire ballon en jeu, contrairement à d'autres sports collectifs."
+    },
+    {
+     "q": "Le joueur remplaçant doit attendre la sortie du joueur remplacé avant d'entrer sur le terrain.",
+     "r": "valable",
+     "e": "Le remplaçant se présente dans la zone de changement et entre au moment de la sortie du remplacé."
+    },
+    {
+     "q": "Le joueur remplaçant peut entrer sur le terrain avant que le remplacé soit sorti.",
+     "r": "faute",
+     "e": "Si le remplaçant entre avant la sortie du remplacé, c'est un mauvais changement sanctionné."
+    },
+    {
+     "q": "Le carton jaune entraîne l'attribution de 3 points de pénalité à l'équipe fautive.",
+     "r": "valable",
+     "e": "Le carton jaune entraîne l'attribution de 3 points de pénalité à l'équipe du joueur fautif."
+    },
+    {
+     "q": "Le carton jaune n'entraîne aucun point de pénalité pour l'équipe.",
+     "r": "faute",
+     "e": "3 points de pénalité sont bien attribués à l'équipe fautive lors d'un carton jaune."
+    },
+    {
+     "q": "Le carton rouge entraîne l'attribution de 5 points de pénalité à l'équipe fautive.",
+     "r": "valable",
+     "e": "Le carton rouge entraîne l'attribution de 5 points de pénalité à l'équipe du joueur fautif."
+    },
+    {
+     "q": "Le carton rouge n'entraîne que 1 point de pénalité pour l'équipe.",
+     "r": "faute",
+     "e": "Le carton rouge entraîne 5 points de pénalité, pas 1 seul."
+    },
+    {
+     "q": "Seuls les Coups Francs Directs sont comptabilisés comme des fautes collectives.",
+     "r": "valable",
+     "e": "Tous les Coups Francs Directs, et uniquement ceux-ci, sont comptabilisés comme fautes collectives."
+    },
+    {
+     "q": "Tous les coups francs, directs comme indirects, sont comptabilisés comme fautes collectives.",
+     "r": "faute",
+     "e": "Seuls les CFD comptent comme fautes collectives, pas les CFI."
+    },
+    {
+     "q": "Le compteur de fautes collectives est remis à zéro à la mi-temps.",
+     "r": "valable",
+     "e": "Le compteur des Fautes Collectives est remis à zéro à la Mi-Temps."
+    },
+    {
+     "q": "Le compteur de fautes collectives ne revient jamais à zéro de tout le match.",
+     "r": "faute",
+     "e": "Le compteur repart à zéro à chaque mi-temps."
+    },
+    {
+     "q": "Au-delà du barème autorisé, chaque nouvelle faute collective donne lieu à un coup de pied de pénalité à 9 mètres.",
+     "r": "valable",
+     "e": "Les fautes suivant le seuil autorisé sont également sanctionnées par un coup de pied de pénalité à 9 mètres."
+    },
+    {
+     "q": "Au-delà du barème autorisé, la faute supplémentaire donne lieu à un penalty classique à 6 mètres.",
+     "r": "faute",
+     "e": "C'est un coup de pied de pénalité à 9 mètres qui est accordé, pas un penalty à 6 mètres."
+    },
+    {
+     "q": "Le gardien de but dispose de 4 secondes pour remettre le ballon en jeu dans sa moitié de terrain.",
+     "r": "valable",
+     "e": "Le gardien doit remettre en jeu le ballon dans les 4 secondes lorsqu'il est dans sa propre moitié."
+    },
+    {
+     "q": "Le gardien de but dispose d'un temps illimité pour remettre le ballon en jeu.",
+     "r": "faute",
+     "e": "La règle des 4 secondes s'applique bien au gardien dans sa propre moitié de terrain."
+    },
+    {
+     "q": "Le gardien ne peut pas saisir à la main une passe bottée volontairement par un coéquipier.",
+     "r": "valable",
+     "e": "Un gardien ne peut pas saisir avec les mains une passe bottée volontairement par un coéquipier, sinon CFI."
+    },
+    {
+     "q": "Le gardien peut saisir à la main n'importe quelle passe d'un coéquipier, sans restriction.",
+     "r": "faute",
+     "e": "Saisir à la main une passe bottée volontairement par un coéquipier est sanctionné par un CFI."
+    },
+    {
+     "q": "Après avoir donné le ballon à un partenaire, le gardien ne peut pas le retoucher dans sa propre moitié avant qu'un adversaire l'ait joué.",
+     "r": "valable",
+     "e": "Le gardien ne peut plus retoucher le ballon dans sa moitié sur une passe volontaire avant qu'un adversaire l'ait touché."
+    },
+    {
+     "q": "Le gardien peut retoucher le ballon autant de fois qu'il le souhaite dans sa propre moitié de terrain.",
+     "r": "faute",
+     "e": "Cette restriction ne s'applique que dans la propre moitié de terrain du gardien, pas dans la moitié adverse."
+    },
+    {
+     "q": "Une seule mise en garde (carton blanc) peut être accordée par équipe et par rencontre.",
+     "r": "valable",
+     "e": "1 seule mise en garde peut être accordée par équipe et par rencontre."
+    },
+    {
+     "q": "Une équipe peut recevoir plusieurs cartons blancs au cours du même match.",
+     "r": "faute",
+     "e": "Le carton blanc est limité à une seule mise en garde par équipe et par match."
+    },
+    {
+     "q": "La règle de l'avantage permet à l'arbitre de laisser le jeu se poursuivre après une faute.",
+     "r": "valable",
+     "e": "Le Jeune Arbitre peut laisser l'avantage à un joueur subissant une faute afin de laisser l'action se dérouler."
+    },
+    {
+     "q": "La règle de l'avantage oblige l'arbitre à arrêter systématiquement le jeu après toute faute.",
+     "r": "faute",
+     "e": "L'avantage permet justement de ne pas arrêter le jeu immédiatement."
+    },
+    {
+     "q": "Si un but est marqué après un avantage, la faute collective est créditée mais sans pénalité à 9 mètres.",
+     "r": "valable",
+     "e": "Si le but est marqué sur l'action, la faute collective est créditée mais n'entraîne pas de pénalité à 9 mètres."
+    },
+    {
+     "q": "Si un but est marqué après un avantage, l'équipe fautive reçoit quand même un coup de pied de pénalité.",
+     "r": "faute",
+     "e": "Il n'y a pas de double sanction : pas de pénalité supplémentaire si le but est marqué."
+    },
+    {
+     "q": "Les joueurs remplaçants doivent revêtir une chasuble lorsqu'ils sont sur le banc de touche.",
+     "r": "valable",
+     "e": "Les joueurs remplaçants doivent revêtir une CHASUBLE lorsqu'ils sont sur le banc de touche."
+    },
+    {
+     "q": "Les joueurs remplaçants n'ont pas besoin de chasuble tant qu'ils sont sur le banc.",
+     "r": "faute",
+     "e": "La chasuble est obligatoire pour tout remplaçant installé sur le banc."
+    },
+    {
+     "q": "Deux adultes maximum sont autorisés sur le banc, obligatoirement assis.",
+     "r": "valable",
+     "e": "Deux adultes maximum sont autorisés sur le banc et doivent être obligatoirement assis."
+    },
+    {
+     "q": "Autant d'adultes que nécessaire peuvent se tenir debout sur le banc.",
+     "r": "faute",
+     "e": "Le règlement limite à deux adultes maximum, assis, sur le banc de touche."
+    },
+    {
+     "q": "Durant le match, seul le Jeune Coach est autorisé à se tenir debout dans sa zone technique.",
+     "r": "valable",
+     "e": "Durant le match, seul le jeune coach est autorisé à se tenir debout dans sa zone technique."
+    },
+    {
+     "q": "Tous les adultes présents sur le banc peuvent se tenir debout librement.",
+     "r": "faute",
+     "e": "Seul le Jeune Coach a le droit de rester debout dans sa zone technique."
+    },
+    {
+     "q": "Il n'y a pas de hors-jeu en futsal, quelle que soit la période du match.",
+     "r": "valable",
+     "e": "Le règlement ne prévoit aucune exception : il n'y a pas de hors-jeu en futsal."
+    },
+    {
+     "q": "Le hors-jeu ne s'applique qu'en seconde période du match.",
+     "r": "faute",
+     "e": "Il n'y a pas de hors-jeu en futsal, ni en première ni en seconde période."
+    },
+    {
+     "q": "Une rentrée de touche non exécutée dans les 4 secondes est perdue au profit de l'équipe adverse.",
+     "r": "valable",
+     "e": "Si elle n'est pas exécutée dans les 4 secondes, la rentrée de touche revient à l'équipe adverse."
+    },
+    {
+     "q": "Une rentrée de touche peut être retardée sans limite de temps sans conséquence.",
+     "r": "faute",
+     "e": "Le délai de 4 secondes s'applique à la rentrée de touche, au-delà elle est perdue."
+    },
+    {
+     "q": "Le ballon doit franchir entièrement la ligne de but pour que le but soit valable.",
+     "r": "valable",
+     "e": "Le ballon doit franchir totalement la ligne de but pour que le but soit accordé."
+    },
+    {
+     "q": "Un ballon qui touche seulement la ligne sans la franchir entièrement valide un but.",
+     "r": "faute",
+     "e": "Il faut un franchissement complet de la ligne, pas un simple contact."
+    },
+    {
+     "q": "Si le ballon heurte un montant puis explose avant d'entrer dans le but, les arbitres accordent le but.",
+     "r": "valable",
+     "e": "Si, après avoir heurté un montant ou la transversale, le ballon explose puis entre dans le but, le but est accordé."
+    },
+    {
+     "q": "Si le ballon explose après avoir heurté un montant, le but n'est jamais accordé.",
+     "r": "faute",
+     "e": "C'est une exception prévue par le règlement : le but est accordé malgré l'incident."
+    },
+    {
+     "q": "Le changement de camp des deux équipes s'effectue à la mi-temps.",
+     "r": "valable",
+     "e": "Le banc de chaque équipe est situé du côté du but à défendre et le changement de côté se fait à la mi-temps."
+    },
+    {
+     "q": "Les équipes changent de camp après chaque but marqué.",
+     "r": "faute",
+     "e": "Le changement de camp a lieu à la mi-temps, pas après chaque but."
+    },
+    {
+     "q": "Un joueur devenant gardien doit porter un maillot ou une chasuble avec son propre numéro visible.",
+     "r": "valable",
+     "e": "Un joueur qui devient gardien doit porter un maillot de gardien ou une chasuble différente avec son numéro."
+    },
+    {
+     "q": "Un joueur qui devient gardien n'a besoin d'aucun signe distinctif particulier.",
+     "r": "faute",
+     "e": "Le règlement exige un signe distinctif avec le numéro du joueur devenu gardien."
+    },
+    {
+     "q": "Le gardien de but peut être remplacé à tout moment, y compris pendant une séance de tirs au but.",
+     "r": "valable",
+     "e": "Le gardien de but peut être remplacé à tout moment : pendant le match, avant ou pendant les tirs au but."
+    },
+    {
+     "q": "Le gardien de but ne peut jamais être remplacé après le début d'une séance de tirs au but.",
+     "r": "faute",
+     "e": "Le règlement autorise explicitement le remplacement du gardien même pendant les tirs au but."
+    },
+    {
+     "q": "Sur un coup franc, le même joueur ne peut pas toucher le ballon deux fois de suite.",
+     "r": "valable",
+     "e": "Le même joueur ne peut pas toucher deux fois de suite le ballon, sinon un CFI est accordé à l'adversaire."
+    },
+    {
+     "q": "Sur un coup franc, le tireur peut toucher le ballon deux fois de suite sans conséquence.",
+     "r": "faute",
+     "e": "Toucher deux fois de suite le ballon est sanctionné par un coup franc indirect adverse."
+    },
+    {
+     "q": "Un coup franc non exécuté dans les 4 secondes est accordé à l'équipe adverse.",
+     "r": "valable",
+     "e": "Le coup franc doit être exécuté dans les quatre secondes, sinon un CFI est accordé à l'équipe adverse."
+    },
+    {
+     "q": "Un coup franc peut être retardé indéfiniment sans aucune sanction.",
+     "r": "faute",
+     "e": "Le délai des 4 secondes s'applique aussi à l'exécution des coups francs."
+    }
+   ]
+  }
+ ]
+}

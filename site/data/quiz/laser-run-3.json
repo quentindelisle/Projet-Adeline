@@ -1,0 +1,265 @@
+{
+ "id": "laser-run-3",
+ "titre": "Pénalités, phases et certification",
+ "sousTitre": "Quiz Jeune Arbitre Laser Run",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT LASER RUN UNSS",
+ "sport": "laser-run",
+ "source": "https://shimmering-puffpuff-141f07.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Tenir le pistolet à 2 mains n'a jamais de conséquence sur la sanction.",
+     "r": "faute",
+     "e": "Attention : c'est une faute sanctionnée par l'élimination."
+    },
+    {
+     "q": "Un mauvais passage de relais entraîne une élimination.",
+     "r": "valable",
+     "e": "C'est une faute sanctionnée par l'élimination."
+    },
+    {
+     "q": "Officier sur un championnat de France donne automatiquement la certification nationale.",
+     "r": "faute",
+     "e": "Attention : la certification n'est pas systématique, elle dépend de l'évaluation."
+    },
+    {
+     "q": "Les concurrents de la finale B peuvent aussi devenir champions de France.",
+     "r": "faute",
+     "e": "Attention : seule la finale A donne accès au titre de champion de France."
+    },
+    {
+     "q": "La partie théorique de l'évaluation est notée sur 4 points.",
+     "r": "valable",
+     "e": "Théorie sur 4 points, pratique sur 16 points."
+    },
+    {
+     "q": "Avec 16 à 27 équipes, toutes les équipes sont placées en finale A.",
+     "r": "faute",
+     "e": "Attention : la répartition se fait moitié-moitié entre finale A et finale B."
+    },
+    {
+     "q": "Utiliser un pistolet non homologué entraîne une élimination.",
+     "r": "valable",
+     "e": "C'est une faute sanctionnée par l'élimination."
+    },
+    {
+     "q": "Utiliser un pistolet non homologué n'entraîne qu'un simple avertissement.",
+     "r": "faute",
+     "e": "Attention : c'est une faute sanctionnée par l'élimination."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 12/20.",
+     "r": "faute",
+     "e": "Attention : 16/20 est le seuil minimal pour le niveau national."
+    },
+    {
+     "q": "Le carton jaune signale une pénalité de 10 secondes.",
+     "r": "faute",
+     "e": "Attention : le jaune est l'avertissement, le rouge signale les 10 secondes."
+    },
+    {
+     "q": "Bousculer, faire tomber ou gêner un autre athlète entraîne une disqualification.",
+     "r": "valable",
+     "e": "C'est une faute grave sanctionnée par la disqualification."
+    },
+    {
+     "q": "Partir sur l'épreuve de course avec seulement 3 lumières vertes ou moins entraîne une disqualification.",
+     "r": "valable",
+     "e": "C'est sanctionné par la disqualification (contre élimination avec 4 lumières vertes)."
+    },
+    {
+     "q": "La phase A ne prend en compte que le temps du premier relayeur.",
+     "r": "faute",
+     "e": "Attention : phase A : addition des 4 temps individuels."
+    },
+    {
+     "q": "Contrevenir aux règles d'habillement n'entraîne aucune sanction.",
+     "r": "faute",
+     "e": "Attention : c'est une faute sanctionnée par 10 secondes dès la première fois."
+    },
+    {
+     "q": "Un faux départ entraîne directement une disqualification.",
+     "r": "faute",
+     "e": "Attention : le faux départ fait partie des fautes sanctionnées par 10 secondes."
+    },
+    {
+     "q": "Tenir le pistolet à 2 mains (sauf précision sport partagé) entraîne une élimination.",
+     "r": "valable",
+     "e": "C'est une faute sanctionnée par l'élimination."
+    },
+    {
+     "q": "Dans ce cas, la pénalité est automatiquement annulée faute de temps.",
+     "r": "faute",
+     "e": "Attention : elle est alors due dans la zone de pénalité, juste avant l'arrivée."
+    },
+    {
+     "q": "Une arme non en sécurité (non tournée vers la cible) entraîne un avertissement.",
+     "r": "valable",
+     "e": "C'est sanctionné par un avertissement, puis 10'' à la récidive."
+    },
+    {
+     "q": "Pour la formation JCP, le candidat doit être titulaire d'une licence fédérale Laser-Run.",
+     "r": "valable",
+     "e": "Une licence fédérale Laser-Run est requise pour cette formation."
+    },
+    {
+     "q": "Si la pénalité est commise lors de la dernière série de tir du dernier relayeur, elle est due dans la zone de pénalité avant l'arrivée.",
+     "r": "valable",
+     "e": "Elle est alors due dans la zone de pénalité, juste avant l'arrivée."
+    },
+    {
+     "q": "Contrevenir aux règles d'habillement entraîne une pénalité de 10 secondes.",
+     "r": "valable",
+     "e": "C'est une faute sanctionnée par 10 secondes dès la première fois."
+    },
+    {
+     "q": "Le championnat de France se déroule en une seule journée.",
+     "r": "faute",
+     "e": "Attention : 3 jours : J1 accueil, J2 phases A et B, J3 finales."
+    },
+    {
+     "q": "Le carton reste affiché en permanence jusqu'à la fin de la compétition.",
+     "r": "faute",
+     "e": "Attention : le carton est retiré au dernier passage du coureur concerné."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 16/20.",
+     "r": "valable",
+     "e": "16/20 est le seuil minimal pour le niveau national."
+    },
+    {
+     "q": "Seuls les concurrents en finale A peuvent prétendre au titre de champion de France.",
+     "r": "valable",
+     "e": "Seule la finale A donne accès au titre de champion de France."
+    },
+    {
+     "q": "Le rangement du pistolet avant l'échauffement n'a aucune importance réglementaire.",
+     "r": "faute",
+     "e": "Attention : c'est sanctionné par un avertissement, puis 10'' à la récidive."
+    },
+    {
+     "q": "Un faux départ entraîne une pénalité de 10 secondes.",
+     "r": "valable",
+     "e": "Le faux départ fait partie des fautes sanctionnées par 10 secondes."
+    },
+    {
+     "q": "Chaque binôme en phase B doit compter au moins 1 fille.",
+     "r": "valable",
+     "e": "Chaque binôme doit comporter au moins 1 fille (collège et lycée)."
+    },
+    {
+     "q": "La composition des binômes en phase B est totalement libre.",
+     "r": "faute",
+     "e": "Attention : chaque binôme doit comporter au moins 1 fille (collège et lycée)."
+    },
+    {
+     "q": "En finale, toutes les équipes partent systématiquement ensemble, sans décalage.",
+     "r": "faute",
+     "e": "Attention : handicap-start toutes les 5'' par équipe, puis pack-start à 30''."
+    },
+    {
+     "q": "Ne pas garder le pistolet dans sa boîte avant l'échauffement officiel est sanctionné par un avertissement.",
+     "r": "valable",
+     "e": "C'est sanctionné par un avertissement, puis 10'' à la récidive."
+    },
+    {
+     "q": "Il n'existe aucune passerelle entre l'UNSS et la fédération en Laser Run.",
+     "r": "faute",
+     "e": "Attention : une passerelle existe bien via la formation Juges Certification Program (JCP)."
+    },
+    {
+     "q": "Officier en tant que jeune arbitre sur un championnat de France ne donne pas automatiquement la certification nationale.",
+     "r": "valable",
+     "e": "La certification n'est pas systématique, elle dépend de l'évaluation."
+    },
+    {
+     "q": "Le carton jaune signale un avertissement sur le pas de tir.",
+     "r": "valable",
+     "e": "Le jaune est l'avertissement, le rouge signale les 10 secondes."
+    },
+    {
+     "q": "En finale, le départ se fait en handicap-start toutes les 5 secondes, puis en pack-start à 30 secondes.",
+     "r": "valable",
+     "e": "Handicap-start toutes les 5'' par équipe, puis pack-start à 30''."
+    },
+    {
+     "q": "Le carton est retiré au dernier passage du coureur.",
+     "r": "valable",
+     "e": "Le carton est retiré au dernier passage du coureur concerné."
+    },
+    {
+     "q": "Le championnat de France se déroule sur 3 jours : accueil, phases A/B, finales.",
+     "r": "valable",
+     "e": "3 jours : J1 accueil, J2 phases A et B, J3 finales."
+    },
+    {
+     "q": "La partie théorique de l'évaluation est notée sur 16 points.",
+     "r": "faute",
+     "e": "Attention : théorie sur 4 points, pratique sur 16 points."
+    },
+    {
+     "q": "Bousculer un autre athlète n'entraîne qu'une pénalité de 10 secondes.",
+     "r": "faute",
+     "e": "Attention : c'est une faute grave sanctionnée par la disqualification."
+    },
+    {
+     "q": "Un mauvais passage de relais n'entraîne qu'un simple avertissement.",
+     "r": "faute",
+     "e": "Attention : c'est une faute sanctionnée par l'élimination."
+    },
+    {
+     "q": "Avec 16 à 27 équipes, la moitié va en finale A et l'autre moitié en finale B.",
+     "r": "valable",
+     "e": "La répartition se fait moitié-moitié entre finale A et finale B."
+    },
+    {
+     "q": "Partir avec seulement 3 lumières vertes n'a aucune conséquence.",
+     "r": "faute",
+     "e": "Attention : c'est sanctionné par la disqualification (contre élimination avec 4 lumières vertes)."
+    },
+    {
+     "q": "Si le jeune arbitre tient 2 rôles différents, sa note pratique est la moyenne des 2 prestations.",
+     "r": "valable",
+     "e": "C'est la moyenne des 2 prestations pratiques qui est retenue."
+    },
+    {
+     "q": "Une arme non en sécurité n'entraîne jamais de sanction particulière.",
+     "r": "faute",
+     "e": "Attention : c'est sanctionné par un avertissement, puis 10'' à la récidive."
+    },
+    {
+     "q": "La phase B additionne les 2 temps des binômes.",
+     "r": "valable",
+     "e": "Phase B : addition des temps des binômes (2 coureurs par binôme)."
+    },
+    {
+     "q": "La phase A additionne les 4 temps individuels de chaque relayeur.",
+     "r": "valable",
+     "e": "Phase A : addition des 4 temps individuels."
+    },
+    {
+     "q": "La licence fédérale n'est pas nécessaire pour accéder à la formation JCP.",
+     "r": "faute",
+     "e": "Attention : une licence fédérale Laser-Run est requise pour cette formation."
+    },
+    {
+     "q": "Si le jeune arbitre tient 2 rôles, seule la meilleure note est retenue.",
+     "r": "faute",
+     "e": "Attention : c'est la moyenne des 2 prestations pratiques qui est retenue."
+    },
+    {
+     "q": "La phase B reprend exactement les mêmes temps que la phase A.",
+     "r": "faute",
+     "e": "Attention : phase B : addition des temps des binômes (2 coureurs par binôme)."
+    },
+    {
+     "q": "Les jeunes arbitres nationaux peuvent être inscrits par la FFPM à la formation JCP de l'UIPM.",
+     "r": "valable",
+     "e": "Une passerelle existe bien via la formation Juges Certification Program (JCP)."
+    }
+   ]
+  }
+ ]
+}

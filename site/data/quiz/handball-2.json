@@ -1,0 +1,265 @@
+{
+ "id": "handball-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre Handball",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT HANDBALL UNSS",
+ "sport": "handball",
+ "source": "https://zippy-treacle-543afa.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un remplaçant peut entrer sur l'aire de jeu à n'importe quel moment et de façon répétée, si le joueur à remplacer a quitté l'aire de jeu.",
+     "r": "valable",
+     "e": "Les remplaçants entreront sur l'aire de jeu à n'importe quel moment et de façon répétée, à condition que les joueurs à remplacer aient quitté l'aire de jeu."
+    },
+    {
+     "q": "Un remplaçant ne peut entrer sur l'aire de jeu qu'une seule fois par mi-temps.",
+     "r": "faute",
+     "e": "Les remplacements sont autorisés de façon répétée, à tout moment, pas limités à une fois par mi-temps."
+    },
+    {
+     "q": "Les joueurs et gardiens impliqués dans un changement entrent et sortent toujours par leur propre zone de changement.",
+     "r": "valable",
+     "e": "Les joueurs et gardiens impliqués dans les changements entreront et sortiront toujours de l'aire de jeu en franchissant leur propre zone de changement."
+    },
+    {
+     "q": "Les joueurs peuvent entrer et sortir par n'importe quel endroit du terrain lors d'un changement.",
+     "r": "faute",
+     "e": "Les changements doivent se faire par la propre zone de changement de l'équipe, pas n'importe où."
+    },
+    {
+     "q": "Lors d'un jet franc après le signal de fin de match, aucun remplacement n'est autorisé.",
+     "r": "valable",
+     "e": "Les remplacements sont autorisés à tout moment sauf lors d'un jet franc après le signal de fin de match."
+    },
+    {
+     "q": "Un remplacement est toujours autorisé, même lors d'un jet franc après le signal de fin de match.",
+     "r": "faute",
+     "e": "C'est justement l'exception prévue par le règlement : pas de remplacement dans ce cas précis."
+    },
+    {
+     "q": "L'engagement doit être exécuté dans les 3 secondes qui suivent le coup de sifflet d'engagement.",
+     "r": "valable",
+     "e": "L'engagement doit être exécuté dans les trois secondes qui suivent le coup de sifflet d'engagement."
+    },
+    {
+     "q": "L'engagement doit être exécuté dans les 10 secondes qui suivent le coup de sifflet.",
+     "r": "faute",
+     "e": "Le délai réglementaire pour l'engagement est de 3 secondes, pas 10."
+    },
+    {
+     "q": "Les arbitres ne peuvent siffler l'engagement que lorsque le ballon ET le lanceur sont complètement dans la zone d'engagement.",
+     "r": "valable",
+     "e": "Les arbitres ne peuvent donner le coup de sifflet que lorsque le ballon ET le lanceur se trouvent complètement dans la zone d'engagement."
+    },
+    {
+     "q": "Les arbitres peuvent siffler l'engagement même si le lanceur n'est pas encore entré dans la zone.",
+     "r": "faute",
+     "e": "Le coup de sifflet ne peut être donné que lorsque ballon et lanceur sont tous deux complètement dans la zone."
+    },
+    {
+     "q": "Le lanceur de l'engagement ne peut pas faire rebondir le ballon après le coup de sifflet d'engagement.",
+     "r": "valable",
+     "e": "Le lanceur n'est pas autorisé à faire rebondir le ballon après le coup de sifflet d'engagement."
+    },
+    {
+     "q": "Le lanceur de l'engagement peut faire rebondir librement le ballon après le coup de sifflet.",
+     "r": "faute",
+     "e": "Le règlement interdit au lanceur de faire rebondir le ballon après le coup de sifflet d'engagement."
+    },
+    {
+     "q": "Les coéquipiers du lanceur ne peuvent pas franchir la ligne médiane avant le coup de sifflet, sauf s'ils sont dans la zone d'engagement.",
+     "r": "valable",
+     "e": "Les coéquipiers du lanceur ne sont pas autorisés à franchir la ligne médiane avant le coup de sifflet sauf s'ils se trouvent à l'intérieur de la zone d'engagement."
+    },
+    {
+     "q": "Les coéquipiers du lanceur peuvent librement franchir la ligne médiane avant le coup de sifflet.",
+     "r": "faute",
+     "e": "Ils ne peuvent pas franchir la ligne médiane avant le sifflet, sauf s'ils sont déjà dans la zone d'engagement."
+    },
+    {
+     "q": "Les joueurs de l'équipe qui défend doivent se trouver à l'extérieur de la zone d'engagement.",
+     "r": "valable",
+     "e": "Les joueurs de l'équipe qui défend doivent se trouver à l'extérieur de la zone d'engagement."
+    },
+    {
+     "q": "Les défenseurs peuvent se placer à l'intérieur de la zone d'engagement de l'équipe adverse.",
+     "r": "faute",
+     "e": "Les défenseurs doivent rester hors de la zone d'engagement, pas à l'intérieur."
+    },
+    {
+     "q": "Le gardien ne peut pas quitter sa surface de but avec un ballon dont il s'est assuré la maîtrise.",
+     "r": "valable",
+     "e": "Le gardien ne peut pas quitter la surface de but avec le ballon dont il s'est assuré la maîtrise."
+    },
+    {
+     "q": "Le gardien peut librement quitter sa surface avec un ballon qu'il maîtrise.",
+     "r": "faute",
+     "e": "Le gardien ne peut pas quitter sa surface avec un ballon maîtrisé, sous peine de répétition du renvoi ou de jet franc."
+    },
+    {
+     "q": "Le gardien ne peut pas ramener sur la surface de but un ballon roulant au sol en dehors de la surface.",
+     "r": "valable",
+     "e": "Le gardien ne peut pas toucher ou ramener sur la surface de but un ballon se trouvant à terre ou roulant au sol en dehors de la surface."
+    },
+    {
+     "q": "Le gardien peut ramener librement sur sa surface tout ballon roulant à proximité.",
+     "r": "faute",
+     "e": "Cette action est interdite et sanctionnée par un jet franc pour les adversaires."
+    },
+    {
+     "q": "Mettre l'adversaire en danger pendant une action de défense du gardien entraîne une sanction personnelle.",
+     "r": "valable",
+     "e": "Le gardien ne peut pas mettre l'adversaire en danger pendant ses actions de défense, sous peine de sanction personnelle."
+    },
+    {
+     "q": "Le gardien peut mettre l'adversaire en danger sans risquer de sanction personnelle.",
+     "r": "faute",
+     "e": "Mettre l'adversaire en danger entraîne bien une sanction personnelle pour le gardien."
+    },
+    {
+     "q": "Sur un jet franc, les attaquants ne doivent pas se trouver entre la ligne de surface de but et la ligne des 9 mètres.",
+     "r": "valable",
+     "e": "Les attaquants ne doivent pas se trouver entre les lignes de surface de but et de jet franc (9 m)."
+    },
+    {
+     "q": "Les attaquants peuvent librement se placer entre la surface de but et la ligne des 9 mètres.",
+     "r": "faute",
+     "e": "Cette zone est interdite aux attaquants lors d'un jet franc."
+    },
+    {
+     "q": "Les défenseurs doivent se tenir à une distance minimale de 3 mètres du lanceur sur un jet franc.",
+     "r": "valable",
+     "e": "Les défenseurs doivent se tenir à une distance minimale de 3 mètres du lanceur sur un jet franc."
+    },
+    {
+     "q": "Les défenseurs peuvent se placer à 1 mètre du lanceur sur un jet franc.",
+     "r": "faute",
+     "e": "La distance minimale réglementaire est de 3 mètres, pas 1 mètre."
+    },
+    {
+     "q": "Le jet de 7 mètres doit être exécuté dans les 3 secondes après le coup de sifflet de l'arbitre.",
+     "r": "valable",
+     "e": "Il doit être exécuté dans les 3 secondes après le coup de sifflet de l'arbitre de champ."
+    },
+    {
+     "q": "Le jet de 7 mètres doit être exécuté dans les 10 secondes après le coup de sifflet.",
+     "r": "faute",
+     "e": "Le délai réglementaire pour le jet de 7 mètres est de 3 secondes, pas 10."
+    },
+    {
+     "q": "Sur un jet de 7 mètres, le lanceur ne doit ni toucher ni franchir la ligne avant que le ballon ait quitté sa main.",
+     "r": "valable",
+     "e": "Le lanceur ne doit ni toucher, ni franchir la ligne de jet de 7 m avant que le ballon n'ait quitté sa main."
+    },
+    {
+     "q": "Le lanceur peut franchir la ligne des 7 mètres avant de lâcher le ballon.",
+     "r": "faute",
+     "e": "Il ne doit ni toucher ni franchir cette ligne avant que le ballon n'ait quitté sa main."
+    },
+    {
+     "q": "Les arbitres peuvent accorder un arrêt du temps de jeu pour permettre un changement de gardien lors d'un jet de 7 mètres.",
+     "r": "valable",
+     "e": "Les arbitres peuvent accorder un arrêt du temps du jeu notamment s'il y a un changement de gardien."
+    },
+    {
+     "q": "Aucun arrêt de temps n'est jamais accordé lors d'un jet de 7 mètres.",
+     "r": "faute",
+     "e": "Un arrêt du temps de jeu peut justement être accordé, notamment pour un changement de gardien."
+    },
+    {
+     "q": "Retenir l'adversaire par le maillot, s'il peut continuer à jouer, est interdit mais n'entraîne pas de sanction personnelle.",
+     "r": "valable",
+     "e": "Il est interdit de retenir l'adversaire par le corps ou par le maillot même s'il peut continuer à jouer ; cette irrégularité n'entraîne pas de sanction personnelle."
+    },
+    {
+     "q": "Retenir l'adversaire par le maillot est totalement autorisé tant qu'il peut continuer à jouer.",
+     "r": "faute",
+     "e": "C'est une irrégularité interdite, même si elle n'entraîne pas de sanction personnelle."
+    },
+    {
+     "q": "Un tir qui touche la tête du gardien alors que le tireur n'est pas entravé peut être sanctionné par une exclusion de 2 minutes.",
+     "r": "valable",
+     "e": "Le tir d'un joueur qui n'est pas entravé par les défenseurs, et qui touche la tête du gardien, est un exemple de comportement antisportif sanctionné de 2 minutes."
+    },
+    {
+     "q": "Un tir touchant la tête du gardien n'est jamais sanctionné, quelle que soit la situation.",
+     "r": "faute",
+     "e": "Ce cas précis est explicitement listé comme sanctionnable par une exclusion de 2 minutes."
+    },
+    {
+     "q": "Écarter ou lever clairement la partie inférieure de la jambe pour contrer une passe ou un tir peut être sanctionné de 2 minutes.",
+     "r": "valable",
+     "e": "Écarter ou lever clairement la partie inférieure de la jambe dans le but de contrer une passe ou un tir est un exemple de comportement sanctionné de 2 minutes."
+    },
+    {
+     "q": "Lever la jambe pour contrer un tir n'est jamais sanctionné en handball.",
+     "r": "faute",
+     "e": "Ce geste est explicitement listé parmi les comportements antisportifs sanctionnés de 2 minutes."
+    },
+    {
+     "q": "En cas de choc à la tête, un carton blanc peut être donné par les arbitres ou l'adulte responsable du match.",
+     "r": "valable",
+     "e": "Carton blanc : en cas de choc à la tête, un carton blanc peut être donné par les arbitres ou l'adulte responsable du match (délégué, tuteur de table)."
+    },
+    {
+     "q": "Le carton blanc ne peut être donné que par les arbitres, jamais par un adulte responsable.",
+     "r": "faute",
+     "e": "Le carton blanc peut être donné par les arbitres OU l'adulte responsable du match."
+    },
+    {
+     "q": "L'adulte responsable de l'équipe décide, au vu des symptômes constatés, si son joueur peut reprendre le jeu après un carton blanc.",
+     "r": "valable",
+     "e": "L'adulte responsable d'équipe décide, au vu des symptômes constatés, s'il autorise son joueur à reprendre le jeu ou non."
+    },
+    {
+     "q": "C'est uniquement l'arbitre qui décide si un joueur peut reprendre le jeu après un carton blanc.",
+     "r": "faute",
+     "e": "C'est l'adulte responsable de l'équipe qui décide, pas uniquement l'arbitre."
+    },
+    {
+     "q": "La disqualification directe entraîne systématiquement une commission de discipline à l'UNSS.",
+     "r": "valable",
+     "e": "La disqualification directe entrainera une commission de discipline."
+    },
+    {
+     "q": "La disqualification directe n'a aucune conséquence administrative à l'UNSS.",
+     "r": "faute",
+     "e": "Une commission de discipline se réunit systématiquement après une disqualification directe."
+    },
+    {
+     "q": "Le temps d'exclusion est de 2 minutes, quelle que soit la durée du match.",
+     "r": "valable",
+     "e": "Le temps d'exclusion est de 2 min, quelle que soit la durée du match."
+    },
+    {
+     "q": "Le temps d'exclusion varie selon la durée du match (de 1 à 5 minutes).",
+     "r": "faute",
+     "e": "Le temps d'exclusion reste fixé à 2 minutes, quelle que soit la durée du match."
+    },
+    {
+     "q": "Un temps mort de 2 minutes par équipe et par mi-temps peut être accordé, avec des expérimentations possibles pour impliquer le Jeune Coach.",
+     "r": "valable",
+     "e": "Temps mort de 2 min par équipe par mi-temps ; des expérimentations peuvent se poursuivre pour favoriser l'implication du Jeune Coach."
+    },
+    {
+     "q": "Le temps mort ne peut jamais impliquer le Jeune Coach dans sa préparation.",
+     "r": "faute",
+     "e": "Le règlement encourage au contraire l'implication du Jeune Coach dans la préparation du temps mort."
+    },
+    {
+     "q": "En cas d'égalité à la fin d'un match éliminatoire, une prolongation dite mort-subite est jouée.",
+     "r": "valable",
+     "e": "En cas d'égalité à la fin d'un match éliminatoire, il est procédé à une prolongation dite mort-subite."
+    },
+    {
+     "q": "En cas d'égalité à la fin d'un match éliminatoire, le match est immédiatement rejoué un autre jour.",
+     "r": "faute",
+     "e": "C'est une prolongation en mort subite qui est jouée, pas un match rejoué."
+    }
+   ]
+  }
+ ]
+}

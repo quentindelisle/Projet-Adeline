@@ -1,0 +1,265 @@
+{
+ "id": "circuit-training-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Juge Circuit Training",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT CIRCUIT TRAINING UNSS",
+ "sport": "circuit-training",
+ "source": "https://preeminent-gingersnap-5b5ec1.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Au circuit relais, le 3e d'un atelier marque 190 points, puis on décroît de 5 en 5.",
+     "r": "valable",
+     "e": "Par atelier : 1er 200 pts, 2e 195 pts, 3e 190 pts, 4e 185 pts, et ainsi de suite de 5 en 5."
+    },
+    {
+     "q": "Au circuit relais, le 3e d'un atelier marque 185 points, puis on décroît de 5 en 5.",
+     "r": "faute",
+     "e": "C'est faux. Par atelier : 1er 200 pts, 2e 195 pts, 3e 190 pts, 4e 185 pts, et ainsi de suite de 5 en 5."
+    },
+    {
+     "q": "Au circuit 6 minutes, le 4e marque 350 points, puis on décroît de 10 en 10.",
+     "r": "faute",
+     "e": "C'est faux. Circuit 6 minutes : 1er 400 pts, 2e 390, 3e 380, 4e 370, et ainsi de suite de 10 en 10."
+    },
+    {
+     "q": "Au circuit 6 minutes, le 4e marque 370 points, puis on décroît de 10 en 10.",
+     "r": "valable",
+     "e": "Circuit 6 minutes : 1er 400 pts, 2e 390, 3e 380, 4e 370, et ainsi de suite de 10 en 10."
+    },
+    {
+     "q": "Au circuit chrono, le 4e marque 740 points, puis on décroît de 20 en 20.",
+     "r": "valable",
+     "e": "Circuit chrono : 1er 800 pts, 2e 780, 3e 760, 4e 740, et ainsi de suite de 20 en 20."
+    },
+    {
+     "q": "Au circuit chrono, le 4e marque 750 points, puis on décroît de 20 en 20.",
+     "r": "faute",
+     "e": "C'est faux. Circuit chrono : 1er 800 pts, 2e 780, 3e 760, 4e 740, et ainsi de suite de 20 en 20."
+    },
+    {
+     "q": "En cas d'égalité, on départage d'abord au circuit chrono, puis au circuit relais (ou performance), puis au circuit 6 minutes.",
+     "r": "valable",
+     "e": "Ordre de départage : 1. circuit chrono, 2. circuit relais (collège) ou performance (lycée), 3. circuit 6 minutes."
+    },
+    {
+     "q": "En cas d'égalité, on départage d'abord au circuit 6 minutes, puis au circuit relais, puis au circuit chrono.",
+     "r": "faute",
+     "e": "C'est faux. Ordre de départage : 1. circuit chrono, 2. circuit relais (collège) ou performance (lycée), 3. circuit 6 minutes."
+    },
+    {
+     "q": "Si l'égalité persiste, la victoire revient à l'équipe dont la moyenne d'âge est la plus élevée.",
+     "r": "faute",
+     "e": "C'est faux. La victoire est donnée à l'équipe dont la moyenne d'âge est la plus faible (élèves inscrits sur la feuille de composition initiale)."
+    },
+    {
+     "q": "Si l'égalité persiste, la victoire revient à l'équipe dont la moyenne d'âge est la plus faible.",
+     "r": "valable",
+     "e": "La victoire est donnée à l'équipe dont la moyenne d'âge est la plus faible (élèves inscrits sur la feuille de composition initiale)."
+    },
+    {
+     "q": "Au développé couché et au squat, le classement se fait uniquement selon le nombre de répétitions, sans tenir compte de la charge.",
+     "r": "faute",
+     "e": "C'est faux. Les points du développé couché et du squat se font par rapport au classement de la somme des tonnages (nombre de répétitions × charge choisie à l'accueil)."
+    },
+    {
+     "q": "Au développé couché et au squat, le classement se fait selon la somme des tonnages (répétitions × charge) des 4 compétiteurs.",
+     "r": "valable",
+     "e": "Les points du développé couché et du squat se font par rapport au classement de la somme des tonnages (nombre de répétitions × charge choisie à l'accueil)."
+    },
+    {
+     "q": "Au pull up & rowing TRX, le classement se fait selon la somme des répétitions des 4 coéquipiers.",
+     "r": "valable",
+     "e": "Les tractions sont classées par rapport à la somme des répétitions des 4 coéquipiers."
+    },
+    {
+     "q": "Au pull up & rowing TRX, le classement se fait selon la somme des tonnages des 4 coéquipiers.",
+     "r": "faute",
+     "e": "C'est faux. Les tractions sont classées par rapport à la somme des répétitions des 4 coéquipiers."
+    },
+    {
+     "q": "À l'épreuve de performance, en cas d'aide extérieure, l'athlète peut reprendre l'épreuve après 10 secondes.",
+     "r": "faute",
+     "e": "C'est faux. 1 minute d'épreuve sans intervention extérieure (même pour reposer la barre) ; en cas d'aide extérieure, l'épreuve est considérée terminée."
+    },
+    {
+     "q": "À l'épreuve de performance, en cas d'aide extérieure pendant la minute, l'épreuve est considérée comme terminée.",
+     "r": "valable",
+     "e": "1 minute d'épreuve sans intervention extérieure (même pour reposer la barre) ; en cas d'aide extérieure, l'épreuve est considérée terminée."
+    },
+    {
+     "q": "Deux remplacements (« switch ») sont autorisés par équipe sur l'ensemble de la compétition.",
+     "r": "faute",
+     "e": "C'est faux. Un seul remplacement est autorisé par équipe sur l'ensemble de la compétition."
+    },
+    {
+     "q": "Un seul remplacement (« switch ») est autorisé par équipe sur l'ensemble de la compétition.",
+     "r": "valable",
+     "e": "Un seul remplacement est autorisé par équipe sur l'ensemble de la compétition."
+    },
+    {
+     "q": "Un remplacement ne peut être effectué qu'entre deux épreuves.",
+     "r": "valable",
+     "e": "Le remplacement ne peut être effectué qu'entre performance (Lyc) / circuit relais (Col) et circuit 6 minutes, ou entre le 6 minutes et le chrono."
+    },
+    {
+     "q": "Un remplacement peut être effectué à tout moment, y compris au milieu d'une épreuve.",
+     "r": "faute",
+     "e": "C'est faux. Le remplacement ne peut être effectué qu'entre performance (Lyc) / circuit relais (Col) et circuit 6 minutes, ou entre le 6 minutes et le chrono."
+    },
+    {
+     "q": "La demande de remplacement doit être formulée au moins une heure avant le début de l'épreuve concernée.",
+     "r": "valable",
+     "e": "La demande doit être formulée au moins une heure avant le début de l'épreuve concernée."
+    },
+    {
+     "q": "La demande de remplacement peut être formulée juste avant le départ de l'épreuve concernée.",
+     "r": "faute",
+     "e": "C'est faux. La demande doit être formulée au moins une heure avant le début de l'épreuve concernée."
+    },
+    {
+     "q": "Le remplacement pour inaptitude est validé par le seul jeune coach.",
+     "r": "faute",
+     "e": "C'est faux. La validation est décidée conjointement par les services de secours présents sur la compétition et la Commission Mixte Nationale (CMN)."
+    },
+    {
+     "q": "Le remplacement pour inaptitude est validé conjointement par les services de secours et la CMN.",
+     "r": "valable",
+     "e": "La validation est décidée conjointement par les services de secours présents sur la compétition et la Commission Mixte Nationale (CMN)."
+    },
+    {
+     "q": "Une équipe devenue incomplète pendant une épreuve continue à 3 athlètes sans conséquence.",
+     "r": "faute",
+     "e": "C'est faux. Toute équipe devenant incomplète pendant une épreuve est déclassée pour cette épreuve."
+    },
+    {
+     "q": "Une équipe devenue incomplète pendant une épreuve est déclassée pour cette épreuve.",
+     "r": "valable",
+     "e": "Toute équipe devenant incomplète pendant une épreuve est déclassée pour cette épreuve."
+    },
+    {
+     "q": "Pour les garçons, le box jump se fait à 50 cm au lycée et en LP, et à 60 cm au collège.",
+     "r": "faute",
+     "e": "C'est faux. Garçons : box jump à 60 cm (lycée et LP) et 50 cm (collège)."
+    },
+    {
+     "q": "Pour les garçons, le box jump se fait à 60 cm au lycée et en LP, et à 50 cm au collège.",
+     "r": "valable",
+     "e": "Garçons : box jump à 60 cm (lycée et LP) et 50 cm (collège)."
+    },
+    {
+     "q": "Pour les filles, le box jump se fait à 40 cm, au lycée comme au collège.",
+     "r": "valable",
+     "e": "Filles : box jump à 40 cm pour le lycée et le collège."
+    },
+    {
+     "q": "Pour les filles, le box jump se fait à 40 cm au lycée et à 30 cm au collège.",
+     "r": "faute",
+     "e": "C'est faux. Filles : box jump à 40 cm pour le lycée et le collège."
+    },
+    {
+     "q": "Au collège, le wall ball se fait avec 7 kg à 2 m 80 pour les garçons et 5 kg à 2 m 40 pour les filles.",
+     "r": "faute",
+     "e": "C'est faux. Collège : wall ball 5 kg à 2 m 40 (garçons) et 3 kg à 2 m 40 (filles). Les 7 kg à 2 m 80 concernent les garçons de lycée et LP."
+    },
+    {
+     "q": "Au collège, le wall ball se fait avec 5 kg à 2 m 40 pour les garçons et 3 kg à 2 m 40 pour les filles.",
+     "r": "valable",
+     "e": "Collège : wall ball 5 kg à 2 m 40 (garçons) et 3 kg à 2 m 40 (filles). Les 7 kg à 2 m 80 concernent les garçons de lycée et LP."
+    },
+    {
+     "q": "Au lycée et en LP, le kettlebell swing est de 12 kg pour les garçons et de 8 kg pour les filles.",
+     "r": "faute",
+     "e": "C'est faux. Lycée et LP : KB swing US 16 kg (garçons) et 12 kg (filles). Au collège : 12 kg et 8 kg."
+    },
+    {
+     "q": "Au lycée et en LP, le kettlebell swing est de 16 kg pour les garçons et de 12 kg pour les filles.",
+     "r": "valable",
+     "e": "Lycée et LP : KB swing US 16 kg (garçons) et 12 kg (filles). Au collège : 12 kg et 8 kg."
+    },
+    {
+     "q": "Au lycée et en LP, le tire flip se fait avec un pneu de 30 kg pour les garçons et de 50 kg pour les filles.",
+     "r": "faute",
+     "e": "C'est faux. Tire flip : 50 kg (garçons) et 30 kg (filles), pour le lycée et le LP."
+    },
+    {
+     "q": "Au lycée et en LP, le tire flip se fait avec un pneu de 50 kg pour les garçons et de 30 kg pour les filles.",
+     "r": "valable",
+     "e": "Tire flip : 50 kg (garçons) et 30 kg (filles), pour le lycée et le LP."
+    },
+    {
+     "q": "Au circuit chrono collège, il faut valider 100 air squats et 150 medball russian twists.",
+     "r": "faute",
+     "e": "C'est faux. Annexe 2 (collège) : air squat 150 répétitions, medball russian twist 120 répétitions."
+    },
+    {
+     "q": "Au circuit chrono collège, il faut valider 150 air squats et 120 medball russian twists.",
+     "r": "valable",
+     "e": "Annexe 2 (collège) : air squat 150 répétitions, medball russian twist 120 répétitions."
+    },
+    {
+     "q": "Au circuit chrono lycée et LP, l'équipe doit valider 80 double unders et 120 push-ups lorsque ces mouvements sont tirés.",
+     "r": "valable",
+     "e": "Annexe 2 (lycée et LP) : double under 80 répétitions, push up 120 répétitions."
+    },
+    {
+     "q": "Au circuit chrono lycée et LP, l'équipe doit valider 120 double unders et 80 push-ups lorsque ces mouvements sont tirés.",
+     "r": "faute",
+     "e": "C'est faux. Annexe 2 (lycée et LP) : double under 80 répétitions, push up 120 répétitions."
+    },
+    {
+     "q": "Au circuit chrono lycée et LP, 30 thrusters ou 50 tire flips sont exigés lorsque ces mouvements sont tirés.",
+     "r": "faute",
+     "e": "C'est faux. Annexe 2 (lycée et LP) : thruster 50 répétitions, tire flip 30 répétitions."
+    },
+    {
+     "q": "Au circuit chrono lycée et LP, 50 thrusters ou 30 tire flips sont exigés lorsque ces mouvements sont tirés.",
+     "r": "valable",
+     "e": "Annexe 2 (lycée et LP) : thruster 50 répétitions, tire flip 30 répétitions."
+    },
+    {
+     "q": "La certification académique demande une note de 36/60, et la certification nationale une note de 42/60.",
+     "r": "faute",
+     "e": "C'est faux. Départemental : 36/60 ; académique : 42/60 ; national : 48/60."
+    },
+    {
+     "q": "La certification académique demande une note de 42/60, et la certification nationale une note de 48/60.",
+     "r": "valable",
+     "e": "Départemental : 36/60 ; académique : 42/60 ; national : 48/60."
+    },
+    {
+     "q": "Pour la certification, l'évaluation comprend une partie théorique (QCM noté sur 20) et une partie pratique (notée sur 40).",
+     "r": "valable",
+     "e": "Évaluation théorique : QCM, note /20 ; évaluation pratique : épreuve contrôlée par les personnes ressources, note /40 ; total sur 60."
+    },
+    {
+     "q": "Pour la certification, l'évaluation comprend une partie théorique notée sur 40 et une partie pratique notée sur 20.",
+     "r": "faute",
+     "e": "C'est faux. Évaluation théorique : QCM, note /20 ; évaluation pratique : épreuve contrôlée par les personnes ressources, note /40 ; total sur 60."
+    },
+    {
+     "q": "Dans l'évaluation harmonisée des certifications, la théorie compte pour 4 points et la pratique pour 16 points, sur 20.",
+     "r": "valable",
+     "e": "Il s'agit d'additionner le résultat théorique (sur 4 points) à l'évaluation pratique (sur 16 points) du jeune arbitre."
+    },
+    {
+     "q": "Dans l'évaluation harmonisée des certifications, la théorie compte pour 10 points et la pratique pour 10 points, sur 20.",
+     "r": "faute",
+     "e": "C'est faux. Il s'agit d'additionner le résultat théorique (sur 4 points) à l'évaluation pratique (sur 16 points) du jeune arbitre."
+    },
+    {
+     "q": "En compétition, les chaussures ouvertes sont autorisées et les vêtements amples sont recommandés.",
+     "r": "faute",
+     "e": "C'est faux. Tenue : chaussures fermées obligatoires, shorts et tee-shirts (coudes et genoux apparents), leggings acceptés, vêtements amples interdits."
+    },
+    {
+     "q": "En compétition, les chaussures fermées sont obligatoires et les vêtements amples sont interdits.",
+     "r": "valable",
+     "e": "Tenue : chaussures fermées obligatoires, shorts et tee-shirts (coudes et genoux apparents), leggings acceptés, vêtements amples interdits."
+    }
+   ]
+  }
+ ]
+}

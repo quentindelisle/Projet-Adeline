@@ -1,0 +1,265 @@
+{
+ "id": "futsal-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre Futsal",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT FUTSAL UNSS",
+ "sport": "futsal",
+ "source": "https://kaleidoscopic-phoenix-a40bfc.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Pour une période de 10 minutes en temps décompté, le coup de pied de pénalité à 9 mètres est accordé dès la 4ème faute collective.",
+     "r": "valable",
+     "e": "En temps décompté (IA/Championnat de France), pour 10 minutes, chaque équipe peut faire jusqu'à 3 fautes ; la pénalité à 9m est accordée dès la 4ème faute."
+    },
+    {
+     "q": "Pour une période de 10 minutes en temps décompté, le coup de pied de pénalité à 9 mètres n'est accordé qu'à partir de la 6ème faute.",
+     "r": "faute",
+     "e": "Le seuil pour 10 minutes en temps décompté est la 4ème faute, pas la 6ème."
+    },
+    {
+     "q": "Pour une période de 15 minutes en temps décompté, le seuil de la pénalité à 9 mètres est fixé à la 6ème faute collective.",
+     "r": "valable",
+     "e": "Pour 15 minutes en temps décompté, chaque équipe peut faire jusqu'à 5 fautes ; la pénalité est accordée dès la 6ème."
+    },
+    {
+     "q": "Pour une période de 15 minutes en temps décompté, le seuil de la pénalité à 9 mètres est fixé à la 4ème faute collective.",
+     "r": "faute",
+     "e": "Le seuil pour 15 minutes en temps décompté est la 6ème faute, pas la 4ème."
+    },
+    {
+     "q": "En temps non décompté, pour une période de 6 minutes, le seuil de la pénalité à 9 mètres est fixé à la 3ème faute collective.",
+     "r": "valable",
+     "e": "En temps non décompté, pour 6 minutes, chaque équipe peut faire jusqu'à 2 fautes ; la pénalité est accordée dès la 3ème."
+    },
+    {
+     "q": "En temps non décompté, pour une période de 6 minutes, le seuil de la pénalité à 9 mètres est fixé à la 5ème faute collective.",
+     "r": "faute",
+     "e": "Le seuil pour 6 minutes en temps non décompté est la 3ème faute, pas la 5ème."
+    },
+    {
+     "q": "En temps non décompté, pour une période de 20 minutes, le seuil de la pénalité à 9 mètres est fixé à la 6ème faute collective.",
+     "r": "valable",
+     "e": "En temps non décompté, pour 20 minutes, chaque équipe peut faire jusqu'à 5 fautes ; la pénalité est accordée dès la 6ème."
+    },
+    {
+     "q": "En temps non décompté, pour une période de 20 minutes, le seuil de la pénalité à 9 mètres est fixé à la 3ème faute collective.",
+     "r": "faute",
+     "e": "Le seuil pour 20 minutes en temps non décompté est la 6ème faute, pas la 3ème."
+    },
+    {
+     "q": "Le coup de pied de pénalité à 9 mètres est tiré même si le buzzer de fin de période retentit.",
+     "r": "valable",
+     "e": "Un Coup de pied de Pénalité à 9 mètres sera tiré même si le buzzer retentit."
+    },
+    {
+     "q": "Le coup de pied de pénalité à 9 mètres est annulé si le buzzer retentit avant son exécution.",
+     "r": "faute",
+     "e": "Le règlement précise explicitement qu'il est tiré même si le buzzer retentit."
+    },
+    {
+     "q": "Sur un coup de pied de pénalité à 9 mètres, il n'y a pas de mur et le gardien doit avoir les pieds sur sa ligne de but.",
+     "r": "valable",
+     "e": "Le coup de pied de pénalité à 9 mètres se tire sans mur, gardien de but les pieds sur sa ligne de but."
+    },
+    {
+     "q": "Sur un coup de pied de pénalité à 9 mètres, un mur de joueurs est autorisé devant le gardien.",
+     "r": "faute",
+     "e": "Aucun mur n'est autorisé sur ce type de pénalité, contrairement à d'autres sports."
+    },
+    {
+     "q": "Le point de réparation du penalty est situé à 6 mètres de la ligne de but, dans l'axe du but.",
+     "r": "valable",
+     "e": "Le point de réparation est à 6 mètres de la ligne de but, dans l'axe du but, sur la ligne de zone d'un terrain de handball."
+    },
+    {
+     "q": "Le point de réparation du penalty est situé à 9 mètres de la ligne de but, dans l'axe du but.",
+     "r": "faute",
+     "e": "9 mètres est la distance du coup de pied de pénalité pour fautes collectives, pas du penalty classique."
+    },
+    {
+     "q": "Sur un penalty, le gardien doit maintenir un appui minimum sur sa ligne de but au moment où le ballon est botté.",
+     "r": "valable",
+     "e": "Le Gardien de But doit maintenir un appui minimum sur sa ligne de but au moment où le ballon est botté."
+    },
+    {
+     "q": "Sur un penalty, le gardien peut avancer librement avant que le ballon ne soit botté.",
+     "r": "faute",
+     "e": "Le gardien doit garder un appui sur sa ligne jusqu'au moment où le ballon est joué."
+    },
+    {
+     "q": "Lors d'un championnat de France, les joueurs doivent porter un short et des bas traditionnels de la même couleur, hormis le gardien.",
+     "r": "valable",
+     "e": "Lors d'un championnat de France, les joueurs doivent revêtir un short et des bas de la même couleur pour toute l'équipe (hormis gardien)."
+    },
+    {
+     "q": "Lors d'un championnat de France, chaque joueur peut porter un short de couleur différente librement.",
+     "r": "faute",
+     "e": "L'uniformité du short et des bas est obligatoire lors des championnats de France, sauf pour le gardien."
+    },
+    {
+     "q": "Le remplacement du gardien de but peut se faire sans que les arbitres en soient prévenus, si le jeu n'est pas arrêté.",
+     "r": "valable",
+     "e": "Tout remplaçant peut remplacer le gardien de but, sans que les arbitres en soient prévenus et sans que le jeu ne soit arrêté."
+    },
+    {
+     "q": "Le remplacement du gardien de but doit systématiquement être annoncé aux arbitres, même en cours de jeu.",
+     "r": "faute",
+     "e": "Un remplaçant peut prendre la place du gardien sans en informer les arbitres si le jeu continue."
+    },
+    {
+     "q": "Si le joueur remplacé quitte le terrain par une autre zone que celle prévue (blessure), le remplaçant donne sa chasuble au troisième arbitre.",
+     "r": "valable",
+     "e": "Si le joueur remplacé quitte le terrain par une autre zone prévue dans les lois du jeu (blessure...), le remplaçant donne sa chasuble au troisième arbitre."
+    },
+    {
+     "q": "Si le joueur remplacé quitte le terrain par une autre zone, aucune procédure particulière n'est prévue.",
+     "r": "faute",
+     "e": "Une procédure précise est prévue : le remplaçant donne sa chasuble au troisième arbitre."
+    },
+    {
+     "q": "En cas de mauvais changement qui ne pénalise pas l'équipe adverse, le JA5 interrompt le jeu par un coup de sifflet et un CFI est accordé.",
+     "r": "valable",
+     "e": "En cas de mauvais changement, si cela ne pénalise pas l'équipe adverse, le JA5 interrompt le jeu par un coup de sifflet ; un CFI est accordé à l'endroit du ballon."
+    },
+    {
+     "q": "En cas de mauvais changement, le jeu se poursuit toujours sans aucune interruption.",
+     "r": "faute",
+     "e": "Un mauvais changement qui ne pénalise pas l'adversaire entraîne quand même une interruption et un CFI."
+    },
+    {
+     "q": "Le Coup Franc Direct doit être exécuté dans les 4 secondes, sinon un CFI est accordé à l'équipe adverse.",
+     "r": "valable",
+     "e": "Le CFD doit être exécuté dans les quatre secondes, sinon un CFI sera accordé à l'équipe adverse."
+    },
+    {
+     "q": "Le Coup Franc Direct peut être exécuté sans aucune limite de temps.",
+     "r": "faute",
+     "e": "Le délai de 4 secondes s'applique bien à l'exécution du CFD."
+    },
+    {
+     "q": "Si le CFD est commis dans la surface de réparation défensive, il donne lieu à un coup de pied de réparation à 6 mètres.",
+     "r": "valable",
+     "e": "Le CFD est exécuté à l'endroit de la faute ; si celle-ci est commise dans la surface défensive, il est procédé à un penalty à 6 mètres."
+    },
+    {
+     "q": "Un CFD commis dans la surface de réparation défensive donne toujours lieu à un CFI, jamais à un penalty.",
+     "r": "faute",
+     "e": "C'est un penalty à 6 mètres qui est accordé dans ce cas, pas un CFI."
+    },
+    {
+     "q": "Le CFI commis dans la surface défensive est exécuté sur la ligne de la surface au point le plus proche de la faute.",
+     "r": "valable",
+     "e": "Si le CFI est commis dans la surface défensive, le ballon est posé sur la ligne de la surface de réparation au plus proche de la faute."
+    },
+    {
+     "q": "Un CFI commis dans la surface défensive donne toujours lieu à un penalty à 6 mètres.",
+     "r": "faute",
+     "e": "Contrairement au CFD, le CFI dans la surface ne donne jamais lieu à un penalty."
+    },
+    {
+     "q": "Si le gardien s'empare du ballon avec les mains hors de sa surface de réparation, un CFD est accordé à l'équipe adverse.",
+     "r": "valable",
+     "e": "Si le gardien de but s'empare du ballon avec les mains hors de sa surface de réparation, un CFD est accordé à l'équipe adverse."
+    },
+    {
+     "q": "Si le gardien s'empare du ballon avec les mains hors de sa surface, aucune sanction n'est prévue.",
+     "r": "faute",
+     "e": "Cette action est explicitement sanctionnée par un Coup Franc Direct pour l'équipe adverse."
+    },
+    {
+     "q": "Dès qu'un adversaire a touché le ballon, le gardien peut de nouveau recevoir une fois le ballon d'un partenaire dans sa moitié de terrain.",
+     "r": "valable",
+     "e": "Dès qu'un adversaire a joué ou touché le ballon, le gardien peut à nouveau recevoir une fois le ballon de l'un de ses partenaires."
+    },
+    {
+     "q": "Une fois qu'il a joué le ballon, le gardien ne peut plus jamais le recevoir d'un partenaire, même après un contact adverse.",
+     "r": "faute",
+     "e": "Le contact d'un adversaire avec le ballon réinitialise la possibilité pour le gardien de le recevoir une fois."
+    },
+    {
+     "q": "Le gardien peut jouer au sol au pied dans la limite des 4 secondes s'il a capté le ballon lors d'une relance.",
+     "r": "valable",
+     "e": "Lors d'une relance, le gardien ne peut pas dégager de volée ou de demi-volée, mais s'il capte le ballon, il peut le jouer au sol au pied, dans la limite des 4 secondes."
+    },
+    {
+     "q": "Le gardien ne peut jamais jouer le ballon au pied après une relance, quelle que soit la situation.",
+     "r": "faute",
+     "e": "S'il capte le ballon lors d'une relance, le gardien peut le jouer au sol au pied dans les 4 secondes."
+    },
+    {
+     "q": "Si le ballon d'une balle à terre est expédié directement dans le but adverse, une sortie de but est accordée à l'équipe adverse.",
+     "r": "valable",
+     "e": "Si le ballon d'une balle à terre est expédié directement dans le but adverse, une sortie de but est accordée à l'équipe adverse (pas de but direct)."
+    },
+    {
+     "q": "Si le ballon d'une balle à terre est expédié directement dans le but adverse, le but est immédiatement validé.",
+     "r": "faute",
+     "e": "Un joueur doit toucher le ballon au moins une fois avant de pouvoir tirer au but lors d'une balle à terre."
+    },
+    {
+     "q": "Si le ballon d'une balle à terre est envoyé directement dans son propre but, un corner est accordé à l'équipe adverse.",
+     "r": "valable",
+     "e": "Si le ballon d'une balle à terre est expédié directement dans son propre but, un corner est accordé à l'équipe adverse."
+    },
+    {
+     "q": "Si le ballon d'une balle à terre est envoyé directement dans son propre but, aucune sanction particulière n'est prévue.",
+     "r": "faute",
+     "e": "Le règlement prévoit précisément un corner accordé à l'adversaire dans ce cas de figure."
+    },
+    {
+     "q": "Le gardien ne peut pas marquer directement sur une relance à la main si aucun joueur n'a touché le ballon, sinon une sortie de but est accordée à l'adversaire.",
+     "r": "valable",
+     "e": "Le gardien de but ne peut pas marquer directement sur une relance à la main si aucun joueur n'a touché le ballon, sinon une sortie de but est accordée à l'équipe adverse."
+    },
+    {
+     "q": "Le gardien peut marquer directement sur une relance à la main sans aucune restriction.",
+     "r": "faute",
+     "e": "Cette action est sanctionnée par une sortie de but accordée à l'équipe adverse."
+    },
+    {
+     "q": "Pour que le but soit accordé, le ballon doit franchir entièrement la ligne avant que le buzzer ne retentisse.",
+     "r": "valable",
+     "e": "Pour que le but soit accordé, le ballon doit franchir entièrement la ligne de but avant que le buzzer ne retentisse."
+    },
+    {
+     "q": "Un but est accordé même si le ballon franchit la ligne après le retentissement du buzzer.",
+     "r": "faute",
+     "e": "Le franchissement complet de la ligne doit intervenir avant le buzzer pour valider le but."
+    },
+    {
+     "q": "Une rentrée de touche est accordée à l'équipe adverse si le ballon touche le plafond, à hauteur de l'impact.",
+     "r": "valable",
+     "e": "Une rentrée de touche est accordée à l'équipe adverse lorsque le ballon touche le plafond ; elle est effectuée à hauteur de l'impact."
+    },
+    {
+     "q": "Si le ballon touche le plafond, le jeu se poursuit normalement sans interruption.",
+     "r": "faute",
+     "e": "Le contact du ballon avec le plafond entraîne une rentrée de touche adverse à hauteur de l'impact."
+    },
+    {
+     "q": "Lors des tirs au but, 5 tireurs sont choisis parmi les 10 joueurs de la feuille de match, pas obligatoirement ceux ayant terminé la rencontre.",
+     "r": "valable",
+     "e": "5 tireurs sont choisis parmi les 10 joueurs figurant sur la feuille de match, donc pas obligatoirement ceux qui ont terminé la rencontre."
+    },
+    {
+     "q": "Lors des tirs au but, seuls les joueurs ayant terminé la rencontre sur le terrain peuvent tirer.",
+     "r": "faute",
+     "e": "N'importe lequel des 10 joueurs de la feuille de match peut être désigné tireur, pas seulement ceux ayant terminé le match."
+    },
+    {
+     "q": "Si une équipe compte plus de joueurs que l'autre lors des tirs au but, elle sélectionne le même nombre de tireurs que l'équipe adverse.",
+     "r": "valable",
+     "e": "Si une équipe compte plus de joueurs que l'autre, elle choisira le même nombre de joueurs que l'équipe adverse et sélectionnera ses tireurs parmi ceux-ci."
+    },
+    {
+     "q": "Si une équipe compte plus de joueurs que l'autre lors des tirs au but, elle peut aligner tous ses joueurs disponibles sans restriction.",
+     "r": "faute",
+     "e": "Le nombre de tireurs est aligné sur celui de l'équipe qui compte le moins de joueurs."
+    }
+   ]
+  }
+ ]
+}

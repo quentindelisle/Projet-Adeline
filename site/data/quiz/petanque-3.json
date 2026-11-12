@@ -1,0 +1,265 @@
+{
+ "id": "petanque-3",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre Pétanque",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT PÉTANQUE UNSS",
+ "sport": "petanque",
+ "source": "https://lovely-biscotti-966991.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En collège, le but est lancé à une distance de 6 à 9 mètres.",
+     "r": "faute",
+     "e": "C'est faux. 6 à 9 mètres en lycée ; 5 à 8 mètres en collège et sport partagé."
+    },
+    {
+     "q": "En collège, le but est lancé à une distance de 5 à 8 mètres.",
+     "r": "valable",
+     "e": "6 à 9 mètres en lycée ; 5 à 8 mètres en collège et sport partagé."
+    },
+    {
+     "q": "En lycée, le but est lancé à une distance de 5 à 8 mètres.",
+     "r": "faute",
+     "e": "C'est faux. Mesurée depuis le bord intérieur du cercle."
+    },
+    {
+     "q": "En lycée, le but est lancé à une distance de 6 à 9 mètres.",
+     "r": "valable",
+     "e": "Mesurée depuis le bord intérieur du cercle."
+    },
+    {
+     "q": "Le cercle est posé à plus d'1 mètre de tout obstacle.",
+     "r": "valable",
+     "e": "Article 5 du règlement."
+    },
+    {
+     "q": "Le cercle est posé à 20 cm d'un obstacle.",
+     "r": "faute",
+     "e": "C'est faux. Article 5 du règlement."
+    },
+    {
+     "q": "Le cercle est posé à au moins 50 cm d'un autre cercle.",
+     "r": "faute",
+     "e": "C'est faux. Article 5 du règlement."
+    },
+    {
+     "q": "Le cercle est posé à au moins 1,50 m d'un autre cercle utilisé ou d'un but.",
+     "r": "valable",
+     "e": "Article 5 du règlement."
+    },
+    {
+     "q": "Le but doit être à 50 cm minimum de tout obstacle et de la ligne de fond.",
+     "r": "valable",
+     "e": "Article 6 du règlement."
+    },
+    {
+     "q": "Le but peut être posé contre la ligne de fond.",
+     "r": "faute",
+     "e": "C'est faux. Article 6 du règlement."
+    },
+    {
+     "q": "Le but peut être masqué par un obstacle si les joueurs l'acceptent.",
+     "r": "faute",
+     "e": "C'est faux. En cas de contestation, le jeune arbitre décide sans appel."
+    },
+    {
+     "q": "Le but doit être visible du joueur dont les pieds sont aux extrémités intérieures du cercle, le corps absolument droit.",
+     "r": "valable",
+     "e": "En cas de contestation, le jeune arbitre décide sans appel."
+    },
+    {
+     "q": "Un but arrêté par un adversaire ou un spectateur n'est pas valable et doit être relancé sans que ce jet compte.",
+     "r": "valable",
+     "e": "Article 7 du règlement."
+    },
+    {
+     "q": "Un but arrêté par un spectateur reste valable.",
+     "r": "faute",
+     "e": "C'est faux. Article 7 du règlement."
+    },
+    {
+     "q": "Un but déplacé à plus de 15 mètres du cercle est nul.",
+     "r": "valable",
+     "e": "Toute catégorie UNSS : 15 mètres."
+    },
+    {
+     "q": "Un but déplacé à plus de 20 mètres du cercle est nul.",
+     "r": "faute",
+     "e": "C'est faux. Toute catégorie UNSS : 15 mètres."
+    },
+    {
+     "q": "Un but déplacé à moins de 3 mètres du cercle est nul.",
+     "r": "valable",
+     "e": "Le seuil est de 3 mètres."
+    },
+    {
+     "q": "Un but déplacé à moins d'1 mètre du cercle est nul.",
+     "r": "faute",
+     "e": "C'est faux. Le seuil est de 3 mètres."
+    },
+    {
+     "q": "Le temps de recherche d'un but introuvable est limité à 30 secondes.",
+     "r": "faute",
+     "e": "C'est faux. Passé ce délai, le but est nul."
+    },
+    {
+     "q": "Le temps de recherche d'un but introuvable est limité à 5 minutes.",
+     "r": "valable",
+     "e": "Passé ce délai, le but est nul."
+    },
+    {
+     "q": "Un but masqué par une boule est nul.",
+     "r": "faute",
+     "e": "C'est faux. Le jeune arbitre peut enlever momentanément une boule pour constater."
+    },
+    {
+     "q": "Un but masqué par une boule n'est pas nul.",
+     "r": "valable",
+     "e": "Le jeune arbitre peut enlever momentanément une boule pour constater."
+    },
+    {
+     "q": "Si une feuille d'arbre masque le but, le but est nul.",
+     "r": "faute",
+     "e": "C'est faux. Article 10 du règlement."
+    },
+    {
+     "q": "Si une feuille d'arbre masque le but, elle est enlevée.",
+     "r": "valable",
+     "e": "Article 10 du règlement."
+    },
+    {
+     "q": "Si le but est nul et qu'une seule équipe a des boules, elle marque autant de points que de boules à jouer.",
+     "r": "valable",
+     "e": "Article 12 du règlement."
+    },
+    {
+     "q": "Si le but est nul et qu'une seule équipe a des boules, la mène est nulle.",
+     "r": "faute",
+     "e": "C'est faux. Article 12 du règlement."
+    },
+    {
+     "q": "Si le but est nul et que les deux équipes ont des boules, l'équipe la plus proche marque.",
+     "r": "faute",
+     "e": "C'est faux. La mène est nulle dans ce cas."
+    },
+    {
+     "q": "Si le but est nul et que les deux équipes ont encore des boules, la mène est nulle.",
+     "r": "valable",
+     "e": "La mène est nulle dans ce cas."
+    },
+    {
+     "q": "L'équipe qui a perdu la mène précédente lance la première boule.",
+     "r": "faute",
+     "e": "C'est faux. Article 6 du règlement."
+    },
+    {
+     "q": "L'équipe qui a marqué la mène précédente conserve la priorité pour lancer la première boule.",
+     "r": "valable",
+     "e": "Article 6 du règlement."
+    },
+    {
+     "q": "Après la première boule, c'est toujours à l'équipe qui a le point de jouer.",
+     "r": "faute",
+     "e": "C'est faux. On joue jusqu'à ce que le point change."
+    },
+    {
+     "q": "Après la première boule, c'est à l'équipe qui n'a pas le point de jouer.",
+     "r": "valable",
+     "e": "On joue jusqu'à ce que le point change."
+    },
+    {
+     "q": "Un joueur qui joue une boule autre que la sienne reçoit un carton rouge.",
+     "r": "faute",
+     "e": "C'est faux. La boule est valable mais remplacée ; récidive : boule annulée."
+    },
+    {
+     "q": "Un joueur qui joue une boule autre que la sienne reçoit un avertissement.",
+     "r": "valable",
+     "e": "La boule est valable mais remplacée ; récidive : boule annulée."
+    },
+    {
+     "q": "Une boule arrêtée par son propre joueur est rejouée.",
+     "r": "faute",
+     "e": "C'est faux. Article 19 du règlement."
+    },
+    {
+     "q": "Une boule jouée arrêtée par un joueur de sa propre équipe est nulle.",
+     "r": "valable",
+     "e": "Article 19 du règlement."
+    },
+    {
+     "q": "Une boule jouée arrêtée par un spectateur est rejouée.",
+     "r": "faute",
+     "e": "C'est faux. Même règle pour le jeune arbitre."
+    },
+    {
+     "q": "Une boule jouée arrêtée par un spectateur conserve sa position.",
+     "r": "valable",
+     "e": "Même règle pour le jeune arbitre."
+    },
+    {
+     "q": "Un joueur qui arrête volontairement une boule reçoit un simple avertissement.",
+     "r": "faute",
+     "e": "C'est faux. Sanction très sévère."
+    },
+    {
+     "q": "Un joueur qui arrête volontairement une boule en mouvement est disqualifié avec son équipe pour la partie en cours.",
+     "r": "valable",
+     "e": "Sanction très sévère."
+    },
+    {
+     "q": "La mesure se fait entre la tangente de la boule et l'entrée du but.",
+     "r": "valable",
+     "e": "Article 24 du règlement."
+    },
+    {
+     "q": "La mesure se fait entre le centre de la boule et le centre du but.",
+     "r": "faute",
+     "e": "C'est faux. Article 24 du règlement."
+    },
+    {
+     "q": "Il est interdit de déplacer quoi que ce soit pour mesurer.",
+     "r": "faute",
+     "e": "C'est faux. Après la mesure, tout est remis en place."
+    },
+    {
+     "q": "Pour mesurer, on peut déplacer momentanément les boules et obstacles après les avoir marqués.",
+     "r": "valable",
+     "e": "Après la mesure, tout est remis en place."
+    },
+    {
+     "q": "Si les obstacles ne peuvent pas être retirés, la mesure se fait avec un compas.",
+     "r": "valable",
+     "e": "Article 25 du règlement."
+    },
+    {
+     "q": "Si les obstacles ne peuvent être retirés, la mesure se fait à l'œil.",
+     "r": "faute",
+     "e": "C'est faux. Article 25 du règlement."
+    },
+    {
+     "q": "Un joueur qui déplace une boule en mesurant est sanctionné d'un carton rouge.",
+     "r": "faute",
+     "e": "C'est faux. Article 27 du règlement."
+    },
+    {
+     "q": "Un joueur qui déplace le but ou une boule litigieuse en mesurant fait perdre le point à son équipe.",
+     "r": "valable",
+     "e": "Article 27 du règlement."
+    },
+    {
+     "q": "Après 5 minutes d'absence, une équipe est pénalisée de 5 points.",
+     "r": "faute",
+     "e": "C'est faux. Un point de plus par tranche de 5 minutes de retard."
+    },
+    {
+     "q": "Après 5 minutes d'absence, une équipe est pénalisée d'un point crédité à l'adversaire.",
+     "r": "valable",
+     "e": "Un point de plus par tranche de 5 minutes de retard."
+    }
+   ]
+  }
+ ]
+}

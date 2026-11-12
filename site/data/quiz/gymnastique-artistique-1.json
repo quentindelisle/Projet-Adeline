@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-1",
+ "titre": "Barres asymétriques",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 1 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · GAF",
+ "sport": "gymnastique-artistique",
+ "source": "https://unique-starship-d734b0.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Aux barres asymétriques, la hauteur des deux barres est laissée libre.",
+     "r": "valable",
+     "e": "La hauteur des deux barres est effectivement laissée libre dans le règlement Équipe Établissement."
+    },
+    {
+     "q": "Aux barres asymétriques, la hauteur des deux barres est fixée réglementairement.",
+     "r": "faute",
+     "e": "Le règlement Équipe Établissement laisse au contraire la hauteur des deux barres libre."
+    },
+    {
+     "q": "1 ou 2 tremplins sont autorisés pour l'entrée aux barres asymétriques.",
+     "r": "valable",
+     "e": "Le règlement autorise 1 ou 2 tremplins pour l'entrée à cet agrès."
+    },
+    {
+     "q": "Seul un tremplin unique est autorisé pour l'entrée aux barres asymétriques, jamais deux.",
+     "r": "faute",
+     "e": "1 ou 2 tremplins sont au contraire autorisés pour l'entrée."
+    },
+    {
+     "q": "La note de difficulté additionne la valeur des 8 meilleurs éléments réalisés et comptabilisés.",
+     "r": "valable",
+     "e": "Le règlement retient bien les 8 meilleurs éléments réalisés pour la note D."
+    },
+    {
+     "q": "La note de difficulté additionne la valeur des 10 meilleurs éléments réalisés.",
+     "r": "faute",
+     "e": "Seuls les 8 meilleurs éléments sont retenus, pas 10."
+    },
+    {
+     "q": "Un élément de valeur A vaut 0,40 point aux barres asymétriques.",
+     "r": "valable",
+     "e": "Le barème est A = 0,40 pt, B = 0,60 pt, C = 0,80 pt, D = 1,00 pt."
+    },
+    {
+     "q": "Un élément de valeur A vaut 0,60 point aux barres asymétriques.",
+     "r": "faute",
+     "e": "0,60 point correspond à un élément B, pas à un élément A."
+    },
+    {
+     "q": "Un élément de valeur D vaut 1,00 point.",
+     "r": "valable",
+     "e": "Le barème place la valeur D au maximum, à 1,00 point."
+    },
+    {
+     "q": "Un élément de valeur D vaut 0,80 point, comme un élément C.",
+     "r": "faute",
+     "e": "0,80 point correspond à un élément C ; la valeur D vaut 1,00 point."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins est pénalisé de 2 points.",
+     "r": "valable",
+     "e": "Le règlement prévoit une pénalité de 2 points pour un exercice trop court."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins n'entraîne aucune pénalité particulière.",
+     "r": "faute",
+     "e": "Un exercice de 5 éléments ou moins est au contraire pénalisé de 2 points."
+    },
+    {
+     "q": "Tout élément non réalisé ou réalisé avec aide entraîne la suppression de sa valeur.",
+     "r": "valable",
+     "e": "L'élément non réalisé ou aidé perd sa valeur de difficulté."
+    },
+    {
+     "q": "Un élément réalisé avec l'aide d'un tiers conserve toute sa valeur en difficulté.",
+     "r": "faute",
+     "e": "Un élément réalisé avec aide perd au contraire toute sa valeur."
+    },
+    {
+     "q": "Les 4 exigences de composition aux barres asymétriques valent 0,5 point chacune.",
+     "r": "valable",
+     "e": "Chaque exigence de composition (BI, BS, R, F) vaut 0,5 point."
+    },
+    {
+     "q": "Les 4 exigences de composition aux barres asymétriques valent 0,25 point chacune.",
+     "r": "faute",
+     "e": "Chaque exigence vaut 0,5 point, pas 0,25."
+    },
+    {
+     "q": "L'exigence BI correspond à un travail à la Barre Inférieure.",
+     "r": "valable",
+     "e": "BI signifie un travail réalisé à la Barre Inférieure."
+    },
+    {
+     "q": "L'exigence BI correspond à un Balancer Intermédiaire, sans lien avec une barre précise.",
+     "r": "faute",
+     "e": "BI désigne un travail à la Barre Inférieure, pas un balancer intermédiaire."
+    },
+    {
+     "q": "L'exigence F correspond à un changement de Face.",
+     "r": "valable",
+     "e": "F désigne l'exigence d'un changement de face."
+    },
+    {
+     "q": "L'exigence F correspond à une Finition, c'est-à-dire l'élément de sortie.",
+     "r": "faute",
+     "e": "F signifie changement de Face, pas Finition."
+    },
+    {
+     "q": "L'exigence R correspond à la réalisation d'une Rotation.",
+     "r": "valable",
+     "e": "R désigne l'exigence d'une rotation."
+    },
+    {
+     "q": "L'exigence R correspond à un Repos, c'est-à-dire un temps d'arrêt autorisé.",
+     "r": "faute",
+     "e": "R signifie Rotation, pas un temps de repos."
+    },
+    {
+     "q": "Tous les balancés peuvent s'effectuer jambes serrées ou écartées, y compris les sorties salto.",
+     "r": "valable",
+     "e": "Le règlement autorise explicitement les balancés jambes serrées ou écartées."
+    },
+    {
+     "q": "Les balancés doivent obligatoirement s'effectuer jambes serrées, sans exception.",
+     "r": "faute",
+     "e": "Les balancés peuvent au contraire être jambes serrées ou écartées."
+    },
+    {
+     "q": "Toucher le sol avec les pieds pendant l'enchaînement est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "La faute spécifique « toucher le sol avec les pieds » vaut 0,30 point."
+    },
+    {
+     "q": "Toucher le sol avec les pieds pendant l'enchaînement est pénalisé de 1,00 point, comme une chute.",
+     "r": "faute",
+     "e": "Toucher le sol vaut 0,30 point ; 1,00 point correspond à heurter le sol (chute)."
+    },
+    {
+     "q": "Heurter le sol avec les pieds, assimilé à une chute, est pénalisé de 1,00 point.",
+     "r": "valable",
+     "e": "Heurter le sol équivaut à une chute et coûte 1,00 point."
+    },
+    {
+     "q": "Heurter le sol avec les pieds n'est pénalisé que de 0,10 point, comme une faute légère.",
+     "r": "faute",
+     "e": "Heurter le sol (chute) vaut 1,00 point, pas 0,10 point."
+    },
+    {
+     "q": "Un arrêt prolongé de plus de 2 secondes est pénalisé de 0,50 point.",
+     "r": "valable",
+     "e": "L'arrêt prolongé de plus de 2 secondes coûte 0,50 point."
+    },
+    {
+     "q": "Un arrêt prolongé de plus de 2 secondes n'est pénalisé que si sa durée dépasse 5 secondes.",
+     "r": "faute",
+     "e": "La pénalité s'applique dès 2 secondes d'arrêt, pas seulement au-delà de 5 secondes."
+    },
+    {
+     "q": "L'entrée à l'appui (sauter pour arriver à l'appui sur BI bras tendus) est un élément de valeur A.",
+     "r": "valable",
+     "e": "Cette entrée figure dans la colonne A du code, valeur 0,40 pt."
+    },
+    {
+     "q": "L'entrée à l'appui sur BI bras tendus est un élément de valeur C.",
+     "r": "faute",
+     "e": "Cette entrée est un élément de valeur A, pas C."
+    },
+    {
+     "q": "Le tour d'appui arrière BI ou BS est un élément de valeur D.",
+     "r": "valable",
+     "e": "Le tour d'appui arrière figure en colonne D du code."
+    },
+    {
+     "q": "Le tour d'appui arrière BI ou BS n'est qu'un élément de valeur B.",
+     "r": "faute",
+     "e": "Cet élément est classé en valeur D, pas B."
+    },
+    {
+     "q": "Le tour d'appui avant corps carpé BI ou BS est un élément D, déclassé en C6 si les jambes sont fléchies.",
+     "r": "valable",
+     "e": "Le code prévoit ce déclassement en cas de jambes fléchies."
+    },
+    {
+     "q": "Le tour d'appui avant corps carpé BI ou BS garde sa valeur D quelle que soit la position des jambes.",
+     "r": "faute",
+     "e": "L'élément est déclassé en C6 si les jambes sont fléchies, il ne garde pas systématiquement sa valeur D."
+    },
+    {
+     "q": "La sortie échappement (balancer vers l'avant puis salto arrière) est un élément de valeur D.",
+     "r": "valable",
+     "e": "La sortie échappement figure en colonne D du code."
+    },
+    {
+     "q": "La sortie échappement en salto arrière n'est reconnue qu'en valeur B.",
+     "r": "faute",
+     "e": "Cette sortie est un élément de valeur D, pas B."
+    },
+    {
+     "q": "L'entrée renversement (mains BI, appel 1 ou 2 pieds, appui facial par renversement AR) est un élément de valeur B.",
+     "r": "valable",
+     "e": "Cette entrée figure en colonne B du code."
+    },
+    {
+     "q": "L'entrée renversement par appui facial AR n'est reconnue qu'en valeur A.",
+     "r": "faute",
+     "e": "Cette entrée est un élément de valeur B, pas A."
+    },
+    {
+     "q": "Aux fautes spécifiques de l'agrès s'ajoutent les fautes de tenue et de technique communes à tous les agrès.",
+     "r": "valable",
+     "e": "Le règlement cumule toujours fautes spécifiques et fautes générales de tenue/technique."
+    },
+    {
+     "q": "Les fautes de tenue et de technique générales ne s'appliquent pas aux barres asymétriques.",
+     "r": "faute",
+     "e": "Les fautes générales de tenue et de technique s'ajoutent bien aux fautes spécifiques."
+    },
+    {
+     "q": "Un élément identique réalisé deux fois dans la même case n'est comptabilisé qu'une seule fois en valeur de difficulté.",
+     "r": "valable",
+     "e": "Le règlement précise qu'un élément identique répété n'est compté qu'une fois."
+    },
+    {
+     "q": "Un élément identique réalisé deux fois est toujours compté deux fois en valeur de difficulté.",
+     "r": "faute",
+     "e": "Un élément identique répété n'est comptabilisé qu'une seule fois."
+    },
+    {
+     "q": "Une liaison gymnique composée du même élément répété deux fois ne peut être comptabilisée comme exigence de composition.",
+     "r": "valable",
+     "e": "Le règlement exclut ce cas de figure pour la composition."
+    },
+    {
+     "q": "Répéter deux fois le même élément dans une liaison gymnique permet de valider deux exigences de composition différentes.",
+     "r": "faute",
+     "e": "Cette répétition ne peut au contraire valider aucune exigence de composition."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS ne peut recevoir aucune valeur en difficulté ni répondre à une exigence de composition.",
+     "r": "valable",
+     "e": "Le règlement est clair : un élément non reconnu n'a aucune valeur, ni en difficulté ni en composition."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS peut tout de même répondre à une exigence de composition.",
+     "r": "faute",
+     "e": "Un élément non reconnu ne peut répondre à aucune exigence de composition."
+    },
+    {
+     "q": "Un élément peut être déclassé à une valeur inférieure s'il n'est pas techniquement réalisé conformément au texte du code.",
+     "r": "valable",
+     "e": "Le règlement prévoit un déclassement en cas d'exécution non conforme au texte."
+    },
+    {
+     "q": "Un élément mal réalisé conserve toujours sa valeur théorique maximale, sans déclassement possible.",
+     "r": "faute",
+     "e": "Un élément mal réalisé peut au contraire être déclassé à une valeur inférieure."
+    }
+   ]
+  }
+ ]
+}

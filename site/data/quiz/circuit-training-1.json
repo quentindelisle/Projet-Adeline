@@ -1,0 +1,265 @@
+{
+ "id": "circuit-training-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Juge Circuit Training",
+ "entete": "",
+ "sport": "circuit-training",
+ "source": "https://calm-maamoul-d6ff9e.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le Circuit Training UNSS comporte trois épreuves pour chaque élève.",
+     "r": "valable",
+     "e": "Chaque élève participe aux 3 épreuves : circuit relais (collège) ou performance (lycée), circuit 6 minutes et circuit chrono."
+    },
+    {
+     "q": "Le Circuit Training UNSS ne comporte qu'une seule épreuve par élève.",
+     "r": "faute",
+     "e": "C'est faux. Chaque élève participe aux 3 épreuves : circuit relais (collège) ou performance (lycée), circuit 6 minutes et circuit chrono."
+    },
+    {
+     "q": "Une équipe se compose de 6 compétiteurs et d'un jeune coach supplémentaire.",
+     "r": "faute",
+     "e": "C'est faux. Chaque équipe compte 4 compétiteurs (dont un jeune coach) du même établissement, plus 1 jeune officiel non compétiteur."
+    },
+    {
+     "q": "Une équipe se compose de 4 compétiteurs, dont un jeune coach, plus un jeune officiel.",
+     "r": "valable",
+     "e": "Chaque équipe compte 4 compétiteurs (dont un jeune coach) du même établissement, plus 1 jeune officiel non compétiteur."
+    },
+    {
+     "q": "Le circuit relais est l'épreuve 1 des collégiens.",
+     "r": "valable",
+     "e": "Au collège, la première épreuve est le circuit relais ; au lycée et en LP, c'est l'épreuve de performance."
+    },
+    {
+     "q": "Le circuit relais est l'épreuve 1 des lycéens.",
+     "r": "faute",
+     "e": "C'est faux. Au collège, la première épreuve est le circuit relais ; au lycée et en LP, c'est l'épreuve de performance."
+    },
+    {
+     "q": "L'épreuve de performance comprend le développé couché, le squat clavicule et le pull up & rowing TRX.",
+     "r": "valable",
+     "e": "L'épreuve de performance (lycée et LP) se compose du développé couché, du squat clavicule et du pull up & rowing TRX."
+    },
+    {
+     "q": "L'épreuve de performance comprend le soulevé de terre, l'épaulé-jeté et le tirage.",
+     "r": "faute",
+     "e": "C'est faux. L'épreuve de performance (lycée et LP) se compose du développé couché, du squat clavicule et du pull up & rowing TRX."
+    },
+    {
+     "q": "Au circuit 6 minutes, chaque athlète dispose de sa propre zone et travaille en même temps que les autres.",
+     "r": "faute",
+     "e": "C'est faux. Les 4 athlètes se relaient dans une zone unique ; chacun n'a droit qu'à un seul passage."
+    },
+    {
+     "q": "Au circuit 6 minutes, les 4 athlètes se relaient dans une zone unique.",
+     "r": "valable",
+     "e": "Les 4 athlètes se relaient dans une zone unique ; chacun n'a droit qu'à un seul passage."
+    },
+    {
+     "q": "Au circuit 6 minutes, chaque athlète passe pendant 1 minute 30 sur son atelier.",
+     "r": "valable",
+     "e": "Chaque athlète passe 1 minute 30 sur son atelier : 4 × 1'30 = 6 minutes."
+    },
+    {
+     "q": "Au circuit 6 minutes, chaque athlète passe pendant 2 minutes sur son atelier.",
+     "r": "faute",
+     "e": "C'est faux. Chaque athlète passe 1 minute 30 sur son atelier : 4 × 1'30 = 6 minutes."
+    },
+    {
+     "q": "Au circuit 6 minutes, le relais se fait lorsque l'athlète tape dans la main de son partenaire.",
+     "r": "faute",
+     "e": "C'est faux. Le relais se fait lorsque l'athlète est de nouveau assis sur son tapis."
+    },
+    {
+     "q": "Au circuit 6 minutes, le relais se fait lorsque l'athlète est de nouveau assis sur son tapis.",
+     "r": "valable",
+     "e": "Le relais se fait lorsque l'athlète est de nouveau assis sur son tapis."
+    },
+    {
+     "q": "Le circuit 6 minutes se réalise avec des kettlebells et des médecine-balls.",
+     "r": "faute",
+     "e": "C'est faux. Le circuit 6 minutes est constitué de 4 mouvements sans matériel tirés au sort."
+    },
+    {
+     "q": "Le circuit 6 minutes se réalise sans matériel.",
+     "r": "valable",
+     "e": "Le circuit 6 minutes est constitué de 4 mouvements sans matériel tirés au sort."
+    },
+    {
+     "q": "Au circuit chrono, le relais se transmet en tapant dans une seule main du coéquipier suivant.",
+     "r": "faute",
+     "e": "C'est faux. Pour passer le relais, l'élève rejoint ses coéquipiers en zone d'attente et tape dans les deux mains du suivant."
+    },
+    {
+     "q": "Au circuit chrono, le relais se transmet en tapant dans les deux mains du coéquipier suivant.",
+     "r": "valable",
+     "e": "Pour passer le relais, l'élève rejoint ses coéquipiers en zone d'attente et tape dans les deux mains du suivant."
+    },
+    {
+     "q": "Au circuit chrono, chaque athlète doit passer au moins une fois sur chaque atelier.",
+     "r": "valable",
+     "e": "Chacun doit passer une fois minimum, obligatoirement, sur chaque atelier."
+    },
+    {
+     "q": "Au circuit chrono, un athlète peut ne passer sur aucun atelier si son équipe est rapide.",
+     "r": "faute",
+     "e": "C'est faux. Chacun doit passer une fois minimum, obligatoirement, sur chaque atelier."
+    },
+    {
+     "q": "Au circuit chrono, chaque compétiteur doit tenter au minimum 20 répétitions par atelier.",
+     "r": "faute",
+     "e": "C'est faux. Chaque compétiteur doit tenter au minimum 5 répétitions par atelier."
+    },
+    {
+     "q": "Au circuit chrono, chaque compétiteur doit tenter au minimum 5 répétitions par atelier.",
+     "r": "valable",
+     "e": "Chaque compétiteur doit tenter au minimum 5 répétitions par atelier."
+    },
+    {
+     "q": "Le time cap du circuit chrono est fixé à 15 minutes.",
+     "r": "valable",
+     "e": "Le time cap est fixé à 15 minutes."
+    },
+    {
+     "q": "Le time cap du circuit chrono est fixé à 30 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Le time cap est fixé à 15 minutes."
+    },
+    {
+     "q": "Au time cap, chaque répétition manquante vaut 10 secondes.",
+     "r": "faute",
+     "e": "C'est faux. Chaque répétition manquante vaut 1 seconde."
+    },
+    {
+     "q": "Au time cap, chaque répétition manquante vaut 1 seconde.",
+     "r": "valable",
+     "e": "Chaque répétition manquante vaut 1 seconde."
+    },
+    {
+     "q": "Aux championnats de France, le jeune arbitre est identifié par un tee-shirt de couleur bleue.",
+     "r": "faute",
+     "e": "C'est faux. Au niveau des organisations nationales et championnats de France, le jeune arbitre est identifié par un tee-shirt vert."
+    },
+    {
+     "q": "Aux championnats de France, le jeune arbitre est identifié par un tee-shirt de couleur verte.",
+     "r": "valable",
+     "e": "Au niveau des organisations nationales et championnats de France, le jeune arbitre est identifié par un tee-shirt vert."
+    },
+    {
+     "q": "Le chargeur décide seul de la charge de chaque athlète.",
+     "r": "faute",
+     "e": "C'est faux. Les chargeurs chargent les barres aux poids demandés par le secrétaire de compétition."
+    },
+    {
+     "q": "Le chargeur charge les barres aux poids demandés par le secrétaire de compétition.",
+     "r": "valable",
+     "e": "Les chargeurs chargent les barres aux poids demandés par le secrétaire de compétition."
+    },
+    {
+     "q": "Le secrétaire gère le déroulement de la compétition.",
+     "r": "valable",
+     "e": "Les secrétaires gèrent le déroulement de la compétition ; ce sont les juges qui jugent la validité des mouvements."
+    },
+    {
+     "q": "Le secrétaire est chargé de juger la validité des répétitions de chaque athlète.",
+     "r": "faute",
+     "e": "C'est faux. Les secrétaires gèrent le déroulement de la compétition ; ce sont les juges qui jugent la validité des mouvements."
+    },
+    {
+     "q": "Le juge compte toutes les répétitions, y compris les répétitions non valides.",
+     "r": "faute",
+     "e": "C'est faux. Les juges comptent le nombre de mouvements correctement réalisés et jugent leur validité."
+    },
+    {
+     "q": "Le juge compte le nombre de répétitions correctement réalisées.",
+     "r": "valable",
+     "e": "Les juges comptent le nombre de mouvements correctement réalisés et jugent leur validité."
+    },
+    {
+     "q": "Le chronométreur garde le temps pour lui et ne le communique qu'à son équipe.",
+     "r": "faute",
+     "e": "C'est faux. Le chronométreur utilise le chronomètre, reste vigilant sur le déroulement des épreuves et indique le temps au secrétariat."
+    },
+    {
+     "q": "Le chronométreur indique le temps au secrétariat.",
+     "r": "valable",
+     "e": "Le chronométreur utilise le chronomètre, reste vigilant sur le déroulement des épreuves et indique le temps au secrétariat."
+    },
+    {
+     "q": "Aux circuits relais, 6 minutes et chrono, le juge signale une répétition incorrecte en sifflant.",
+     "r": "faute",
+     "e": "C'est faux. Un juge lève les deux bras en les croisant en cas de répétition incorrecte (« NO REP »), l'annonce et la comptabilise."
+    },
+    {
+     "q": "Aux circuits relais, 6 minutes et chrono, le juge signale une répétition incorrecte en levant les deux bras croisés.",
+     "r": "valable",
+     "e": "Un juge lève les deux bras en les croisant en cas de répétition incorrecte (« NO REP »), l'annonce et la comptabilise."
+    },
+    {
+     "q": "Une « No Rep » est une répétition non validée car elle ne respecte pas le standard du mouvement.",
+     "r": "valable",
+     "e": "Les motifs de non-validation (« No rep ») sont les fautes éliminatoires décrites dans les standards de mouvements."
+    },
+    {
+     "q": "Une « No Rep » est une répétition validée qui rapporte un bonus.",
+     "r": "faute",
+     "e": "C'est faux. Les motifs de non-validation (« No rep ») sont les fautes éliminatoires décrites dans les standards de mouvements."
+    },
+    {
+     "q": "Le classement final se fait sur un maximum de 1 000 points.",
+     "r": "faute",
+     "e": "C'est faux. Relais ou performance (600) + circuit 6 minutes (400) + circuit chrono (800) = 1 800 points maximum."
+    },
+    {
+     "q": "Le classement final se fait sur un maximum de 1 800 points.",
+     "r": "valable",
+     "e": "Relais ou performance (600) + circuit 6 minutes (400) + circuit chrono (800) = 1 800 points maximum."
+    },
+    {
+     "q": "Le circuit chrono rapporte jusqu'à 400 points.",
+     "r": "faute",
+     "e": "C'est faux. Le circuit chrono compte pour 800 points sur 1 800."
+    },
+    {
+     "q": "Le circuit chrono rapporte jusqu'à 800 points, soit le plus gros barème.",
+     "r": "valable",
+     "e": "Le circuit chrono compte pour 800 points sur 1 800."
+    },
+    {
+     "q": "Au circuit relais, l'équipe marque jusqu'à 100 points par atelier.",
+     "r": "faute",
+     "e": "C'est faux. Les 3 sous-épreuves sont notées sur 200 points chacune (600 points au total)."
+    },
+    {
+     "q": "Au circuit relais, l'équipe marque jusqu'à 200 points par atelier.",
+     "r": "valable",
+     "e": "Les 3 sous-épreuves sont notées sur 200 points chacune (600 points au total)."
+    },
+    {
+     "q": "Les athlètes démarrent le circuit dès qu'ils se sentent prêts.",
+     "r": "faute",
+     "e": "C'est faux. Les athlètes ne démarrent le circuit qu'au top du starter."
+    },
+    {
+     "q": "Les athlètes ne démarrent le circuit qu'au top du starter.",
+     "r": "valable",
+     "e": "Les athlètes ne démarrent le circuit qu'au top du starter."
+    },
+    {
+     "q": "Un jeune juge peut obtenir directement la certification nationale sans niveau préalable.",
+     "r": "faute",
+     "e": "C'est faux. Le jeune juge doit être certifié de niveau académique pour acquérir la certification nationale (sur un championnat de France)."
+    },
+    {
+     "q": "Pour obtenir la certification nationale, le jeune juge doit d'abord être certifié au niveau académique.",
+     "r": "valable",
+     "e": "Le jeune juge doit être certifié de niveau académique pour acquérir la certification nationale (sur un championnat de France)."
+    }
+   ]
+  }
+ ]
+}

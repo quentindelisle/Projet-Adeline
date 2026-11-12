@@ -1,0 +1,265 @@
+{
+ "id": "tennis-de-table-1",
+ "titre": "Annonces, gestuelle, cartons et temps mort",
+ "sousTitre": "Quiz Jeune Arbitre Tennis de Table",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT TENNIS DE TABLE UNSS",
+ "sport": "tennis-de-table",
+ "source": "https://enchanting-kangaroo-6ab3b8.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En fin de manche, l'arbitre adjoint affiche le 11ème point sur le marqueur.",
+     "r": "valable",
+     "e": "C'est bien l'arbitre adjoint qui affiche ce point en fin de manche."
+    },
+    {
+     "q": "Le score de l'adversaire du serveur est toujours annoncé en premier.",
+     "r": "faute",
+     "e": "Attention : le serveur voit toujours son score annoncé en premier."
+    },
+    {
+     "q": "Après une interruption, on reprend directement le jeu sans réannoncer le score.",
+     "r": "faute",
+     "e": "Attention : il faut annoncer à nouveau la marque après toute interruption."
+    },
+    {
+     "q": "L'arbitre adjoint n'intervient jamais sur l'affichage du marqueur.",
+     "r": "faute",
+     "e": "Attention : c'est bien l'arbitre adjoint qui affiche ce point en fin de manche."
+    },
+    {
+     "q": "En compétition par équipes, c'est toujours le joueur qui décide en dernier ressort.",
+     "r": "faute",
+     "e": "Attention : en équipes, c'est l'inverse de l'individuel : le coach prime."
+    },
+    {
+     "q": "En compétition individuelle, en cas de désaccord, la décision du joueur prime sur celle du coach.",
+     "r": "valable",
+     "e": "En individuel, c'est le joueur qui a le dernier mot en cas de désaccord."
+    },
+    {
+     "q": "La deuxième faute n'a aucune conséquence sur le score.",
+     "r": "faute",
+     "e": "Attention : elle vaut 1 point perdu, mis à l'adversaire."
+    },
+    {
+     "q": "Les joueurs n'ont jamais le droit de s'arrêter pour s'essuyer pendant la partie.",
+     "r": "faute",
+     "e": "Attention : cet arrêt est autorisé tous les 6 points, au changement de service."
+    },
+    {
+     "q": "La troisième faute vaut un carton jaune + rouge, avec 2 points perdus.",
+     "r": "valable",
+     "e": "Elle vaut 2 points perdus, mis à l'adversaire."
+    },
+    {
+     "q": "Au début d'une partie, l'arbitre n'annonce rien de particulier.",
+     "r": "faute",
+     "e": "Attention : c'est précisément cette annonce qui est faite au début de la partie."
+    },
+    {
+     "q": "La crampe due à une mauvaise condition physique n'entraîne pas d'arrêt de jeu.",
+     "r": "valable",
+     "e": "Ce type de crampe n'ouvre pas droit à un arrêt spécifique."
+    },
+    {
+     "q": "Un temps mort demandé par le capitaine d'équipe est considéré comme pris, même si le joueur refuse.",
+     "r": "valable",
+     "e": "La demande du capitaine est automatiquement considérée comme prise."
+    },
+    {
+     "q": "Un avertissement formel n'est jamais signalé visuellement sur le marqueur.",
+     "r": "faute",
+     "e": "Attention : un signe distinctif jaune est placé sur ou près du marqueur, côté du joueur concerné."
+    },
+    {
+     "q": "Les joueurs n'ont droit à aucun repos entre deux parties par équipes.",
+     "r": "faute",
+     "e": "Attention : 5 minutes de repos sont prévues entre deux parties, en compétition par équipes."
+    },
+    {
+     "q": "Un temps mort se demande en criant « stop » à l'arbitre.",
+     "r": "faute",
+     "e": "Attention : le geste prévu est un T formé avec les mains."
+    },
+    {
+     "q": "En compétition par équipes, c'est la décision du coach qui prime sur celle du joueur.",
+     "r": "valable",
+     "e": "En équipes, c'est l'inverse de l'individuel : le coach prime."
+    },
+    {
+     "q": "Le geste pour une balle à remettre consiste à lever la main au-dessus de la tête.",
+     "r": "valable",
+     "e": "C'est précisément le geste pour une balle à remettre."
+    },
+    {
+     "q": "En cas d'agression, l'arbitre va directement voir le juge arbitre, sans passer par les cartons.",
+     "r": "valable",
+     "e": "En cas de faute très grave, on saute directement les étapes intermédiaires."
+    },
+    {
+     "q": "La deuxième faute vaut un carton jaune + rouge, avec 1 point perdu pour le fautif.",
+     "r": "valable",
+     "e": "Elle vaut 1 point perdu, mis à l'adversaire."
+    },
+    {
+     "q": "Les joueurs ont droit à 5 minutes de repos entre deux parties, par équipes.",
+     "r": "valable",
+     "e": "5 minutes de repos sont prévues entre deux parties, en compétition par équipes."
+    },
+    {
+     "q": "Le temps mort dure au maximum 1 minute.",
+     "r": "valable",
+     "e": "1 minute maximum pour le temps mort."
+    },
+    {
+     "q": "Il n'existe aucun geste prévu pour signaler une balle touchant le côté de la table.",
+     "r": "faute",
+     "e": "Attention : il peut pointer du doigt le côté de la table lui faisant face."
+    },
+    {
+     "q": "L'arbitre tend le bras vers le serveur à chaque changement de service.",
+     "r": "valable",
+     "e": "Il tend le bras vers le nouveau serveur à chaque changement."
+    },
+    {
+     "q": "En cas de blessure, le juge arbitre peut accorder jusqu'à 10 minutes de repos maximum.",
+     "r": "valable",
+     "e": "Le juge arbitre peut accorder jusqu'à 10 minutes dans ce cas précis."
+    },
+    {
+     "q": "La troisième faute est traitée exactement comme la première.",
+     "r": "faute",
+     "e": "Attention : elle vaut 2 points perdus, mis à l'adversaire."
+    },
+    {
+     "q": "Un avertissement formel est signalé par un signe jaune près du marqueur.",
+     "r": "valable",
+     "e": "Un signe distinctif jaune est placé sur ou près du marqueur, côté du joueur concerné."
+    },
+    {
+     "q": "La première faute de comportement vaut directement un carton rouge.",
+     "r": "faute",
+     "e": "Attention : la première faute vaut un carton jaune, avertissement oral."
+    },
+    {
+     "q": "Le geste pour une balle à remettre consiste à pointer du doigt la table.",
+     "r": "faute",
+     "e": "Attention : c'est précisément le geste pour une balle à remettre."
+    },
+    {
+     "q": "La crampe entraîne systématiquement un arrêt de jeu de plusieurs minutes.",
+     "r": "faute",
+     "e": "Attention : ce type de crampe n'ouvre pas droit à un arrêt spécifique."
+    },
+    {
+     "q": "Même en cas d'agression, l'arbitre doit respecter toute l'échelle des cartons.",
+     "r": "faute",
+     "e": "Attention : en cas de faute très grave, on saute directement les étapes intermédiaires."
+    },
+    {
+     "q": "La première faute de comportement antisportif vaut un carton jaune.",
+     "r": "valable",
+     "e": "La première faute vaut un carton jaune, avertissement oral."
+    },
+    {
+     "q": "Le geste pour un point marqué consiste à lever la main à hauteur d'épaule.",
+     "r": "valable",
+     "e": "C'est le geste pour une balle à remettre, pas pour un point marqué."
+    },
+    {
+     "q": "Un seul temps mort est autorisé par joueur ou par paire, pour toute la partie.",
+     "r": "valable",
+     "e": "Un seul temps mort, une fois, pour toute la partie."
+    },
+    {
+     "q": "Au début d'une partie, l'arbitre annonce « 1ère manche, untel, 0/0 ».",
+     "r": "valable",
+     "e": "C'est précisément cette annonce qui est faite au début de la partie."
+    },
+    {
+     "q": "Seul le joueur en jeu peut recevoir un carton, jamais le banc.",
+     "r": "faute",
+     "e": "Attention : c'est bien tout le banc qui reçoit l'avertissement collectif la première fois."
+    },
+    {
+     "q": "Le score du serveur est toujours annoncé en premier par l'arbitre.",
+     "r": "valable",
+     "e": "Le serveur voit toujours son score annoncé en premier."
+    },
+    {
+     "q": "Après une interruption de jeu, il faut annoncer à nouveau la marque.",
+     "r": "valable",
+     "e": "Il faut annoncer à nouveau la marque après toute interruption."
+    },
+    {
+     "q": "Le temps mort dure au maximum 5 minutes.",
+     "r": "faute",
+     "e": "Attention : 1 minute maximum pour le temps mort."
+    },
+    {
+     "q": "Les joueurs peuvent s'arrêter pour s'essuyer tous les 6 points, au changement de service.",
+     "r": "valable",
+     "e": "Cet arrêt est autorisé tous les 6 points, au changement de service."
+    },
+    {
+     "q": "En cas de blessure, aucun temps de repos supplémentaire n'est jamais accordé.",
+     "r": "faute",
+     "e": "Attention : le juge arbitre peut accorder jusqu'à 10 minutes dans ce cas précis."
+    },
+    {
+     "q": "Un temps mort se demande avec un geste en T formé avec les mains.",
+     "r": "valable",
+     "e": "Le geste prévu est un T formé avec les mains."
+    },
+    {
+     "q": "À la quatrième faute, l'arbitre va voir le juge arbitre.",
+     "r": "valable",
+     "e": "Il va voir le juge arbitre, qui décide : partie perdue ou exclusion."
+    },
+    {
+     "q": "En compétition individuelle, la décision du coach prime toujours.",
+     "r": "faute",
+     "e": "Attention : en individuel, c'est le joueur qui a le dernier mot en cas de désaccord."
+    },
+    {
+     "q": "L'arbitre ne fait aucun geste lors des changements de service.",
+     "r": "faute",
+     "e": "Attention : il tend le bras vers le nouveau serveur à chaque changement."
+    },
+    {
+     "q": "Un temps mort demandé par le capitaine peut être annulé par le joueur sur le terrain.",
+     "r": "faute",
+     "e": "Attention : la demande du capitaine est automatiquement considérée comme prise."
+    },
+    {
+     "q": "Chaque joueur peut demander autant de temps morts qu'il le souhaite.",
+     "r": "faute",
+     "e": "Attention : un seul temps mort, une fois, pour toute la partie."
+    },
+    {
+     "q": "Le geste pour un point marqué consiste à lever les deux bras au-dessus de la tête.",
+     "r": "faute",
+     "e": "Attention : c'est le geste pour une balle à remettre, pas pour un point marqué."
+    },
+    {
+     "q": "À la quatrième faute, l'arbitre peut décider seul de la disqualification.",
+     "r": "faute",
+     "e": "Attention : il va voir le juge arbitre, qui décide : partie perdue ou exclusion."
+    },
+    {
+     "q": "Quand la balle touche le côté de la table, l'arbitre peut pointer du doigt ce côté.",
+     "r": "valable",
+     "e": "Il peut pointer du doigt le côté de la table lui faisant face."
+    },
+    {
+     "q": "Si une faute est commise par le banc, c'est tout le banc qui reçoit le premier carton jaune.",
+     "r": "valable",
+     "e": "C'est bien tout le banc qui reçoit l'avertissement collectif la première fois."
+    }
+   ]
+  }
+ ]
+}

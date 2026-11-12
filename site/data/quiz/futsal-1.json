@@ -1,0 +1,265 @@
+{
+ "id": "futsal-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre Futsal",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT FUTSAL UNSS",
+ "sport": "futsal",
+ "source": "https://peaceful-pasca-c6f299.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le terrain de futsal est un terrain de hand-ball, en intérieur ou en extérieur.",
+     "r": "valable",
+     "e": "Le règlement précise que le futsal se joue sur un terrain de Hand-ball, intérieur ou extérieur."
+    },
+    {
+     "q": "Le terrain de futsal doit obligatoirement être un terrain de football à 11 réduit.",
+     "r": "faute",
+     "e": "Le terrain de référence est un terrain de hand-ball, pas un terrain de football réduit."
+    },
+    {
+     "q": "Une équipe compte 5 joueurs sur le terrain, gardien compris.",
+     "r": "valable",
+     "e": "5 joueurs dont le gardien composent une équipe sur le terrain."
+    },
+    {
+     "q": "Une équipe compte 7 joueurs sur le terrain, gardien compris.",
+     "r": "faute",
+     "e": "Une équipe futsal compte 5 joueurs sur le terrain, pas 7."
+    },
+    {
+     "q": "Chaque équipe peut avoir jusqu'à 5 remplaçants, soit 10 joueurs maximum.",
+     "r": "valable",
+     "e": "5 joueurs + 5 remplaçants, soit 10 joueurs maximum pour un match ou un tournoi."
+    },
+    {
+     "q": "Chaque équipe ne peut avoir que 2 remplaçants maximum.",
+     "r": "faute",
+     "e": "Le règlement autorise jusqu'à 5 remplaçants, pas seulement 2."
+    },
+    {
+     "q": "Le nombre de remplacements pendant le match est illimité.",
+     "r": "valable",
+     "e": "Le règlement précise un nombre illimité de remplacements."
+    },
+    {
+     "q": "Le nombre de remplacements pendant le match est limité à 3 par équipe.",
+     "r": "faute",
+     "e": "Il n'y a aucune limite au nombre de remplacements en futsal."
+    },
+    {
+     "q": "Les protège-tibias sont obligatoires pour tous les joueurs.",
+     "r": "valable",
+     "e": "Des protège-tibias obligatoires assurent une sécurité minimum du joueur."
+    },
+    {
+     "q": "Les protège-tibias sont optionnels, laissés au choix de chaque joueur.",
+     "r": "faute",
+     "e": "Les protège-tibias sont obligatoires, ce n'est pas une option."
+    },
+    {
+     "q": "Le ballon utilisé est un ballon spécifique futsal de taille 4.",
+     "r": "valable",
+     "e": "Le règlement impose un ballon spécifique futsal de taille 4 (62 à 64 cm, 400 à 440 g)."
+    },
+    {
+     "q": "Un ballon en feutrine est autorisé en cas de besoin.",
+     "r": "faute",
+     "e": "Le ballon en feutrine est explicitement interdit par le règlement."
+    },
+    {
+     "q": "Le match se joue avec deux arbitres centraux, en co-arbitrage.",
+     "r": "valable",
+     "e": "L'arbitrage se fait en co-arbitrage, avec deux arbitres centraux (JA1 et JA2)."
+    },
+    {
+     "q": "Le match se joue avec un seul arbitre central sur le terrain.",
+     "r": "faute",
+     "e": "Le futsal UNSS se joue avec deux arbitres centraux, pas un seul."
+    },
+    {
+     "q": "Il n'y a pas de hors-jeu en futsal.",
+     "r": "valable",
+     "e": "Le règlement est très clair : il n'y a pas de hors-jeu en futsal."
+    },
+    {
+     "q": "Le hors-jeu s'applique en futsal comme au football à 11.",
+     "r": "faute",
+     "e": "Il n'existe aucune règle de hors-jeu en futsal."
+    },
+    {
+     "q": "Le carton rouge entraîne l'exclusion définitive du joueur pour le match.",
+     "r": "valable",
+     "e": "Le carton rouge entraîne une exclusion définitive du joueur concerné pour l'ensemble du match."
+    },
+    {
+     "q": "Le carton rouge n'est qu'un simple avertissement sans conséquence.",
+     "r": "faute",
+     "e": "Le carton rouge entraîne au contraire une exclusion définitive."
+    },
+    {
+     "q": "Le carton jaune entraîne une exclusion temporaire de 2 minutes.",
+     "r": "valable",
+     "e": "Le carton jaune entraîne une exclusion temporaire d'une durée de 2 minutes décomptées."
+    },
+    {
+     "q": "Le carton jaune n'entraîne aucune exclusion du joueur.",
+     "r": "faute",
+     "e": "Le carton jaune entraîne bien une exclusion temporaire de 2 minutes."
+    },
+    {
+     "q": "Le carton blanc est une mise en garde qui n'entraîne aucun point de pénalité.",
+     "r": "valable",
+     "e": "Le carton blanc n'entraîne aucun point de pénalité ni d'exclusion : c'est une mise en garde."
+    },
+    {
+     "q": "Le carton blanc entraîne directement 3 points de pénalité pour l'équipe.",
+     "r": "faute",
+     "e": "Ce sont 3 points de pénalité pour un carton jaune, pas pour un carton blanc."
+    },
+    {
+     "q": "Les tacles sont interdits dans les duels, y compris pour le gardien de but.",
+     "r": "valable",
+     "e": "Les tacles sont interdits dans les duels, sans exception pour le gardien de but."
+    },
+    {
+     "q": "Les tacles sont autorisés à condition de toucher le ballon avant l'adversaire.",
+     "r": "faute",
+     "e": "Le tacle en duel est interdit en futsal UNSS, quelle que soit la situation."
+    },
+    {
+     "q": "Le gardien de but peut jouer au pied comme un joueur de champ.",
+     "r": "valable",
+     "e": "Le gardien peut relancer et jouer au pied, notamment lors d'une relance au sol."
+    },
+    {
+     "q": "Le gardien de but n'a pas le droit de toucher le ballon avec les pieds.",
+     "r": "faute",
+     "e": "Le gardien peut au contraire jouer au pied, comme n'importe quel joueur de champ."
+    },
+    {
+     "q": "Un but ne peut pas être marqué directement sur une rentrée de touche.",
+     "r": "valable",
+     "e": "Un but ne peut pas être marqué directement sur une touche, si aucun joueur n'a touché le ballon."
+    },
+    {
+     "q": "Un but peut être marqué directement sur une rentrée de touche.",
+     "r": "faute",
+     "e": "Il faut qu'un joueur touche le ballon avant qu'un but ne soit valable sur une touche."
+    },
+    {
+     "q": "Le match se compose de deux périodes.",
+     "r": "valable",
+     "e": "Les temps de jeu prévus par le règlement sont toujours répartis en deux périodes."
+    },
+    {
+     "q": "Le match se compose de trois périodes comme au hockey.",
+     "r": "faute",
+     "e": "Le futsal se joue en deux périodes, pas trois."
+    },
+    {
+     "q": "Un temps mort d'une minute par équipe et par période peut être accordé.",
+     "r": "valable",
+     "e": "Un Temps Mort d'une minute par équipe et par période peut être accordé."
+    },
+    {
+     "q": "Un temps mort de 5 minutes par équipe peut être accordé à tout moment.",
+     "r": "faute",
+     "e": "Le temps mort réglementaire dure une minute, pas cinq."
+    },
+    {
+     "q": "Le gardien de but est autorisé à porter un pantalon de survêtement.",
+     "r": "valable",
+     "e": "Le règlement autorise explicitement le gardien à porter un pantalon de survêtement."
+    },
+    {
+     "q": "Le gardien de but doit obligatoirement porter un short comme les autres joueurs.",
+     "r": "faute",
+     "e": "Le gardien peut porter un pantalon de survêtement, ce n'est pas obligatoire de porter un short."
+    },
+    {
+     "q": "Le coup de pied de réparation (penalty) se tire à 6 mètres du but.",
+     "r": "valable",
+     "e": "Le point de réparation est à 6 mètres de la ligne de but, dans l'axe du but."
+    },
+    {
+     "q": "Le penalty se tire à 11 mètres comme au football à 11.",
+     "r": "faute",
+     "e": "En futsal, le point de réparation est à 6 mètres, pas à 11 mètres."
+    },
+    {
+     "q": "Les joueurs adverses doivent se placer à 5 mètres du ballon lors d'un coup franc.",
+     "r": "valable",
+     "e": "Sur un coup franc, les joueurs adverses doivent respecter une distance de 5 mètres."
+    },
+    {
+     "q": "Les joueurs adverses peuvent se placer à seulement 1 mètre du ballon lors d'un coup franc.",
+     "r": "faute",
+     "e": "La distance réglementaire sur un coup franc est de 5 mètres, pas 1 mètre."
+    },
+    {
+     "q": "La rentrée de touche s'effectue exclusivement au pied.",
+     "r": "valable",
+     "e": "La rentrée de touche s'effectue exclusivement au pied, ballon arrêté sur la ligne."
+    },
+    {
+     "q": "La rentrée de touche s'effectue à la main comme au football à 11.",
+     "r": "faute",
+     "e": "En futsal, la rentrée de touche se joue au pied, jamais à la main."
+    },
+    {
+     "q": "Les numéros de maillots vont de 0 à 99 inclus.",
+     "r": "valable",
+     "e": "Les maillots doivent être numérotés par un numéro allant de 0 à 99 inclus."
+    },
+    {
+     "q": "Les numéros de maillots sont limités de 1 à 11 comme au football à 11.",
+     "r": "faute",
+     "e": "En futsal, la plage de numérotation autorisée va de 0 à 99."
+    },
+    {
+     "q": "Le ballon doit être immobile pour l'exécution d'un coup franc.",
+     "r": "valable",
+     "e": "Le ballon doit être immobile ; s'il est en mouvement, un CFI est accordé à l'équipe adverse."
+    },
+    {
+     "q": "Le ballon peut être en mouvement lors de l'exécution d'un coup franc.",
+     "r": "faute",
+     "e": "Le ballon doit être immobile, sinon un coup franc indirect est accordé à l'adversaire."
+    },
+    {
+     "q": "Un but peut être marqué directement sur un coup franc direct (CFD).",
+     "r": "valable",
+     "e": "Par définition, un Coup Franc Direct peut donner lieu à un but marqué directement."
+    },
+    {
+     "q": "Un but ne peut jamais être marqué directement sur un coup franc, quel qu'il soit.",
+     "r": "faute",
+     "e": "C'est justement la différence avec le coup franc indirect : le CFD permet un but direct."
+    },
+    {
+     "q": "Le terrain de futsal mesure entre 38 et 42 mètres de longueur.",
+     "r": "valable",
+     "e": "La longueur du terrain est de 38 mètres minimum à 42 mètres maximum."
+    },
+    {
+     "q": "Le terrain de futsal mesure entre 90 et 120 mètres de long comme au football à 11.",
+     "r": "faute",
+     "e": "Ces dimensions sont celles d'un terrain de football à 11, pas d'un terrain de futsal."
+    },
+    {
+     "q": "Le but de futsal mesure 3 mètres de large sur 2 mètres de haut.",
+     "r": "valable",
+     "e": "Les dimensions du but de futsal sont 3 mètres en largeur et 2 mètres en hauteur."
+    },
+    {
+     "q": "Le but de futsal mesure 7,32 mètres de large comme au football à 11.",
+     "r": "faute",
+     "e": "7,32 mètres est la largeur d'un but de football à 11, pas de futsal."
+    }
+   ]
+  }
+ ]
+}

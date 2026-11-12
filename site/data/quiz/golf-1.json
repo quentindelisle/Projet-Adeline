@@ -1,0 +1,265 @@
+{
+ "id": "golf-1",
+ "titre": "Les missions du jeune arbitre",
+ "sousTitre": "Quiz Jeune Arbitre Golf",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT GOLF UNSS",
+ "sport": "golf",
+ "source": "https://regal-cactus-a8b84e.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Pour préparer le terrain, on place les piquets et on trace les lignes de hors-limites.",
+     "r": "valable",
+     "e": "Préparer le terrain comprend le placement des piquets et le traçage des lignes délimitant notamment le hors-limites."
+    },
+    {
+     "q": "Le hors-limites peut être matérialisé par des piquets espacés de 100 m sans problème.",
+     "r": "faute",
+     "e": "L'espacement maximal réglementaire est de 20 m, pas 100 m."
+    },
+    {
+     "q": "Le hors-limites peut être matérialisé par une ligne blanche et/ou des piquets espacés de 20 m maximum.",
+     "r": "valable",
+     "e": "Hors limites : ligne blanche et/ou piquets espacés de 20m maximum."
+    },
+    {
+     "q": "La vitesse des greens n'a aucune influence sur le jeu et n'est jamais mesurée.",
+     "r": "faute",
+     "e": "La vitesse des greens est au contraire mesurée et exprimée par une appréciation (lent à très rapide)."
+    },
+    {
+     "q": "Les marques de départ pour un Par 3 sont orientées vers le centre du green.",
+     "r": "valable",
+     "e": "Placer les marques de départ perpendiculairement à l'axe de jeu : Par 3 vers le centre du green."
+    },
+    {
+     "q": "Le tableau officiel est conçu uniquement par le comité national, sans lien avec le terrain local.",
+     "r": "faute",
+     "e": "Le tableau officiel est conçu en lien avec l'arbitre local de l'épreuve."
+    },
+    {
+     "q": "Les marques de départ pour un Par 4 ou Par 5 sont orientées vers le milieu du fairway.",
+     "r": "valable",
+     "e": "Par 4 ou Par 5, les marques sont orientées vers le milieu du fairway."
+    },
+    {
+     "q": "Lors du départ, on vérifie soi-même le nombre de clubs de chaque joueur.",
+     "r": "faute",
+     "e": "On ne vérifie pas soi-même le nombre de clubs, on rappelle simplement la règle des 14 clubs maximum."
+    },
+    {
+     "q": "Un point de peinture sous chaque marque de départ permet de retrouver son emplacement initial.",
+     "r": "valable",
+     "e": "Un petit point de peinture sous chaque marque permet de repérer l'emplacement initial en cas de problème."
+    },
+    {
+     "q": "Sur le tertre de départ, les chariots sont autorisés sans restriction.",
+     "r": "faute",
+     "e": "Sur le tertre de départ, aucun chariot n'est autorisé."
+    },
+    {
+     "q": "La vitesse des greens se mesure à l'aide d'un stimpmeter (gouttière graduée).",
+     "r": "valable",
+     "e": "Le matériel pour mesurer la vitesse des greens comprend notamment une gouttière graduée (stimpmeter)."
+    },
+    {
+     "q": "L'heure à laquelle le match quitte le départ n'a pas besoin d'être notée.",
+     "r": "faute",
+     "e": "Cette heure doit au contraire être notée par le donneur de départs."
+    },
+    {
+     "q": "Le tableau officiel est conçu en relation avec l'arbitre.",
+     "r": "valable",
+     "e": "En relation avec l'Arbitre, on conçoit le tableau officiel."
+    },
+    {
+     "q": "Pour le suivi de score, on peut se placer directement sur le green pour mieux compter les coups.",
+     "r": "faute",
+     "e": "Il est précisé de ne jamais se placer sur un green pour le suivi de score."
+    },
+    {
+     "q": "La liste des joueurs par établissement et leurs index font partie des documents de jeu à préparer.",
+     "r": "valable",
+     "e": "La liste des joueurs (par établissement) et leurs index font partie des documents de jeu."
+    },
+    {
+     "q": "Le suivi de partie n'a aucun rôle concernant le rythme de jeu des joueurs.",
+     "r": "faute",
+     "e": "Le suivi de partie donne au contraire du rythme à la partie : « SVP, marchons plus vite »."
+    },
+    {
+     "q": "Pour donner un départ, on vérifie l'heure officielle et on accueille les joueurs suffisamment tôt.",
+     "r": "valable",
+     "e": "J'arrive suffisamment tôt et je vérifie l'heure officielle du départ."
+    },
+    {
+     "q": "En Stroke Play, on peut prendre une décision seul en cas de litige sur un score.",
+     "r": "faute",
+     "e": "On ne prend aucune décision sans en référer à un membre du comité."
+    },
+    {
+     "q": "Lors du départ, on demande aux joueurs d'identifier et de marquer leurs balles.",
+     "r": "valable",
+     "e": "« Merci d'identifier vos balles et de les marquer si besoin est » fait partie des consignes données au départ."
+    },
+    {
+     "q": "En Match Play, il suffit d'observer de loin sans accompagner les joueurs pour agir comme arbitre.",
+     "r": "faute",
+     "e": "Pour agir comme arbitre en Match Play, le Jeune Officiel doit accompagner les joueurs durant toute la partie."
+    },
+    {
+     "q": "Les règles locales sont lues à voix haute lors du premier tour.",
+     "r": "valable",
+     "e": "Lors du premier tour, je lis les Règles Locales à voix haute et je commente les points précisés par le Comité."
+    },
+    {
+     "q": "Il est conseillé pour un arbitre de prendre rapidement une décision même en cas de doute.",
+     "r": "faute",
+     "e": "Il est au contraire déconseillé de prendre une décision en cas de moindre doute."
+    },
+    {
+     "q": "Sur le tertre de départ, seuls les joueurs sont autorisés, personne d'autre.",
+     "r": "valable",
+     "e": "Sur le tertre de départ : pas d'autres personnes que les joueurs."
+    },
+    {
+     "q": "Les accompagnateurs doivent être écoutés en priorité par l'arbitre en cas de litige.",
+     "r": "faute",
+     "e": "Il est déconseillé d'écouter les avis des accompagnateurs, qui ne doivent d'ailleurs pas intervenir."
+    },
+    {
+     "q": "Pour annoncer un match, on commence par l'équipe qui a l'honneur.",
+     "r": "valable",
+     "e": "Je présente le match et je commence par l'équipe qui a l'honneur."
+    },
+    {
+     "q": "Le Jeune Arbitre est identifié par un polo de couleur rouge.",
+     "r": "faute",
+     "e": "La couleur d'identification est le vert, pas le rouge."
+    },
+    {
+     "q": "Pour le suivi de score, on se place près du joueur sans le gêner, jamais sur un green.",
+     "r": "valable",
+     "e": "Je vérifie le nombre de coups joués en étant près du joueur sans gêner (et jamais sur un green)."
+    },
+    {
+     "q": "Après l'épreuve, le Jeune Arbitre n'a plus aucune tâche liée au tableau arbitre.",
+     "r": "faute",
+     "e": "Après, il doit vérifier et enregistrer les scores, remplir le tableau arbitre, préparer les tours suivants."
+    },
+    {
+     "q": "En Match Play, l'état du match est annoncé à haute voix s'il y a au moins un spectateur.",
+     "r": "valable",
+     "e": "En Match Play, s'il y a au moins un spectateur, j'annonce à haute voix l'état du match."
+    },
+    {
+     "q": "Le suivi de partie doit vérifier lui-même le nombre de clubs de chaque joueur au départ.",
+     "r": "faute",
+     "e": "Le donneur de départ rappelle la règle mais ne vérifie pas lui-même le nombre de clubs."
+    },
+    {
+     "q": "Le suivi de partie déclenche le compte à rebours de 5 minutes pour la recherche de balle.",
+     "r": "valable",
+     "e": "« Je déclenche le compte à rebours des 5 minutes de recherche » fait partie du rôle du suivi de partie."
+    },
+    {
+     "q": "Le hors-limites peut être espacé de piquets tous les 50 mètres sans problème.",
+     "r": "faute",
+     "e": "L'espacement maximal réglementaire pour le hors-limites est de 20 mètres, pas 50."
+    },
+    {
+     "q": "Le suivi de partie s'arrange pour être devant les joueurs afin d'anticiper.",
+     "r": "valable",
+     "e": "En réalité, il s'arrange pour être devant les joueurs dès qu'ils ont joué et « tirer la partie »."
+    },
+    {
+     "q": "Le suivi de partie a le droit de prendre des décisions d'arbitrage à la place de l'arbitre.",
+     "r": "faute",
+     "e": "Le suivi de partie précise justement qu'il n'est pas arbitre et n'a pas mandat de décision."
+    },
+    {
+     "q": "À la fin de la partie, on accompagne les joueurs au recording tous ensemble.",
+     "r": "valable",
+     "e": "« Allons tous ensemble rendre les cartes » ou « annoncer le résultat du match » fait partie de la fin de partie."
+    },
+    {
+     "q": "Le suivi de partie peut ignorer le respect des cheminements prévus pour les spectateurs.",
+     "r": "faute",
+     "e": "Il veille au contraire au placement des spectateurs et accompagnateurs, et au respect des cheminements."
+    },
+    {
+     "q": "En Stroke Play, les joueurs doivent être d'accord sur leur score avant de signer leur carte.",
+     "r": "valable",
+     "e": "On s'assure que les joueurs vérifient les scores et sont d'accord avant de signer leurs cartes."
+    },
+    {
+     "q": "En Stroke Play, un joueur peut signer sa carte sans avoir vérifié son score avec le suivi de partie.",
+     "r": "faute",
+     "e": "Le suivi de partie s'assure que les joueurs vérifient les scores et sont d'accord avant de signer leur carte."
+    },
+    {
+     "q": "En Match Play, la carte de score n'est pas nécessaire.",
+     "r": "valable",
+     "e": "En Match Play, la carte n'est pas nécessaire, contrairement au Stroke Play."
+    },
+    {
+     "q": "Un arbitre peut donner son avis personnel sur une règle sans se référer au livret en cas de doute.",
+     "r": "faute",
+     "e": "Il est conseillé de rechercher la réponse dans le livret des règles plutôt que de donner un avis personnel non vérifié."
+    },
+    {
+     "q": "En Match Play, les deux camps doivent se présenter ensemble au secrétariat pour annoncer le résultat.",
+     "r": "valable",
+     "e": "On s'assure que les 2 camps au complet se présentent sans délai au secrétariat pour annoncer le résultat."
+    },
+    {
+     "q": "Le suivi de partie peut se placer sur le green pour mieux observer le score des joueurs.",
+     "r": "faute",
+     "e": "Il est précisé qu'il ne doit jamais se placer sur un green pour vérifier le nombre de coups joués."
+    },
+    {
+     "q": "Un arbitre est une personne désignée par le comité pour accompagner les joueurs et appliquer les règles.",
+     "r": "valable",
+     "e": "C'est la définition exacte donnée dans le livret Jeune Arbitre."
+    },
+    {
+     "q": "Un arbitre affecté à une zone ne peut jamais intervenir en dehors de cette zone précise.",
+     "r": "faute",
+     "e": "Un « arbitre volant » peut au contraire intervenir à tout moment, pas seulement dans une zone fixe."
+    },
+    {
+     "q": "En Stroke Play, un « arbitre volant » peut intervenir à tout moment pour constater une infraction.",
+     "r": "valable",
+     "e": "S'il est affecté à une zone ou « arbitre volant », il peut intervenir à tout moment pour éviter ou constater une infraction."
+    },
+    {
+     "q": "Le suivi de partie n'a pas besoin de vérifier l'orthographe des noms des joueurs en début de partie.",
+     "r": "faute",
+     "e": "Il vérifie au contraire l'orthographe des noms des joueurs, établissements et villes en début de partie."
+    },
+    {
+     "q": "Un arbitre doit faire appliquer les règles en observant sans gêner les joueurs.",
+     "r": "valable",
+     "e": "Faire appliquer les règles en observant sans gêner fait partie de ce qu'on attend d'un arbitre."
+    },
+    {
+     "q": "Un Jeune Arbitre golf n'a besoin d'aucun document particulier pour officier.",
+     "r": "faute",
+     "e": "Il doit disposer de l'ensemble des documents nécessaires (licence UNSS, règlement, documents de jeu…)."
+    },
+    {
+     "q": "En cas de doute, il est conseillé d'appeler un arbitre ou de faire jouer 2 balles (Règle 3-3).",
+     "r": "valable",
+     "e": "Il est conseillé d'appeler un arbitre ou de faire jouer 2 balles en attendant de pouvoir exposer la situation."
+    },
+    {
+     "q": "Le tableau arbitre n'a pas besoin d'être rempli après l'épreuve.",
+     "r": "faute",
+     "e": "Après l'épreuve, le Jeune Arbitre doit remplir le tableau arbitre et préparer les tours suivants."
+    }
+   ]
+  }
+ ]
+}

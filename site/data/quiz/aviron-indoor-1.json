@@ -1,0 +1,265 @@
+{
+ "id": "aviron-indoor-1",
+ "titre": "Avant et pendant la course",
+ "sousTitre": "Quiz Jeune Juge Aviron Indoor",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT AVIRON INDOOR UNSS",
+ "sport": "aviron-indoor",
+ "source": "https://euphonious-praline-44b930.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En sport partagé, équipe et équipage désignent la même chose.",
+     "r": "valable",
+     "e": "Attention : en sport partagé, équipe = équipage."
+    },
+    {
+     "q": "Les arbitres de parcours n'interviennent qu'après la fin de la course.",
+     "r": "faute",
+     "e": "Attention : le guidage vers les machines fait partie de leurs missions avant la course."
+    },
+    {
+     "q": "En sport partagé, une équipe compte 8 compétiteurs comme en établissement.",
+     "r": "faute",
+     "e": "Attention : 4 compétiteurs en sport partagé, avec mixité obligatoire."
+    },
+    {
+     "q": "L'appel des équipages a lieu juste après le départ de la course.",
+     "r": "faute",
+     "e": "Attention : l'appel se fait 10 minutes avant la course, dans le sas de transition."
+    },
+    {
+     "q": "Une seule zone commune suffit pour toutes les activités de la compétition.",
+     "r": "faute",
+     "e": "Attention : quatre zones distinctes doivent être délimitées."
+    },
+    {
+     "q": "En cas de malaise, les arbitres de parcours doivent eux-mêmes porter secours sans appeler personne.",
+     "r": "faute",
+     "e": "Attention : ils appellent les secours en cas de malaise pendant le parcours ou en fin de course."
+    },
+    {
+     "q": "Un équipage désigne les 8 rameurs réunis pour une épreuve.",
+     "r": "faute",
+     "e": "Attention : un équipage, ce sont 4 rameurs réunis pour une épreuve (1000m ou 500m à 4, ou relais 4x500m)."
+    },
+    {
+     "q": "En sport partagé, une équipe compte toujours deux équipages comme en établissement.",
+     "r": "faute",
+     "e": "Attention : attention : en sport partagé, équipe = équipage."
+    },
+    {
+     "q": "En cas de malaise d'un rameur, les arbitres de parcours appellent les secours.",
+     "r": "valable",
+     "e": "Ils appellent les secours en cas de malaise pendant le parcours ou en fin de course."
+    },
+    {
+     "q": "Les tenues de club sont autorisées si elles sont assorties entre équipiers.",
+     "r": "faute",
+     "e": "Attention : les tenues de club ne sont pas autorisées ; seules les couleurs de l'AS le sont."
+    },
+    {
+     "q": "Les arbitres de parcours ne vérifient les machines qu'au moment de l'inscription des équipes.",
+     "r": "faute",
+     "e": "Attention : cette vérification a lieu précisément dans les 20 premières secondes de course."
+    },
+    {
+     "q": "Le jury est en fonction à partir d'une heure avant le premier départ.",
+     "r": "valable",
+     "e": "Il est en fonction d'une heure avant le premier départ jusqu'à la signature du PV."
+    },
+    {
+     "q": "Le port d'un couvre-chef est autorisé, à condition que tous ceux qui le portent aient le même.",
+     "r": "valable",
+     "e": "Autorisé pour tout ou partie de l'équipage, à condition d'uniformité."
+    },
+    {
+     "q": "En cas de faute, l'arbitre siffle trois fois sans aucun autre geste.",
+     "r": "faute",
+     "e": "Attention : il lève la main avec la marque, désigne l'équipage fautif et annonce le motif."
+    },
+    {
+     "q": "Il faut laisser au moins 10 mètres entre chaque ergomètre.",
+     "r": "faute",
+     "e": "Attention : entre 1 et 2 mètres selon la taille des câbles de liaison."
+    },
+    {
+     "q": "L'organisateur doit délimiter des zones séparées d'échauffement, d'appel, de compétition et de récupération.",
+     "r": "valable",
+     "e": "Quatre zones distinctes doivent être délimitées."
+    },
+    {
+     "q": "Le port d'un couvre-chef est strictement interdit en compétition.",
+     "r": "faute",
+     "e": "Attention : autorisé pour tout ou partie de l'équipage, à condition d'uniformité."
+    },
+    {
+     "q": "Le jury est en fonction uniquement pendant les courses elles-mêmes.",
+     "r": "faute",
+     "e": "Attention : il est en fonction d'une heure avant le premier départ jusqu'à la signature du PV."
+    },
+    {
+     "q": "Une équipe collège est composée de 4 compétiteurs, soit 1 équipage.",
+     "r": "faute",
+     "e": "Attention : 8 compétiteurs en collège comme en lycée, répartis en 2 équipages."
+    },
+    {
+     "q": "Le jeune juge est identifié par un tee-shirt de couleur verte.",
+     "r": "valable",
+     "e": "Le tee-shirt vert identifie le jeune juge ; le brassard orange identifie le jeune coach."
+    },
+    {
+     "q": "La commission de contrôle se place uniquement après l'arrivée des courses.",
+     "r": "faute",
+     "e": "Attention : elle intervient dans le sas d'appel, avant l'entrée sur le plateau de compétition."
+    },
+    {
+     "q": "La commission de contrôle se place dans le sas d'appel, avant l'entrée sur le plateau.",
+     "r": "valable",
+     "e": "Elle intervient dans le sas d'appel, avant l'entrée sur le plateau de compétition."
+    },
+    {
+     "q": "Les ergomètres doivent avoir des micrologiciels à jour pour la compatibilité entre eux.",
+     "r": "valable",
+     "e": "Les micrologiciels DOIVENT être tenus à jour à des fins de compatibilité."
+    },
+    {
+     "q": "Une équipe collège est composée de 8 compétiteurs, soit 2 équipages.",
+     "r": "valable",
+     "e": "8 compétiteurs en collège comme en lycée, répartis en 2 équipages."
+    },
+    {
+     "q": "En sport partagé, une équipe compte 4 compétiteurs avec mixité obligatoire.",
+     "r": "valable",
+     "e": "4 compétiteurs en sport partagé, avec mixité obligatoire."
+    },
+    {
+     "q": "La commission de contrôle vérifie les fiches d'équipage : composition, n° de série, n° des machines.",
+     "r": "valable",
+     "e": "Elle vérifie précisément ces informations sur les fiches d'équipage."
+    },
+    {
+     "q": "La mise à jour des micrologiciels des ergomètres n'a aucune importance.",
+     "r": "faute",
+     "e": "Attention : les micrologiciels DOIVENT être tenus à jour à des fins de compatibilité."
+    },
+    {
+     "q": "Lors des relais, les arbitres de parcours ne s'occupent jamais de la position des pieds.",
+     "r": "faute",
+     "e": "Attention : ce contrôle spécifique s'ajoute à leurs missions lors des relais."
+    },
+    {
+     "q": "En cas de faute, l'arbitre lève la main avec la marque de la couleur qui convient.",
+     "r": "valable",
+     "e": "Il lève la main avec la marque, désigne l'équipage fautif et annonce le motif."
+    },
+    {
+     "q": "Les tenues de club ne sont pas autorisées en compétition UNSS.",
+     "r": "valable",
+     "e": "Les tenues de club ne sont pas autorisées ; seules les couleurs de l'AS le sont."
+    },
+    {
+     "q": "Les ergomètres retenus par la FFA et l'UNSS sont de la marque Concept 2.",
+     "r": "valable",
+     "e": "Les ergomètres retenus sont ceux de la marque « Concept 2 », modèles D ou E."
+    },
+    {
+     "q": "L'appel des équipages a lieu 10 minutes avant la course.",
+     "r": "valable",
+     "e": "L'appel se fait 10 minutes avant la course, dans le sas de transition."
+    },
+    {
+     "q": "Les arbitres de parcours guident les équipages vers leurs machines.",
+     "r": "valable",
+     "e": "Le guidage vers les machines fait partie de leurs missions avant la course."
+    },
+    {
+     "q": "L'équipage fautif doit immédiatement arrêter de ramer dès la faute signalée.",
+     "r": "faute",
+     "e": "Attention : il termine sa course, puis le jury délibère sur la sanction."
+    },
+    {
+     "q": "L'équipage fautif termine sa course avant que le jury délibère.",
+     "r": "valable",
+     "e": "Il termine sa course, puis le jury délibère sur la sanction."
+    },
+    {
+     "q": "En collège et lycée, une équipe désigne un seul équipage, peu importe l'établissement.",
+     "r": "faute",
+     "e": "Attention : une équipe regroupe deux équipages appartenant au même établissement scolaire."
+    },
+    {
+     "q": "Un jeune juge est obligatoire par académie participante au championnat de France.",
+     "r": "valable",
+     "e": "Son absence empêche l'association ou les associations concernées de participer."
+    },
+    {
+     "q": "La présence d'un jeune juge au championnat de France est facultative.",
+     "r": "faute",
+     "e": "Attention : son absence empêche l'association ou les associations concernées de participer."
+    },
+    {
+     "q": "Au niveau national, le jeune juge ne peut pas être compétiteur.",
+     "r": "valable",
+     "e": "Au niveau national, contrairement au niveau départemental, le jeune juge ne peut plus être compétiteur."
+    },
+    {
+     "q": "Il faut laisser entre 1 et 2 mètres entre chaque ergomètre.",
+     "r": "valable",
+     "e": "Entre 1 et 2 mètres selon la taille des câbles de liaison."
+    },
+    {
+     "q": "Lors des relais, les arbitres de parcours contrôlent aussi les pieds du relayeur derrière la ligne.",
+     "r": "valable",
+     "e": "Ce contrôle spécifique s'ajoute à leurs missions lors des relais."
+    },
+    {
+     "q": "Le jeune juge est identifié par un brassard orange.",
+     "r": "faute",
+     "e": "Attention : le tee-shirt vert identifie le jeune juge ; le brassard orange identifie le jeune coach."
+    },
+    {
+     "q": "Tous les compétiteurs doivent être titulaires d'une licence annuelle UNSS avec photo.",
+     "r": "valable",
+     "e": "Tous les compétiteurs doivent être titulaires d'une licence annuelle UNSS, photo incluse."
+    },
+    {
+     "q": "En collège et lycée, une équipe désigne le regroupement de deux équipages du même établissement.",
+     "r": "valable",
+     "e": "Une équipe regroupe deux équipages appartenant au même établissement scolaire."
+    },
+    {
+     "q": "Au niveau national, le jeune juge peut toujours être compétiteur comme au niveau départemental.",
+     "r": "faute",
+     "e": "Attention : au niveau national, contrairement au niveau départemental, le jeune juge ne peut plus être compétiteur."
+    },
+    {
+     "q": "La licence UNSS n'est pas obligatoire pour les compétiteurs d'aviron indoor.",
+     "r": "faute",
+     "e": "Attention : tous les compétiteurs doivent être titulaires d'une licence annuelle UNSS, photo incluse."
+    },
+    {
+     "q": "La commission de contrôle ne s'occupe que du chronométrage final.",
+     "r": "faute",
+     "e": "Attention : elle vérifie précisément ces informations sur les fiches d'équipage."
+    },
+    {
+     "q": "N'importe quelle marque d'ergomètre est autorisée en compétition UNSS.",
+     "r": "faute",
+     "e": "Attention : les ergomètres retenus sont ceux de la marque « Concept 2 », modèles D ou E."
+    },
+    {
+     "q": "Les arbitres de parcours vérifient le bon fonctionnement des machines dans les 20 premières secondes.",
+     "r": "valable",
+     "e": "Cette vérification a lieu précisément dans les 20 premières secondes de course."
+    },
+    {
+     "q": "Un équipage désigne les 4 rameurs réunis pour une épreuve.",
+     "r": "valable",
+     "e": "Un équipage, ce sont 4 rameurs réunis pour une épreuve (1000m ou 500m à 4, ou relais 4x500m)."
+    }
+   ]
+  }
+ ]
+}

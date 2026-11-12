@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-3",
+ "titre": "Sol filles",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 3 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · GAF",
+ "sport": "gymnastique-artistique",
+ "source": "https://gentle-malasada-f86217.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La musique est obligatoire pour l'ensemble de l'enchaînement au sol filles.",
+     "r": "valable",
+     "e": "Le règlement rend la musique obligatoire au sol filles."
+    },
+    {
+     "q": "La musique est optionnelle au sol filles, contrairement au sol garçons.",
+     "r": "faute",
+     "e": "La musique est au contraire obligatoire au sol filles."
+    },
+    {
+     "q": "La durée maximale de l'enchaînement au sol filles est de 1 minute.",
+     "r": "valable",
+     "e": "La durée réglementaire au sol filles est de 1 minute maximum."
+    },
+    {
+     "q": "La durée maximale de l'enchaînement au sol filles est de 1 minute 30.",
+     "r": "faute",
+     "e": "La durée maximale est de 1 minute, pas 1mn30."
+    },
+    {
+     "q": "Terminer avant ou après la musique est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique coûte 0,30 point."
+    },
+    {
+     "q": "Terminer avant ou après la musique n'entraîne aucune pénalité tant que l'écart reste inférieur à 5 secondes.",
+     "r": "faute",
+     "e": "Il n'y a pas de tolérance de 5 secondes : la pénalité de 0,30 point s'applique."
+    },
+    {
+     "q": "Un mouvement réalisé sans musique, ou une musique avec paroles non autorisée, est pénalisé jusqu'à 1,00 point.",
+     "r": "valable",
+     "e": "Le règlement prévoit une pénalité pouvant atteindre 1,00 point dans ce cas."
+    },
+    {
+     "q": "Une musique avec paroles n'entraîne jamais de pénalité au sol filles.",
+     "r": "faute",
+     "e": "Une musique avec paroles non autorisée est au contraire pénalisée, jusqu'à 1,00 point."
+    },
+    {
+     "q": "Les 4 exigences de composition au sol filles sont ATR, SM, LG et AC.",
+     "r": "valable",
+     "e": "Ce sont bien les 4 exigences prévues au sol filles."
+    },
+    {
+     "q": "Les 4 exigences de composition au sol filles sont les mêmes qu'au sol garçons : ATR, SM/AP, AC AV et AC AR/LAT.",
+     "r": "faute",
+     "e": "Les exigences du sol filles (ATR, SM, LG, AC) diffèrent de celles du sol garçons."
+    },
+    {
+     "q": "L'exigence AC au sol filles impose deux éléments acrobatiques dans des sens différents.",
+     "r": "valable",
+     "e": "Le code exige 2 éléments acrobatiques de sens différents pour l'exigence AC."
+    },
+    {
+     "q": "L'exigence AC au sol filles n'impose qu'un seul élément acrobatique, dans n'importe quel sens.",
+     "r": "faute",
+     "e": "L'exigence AC impose 2 éléments acrobatiques de sens différents, pas un seul."
+    },
+    {
+     "q": "La roue et la rondade sont considérées comme des éléments de rotation latérale au sol filles.",
+     "r": "valable",
+     "e": "Le règlement classe roue et rondade en rotation latérale."
+    },
+    {
+     "q": "La roue et la rondade sont classées comme éléments acrobatiques avant au sol filles.",
+     "r": "faute",
+     "e": "Roue et rondade sont des éléments de rotation latérale, pas des éléments avant."
+    },
+    {
+     "q": "Un passage proche du sol où le bassin ne touche pas est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique coûte 0,30 point."
+    },
+    {
+     "q": "Un passage proche du sol n'entraîne aucune pénalité tant que l'élément est terminé correctement.",
+     "r": "faute",
+     "e": "Cette faute est pénalisée de 0,30 point, indépendamment de la fin de l'élément."
+    },
+    {
+     "q": "Une sortie de praticable avec réception d'une main ou d'un pied hors des lignes est pénalisée de 0,10 point.",
+     "r": "valable",
+     "e": "Cette faute légère de sortie de praticable coûte 0,10 point."
+    },
+    {
+     "q": "Une sortie de praticable avec réception d'une main ou d'un pied hors des lignes est pénalisée de 0,50 point.",
+     "r": "faute",
+     "e": "Cette faute vaut 0,10 point, pas 0,50 point."
+    },
+    {
+     "q": "Une touche des mains, des pieds ou d'une autre partie du corps hors des lignes est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute de sortie de praticable vaut 0,30 point."
+    },
+    {
+     "q": "Une touche hors des lignes au sol filles n'est jamais pénalisée si l'élément reste dans le praticable ensuite.",
+     "r": "faute",
+     "e": "La touche hors des lignes est pénalisée de 0,30 point, quelle que soit la suite de l'élément."
+    },
+    {
+     "q": "Le grand battement jambe à l'horizontale, jambe d'appui tendue, est un élément de valeur A.",
+     "r": "valable",
+     "e": "Ce grand battement figure en colonne A du code."
+    },
+    {
+     "q": "Le grand battement jambe à l'horizontale est un élément de valeur C.",
+     "r": "faute",
+     "e": "Cet élément est de valeur A, pas C."
+    },
+    {
+     "q": "La roulade AR jambes tendues et serrées durant tout l'élément est un élément de valeur C, déclassé en B8 si les jambes sont fléchies ou décalées.",
+     "r": "valable",
+     "e": "Le code prévoit ce déclassement en cas de jambes fléchies ou décalées."
+    },
+    {
+     "q": "La roulade AR jambes tendues garde toujours sa valeur C, quelle que soit la position des jambes.",
+     "r": "faute",
+     "e": "L'élément est déclassé en B8 si les jambes sont fléchies ou décalées."
+    },
+    {
+     "q": "Le salto AR groupé ou tendu est un élément de valeur D.",
+     "r": "valable",
+     "e": "Ce salto figure en colonne D du code."
+    },
+    {
+     "q": "Le salto AR groupé ou tendu n'est reconnu qu'en valeur B.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas B."
+    },
+    {
+     "q": "Le flic flac AR avec arrivée sur 1 ou 2 pieds est un élément de valeur D.",
+     "r": "valable",
+     "e": "Le flic flac AR figure en colonne D du code."
+    },
+    {
+     "q": "Le flic flac AR n'est reconnu qu'en valeur C, quelle que soit la réception.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas C."
+    },
+    {
+     "q": "Un tour sur 1 pied à l'ATR (180°) non terminé est requalifié en élément B1.",
+     "r": "valable",
+     "e": "Le code prévoit cette requalification pour un tour ATR non terminé."
+    },
+    {
+     "q": "Un tour sur 1 pied à l'ATR non terminé n'a aucune incidence sur sa valeur.",
+     "r": "faute",
+     "e": "Le tour non terminé est requalifié en B1, ce n'est pas sans incidence."
+    },
+    {
+     "q": "Un saut grand jeté avec un écart de jambes inférieur à 135° n'est pas comptabilisé.",
+     "r": "valable",
+     "e": "Le code fixe ce seuil de 135° minimum pour comptabiliser l'élément."
+    },
+    {
+     "q": "L'écart de jambes n'a aucune influence sur la comptabilisation d'un grand jeté.",
+     "r": "faute",
+     "e": "En dessous de 135°, le grand jeté n'est pas comptabilisé."
+    },
+    {
+     "q": "Le saut de mains est un élément acrobatique de valeur C au sol filles.",
+     "r": "valable",
+     "e": "Le saut de mains figure en colonne C du code au sol filles."
+    },
+    {
+     "q": "Le saut de mains est un élément acrobatique de valeur A au sol filles.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "La chandelle tenue 2 secondes, bras tendus en appui au sol, est un élément de valeur B.",
+     "r": "valable",
+     "e": "La chandelle tenue 2 secondes figure en colonne B du code."
+    },
+    {
+     "q": "La chandelle tenue 2 secondes est un élément de valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur B, pas D."
+    },
+    {
+     "q": "Le pied dans la main (Y tenu 2 secondes) est un élément de valeur C.",
+     "r": "valable",
+     "e": "Le pied dans la main tenu 2 secondes figure en colonne C du code."
+    },
+    {
+     "q": "Le pied dans la main tenu 2 secondes est un élément de valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "Un élément de souplesse ou de maintien non tenu 2 secondes lorsqu'exigé n'est pas comptabilisé.",
+     "r": "valable",
+     "e": "Le code exige les 2 secondes pour comptabiliser l'élément."
+    },
+    {
+     "q": "Un élément de souplesse non tenu 2 secondes reste comptabilisé avec une simple pénalité de 0,10 point.",
+     "r": "faute",
+     "e": "Sans les 2 secondes de tenue, l'élément n'est simplement pas comptabilisé."
+    },
+    {
+     "q": "L'exigence ATR impose un élément passant par l'appui tendu renversé.",
+     "r": "valable",
+     "e": "ATR désigne l'appui tendu renversé."
+    },
+    {
+     "q": "L'exigence ATR impose un élément acrobatique tendu et rapide, sans lien avec un appui renversé.",
+     "r": "faute",
+     "e": "ATR signifie Appui Tendu Renversé, pas un élément acrobatique rapide."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins au sol filles est pénalisé de 2 points.",
+     "r": "valable",
+     "e": "Le règlement prévoit une pénalité de 2 points pour un exercice trop court."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins au sol filles n'entraîne aucune pénalité particulière.",
+     "r": "faute",
+     "e": "Un exercice de 5 éléments ou moins est au contraire pénalisé de 2 points."
+    },
+    {
+     "q": "Le grand écart antéropostérieur tenu 2 secondes est un élément de souplesse ou de maintien.",
+     "r": "valable",
+     "e": "Cet élément fait partie de la famille SM (Souplesse ou Maintien) dans le code."
+    },
+    {
+     "q": "Le grand écart antéropostérieur n'est jamais classé comme élément de souplesse ou de maintien.",
+     "r": "faute",
+     "e": "Le grand écart antéropostérieur est au contraire un élément de souplesse ou de maintien."
+    },
+    {
+     "q": "La roue arrivée libre, départ fente, est un élément acrobatique de valeur A.",
+     "r": "valable",
+     "e": "Cette roue figure en colonne A du code."
+    },
+    {
+     "q": "La roue au sol filles n'est reconnue qu'à partir de la valeur C.",
+     "r": "faute",
+     "e": "La roue départ fente, arrivée libre, est déjà reconnue en valeur A."
+    },
+    {
+     "q": "Aux fautes spécifiques du sol filles s'ajoutent les fautes de tenue, de technique et de comportement communes à tous les agrès.",
+     "r": "valable",
+     "e": "Ces fautes générales s'ajoutent toujours aux fautes spécifiques."
+    },
+    {
+     "q": "Les fautes de tenue et de comportement générales ne s'appliquent pas au sol filles, seules les fautes de musique comptent.",
+     "r": "faute",
+     "e": "Les fautes générales de tenue et de comportement s'appliquent aussi au sol filles."
+    }
+   ]
+  }
+ ]
+}

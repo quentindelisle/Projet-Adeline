@@ -1,0 +1,265 @@
+{
+ "id": "boxe-assaut-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre/Juge Boxe Assaut",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT BOXE ASSAUT UNSS",
+ "sport": "boxe-assaut",
+ "source": "https://effortless-swan-b0fe9f.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le ring est un carré de 4 à 6 mètres de côté, délimité par 3 ou 4 rangées de cordes.",
+     "r": "valable",
+     "e": "L'espace de pratique est un carré de 4 à 6 mètres de côté, délimité par 3 ou 4 rangées de cordes."
+    },
+    {
+     "q": "Le ring est un cercle de 10 mètres de diamètre.",
+     "r": "faute",
+     "e": "Le ring est un carré de 4 à 6 mètres de côté, pas un cercle de 10 mètres."
+    },
+    {
+     "q": "Tout au long de l'assaut, les boxeurs doivent demeurer face à face.",
+     "r": "valable",
+     "e": "Tout au long de l'assaut, les boxeurs doivent demeurer face à face."
+    },
+    {
+     "q": "Les boxeurs peuvent tourner le dos à leur adversaire sans conséquence.",
+     "r": "faute",
+     "e": "Le face à face est une exigence permanente du règlement."
+    },
+    {
+     "q": "Un boxeur qui tourne le dos à son adversaire doit être immédiatement sanctionné.",
+     "r": "valable",
+     "e": "Un boxeur qui tourne le dos à son adversaire ou qui baisse la tête doit être immédiatement sanctionné."
+    },
+    {
+     "q": "Tourner le dos à son adversaire n'entraîne aucune sanction si c'est bref.",
+     "r": "faute",
+     "e": "Cette action doit être sanctionnée immédiatement, sans tolérance de durée."
+    },
+    {
+     "q": "Baisser la tête, visage face au sol, doit être immédiatement sanctionné.",
+     "r": "valable",
+     "e": "Un boxeur qui baisse la tête (visage face au sol) doit être immédiatement sanctionné."
+    },
+    {
+     "q": "Baisser la tête est une technique défensive autorisée sans restriction.",
+     "r": "faute",
+     "e": "Cette posture est explicitement sanctionnée par le règlement."
+    },
+    {
+     "q": "Le chronométreur donne verbalement le signal du début et lance la balle en mousse pour la fin des reprises.",
+     "r": "valable",
+     "e": "Le chronométreur donne verbalement le signal du début et lance la balle en mousse entre les boxeurs pour signaler la fin des reprises."
+    },
+    {
+     "q": "Le chronométreur donne tous les signaux avec un coup de sifflet.",
+     "r": "faute",
+     "e": "Le signal se fait verbalement au début, et par une balle en mousse à la fin, pas au sifflet."
+    },
+    {
+     "q": "Le chronomètre ne doit jamais être arrêté, sauf sur demande du directeur d'assaut.",
+     "r": "valable",
+     "e": "Le chronomètre ne doit jamais être arrêté sauf sur demande du directeur d'assaut."
+    },
+    {
+     "q": "Le chronomètre peut être arrêté librement par le chronométreur à tout moment.",
+     "r": "faute",
+     "e": "Seul le directeur d'assaut peut demander l'arrêt du chronomètre."
+    },
+    {
+     "q": "Entre chaque reprise, chaque boxeur regagne son coin durant 1 minute.",
+     "r": "valable",
+     "e": "Entre chaque reprise, chaque boxeur regagne son coin durant 1 minute."
+    },
+    {
+     "q": "Entre chaque reprise, les boxeurs regagnent leur coin durant 5 minutes.",
+     "r": "faute",
+     "e": "La minute de repos dure 1 minute, pas 5."
+    },
+    {
+     "q": "Pendant la minute de repos, le boxeur doit rester debout, face à son adversaire, les bras le long du corps.",
+     "r": "valable",
+     "e": "Il doit rester debout, face à son adversaire, les bras le long du corps."
+    },
+    {
+     "q": "Pendant la minute de repos, le boxeur peut s'asseoir et tourner le dos à son adversaire.",
+     "r": "faute",
+     "e": "Le règlement impose au boxeur de rester debout, face à l'adversaire, bras le long du corps."
+    },
+    {
+     "q": "Pour les équipes Collège, l'assaut se déroule en 3 reprises d'1'30 avec 1' de récupération.",
+     "r": "valable",
+     "e": "CF COLLEGE : 3 x 1'30 avec 1' de repos."
+    },
+    {
+     "q": "Pour les équipes Collège, l'assaut se déroule en 3 reprises de 3 minutes.",
+     "r": "faute",
+     "e": "La durée réglementaire Collège est 3 x 1'30, pas 3 x 3 minutes."
+    },
+    {
+     "q": "Pour les équipes Lycée, l'assaut se déroule en 3 reprises de 2 minutes avec 1' de récupération.",
+     "r": "valable",
+     "e": "CF LYCEE : 3 x 2' avec 1' de repos."
+    },
+    {
+     "q": "Pour les équipes Lycée, l'assaut se déroule en 2 reprises de 2 minutes.",
+     "r": "faute",
+     "e": "L'assaut Lycée dure 3 reprises, pas 2."
+    },
+    {
+     "q": "Seules les touches délivrées poing fermé, avec la tête des métacarpiens et les premières phalanges, sont autorisées et comptabilisées.",
+     "r": "valable",
+     "e": "Seules les touches délivrées le poing fermé avec la tête des métacarpiens et les premières phalanges sont autorisées et comptabilisées."
+    },
+    {
+     "q": "Toutes les touches, quelle que soit la partie du poing utilisée, sont comptabilisées de la même façon.",
+     "r": "faute",
+     "e": "Seules les touches avec la tête des métacarpiens et les premières phalanges sont autorisées, pas n'importe quelle partie du poing."
+    },
+    {
+     "q": "Les cibles autorisées se situent au-dessus de la ceinture, sur les parties frontales et latérales du buste et de la tête.",
+     "r": "valable",
+     "e": "Cibles autorisées : atteindre l'adversaire au-dessus de la ceinture sur les parties frontales et latérales du buste et de la tête."
+    },
+    {
+     "q": "Les cibles autorisées incluent toutes les parties du corps, y compris sous la ceinture.",
+     "r": "faute",
+     "e": "Les cibles autorisées sont uniquement au-dessus de la ceinture, sur le buste et la tête."
+    },
+    {
+     "q": "Les armes autorisées sont les quatre premières phalanges et la tête des métacarpiens du poing fermé.",
+     "r": "valable",
+     "e": "Armes autorisées : les quatre premières phalanges et la tête des métacarpiens du poing (face avant). Le poing doit être fermé."
+    },
+    {
+     "q": "N'importe quelle partie de la main peut servir d'arme autorisée.",
+     "r": "faute",
+     "e": "Seules les quatre premières phalanges et la tête des métacarpiens du poing fermé sont des armes autorisées."
+    },
+    {
+     "q": "Une touche donnée avec le pouce est une faute et doit être sanctionnée.",
+     "r": "valable",
+     "e": "Une touche donnée avec le pouce, le dessus ou le dessous du poing est une faute et devra être sanctionnée."
+    },
+    {
+     "q": "Une touche donnée avec le pouce est autorisée et comptabilisée normalement.",
+     "r": "faute",
+     "e": "Toucher avec le pouce est une faute sanctionnée, pas une touche valable."
+    },
+    {
+     "q": "Un boxeur ne peut toucher son adversaire qu'avec un seul poing à la fois.",
+     "r": "valable",
+     "e": "Un boxeur ne peut toucher son adversaire qu'avec un seul poing à la fois."
+    },
+    {
+     "q": "Un boxeur peut toucher son adversaire avec les deux poings simultanément sans restriction.",
+     "r": "faute",
+     "e": "Le règlement interdit de toucher avec les deux poings à la fois."
+    },
+    {
+     "q": "Il est interdit de tenir ou de pousser l'adversaire.",
+     "r": "valable",
+     "e": "Il est interdit de tenir ou pousser l'adversaire."
+    },
+    {
+     "q": "Tenir ou pousser l'adversaire est autorisé pendant les échanges rapprochés.",
+     "r": "faute",
+     "e": "Cette action est explicitement interdite par le règlement."
+    },
+    {
+     "q": "Il est interdit de se tenir aux cordes.",
+     "r": "valable",
+     "e": "Il est interdit de se tenir aux cordes."
+    },
+    {
+     "q": "Se tenir aux cordes est autorisé pour reprendre son équilibre.",
+     "r": "faute",
+     "e": "Se tenir aux cordes est explicitement interdit par le règlement."
+    },
+    {
+     "q": "Il est interdit de boxer avec les deux poings en même temps.",
+     "r": "valable",
+     "e": "Il est interdit de boxer avec les deux poings en même temps."
+    },
+    {
+     "q": "Boxer avec les deux poings en même temps est une technique encouragée.",
+     "r": "faute",
+     "e": "Cette pratique est explicitement interdite par le règlement."
+    },
+    {
+     "q": "La pénalité correspond à 2 points.",
+     "r": "valable",
+     "e": "2 points (pénalité) pour une faute qu'il juge non intentionnelle."
+    },
+    {
+     "q": "La pénalité correspond à 6 points.",
+     "r": "faute",
+     "e": "La pénalité vaut 2 points ; c'est l'avertissement qui vaut 6 points."
+    },
+    {
+     "q": "L'avertissement correspond à 6 points.",
+     "r": "valable",
+     "e": "6 points (avertissement) pour une faute qu'il juge intentionnelle, grave, répétée."
+    },
+    {
+     "q": "L'avertissement correspond à 2 points.",
+     "r": "faute",
+     "e": "L'avertissement vaut 6 points ; c'est la pénalité qui vaut 2 points."
+    },
+    {
+     "q": "Au-delà de 17 points cumulés, le boxeur est disqualifié, quel que soit le pointage des juges.",
+     "r": "valable",
+     "e": "Le nombre de sanctions est limité à 17 points. Au-delà, le boxeur est disqualifié quel que soit le pointage des juges."
+    },
+    {
+     "q": "Il n'existe aucun seuil de points entraînant la disqualification automatique.",
+     "r": "faute",
+     "e": "Le seuil de 17 points entraîne la disqualification automatique, quel que soit le pointage des juges."
+    },
+    {
+     "q": "Le protège-dents est obligatoire, et ne doit pas être de couleur rouge.",
+     "r": "valable",
+     "e": "Protège dents obligatoire (pas de couleur rouge)."
+    },
+    {
+     "q": "Le protège-dents est facultatif et peut être de n'importe quelle couleur.",
+     "r": "faute",
+     "e": "Le protège-dents est obligatoire, et la couleur rouge est explicitement exclue."
+    },
+    {
+     "q": "Le casque doit être homologué FFB, sans pommettes ni mentonnière.",
+     "r": "valable",
+     "e": "Casque homologué (sans pommettes et mentonnières) FFB obligatoire."
+    },
+    {
+     "q": "Le casque peut être de n'importe quel modèle, avec ou sans mentonnière.",
+     "r": "faute",
+     "e": "Le casque doit être homologué FFB, sans pommettes ni mentonnière."
+    },
+    {
+     "q": "La coquille est obligatoire pour les garçons.",
+     "r": "valable",
+     "e": "Une coquille obligatoire pour les garçons et facultative pour les filles."
+    },
+    {
+     "q": "La coquille est facultative pour les garçons et obligatoire pour les filles.",
+     "r": "faute",
+     "e": "C'est l'inverse : la coquille est obligatoire pour les garçons, facultative pour les filles."
+    },
+    {
+     "q": "Le legging est interdit.",
+     "r": "valable",
+     "e": "Legging interdit."
+    },
+    {
+     "q": "Le legging est la tenue obligatoire pour tous les boxeurs.",
+     "r": "faute",
+     "e": "Le legging est explicitement interdit par le règlement."
+    }
+   ]
+  }
+ ]
+}

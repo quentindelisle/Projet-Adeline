@@ -1,0 +1,265 @@
+{
+ "id": "vtt-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre VTT",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT VTT UNSS",
+ "sport": "vtt",
+ "source": "https://earnest-dusk-9b08a1.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La zone A du trial rapporte 9 points au total.",
+     "r": "valable",
+     "e": "La zone A est faite de segments à 1 et 3 points et vaut 9 points ; la zone E vaut 35 points."
+    },
+    {
+     "q": "La zone A du trial rapporte 35 points au total.",
+     "r": "faute",
+     "e": "C'est faux. La zone A est faite de segments à 1 et 3 points et vaut 9 points ; la zone E vaut 35 points."
+    },
+    {
+     "q": "La zone E du trial est constituée de segments à 1 point.",
+     "r": "faute",
+     "e": "C'est faux. La zone E présente uniquement des segments à 5 points et permet d'obtenir 35 points."
+    },
+    {
+     "q": "La zone E du trial n'est constituée que de segments à 5 points.",
+     "r": "valable",
+     "e": "La zone E présente uniquement des segments à 5 points et permet d'obtenir 35 points."
+    },
+    {
+     "q": "Les zones C et D du trial rapportent respectivement 21 et 27 points.",
+     "r": "valable",
+     "e": "Zone C : 21 points ; zone D : 27 points."
+    },
+    {
+     "q": "Les zones C et D du trial rapportent respectivement 9 et 15 points.",
+     "r": "faute",
+     "e": "C'est faux. Zone C : 21 points ; zone D : 27 points."
+    },
+    {
+     "q": "Chaque concurrent dispose de 30 minutes pour effectuer sa zone de trial.",
+     "r": "faute",
+     "e": "C'est faux. Le jeune arbitre peut signaler à un concurrent qu'il n'a pas un temps illimité."
+    },
+    {
+     "q": "Chaque concurrent dispose d'environ 2'30 pour effectuer sa zone de trial.",
+     "r": "valable",
+     "e": "Le jeune arbitre peut signaler à un concurrent qu'il n'a pas un temps illimité."
+    },
+    {
+     "q": "Un concurrent effectue 2 fois 3 passages sur deux jours de compétition au trial.",
+     "r": "valable",
+     "e": "Aucune zone n'est imposée, avec 3 passages maximum sur une même zone."
+    },
+    {
+     "q": "Un concurrent effectue un seul passage de trial.",
+     "r": "faute",
+     "e": "C'est faux. Aucune zone n'est imposée, avec 3 passages maximum sur une même zone."
+    },
+    {
+     "q": "La rubalise touchée fait perdre tous les points du segment.",
+     "r": "faute",
+     "e": "C'est faux. Rubalise touchée ou déformée : acquisition des points ; écrasée ou cassée : 0 point."
+    },
+    {
+     "q": "La rubalise peut être touchée ou déformée sans perdre les points du segment.",
+     "r": "valable",
+     "e": "Rubalise touchée ou déformée : acquisition des points ; écrasée ou cassée : 0 point."
+    },
+    {
+     "q": "Une rubalise écrasée ou cassée donne un avertissement seulement.",
+     "r": "faute",
+     "e": "C'est faux. C'est une faute qui annule les points du segment."
+    },
+    {
+     "q": "Une rubalise écrasée ou cassée donne 0 point sur le segment.",
+     "r": "valable",
+     "e": "C'est une faute qui annule les points du segment."
+    },
+    {
+     "q": "Au trial, après une faute sans réparation, le concurrent doit reprendre sa progression immédiatement.",
+     "r": "valable",
+     "e": "Le jeune arbitre signale une première fois, puis avertit, puis annule le segment suivant."
+    },
+    {
+     "q": "Au trial, après une faute, le concurrent peut s'arrêter aussi longtemps qu'il le souhaite.",
+     "r": "faute",
+     "e": "C'est faux. Le jeune arbitre signale une première fois, puis avertit, puis annule le segment suivant."
+    },
+    {
+     "q": "À la 2e injonction du jeune arbitre pour non-reprise de progression, le segment suivant est annulé.",
+     "r": "valable",
+     "e": "1re injonction : avertissement ; 2e injonction : annulation du segment suivant."
+    },
+    {
+     "q": "À la 2e injonction du jeune arbitre, l'équipe est disqualifiée.",
+     "r": "faute",
+     "e": "C'est faux. 1re injonction : avertissement ; 2e injonction : annulation du segment suivant."
+    },
+    {
+     "q": "Un concurrent rattrapé au trial est prioritaire sur celui qui le rattrape.",
+     "r": "faute",
+     "e": "C'est faux. Celui qui rattrape est prioritaire ; le segment tampon est à refaire."
+    },
+    {
+     "q": "Un concurrent rattrapé au trial doit sortir du circuit sur ordre du jeune arbitre.",
+     "r": "valable",
+     "e": "Celui qui rattrape est prioritaire ; le segment tampon est à refaire."
+    },
+    {
+     "q": "En cas de casse mécanique, le concurrent peut réparer en dehors du segment.",
+     "r": "valable",
+     "e": "Il peut se faire aider ou emprunter le VTT d'un partenaire après validation de la CMN."
+    },
+    {
+     "q": "En cas de casse mécanique, le concurrent est disqualifié.",
+     "r": "faute",
+     "e": "C'est faux. Il peut se faire aider ou emprunter le VTT d'un partenaire après validation de la CMN."
+    },
+    {
+     "q": "Au trial, un concurrent qui abandonne marque 0 point dans le segment où il a posé le pied.",
+     "r": "valable",
+     "e": "Il conserve les points déjà acquis."
+    },
+    {
+     "q": "Au trial, un concurrent qui abandonne perd tous ses points.",
+     "r": "faute",
+     "e": "C'est faux. Il conserve les points déjà acquis."
+    },
+    {
+     "q": "Au rallye enduro, il y a 20 spéciales chronométrées.",
+     "r": "faute",
+     "e": "C'est faux. Elles sont réparties régulièrement sur la boucle."
+    },
+    {
+     "q": "Au rallye enduro, il y a de 3 à 5 spéciales chronométrées.",
+     "r": "valable",
+     "e": "Elles sont réparties régulièrement sur la boucle."
+    },
+    {
+     "q": "Au rallye enduro, le temps limite est fixé entre 2 h et 3 h.",
+     "r": "valable",
+     "e": "Il est fixé selon le parcours."
+    },
+    {
+     "q": "Au rallye enduro, le temps limite est de 30 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Il est fixé selon le parcours."
+    },
+    {
+     "q": "Au rallye enduro, un hors délais donne 30 secondes de pénalité par tranche de 5 minutes de dépassement.",
+     "r": "valable",
+     "e": "Exemple : 6'35'' de retard donne 1' de pénalité."
+    },
+    {
+     "q": "Au rallye enduro, un hors délais donne 5 minutes de pénalité fixe.",
+     "r": "faute",
+     "e": "C'est faux. Exemple : 6'35'' de retard donne 1' de pénalité."
+    },
+    {
+     "q": "Au rallye enduro, un concurrent qui abandonne reçoit le plus mauvais temps de la spéciale + 1 seconde.",
+     "r": "valable",
+     "e": "Il en est de même sur toutes les spéciales non faites."
+    },
+    {
+     "q": "Au rallye enduro, un concurrent qui abandonne reçoit zéro seconde.",
+     "r": "faute",
+     "e": "C'est faux. Il en est de même sur toutes les spéciales non faites."
+    },
+    {
+     "q": "Au rallye enduro, les départs de spéciale sont espacés de 10 minutes.",
+     "r": "faute",
+     "e": "C'est faux. L'ordre est choisi par le jeune coach."
+    },
+    {
+     "q": "Au rallye enduro, les départs de spéciale sont espacés de 10 à 15 secondes.",
+     "r": "valable",
+     "e": "L'ordre est choisi par le jeune coach."
+    },
+    {
+     "q": "Au rallye enduro, le concurrent doit avoir un pied au sol dans la zone de départ au signal.",
+     "r": "valable",
+     "e": "Cela permet l'équité entre départs lancés et départs arrêtés."
+    },
+    {
+     "q": "Au rallye enduro, le départ se fait en roulant à pleine vitesse.",
+     "r": "faute",
+     "e": "C'est faux. Cela permet l'équité entre départs lancés et départs arrêtés."
+    },
+    {
+     "q": "Au rallye enduro, aucun arrêt de l'équipe n'est autorisé lors du 1er tour de reconnaissance.",
+     "r": "valable",
+     "e": "Tout arrêt absolument nécessaire se fait en dehors du tracé d'une spéciale."
+    },
+    {
+     "q": "Au rallye enduro, l'équipe peut s'arrêter sur la spéciale pour discuter.",
+     "r": "faute",
+     "e": "C'est faux. Tout arrêt absolument nécessaire se fait en dehors du tracé d'une spéciale."
+    },
+    {
+     "q": "Au cross-relais, les tours 9 et 10 sont réalisés par des garçons uniquement.",
+     "r": "faute",
+     "e": "C'est faux. Les tours 9 et 10 sont exécutés par un des deux garçons et une des deux filles."
+    },
+    {
+     "q": "Au cross-relais, les tours 9 et 10 sont réalisés par un garçon et une fille.",
+     "r": "valable",
+     "e": "Les tours 9 et 10 sont exécutés par un des deux garçons et une des deux filles."
+    },
+    {
+     "q": "Au relais, le classement se fait au nombre de places gagnées.",
+     "r": "faute",
+     "e": "C'est faux. Chaque équipe termine ses 10 tours."
+    },
+    {
+     "q": "Au relais, le classement se fait au temps pris sur le 10e tour terminé.",
+     "r": "valable",
+     "e": "Chaque équipe termine ses 10 tours."
+    },
+    {
+     "q": "Au relais, un non-respect de la zone de relais coûte 5 minutes.",
+     "r": "faute",
+     "e": "C'est faux. 5 secondes de pénalité à chaque infraction."
+    },
+    {
+     "q": "Au relais, un non-respect de la zone de relais coûte 5 secondes.",
+     "r": "valable",
+     "e": "5 secondes de pénalité à chaque infraction."
+    },
+    {
+     "q": "Au relais, un concurrent qui ne termine pas un tour commencé n'a aucune conséquence.",
+     "r": "faute",
+     "e": "C'est faux. Tour commencé non terminé : équipe classée dernière."
+    },
+    {
+     "q": "Au relais, un concurrent qui ne termine pas un tour commencé classe l'équipe dernière.",
+     "r": "valable",
+     "e": "Tour commencé non terminé : équipe classée dernière."
+    },
+    {
+     "q": "Au classement, la 1re place d'une épreuve rapporte 100 points.",
+     "r": "faute",
+     "e": "C'est faux. Puis 1,7 pour la 2e, 2,9 pour la 3e et 4 points pour la 4e."
+    },
+    {
+     "q": "Au classement, la 1re place d'une épreuve rapporte 0,4 point.",
+     "r": "valable",
+     "e": "Puis 1,7 pour la 2e, 2,9 pour la 3e et 4 points pour la 4e."
+    },
+    {
+     "q": "En cas d'égalité finale entre deux équipes, l'équipe la plus jeune est classée devant.",
+     "r": "valable",
+     "e": "Le classement final additionne les points des trois épreuves."
+    },
+    {
+     "q": "En cas d'égalité finale, l'équipe la plus âgée est classée devant.",
+     "r": "faute",
+     "e": "C'est faux. Le classement final additionne les points des trois épreuves."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "petanque-2",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre Pétanque",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT PÉTANQUE UNSS",
+ "sport": "petanque",
+ "source": "https://legendary-douhua-f4ab16.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Les boules agréées peuvent être en plastique.",
+     "r": "faute",
+     "e": "C'est faux. Boule en métal, de 7,05 à 8 cm et de 650 à 800 g."
+    },
+    {
+     "q": "Les boules agréées doivent être en métal.",
+     "r": "valable",
+     "e": "Boule en métal, de 7,05 à 8 cm et de 650 à 800 g."
+    },
+    {
+     "q": "Le diamètre d'une boule est compris entre 7,05 cm et 8 cm.",
+     "r": "valable",
+     "e": "Article 2 du règlement."
+    },
+    {
+     "q": "Le diamètre d'une boule est compris entre 10 cm et 12 cm.",
+     "r": "faute",
+     "e": "C'est faux. Article 2 du règlement."
+    },
+    {
+     "q": "Le poids d'une boule est compris entre 650 g et 800 g.",
+     "r": "valable",
+     "e": "Article 2 du règlement."
+    },
+    {
+     "q": "Le poids d'une boule est compris entre 300 g et 400 g.",
+     "r": "faute",
+     "e": "C'est faux. Article 2 du règlement."
+    },
+    {
+     "q": "Le but a un diamètre de 10 cm.",
+     "r": "faute",
+     "e": "C'est faux. Les buts peints, quelle que soit la couleur, sont autorisés."
+    },
+    {
+     "q": "Le but a un diamètre compris entre 25 mm et 35 mm.",
+     "r": "valable",
+     "e": "Les buts peints, quelle que soit la couleur, sont autorisés."
+    },
+    {
+     "q": "Le terrain cadré fait au minimum 12 m de longueur sur 3 m de largeur.",
+     "r": "valable",
+     "e": "Article 1 du règlement."
+    },
+    {
+     "q": "Le terrain cadré fait au minimum 5 m de longueur sur 1 m de largeur.",
+     "r": "faute",
+     "e": "C'est faux. Article 1 du règlement."
+    },
+    {
+     "q": "Le tirage au sort se fait à pile ou face par le responsable de l'équipe.",
+     "r": "faute",
+     "e": "C'est faux. Il détermine l'équipe qui lance le but puis la première boule."
+    },
+    {
+     "q": "C'est le jeune arbitre qui fait le tirage au sort avec un but.",
+     "r": "valable",
+     "e": "Il détermine l'équipe qui lance le but puis la première boule."
+    },
+    {
+     "q": "Les pieds du joueur doivent être entièrement à l'intérieur du cercle.",
+     "r": "valable",
+     "e": "Les pieds ne doivent pas mordre le cercle."
+    },
+    {
+     "q": "Un joueur peut mordre le cercle avec un pied.",
+     "r": "faute",
+     "e": "C'est faux. Les pieds ne doivent pas mordre le cercle."
+    },
+    {
+     "q": "Un joueur dispose d'une minute maximum pour lancer sa boule.",
+     "r": "valable",
+     "e": "Le délai court dès l'arrêt du but ou de la boule précédente."
+    },
+    {
+     "q": "Un joueur dispose de cinq minutes pour lancer sa boule.",
+     "r": "faute",
+     "e": "C'est faux. Le délai court dès l'arrêt du but ou de la boule précédente."
+    },
+    {
+     "q": "Une boule est nulle dès qu'elle touche la ligne de perte.",
+     "r": "faute",
+     "e": "C'est faux. Elle doit être immédiatement retirée du jeu."
+    },
+    {
+     "q": "Une boule est nulle dès qu'elle passe entièrement la ligne de perte.",
+     "r": "valable",
+     "e": "Elle doit être immédiatement retirée du jeu."
+    },
+    {
+     "q": "Une boule à cheval sur la limite du terrain autorisé est bonne.",
+     "r": "valable",
+     "e": "Elle n'est nulle qu'après avoir dépassé entièrement la limite."
+    },
+    {
+     "q": "Une boule à cheval sur la limite du terrain autorisé est nulle.",
+     "r": "faute",
+     "e": "C'est faux. Elle n'est nulle qu'après avoir dépassé entièrement la limite."
+    },
+    {
+     "q": "La mesure des points incombe au jeune arbitre.",
+     "r": "valable",
+     "e": "Sa décision est sans appel."
+    },
+    {
+     "q": "La mesure des points incombe aux capitaines.",
+     "r": "faute",
+     "e": "C'est faux. Sa décision est sans appel."
+    },
+    {
+     "q": "La décision du jeune arbitre sur la mesure est sans appel.",
+     "r": "valable",
+     "e": "Quel que soit le rang des boules à mesurer."
+    },
+    {
+     "q": "Les joueurs peuvent contester la mesure du jeune arbitre.",
+     "r": "faute",
+     "e": "C'est faux. Quel que soit le rang des boules à mesurer."
+    },
+    {
+     "q": "La partie se gagne en 13 points ou à la fin des 50 minutes.",
+     "r": "valable",
+     "e": "La partie en doublette puis triplette se joue en 13 points ou 50 minutes."
+    },
+    {
+     "q": "La partie se gagne en 21 points.",
+     "r": "faute",
+     "e": "C'est faux. La partie en doublette puis triplette se joue en 13 points ou 50 minutes."
+    },
+    {
+     "q": "En doublette, chaque joueur dispose de 3 boules ; en triplette, de 2 boules.",
+     "r": "valable",
+     "e": "Précisions réglementaires du format."
+    },
+    {
+     "q": "En doublette et en triplette, chaque joueur dispose de 4 boules.",
+     "r": "faute",
+     "e": "C'est faux. Précisions réglementaires du format."
+    },
+    {
+     "q": "Le carton jaune fait perdre la partie.",
+     "r": "faute",
+     "e": "C'est faux. Il entraîne les sanctions d'un carton orange à la prochaine faute."
+    },
+    {
+     "q": "Le carton jaune donne un avertissement verbal.",
+     "r": "valable",
+     "e": "Il entraîne les sanctions d'un carton orange à la prochaine faute."
+    },
+    {
+     "q": "Le carton rouge entraîne seulement la perte d'une boule.",
+     "r": "faute",
+     "e": "C'est faux. Il ne peut être donné qu'après avis du jury sportif."
+    },
+    {
+     "q": "Le carton rouge entraîne la défaite de la partie en cours du joueur concerné.",
+     "r": "valable",
+     "e": "Il ne peut être donné qu'après avis du jury sportif."
+    },
+    {
+     "q": "Les jeans sont interdits pendant les parties.",
+     "r": "valable",
+     "e": "Sont interdits : maillots de club, jeans, jupes, shorts de plage, chaussures ouvertes."
+    },
+    {
+     "q": "Les jeans sont autorisés si les couleurs sont celles de l'établissement.",
+     "r": "faute",
+     "e": "C'est faux. Sont interdits : maillots de club, jeans, jupes, shorts de plage, chaussures ouvertes."
+    },
+    {
+     "q": "Les chaussures ouvertes sont autorisées en cas de chaleur.",
+     "r": "faute",
+     "e": "C'est faux. Tenue de sport exigée aux couleurs de l'établissement."
+    },
+    {
+     "q": "Les chaussures ouvertes sont interdites.",
+     "r": "valable",
+     "e": "Tenue de sport exigée aux couleurs de l'établissement."
+    },
+    {
+     "q": "Les spectateurs ne doivent jamais conseiller les joueurs pendant la rencontre.",
+     "r": "valable",
+     "e": "Professeurs, accompagnateurs et spectateurs restent à l'extérieur du terrain."
+    },
+    {
+     "q": "Les spectateurs peuvent conseiller les joueurs à voix basse.",
+     "r": "faute",
+     "e": "C'est faux. Professeurs, accompagnateurs et spectateurs restent à l'extérieur du terrain."
+    },
+    {
+     "q": "Les adversaires peuvent encourager bruyamment pendant le lancer.",
+     "r": "faute",
+     "e": "C'est faux. Les adversaires ne doivent ni marcher, ni gesticuler."
+    },
+    {
+     "q": "Les joueurs et les spectateurs doivent garder le silence pendant le lancer d'un joueur.",
+     "r": "valable",
+     "e": "Les adversaires ne doivent ni marcher, ni gesticuler."
+    },
+    {
+     "q": "On peut ramasser ses boules dès qu'elles sont jouées.",
+     "r": "faute",
+     "e": "C'est faux. Article 22 du règlement."
+    },
+    {
+     "q": "Il est interdit de ramasser les boules jouées avant la fin de la mène.",
+     "r": "valable",
+     "e": "Article 22 du règlement."
+    },
+    {
+     "q": "Il n'est pas utile de marquer les boules.",
+     "r": "faute",
+     "e": "C'est faux. Aucune réclamation n'est admise pour une boule ou un but non marqué."
+    },
+    {
+     "q": "Les joueurs doivent marquer le but et les boules pour éviter les contestations.",
+     "r": "valable",
+     "e": "Aucune réclamation n'est admise pour une boule ou un but non marqué."
+    },
+    {
+     "q": "Le kit du jeune arbitre comprend seulement un sifflet.",
+     "r": "faute",
+     "e": "C'est faux. Il doit avoir son matériel d'arbitrage avant la rencontre."
+    },
+    {
+     "q": "Le kit du jeune arbitre comprend plaquette, stylo, chronomètre, mètre et un but.",
+     "r": "valable",
+     "e": "Il doit avoir son matériel d'arbitrage avant la rencontre."
+    },
+    {
+     "q": "Le jeune arbitre complète la fiche score à la fin de chaque mène.",
+     "r": "valable",
+     "e": "Fiche score complétée mène par mène."
+    },
+    {
+     "q": "Le jeune arbitre complète la fiche score seulement à la fin de la rencontre.",
+     "r": "faute",
+     "e": "C'est faux. Fiche score complétée mène par mène."
+    },
+    {
+     "q": "À la fin de la rencontre, le jeune arbitre quitte le terrain sans faire signer la fiche.",
+     "r": "faute",
+     "e": "C'est faux. Il valide les scores et remplit la fiche résultat."
+    },
+    {
+     "q": "À la fin de la rencontre, le jeune arbitre fait signer les capitaines et serre la main des joueurs.",
+     "r": "valable",
+     "e": "Il valide les scores et remplit la fiche résultat."
+    }
+   ]
+  }
+ ]
+}

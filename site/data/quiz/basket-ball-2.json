@@ -1,0 +1,265 @@
+{
+ "id": "basket-ball-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre Basketball",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT BASKETBALL UNSS",
+ "sport": "basket-ball",
+ "source": "https://eloquent-mandazi-44a681.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "S'il reste 13 secondes ou moins, la remise en jeu en zone avant se fait avec 14 secondes de possession.",
+     "r": "valable",
+     "e": "Règle des 14 secondes : s'il reste 14 s ou plus, on garde le temps restant ; sinon, on remet à 14 s."
+    },
+    {
+     "q": "S'il reste 13 secondes ou moins, la remise en jeu en zone avant se fait avec 24 secondes de possession.",
+     "r": "faute",
+     "e": "C'est faux. Règle des 14 secondes : s'il reste 14 s ou plus, on garde le temps restant ; sinon, on remet à 14 s."
+    },
+    {
+     "q": "Sur un rebond offensif, le chronomètre des tirs reprend à 14 secondes.",
+     "r": "valable",
+     "e": "À l'UNSS, sur un rebond offensif, l'horloge reprend à 14 secondes."
+    },
+    {
+     "q": "Sur un rebond offensif, le chronomètre des tirs reprend à 24 secondes.",
+     "r": "faute",
+     "e": "C'est faux. À l'UNSS, sur un rebond offensif, l'horloge reprend à 14 secondes."
+    },
+    {
+     "q": "Quand le ballon est coincé, l'équipe qui défendait reçoit 14 secondes si le ballon lui revient.",
+     "r": "faute",
+     "e": "C'est faux. Ballon coincé : 14 secondes pour l'équipe en attaque si le ballon lui revient, 24 secondes pour l'équipe en défense."
+    },
+    {
+     "q": "Quand le ballon est coincé, l'équipe qui défendait reçoit 24 secondes si le ballon lui revient.",
+     "r": "valable",
+     "e": "Ballon coincé : 14 secondes pour l'équipe en attaque si le ballon lui revient, 24 secondes pour l'équipe en défense."
+    },
+    {
+     "q": "Le pied déjà au sol au moment de recevoir le ballon compte comme le premier pas.",
+     "r": "faute",
+     "e": "C'est faux. Le pied déjà au sol à la réception est le pas n° 0 ; le joueur a ensuite deux appuis pour s'arrêter."
+    },
+    {
+     "q": "Le pied déjà au sol au moment de recevoir le ballon ne compte pas comme un pas : c'est le « pas n° 0 ».",
+     "r": "valable",
+     "e": "Le pied déjà au sol à la réception est le pas n° 0 ; le joueur a ensuite deux appuis pour s'arrêter."
+    },
+    {
+     "q": "Après un arrêt simultané, le joueur peut choisir n'importe quel pied de pivot.",
+     "r": "valable",
+     "e": "Arrêt simultané : n'importe quel pied de pivot. Arrêt alternatif : le 1er pied posé est le pivot."
+    },
+    {
+     "q": "Après un arrêt simultané, le joueur n'a pas droit à un pied de pivot.",
+     "r": "faute",
+     "e": "C'est faux. Arrêt simultané : n'importe quel pied de pivot. Arrêt alternatif : le 1er pied posé est le pivot."
+    },
+    {
+     "q": "Un joueur qui tombe avec le ballon doit dribbler ou passer avant de se relever.",
+     "r": "valable",
+     "e": "Sinon, c'est « marcher »."
+    },
+    {
+     "q": "Un joueur qui tombe avec le ballon peut se relever en le gardant en main.",
+     "r": "faute",
+     "e": "C'est faux. Sinon, c'est « marcher »."
+    },
+    {
+     "q": "Le tir ne change rien au décompte des 3 secondes.",
+     "r": "faute",
+     "e": "C'est faux. La balle en l'air en direction du panier annule les 3 secondes."
+    },
+    {
+     "q": "Le tir annule le décompte des 3 secondes.",
+     "r": "valable",
+     "e": "La balle en l'air en direction du panier annule les 3 secondes."
+    },
+    {
+     "q": "Les lignes de la raquette font partie de la zone restrictive.",
+     "r": "valable",
+     "e": "Le joueur doit avoir les 2 pieds au sol en dehors de la zone, lignes comprises."
+    },
+    {
+     "q": "Les lignes de la raquette ne font pas partie de la zone restrictive.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur doit avoir les 2 pieds au sol en dehors de la zone, lignes comprises."
+    },
+    {
+     "q": "La ligne de touche fait partie du terrain.",
+     "r": "faute",
+     "e": "C'est faux. Le ballon est sorti quand il touche le sol ou un joueur à l'extérieur, et la ligne de touche fait partie de l'extérieur."
+    },
+    {
+     "q": "La ligne de touche fait partie de l'extérieur du terrain.",
+     "r": "valable",
+     "e": "Le ballon est sorti quand il touche le sol ou un joueur à l'extérieur, et la ligne de touche fait partie de l'extérieur."
+    },
+    {
+     "q": "À chaque entre-deux, la règle de la flèche d'alternance s'applique.",
+     "r": "valable",
+     "e": "Après l'entre-deux initial, les équipes alternent la possession à chaque situation d'entre-deux."
+    },
+    {
+     "q": "À chaque entre-deux, les deux joueurs sautent à nouveau.",
+     "r": "faute",
+     "e": "C'est faux. Après l'entre-deux initial, les équipes alternent la possession à chaque situation d'entre-deux."
+    },
+    {
+     "q": "À la mi-temps, la flèche d'alternance reste dans le même sens.",
+     "r": "faute",
+     "e": "C'est faux. Les arbitres doivent tourner la flèche à la mi-temps."
+    },
+    {
+     "q": "À la mi-temps, on tourne la flèche d'alternance parce que les équipes changent de côté.",
+     "r": "valable",
+     "e": "Les arbitres doivent tourner la flèche à la mi-temps."
+    },
+    {
+     "q": "Une faute technique est sanctionnée de trois lancers francs.",
+     "r": "faute",
+     "e": "C'est faux. Pour toute faute technique, un seul lancer franc est accordé avant toute autre réparation."
+    },
+    {
+     "q": "Une faute technique est sanctionnée d'un seul lancer franc.",
+     "r": "valable",
+     "e": "Pour toute faute technique, un seul lancer franc est accordé avant toute autre réparation."
+    },
+    {
+     "q": "Une faute antisportive est sanctionnée de 1, 2 ou 3 lancers francs puis d'une remise en jeu en zone avant à 14 secondes.",
+     "r": "valable",
+     "e": "L'équipe victime reçoit les lancers francs puis la remise en zone avant, en face de la table, avec 14 secondes."
+    },
+    {
+     "q": "Une faute antisportive est sanctionnée uniquement d'une remise en jeu sur le côté.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe victime reçoit les lancers francs puis la remise en zone avant, en face de la table, avec 14 secondes."
+    },
+    {
+     "q": "Une faute disqualifiante est sanctionnée de 2 lancers francs et le fautif doit quitter la salle.",
+     "r": "valable",
+     "e": "Réparation : 2 lancers francs et remise en jeu en zone avant avec 14 secondes ; le fautif quitte la salle."
+    },
+    {
+     "q": "Une faute disqualifiante est sanctionnée d'un lancer franc et le fautif reste sur le banc.",
+     "r": "faute",
+     "e": "C'est faux. Réparation : 2 lancers francs et remise en jeu en zone avant avec 14 secondes ; le fautif quitte la salle."
+    },
+    {
+     "q": "À partir de la 5e faute d'équipe dans une période, chaque faute donne 2 lancers francs à l'adversaire.",
+     "r": "valable",
+     "e": "Les fautes d'équipe sont remises à zéro à la fin de chaque période."
+    },
+    {
+     "q": "Les fautes d'équipe sont cumulées sur tout le match sans jamais être remises à zéro.",
+     "r": "faute",
+     "e": "C'est faux. Les fautes d'équipe sont remises à zéro à la fin de chaque période."
+    },
+    {
+     "q": "Chaque équipe dispose de 2 temps morts en 1re mi-temps et de 3 en 2e mi-temps.",
+     "r": "valable",
+     "e": "Plus 1 temps mort par prolongation ; les temps morts non utilisés ne se cumulent pas d'une mi-temps à l'autre."
+    },
+    {
+     "q": "Chaque équipe dispose de 5 temps morts, utilisables à tout moment sans limite.",
+     "r": "faute",
+     "e": "C'est faux. Plus 1 temps mort par prolongation ; les temps morts non utilisés ne se cumulent pas d'une mi-temps à l'autre."
+    },
+    {
+     "q": "Dans les 2 dernières minutes de la 4e période, chaque équipe peut prendre 3 temps morts.",
+     "r": "faute",
+     "e": "C'est faux. Cette règle limite les arrêts en fin de rencontre."
+    },
+    {
+     "q": "Dans les 2 dernières minutes de la 4e période, chaque équipe peut prendre au maximum 2 temps morts.",
+     "r": "valable",
+     "e": "Cette règle limite les arrêts en fin de rencontre."
+    },
+    {
+     "q": "Jusqu'en U15, les remplacements en zone arrière sont toujours autorisés.",
+     "r": "faute",
+     "e": "C'est faux. Cette règle « jeunes » favorise les contre-attaques."
+    },
+    {
+     "q": "Jusqu'en U15, il n'y a pas de remplacement en zone arrière, sauf faute, temps mort ou arrêt de jeu prolongé.",
+     "r": "valable",
+     "e": "Cette règle « jeunes » favorise les contre-attaques."
+    },
+    {
+     "q": "Dans les 2 dernières minutes, le chronomètre n'est jamais arrêté sur panier réussi.",
+     "r": "faute",
+     "e": "C'est faux. C'est vrai pour les 2 dernières minutes du temps règlementaire et des prolongations."
+    },
+    {
+     "q": "Dans les 2 dernières minutes, le chronomètre est arrêté sur tout panier réussi.",
+     "r": "valable",
+     "e": "C'est vrai pour les 2 dernières minutes du temps règlementaire et des prolongations."
+    },
+    {
+     "q": "Le chronométreur démarre le chronomètre lorsque le ballon est touché par un joueur sur le terrain.",
+     "r": "valable",
+     "e": "Il démarre le chrono quand un joueur touche le ballon et l'arrête sur tout coup de sifflet."
+    },
+    {
+     "q": "Le chronométreur démarre le chronomètre dès que l'arbitre lève le bras.",
+     "r": "faute",
+     "e": "C'est faux. Il démarre le chrono quand un joueur touche le ballon et l'arrête sur tout coup de sifflet."
+    },
+    {
+     "q": "Une faute antisportive est inscrite U1, U2 ou U3 sur la feuille de marque.",
+     "r": "valable",
+     "e": "P désigne les fautes personnelles, U les antisportives, T les techniques, D les disqualifiantes."
+    },
+    {
+     "q": "Une faute antisportive est inscrite P1 sur la feuille de marque.",
+     "r": "faute",
+     "e": "C'est faux. P désigne les fautes personnelles, U les antisportives, T les techniques, D les disqualifiantes."
+    },
+    {
+     "q": "L'arbitre de tête suit le ballon et l'arbitre de queue observe le public.",
+     "r": "faute",
+     "e": "C'est faux. AK suit le ballon ; AT suit le jeu hors ballon."
+    },
+    {
+     "q": "L'arbitre de queue suit le ballon et l'arbitre de tête suit le jeu hors ballon.",
+     "r": "valable",
+     "e": "AK suit le ballon ; AT suit le jeu hors ballon."
+    },
+    {
+     "q": "Une faute commise après le buzzer compte toujours.",
+     "r": "faute",
+     "e": "C'est faux. Si la faute est commise avant le buzzer, il doit rester du temps à jouer (au minimum 1/10 de seconde)."
+    },
+    {
+     "q": "Une faute commise avant le buzzer compte ; commise au moment du buzzer ou après, elle ne compte pas.",
+     "r": "valable",
+     "e": "Si la faute est commise avant le buzzer, il doit rester du temps à jouer (au minimum 1/10 de seconde)."
+    },
+    {
+     "q": "Sur un tir réussi avec faute, le panier est refusé.",
+     "r": "faute",
+     "e": "C'est faux. Si le tir est raté à 2 points, le tireur reçoit 2 lancers francs."
+    },
+    {
+     "q": "Sur un tir réussi avec faute, le panier est accordé et le tireur reçoit un lancer franc.",
+     "r": "valable",
+     "e": "Si le tir est raté à 2 points, le tireur reçoit 2 lancers francs."
+    },
+    {
+     "q": "Au 3x3, un panier à l'intérieur de l'arc vaut 2 points et à l'extérieur 3 points.",
+     "r": "faute",
+     "e": "C'est faux. Au 3x3, 1 point à l'intérieur de l'arc, 2 points à l'extérieur, et 1 point par lancer franc."
+    },
+    {
+     "q": "Au 3x3, un panier à l'intérieur de l'arc vaut 1 point et un panier à l'extérieur vaut 2 points.",
+     "r": "valable",
+     "e": "Au 3x3, 1 point à l'intérieur de l'arc, 2 points à l'extérieur, et 1 point par lancer franc."
+    }
+   ]
+  }
+ ]
+}

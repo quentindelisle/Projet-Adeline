@@ -1,0 +1,265 @@
+{
+ "id": "vtt-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre VTT",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT VTT UNSS",
+ "sport": "vtt",
+ "source": "https://deft-jelly-f739c3.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le casque est facultatif sur le rallye enduro.",
+     "r": "faute",
+     "e": "C'est faux. Le casque à coque rigide (normes CE), jugulaire ajustée, est obligatoire sur toutes les épreuves."
+    },
+    {
+     "q": "Le casque à coque rigide aux normes CE est obligatoire sur toutes les épreuves.",
+     "r": "valable",
+     "e": "Le casque à coque rigide (normes CE), jugulaire ajustée, est obligatoire sur toutes les épreuves."
+    },
+    {
+     "q": "Les gants sont interdits pendant les épreuves.",
+     "r": "faute",
+     "e": "C'est faux. Gants obligatoires (mitaines autorisées)."
+    },
+    {
+     "q": "Les gants sont obligatoires, et les mitaines sont autorisées.",
+     "r": "valable",
+     "e": "Gants obligatoires (mitaines autorisées)."
+    },
+    {
+     "q": "Un seul VTT doit être utilisé pour les trois épreuves.",
+     "r": "valable",
+     "e": "Un seul VTT pour les trois épreuves, cadre et fourche marqués par l'organisation."
+    },
+    {
+     "q": "Chaque épreuve se fait avec un VTT différent.",
+     "r": "faute",
+     "e": "C'est faux. Un seul VTT pour les trois épreuves, cadre et fourche marqués par l'organisation."
+    },
+    {
+     "q": "Le cadre et la fourche sont marqués par l'organisation et ne peuvent pas être remplacés.",
+     "r": "valable",
+     "e": "Cadre et fourche marqués ne peuvent en aucun cas être remplacés."
+    },
+    {
+     "q": "Le cadre et la fourche peuvent être remplacés librement entre les épreuves.",
+     "r": "faute",
+     "e": "C'est faux. Cadre et fourche marqués ne peuvent en aucun cas être remplacés."
+    },
+    {
+     "q": "Les roues autorisées ont un diamètre de 24'' à 29''.",
+     "r": "valable",
+     "e": "Diamètres autorisés des roues : 24'' à 29''."
+    },
+    {
+     "q": "Seules les roues de 26'' sont autorisées.",
+     "r": "faute",
+     "e": "C'est faux. Diamètres autorisés des roues : 24'' à 29''."
+    },
+    {
+     "q": "Les cornes de cintre sont obligatoires.",
+     "r": "faute",
+     "e": "C'est faux. Les embouts de cintres sont bouchés, les cornes interdites, la selle obligatoire."
+    },
+    {
+     "q": "Les cornes de cintre sont interdites.",
+     "r": "valable",
+     "e": "Les embouts de cintres sont bouchés, les cornes interdites, la selle obligatoire."
+    },
+    {
+     "q": "La selle est obligatoire.",
+     "r": "valable",
+     "e": "La selle est obligatoire."
+    },
+    {
+     "q": "La selle peut être retirée pour le trial.",
+     "r": "faute",
+     "e": "C'est faux. La selle est obligatoire."
+    },
+    {
+     "q": "Le coaching par oreillette est autorisé.",
+     "r": "faute",
+     "e": "C'est faux. Tout coaching est interdit, oreillettes non autorisées."
+    },
+    {
+     "q": "Tout coaching est interdit pendant les épreuves.",
+     "r": "valable",
+     "e": "Tout coaching est interdit, oreillettes non autorisées."
+    },
+    {
+     "q": "La caméra embarquée est interdite.",
+     "r": "valable",
+     "e": "La caméra embarquée est interdite."
+    },
+    {
+     "q": "La caméra embarquée est autorisée pour filmer la course.",
+     "r": "faute",
+     "e": "C'est faux. La caméra embarquée est interdite."
+    },
+    {
+     "q": "Le championnat de France comporte 3 disciplines : le trial, le rallye enduro et le relais.",
+     "r": "valable",
+     "e": "Le championnat comporte le trial, le rallye enduro et le cross-relais."
+    },
+    {
+     "q": "Le championnat de France comporte 2 disciplines : trial et descente.",
+     "r": "faute",
+     "e": "C'est faux. Le championnat comporte le trial, le rallye enduro et le cross-relais."
+    },
+    {
+     "q": "Le trial se déroule sur 12 zones.",
+     "r": "faute",
+     "e": "C'est faux. L'épreuve au championnat de France comporte 5 zones de 100 à 150 mètres maximum."
+    },
+    {
+     "q": "Le trial se déroule sur 5 zones.",
+     "r": "valable",
+     "e": "L'épreuve au championnat de France comporte 5 zones de 100 à 150 mètres maximum."
+    },
+    {
+     "q": "Chaque zone de trial est constituée de 7 segments.",
+     "r": "valable",
+     "e": "Chaque zone est constituée de 7 segments dont la valeur totale croît de la zone A à la zone E."
+    },
+    {
+     "q": "Chaque zone de trial est constituée d'un seul segment.",
+     "r": "faute",
+     "e": "C'est faux. Chaque zone est constituée de 7 segments dont la valeur totale croît de la zone A à la zone E."
+    },
+    {
+     "q": "Un segment franchi sans faute rapporte les points de ce segment.",
+     "r": "valable",
+     "e": "Pour chaque segment franchi sans faute, le concurrent obtient les points attribués au segment."
+    },
+    {
+     "q": "Un segment franchi sans faute ne rapporte aucun point.",
+     "r": "faute",
+     "e": "C'est faux. Pour chaque segment franchi sans faute, le concurrent obtient les points attribués au segment."
+    },
+    {
+     "q": "Une faute dans un segment annule tous les points de la zone.",
+     "r": "faute",
+     "e": "C'est faux. Il marque 0 point en cas de faute quelle qu'elle soit sur le segment concerné."
+    },
+    {
+     "q": "Une faute dans un segment donne 0 point sur ce segment.",
+     "r": "valable",
+     "e": "Il marque 0 point en cas de faute quelle qu'elle soit sur le segment concerné."
+    },
+    {
+     "q": "Un appui permettant de s'équilibrer est une faute.",
+     "r": "valable",
+     "e": "Tout appui permettant de s'équilibrer ou d'améliorer la propulsion est une faute."
+    },
+    {
+     "q": "Un appui sur le sol pour se rééquilibrer est autorisé.",
+     "r": "faute",
+     "e": "C'est faux. Tout appui permettant de s'équilibrer ou d'améliorer la propulsion est une faute."
+    },
+    {
+     "q": "L'axe de la roue avant détermine l'entrée et la sortie d'un segment.",
+     "r": "valable",
+     "e": "Un concurrent entre dans un segment quand l'axe de sa roue avant franchit la ligne d'entrée."
+    },
+    {
+     "q": "L'axe du pédalier détermine l'entrée et la sortie d'un segment.",
+     "r": "faute",
+     "e": "C'est faux. Un concurrent entre dans un segment quand l'axe de sa roue avant franchit la ligne d'entrée."
+    },
+    {
+     "q": "Le juge de trial annonce les points de chaque segment à voix haute.",
+     "r": "valable",
+     "e": "Il annonce les points à voix haute, avec des gestes amples, précis et visibles de tous."
+    },
+    {
+     "q": "Le juge de trial note les points sans rien dire.",
+     "r": "faute",
+     "e": "C'est faux. Il annonce les points à voix haute, avec des gestes amples, précis et visibles de tous."
+    },
+    {
+     "q": "Au rallye enduro, l'équipe roule sans accompagnateur.",
+     "r": "faute",
+     "e": "C'est faux. L'accompagnateur assure la sécurité et part en 5e position pour fermer."
+    },
+    {
+     "q": "Au rallye enduro, l'équipe est accompagnée d'un accompagnateur en VTT.",
+     "r": "valable",
+     "e": "L'accompagnateur assure la sécurité et part en 5e position pour fermer."
+    },
+    {
+     "q": "La boucle du rallye enduro mesure entre 5 et 8 km et se parcourt 2 fois.",
+     "r": "valable",
+     "e": "1er passage en reconnaissance, 2e passage avec spéciales chronométrées."
+    },
+    {
+     "q": "La boucle du rallye enduro mesure 50 km et se parcourt une seule fois.",
+     "r": "faute",
+     "e": "C'est faux. 1er passage en reconnaissance, 2e passage avec spéciales chronométrées."
+    },
+    {
+     "q": "Le cross-relais se court en 10 tours.",
+     "r": "valable",
+     "e": "Relais de 10 tours pour les collèges et les lycées."
+    },
+    {
+     "q": "Le cross-relais se court en 3 tours.",
+     "r": "faute",
+     "e": "C'est faux. Relais de 10 tours pour les collèges et les lycées."
+    },
+    {
+     "q": "Un concurrent ne peut pas faire deux tours consécutifs au relais.",
+     "r": "valable",
+     "e": "L'ordre de passage est libre mais pas deux tours consécutifs."
+    },
+    {
+     "q": "Un concurrent peut enchaîner tous les tours qu'il veut.",
+     "r": "faute",
+     "e": "C'est faux. L'ordre de passage est libre mais pas deux tours consécutifs."
+    },
+    {
+     "q": "Au relais, la transition se fait à vélo à pleine vitesse.",
+     "r": "faute",
+     "e": "C'est faux. Tout le monde est à pied dans cette zone."
+    },
+    {
+     "q": "Au relais, la transition se fait à pied dans la zone de relais.",
+     "r": "valable",
+     "e": "Tout le monde est à pied dans cette zone."
+    },
+    {
+     "q": "Une équipe de championnat compte 4 concurrents.",
+     "r": "valable",
+     "e": "L'équipe se présente au départ d'une spéciale avec les 4 concurrents et son accompagnateur."
+    },
+    {
+     "q": "Une équipe de championnat compte 8 concurrents.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe se présente au départ d'une spéciale avec les 4 concurrents et son accompagnateur."
+    },
+    {
+     "q": "Le jeune arbitre est identifié par un tee-shirt jaune aux championnats de France.",
+     "r": "faute",
+     "e": "C'est faux. Il est identifié par un tee-shirt de couleur verte."
+    },
+    {
+     "q": "Le jeune arbitre est identifié par un tee-shirt vert aux championnats de France.",
+     "r": "valable",
+     "e": "Il est identifié par un tee-shirt de couleur verte."
+    },
+    {
+     "q": "Le niveau national s'obtient à partir de 16/20.",
+     "r": "valable",
+     "e": "Départemental 12/20, académique 14/20, national 16/20."
+    },
+    {
+     "q": "Le niveau national s'obtient à partir de 10/20.",
+     "r": "faute",
+     "e": "C'est faux. Départemental 12/20, académique 14/20, national 16/20."
+    }
+   ]
+  }
+ ]
+}

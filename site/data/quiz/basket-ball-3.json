@@ -1,0 +1,265 @@
+{
+ "id": "basket-ball-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre Basketball",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT BASKETBALL UNSS",
+ "sport": "basket-ball",
+ "source": "https://heartfelt-platypus-65d705.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La ligne à 3 points est à 7 m 25 de l'anneau.",
+     "r": "faute",
+     "e": "C'est faux. Elle a reculé de 6 m 25 à 6 m 75, se rapprochant de la distance NBA (7 m 25)."
+    },
+    {
+     "q": "La ligne à 3 points est à 6 m 75 de l'anneau.",
+     "r": "valable",
+     "e": "Elle a reculé de 6 m 25 à 6 m 75, se rapprochant de la distance NBA (7 m 25)."
+    },
+    {
+     "q": "Le demi-cercle de non-charge a un rayon de 1 m 25.",
+     "r": "valable",
+     "e": "Il est mesuré entre la projection au sol du centre du panier et le bord intérieur de la ligne du demi-cercle."
+    },
+    {
+     "q": "Le demi-cercle de non-charge a un rayon de 2 m.",
+     "r": "faute",
+     "e": "C'est faux. Il est mesuré entre la projection au sol du centre du panier et le bord intérieur de la ligne du demi-cercle."
+    },
+    {
+     "q": "La ligne de remise en jeu est à 8 m 325 de la ligne de fond, sur la ligne de touche opposée à la table de marque.",
+     "r": "valable",
+     "e": "Les 2 lignes de 15 cm sont tracées en dehors du terrain, à l'opposé de la table de marque."
+    },
+    {
+     "q": "La ligne de remise en jeu est à 8 m 325 de la ligne de fond, sur la ligne de touche côté table de marque.",
+     "r": "faute",
+     "e": "C'est faux. Les 2 lignes de 15 cm sont tracées en dehors du terrain, à l'opposé de la table de marque."
+    },
+    {
+     "q": "La zone des bancs d'équipe comprend 8 sièges.",
+     "r": "faute",
+     "e": "C'est faux. Elle accueille entraîneurs, adjoints, remplaçants, joueurs éliminés et accompagnateurs."
+    },
+    {
+     "q": "La zone des bancs d'équipe comprend 16 sièges.",
+     "r": "valable",
+     "e": "Elle accueille entraîneurs, adjoints, remplaçants, joueurs éliminés et accompagnateurs."
+    },
+    {
+     "q": "Une faute technique plus une faute antisportive entraînent la disqualification du joueur.",
+     "r": "valable",
+     "e": "Une plaquette GD indique la disqualification."
+    },
+    {
+     "q": "Une faute technique plus une faute antisportive n'entraînent aucune disqualification.",
+     "r": "faute",
+     "e": "C'est faux. Une plaquette GD indique la disqualification."
+    },
+    {
+     "q": "Une faute disqualifiante imputée à l'entraîneur comme faute de banc s'inscrit « B2 ».",
+     "r": "valable",
+     "e": "Elle est sanctionnée de 2 lancers francs, comme toute faute disqualifiante."
+    },
+    {
+     "q": "Une faute disqualifiante imputée à l'entraîneur comme faute de banc s'inscrit « C1 ».",
+     "r": "faute",
+     "e": "C'est faux. Elle est sanctionnée de 2 lancers francs, comme toute faute disqualifiante."
+    },
+    {
+     "q": "Dans les 2 dernières minutes, une faute lors d'une remise en jeu, quand l'arbitre a le ballon en main, n'est plus antisportive : c'est une faute personnelle simple.",
+     "r": "valable",
+     "e": "Elle est sanctionnée d'un lancer franc plus la possession."
+    },
+    {
+     "q": "Dans les 2 dernières minutes, toute faute lors d'une remise en jeu est automatiquement disqualifiante.",
+     "r": "faute",
+     "e": "C'est faux. Elle est sanctionnée d'un lancer franc plus la possession."
+    },
+    {
+     "q": "Après un temps mort dans les 2 dernières minutes, l'entraîneur peut choisir entre une remise en zone arrière à 24 s ou en zone avant à 14 s.",
+     "r": "valable",
+     "e": "Le choix doit être signalé au 1er arbitre à la fin du temps mort."
+    },
+    {
+     "q": "Après un temps mort dans les 2 dernières minutes, la remise en jeu se fait toujours en zone arrière.",
+     "r": "faute",
+     "e": "C'est faux. Le choix doit être signalé au 1er arbitre à la fin du temps mort."
+    },
+    {
+     "q": "Un remplaçant doit rester au moins une phase de jeu au chronomètre sur le terrain avant de pouvoir être remplacé.",
+     "r": "valable",
+     "e": "Le remplaçant devient joueur quand l'arbitre a fait les deux gestes (remplacement + entrée en jeu)."
+    },
+    {
+     "q": "Un remplaçant peut ressortir immédiatement après son entrée sur le terrain.",
+     "r": "faute",
+     "e": "C'est faux. Le remplaçant devient joueur quand l'arbitre a fait les deux gestes (remplacement + entrée en jeu)."
+    },
+    {
+     "q": "Si une violation est commise après le geste de prévention sur remise en jeu (2 dernières minutes), une faute technique est sifflée.",
+     "r": "valable",
+     "e": "Le geste permet de prévenir les violations et retards de jeu."
+    },
+    {
+     "q": "Si une violation est commise après le geste de prévention sur remise en jeu, le jeu reprend sans sanction.",
+     "r": "faute",
+     "e": "C'est faux. Le geste permet de prévenir les violations et retards de jeu."
+    },
+    {
+     "q": "Au lancer franc, si le défenseur commet une violation et que le panier est raté, la remise en jeu est pour l'équipe adverse.",
+     "r": "faute",
+     "e": "C'est faux. Si c'est l'attaquant qui commet la violation et que le panier est raté, remise en jeu pour l'adversaire sous le panier."
+    },
+    {
+     "q": "Au lancer franc, si le défenseur commet une violation et que le panier est raté, un lancer franc est à retirer.",
+     "r": "valable",
+     "e": "Si c'est l'attaquant qui commet la violation et que le panier est raté, remise en jeu pour l'adversaire sous le panier."
+    },
+    {
+     "q": "Au lancer franc, si le panier est marqué, la violation annule le panier.",
+     "r": "faute",
+     "e": "C'est faux. Panier marqué : violation du défenseur ou de l'attaquant ignorée, le panier est accordé."
+    },
+    {
+     "q": "Au lancer franc, si le panier est marqué, la violation est ignorée et le panier accordé.",
+     "r": "valable",
+     "e": "Panier marqué : violation du défenseur ou de l'attaquant ignorée, le panier est accordé."
+    },
+    {
+     "q": "Au lancer franc, l'arbitre de tête donne le ballon et l'arbitre de queue vérifie que le tireur ne franchit pas la ligne.",
+     "r": "valable",
+     "e": "L'arbitre de tête vérifie aussi que les joueurs ne partent pas avant que le ballon n'ait quitté les mains du tireur."
+    },
+    {
+     "q": "Au lancer franc, l'arbitre de queue donne le ballon et l'arbitre de tête vérifie la ligne de lancer franc.",
+     "r": "faute",
+     "e": "C'est faux. L'arbitre de tête vérifie aussi que les joueurs ne partent pas avant que le ballon n'ait quitté les mains du tireur."
+    },
+    {
+     "q": "Après un arrêt « un pied puis simultané », le joueur peut choisir librement son pied de pivot.",
+     "r": "faute",
+     "e": "C'est faux. Après un arrêt alternatif, le 1er pied posé est le pied de pivot ; après un arrêt simultané, au choix."
+    },
+    {
+     "q": "Après un arrêt « un pied puis simultané », le joueur n'a pas le droit à un pied de pivot.",
+     "r": "valable",
+     "e": "Après un arrêt alternatif, le 1er pied posé est le pied de pivot ; après un arrêt simultané, au choix."
+    },
+    {
+     "q": "Un ballon dévié dans la zone arrière par un défenseur peut être récupéré par l'une ou l'autre équipe.",
+     "r": "valable",
+     "e": "Il n'y a pas de violation de retour en zone dans ce cas."
+    },
+    {
+     "q": "Un ballon dévié dans la zone arrière par un défenseur est une violation de retour en zone.",
+     "r": "faute",
+     "e": "C'est faux. Il n'y a pas de violation de retour en zone dans ce cas."
+    },
+    {
+     "q": "Le premier signal sonore d'un temps mort retentit après 50 secondes.",
+     "r": "valable",
+     "e": "Le 2e signal sonne à 1 minute."
+    },
+    {
+     "q": "Le premier signal sonore d'un temps mort retentit après 20 secondes.",
+     "r": "faute",
+     "e": "C'est faux. Le 2e signal sonne à 1 minute."
+    },
+    {
+     "q": "Une demande de temps mort peut être retirée à tout moment.",
+     "r": "faute",
+     "e": "C'est faux. Passé le signal du marqueur, le temps mort est accordé."
+    },
+    {
+     "q": "Une demande de temps mort peut être retirée seulement avant que le signal du marqueur ait retenti.",
+     "r": "valable",
+     "e": "Passé le signal du marqueur, le temps mort est accordé."
+    },
+    {
+     "q": "Un jeune arbitre acquiert le niveau national à partir de 12/20.",
+     "r": "faute",
+     "e": "C'est faux. Note globale = moyenne des 2 prestations pratiques sur 16 points + note théorique sur 4 points."
+    },
+    {
+     "q": "Un jeune arbitre acquiert le niveau départemental à partir de 12/20, académique à partir de 14/20 et national à partir de 16/20.",
+     "r": "valable",
+     "e": "Note globale = moyenne des 2 prestations pratiques sur 16 points + note théorique sur 4 points."
+    },
+    {
+     "q": "La certification académique UNSS donne une équivalence d'arbitre régional jeune.",
+     "r": "faute",
+     "e": "C'est faux. C'est la certification nationale qui donne l'équivalence d'arbitre régional jeune."
+    },
+    {
+     "q": "La certification académique UNSS donne une équivalence de titre d'arbitre club avec la FFBB.",
+     "r": "valable",
+     "e": "C'est la certification nationale qui donne l'équivalence d'arbitre régional jeune."
+    },
+    {
+     "q": "Le Compte d'Engagement Citoyen peut être ouvert dès 10 ans.",
+     "r": "faute",
+     "e": "C'est faux. Il suppose 200 heures de bénévolat dans l'année pour bénéficier d'un forfait, dont 100 dans la même association."
+    },
+    {
+     "q": "Le Compte d'Engagement Citoyen peut être ouvert à partir de 16 ans.",
+     "r": "valable",
+     "e": "Il suppose 200 heures de bénévolat dans l'année pour bénéficier d'un forfait, dont 100 dans la même association."
+    },
+    {
+     "q": "Au 3x3, la première équipe qui marque 21 points ou plus gagne la rencontre avant la fin des 10 minutes.",
+     "r": "valable",
+     "e": "Cette règle s'applique au temps réglementaire, pas à la prolongation (2 points)."
+    },
+    {
+     "q": "Au 3x3, la première équipe qui marque 15 points gagne la rencontre.",
+     "r": "faute",
+     "e": "C'est faux. Cette règle s'applique au temps réglementaire, pas à la prolongation (2 points)."
+    },
+    {
+     "q": "Au 3x3, une équipe doit tenter un tir dans un délai de 24 secondes.",
+     "r": "faute",
+     "e": "C'est faux. Le chronomètre de tir se déclenche dès que le ballon est dans les mains de l'attaquant."
+    },
+    {
+     "q": "Au 3x3, une équipe doit tenter un tir dans un délai de 12 secondes.",
+     "r": "valable",
+     "e": "Le chronomètre de tir se déclenche dès que le ballon est dans les mains de l'attaquant."
+    },
+    {
+     "q": "Au 3x3, le terrain mesure 28 m sur 15 m avec deux paniers.",
+     "r": "faute",
+     "e": "C'est faux. Un demi-terrain de basketball traditionnel peut aussi être utilisé."
+    },
+    {
+     "q": "Au 3x3, le terrain mesure 15 m de large sur 11 m de long avec un seul panier.",
+     "r": "valable",
+     "e": "Un demi-terrain de basketball traditionnel peut aussi être utilisé."
+    },
+    {
+     "q": "Au 3x3, après 9 fautes d'équipe, toute faute supplémentaire est considérée comme une faute technique.",
+     "r": "valable",
+     "e": "L'équipe est en position de pénalité à partir de 6 fautes d'équipe."
+    },
+    {
+     "q": "Au 3x3, après 9 fautes d'équipe, le match est perdu.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe est en position de pénalité à partir de 6 fautes d'équipe."
+    },
+    {
+     "q": "Au 3x3, chaque équipe dispose de 3 temps morts de 1 minute.",
+     "r": "faute",
+     "e": "C'est faux. Un joueur peut demander un temps mort lors d'une situation de ballon mort."
+    },
+    {
+     "q": "Au 3x3, chaque équipe dispose d'un temps mort de 30 secondes.",
+     "r": "valable",
+     "e": "Un joueur peut demander un temps mort lors d'une situation de ballon mort."
+    }
+   ]
+  }
+ ]
+}

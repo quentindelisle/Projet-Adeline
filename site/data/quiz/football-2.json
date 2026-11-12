@@ -1,0 +1,265 @@
+{
+ "id": "football-2",
+ "titre": "Avant, pendant, après le match",
+ "sousTitre": "Quiz Jeune Arbitre Football",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT FOOTBALL UNSS",
+ "sport": "football",
+ "source": "https://tiny-crisp-ec1dab.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "L'arbitre applique l'avantage quand c'est pertinent.",
+     "r": "valable",
+     "e": "Il doit appliquer l'avantage."
+    },
+    {
+     "q": "Les incidents sont notés seulement s'ils sont graves, jamais les réclamations.",
+     "r": "faute",
+     "e": "Attention : il note réclamation technique, réserve administrative et tout incident."
+    },
+    {
+     "q": "L'arbitre appelle les deux capitaines pour qu'ils prennent connaissance de la feuille de match.",
+     "r": "valable",
+     "e": "Il appelle les deux capitaines d'équipes."
+    },
+    {
+     "q": "L'arbitre ne note pas la minute des remplacements.",
+     "r": "faute",
+     "e": "Attention : il note noms et numéros des joueurs et la minute du remplacement."
+    },
+    {
+     "q": "L'arbitre remplit sur la feuille de match les rubriques qui le concernent.",
+     "r": "valable",
+     "e": "Il remplit les rubriques qui le concernent (coordonnées, licences)."
+    },
+    {
+     "q": "Pour une réserve administrative, l'arbitre ne s'y oppose pas, même après le match.",
+     "r": "valable",
+     "e": "Il ne s'opposera pas à une réserve administrative, même déposée après le match."
+    },
+    {
+     "q": "L'arbitre laisse les organisateurs remplir toute la feuille de match.",
+     "r": "faute",
+     "e": "Attention : il remplit les rubriques qui le concernent (coordonnées, licences)."
+    },
+    {
+     "q": "La composition des équipes et les réserves éventuelles sont signées par les deux capitaines.",
+     "r": "valable",
+     "e": "Il fait signer la composition et les réserves par les deux capitaines."
+    },
+    {
+     "q": "L'arbitre note le nom d'un joueur non inscrit qui vient compléter son équipe.",
+     "r": "valable",
+     "e": "Il note sur sa carte le nom d'un joueur non inscrit qui complète son équipe."
+    },
+    {
+     "q": "L'arbitre ne note pas les joueurs non inscrits qui complètent leur équipe.",
+     "r": "faute",
+     "e": "Attention : il note sur sa carte le nom d'un joueur non inscrit qui complète son équipe."
+    },
+    {
+     "q": "Le capitaine et les accompagnateurs prennent connaissance de la rédaction finale de la feuille et la signent.",
+     "r": "valable",
+     "e": "Le capitaine et les accompagnateurs prennent connaissance de la rédaction finale et la signent."
+    },
+    {
+     "q": "Après le match, l'arbitre signale les joueurs blessés.",
+     "r": "valable",
+     "e": "Il doit signaler les joueurs blessés."
+    },
+    {
+     "q": "L'arbitre note les numéros des joueurs remplacés et remplaçants et la minute du remplacement.",
+     "r": "valable",
+     "e": "Il note noms et numéros des joueurs et la minute du remplacement."
+    },
+    {
+     "q": "L'arbitre vérifie l'état des ballons mis à sa disposition.",
+     "r": "valable",
+     "e": "Il vérifie l'état du ou des ballons avant la rencontre."
+    },
+    {
+     "q": "Le jeune arbitre arrive une heure avant l'heure de la rencontre.",
+     "r": "valable",
+     "e": "Il doit arriver bien avant la rencontre : une heure."
+    },
+    {
+     "q": "Pour une réserve technique, l'arbitre note mot pour mot ce que le capitaine plaignant lui a déclaré.",
+     "r": "valable",
+     "e": "Il note lui-même, mot pour mot, la déclaration du capitaine plaignant."
+    },
+    {
+     "q": "L'équipement des joueurs n'est jamais contrôlé avant l'entrée sur le terrain.",
+     "r": "faute",
+     "e": "Attention : il vérifie avec les arbitres assistants l'équipement des joueurs."
+    },
+    {
+     "q": "L'arbitre s'assure de l'identité des joueurs qui ne possèdent pas de licence.",
+     "r": "valable",
+     "e": "Il s'assure de l'identité des joueurs sans licence."
+    },
+    {
+     "q": "Pendant le match, tous les remplaçants peuvent se lever pour donner des consignes.",
+     "r": "faute",
+     "e": "Attention : seul l'entraîneur se lève pour donner des consignes, mais doit regagner sa place."
+    },
+    {
+     "q": "La feuille de match est finalisée sans que le capitaine puisse la lire.",
+     "r": "faute",
+     "e": "Attention : le capitaine et les accompagnateurs prennent connaissance de la rédaction finale et la signent."
+    },
+    {
+     "q": "Pour une réserve technique, l'arbitre résume librement la plainte du capitaine.",
+     "r": "faute",
+     "e": "Attention : il note lui-même, mot pour mot, la déclaration du capitaine plaignant."
+    },
+    {
+     "q": "Les remplaçants présents sur le banc de touche doivent être en tenue sportive.",
+     "r": "valable",
+     "e": "Les remplaçants présents sur le banc doivent être en tenue sportive."
+    },
+    {
+     "q": "Pour une réserve administrative, l'arbitre la refuse si elle arrive après le match.",
+     "r": "faute",
+     "e": "Attention : il ne s'opposera pas à une réserve administrative, même déposée après le match."
+    },
+    {
+     "q": "Avant le match, l'arbitre ne s'occupe pas de l'état des lignes du terrain.",
+     "r": "faute",
+     "e": "Attention : il examine l'aire de jeu : lignes, filets, conditions de sécurité."
+    },
+    {
+     "q": "Après le match, les joueurs blessés n'ont pas à être signalés.",
+     "r": "faute",
+     "e": "Attention : il doit signaler les joueurs blessés."
+    },
+    {
+     "q": "L'arbitre vérifie avec les assistants l'équipement des joueurs avant leur entrée sur le terrain.",
+     "r": "valable",
+     "e": "Il vérifie avec les arbitres assistants l'équipement des joueurs."
+    },
+    {
+     "q": "L'arbitre ne note jamais le numéro d'un joueur sanctionné.",
+     "r": "faute",
+     "e": "Attention : il note le n° de maillot et la minute du carton blanc, avertissement ou exclusion."
+    },
+    {
+     "q": "Le jeune arbitre peut arriver seulement 10 minutes avant le coup d'envoi.",
+     "r": "faute",
+     "e": "Attention : il doit arriver bien avant la rencontre : une heure."
+    },
+    {
+     "q": "Un incident est noté en précisant : « incident … rapport suit ».",
+     "r": "valable",
+     "e": "Il note les incidents divers en précisant « incident … rapport suit »."
+    },
+    {
+     "q": "Seul le capitaine de l'équipe recevante signe la composition des équipes.",
+     "r": "faute",
+     "e": "Attention : il fait signer la composition et les réserves par les deux capitaines."
+    },
+    {
+     "q": "Après le match, l'arbitre note le résultat et le signe.",
+     "r": "valable",
+     "e": "Il doit noter le résultat et le signer."
+    },
+    {
+     "q": "L'arbitre n'appelle qu'un seul capitaine pour la feuille de match.",
+     "r": "faute",
+     "e": "Attention : il appelle les deux capitaines d'équipes."
+    },
+    {
+     "q": "La feuille de match est le PV de la rencontre : seules les inscriptions qui y figurent sont prises en compte.",
+     "r": "valable",
+     "e": "La feuille de match est le procès-verbal : seules les inscriptions qui y figurent comptent."
+    },
+    {
+     "q": "L'arbitre conduit le match en directeur de jeu et fait respecter ses décisions.",
+     "r": "valable",
+     "e": "Il conduit le match en directeur de jeu et fait respecter ses décisions."
+    },
+    {
+     "q": "L'arbitre laisse les capitaines décider à sa place des décisions de jeu.",
+     "r": "faute",
+     "e": "Attention : il conduit le match en directeur de jeu et fait respecter ses décisions."
+    },
+    {
+     "q": "Le jeune arbitre se change sur le bord du terrain sans demander de vestiaire.",
+     "r": "faute",
+     "e": "Attention : il demande l'accès à un vestiaire avant la rencontre."
+    },
+    {
+     "q": "Le jeune arbitre se présente aux organisateurs et aux responsables des deux équipes.",
+     "r": "valable",
+     "e": "Il se présente aux organisateurs et aux responsables des deux équipes."
+    },
+    {
+     "q": "L'arbitre accepte tout joueur sans licence sans contrôle d'identité.",
+     "r": "faute",
+     "e": "Attention : il s'assure de l'identité des joueurs sans licence."
+    },
+    {
+     "q": "L'arbitre note le numéro de maillot et la minute d'un joueur qui reçoit un carton.",
+     "r": "valable",
+     "e": "Il note le n° de maillot et la minute du carton blanc, avertissement ou exclusion."
+    },
+    {
+     "q": "Les déclarations orales faites après le match sont prises en compte même si absentes de la feuille.",
+     "r": "faute",
+     "e": "Attention : la feuille de match est le procès-verbal : seules les inscriptions qui y figurent comptent."
+    },
+    {
+     "q": "Après le match, l'arbitre n'a pas à signer le résultat.",
+     "r": "faute",
+     "e": "Attention : il doit noter le résultat et le signer."
+    },
+    {
+     "q": "Les remplaçants peuvent rester en tenue de ville sur le banc de touche.",
+     "r": "faute",
+     "e": "Attention : les remplaçants présents sur le banc doivent être en tenue sportive."
+    },
+    {
+     "q": "Avant le match, l'arbitre examine l'aire de jeu et fait retracer les lignes si nécessaire.",
+     "r": "valable",
+     "e": "Il examine l'aire de jeu : lignes, filets, conditions de sécurité."
+    },
+    {
+     "q": "L'arbitre note sur sa carte toute réclamation technique et tout incident.",
+     "r": "valable",
+     "e": "Il note réclamation technique, réserve administrative et tout incident."
+    },
+    {
+     "q": "Le jeune arbitre demande l'accès à un vestiaire.",
+     "r": "valable",
+     "e": "Il demande l'accès à un vestiaire avant la rencontre."
+    },
+    {
+     "q": "Le jeune arbitre n'a pas à se présenter aux responsables des équipes.",
+     "r": "faute",
+     "e": "Attention : il se présente aux organisateurs et aux responsables des deux équipes."
+    },
+    {
+     "q": "Un incident est simplement oublié sur la feuille de match s'il est survenu en fin de partie.",
+     "r": "faute",
+     "e": "Attention : il note les incidents divers en précisant « incident … rapport suit »."
+    },
+    {
+     "q": "L'arbitre siffle toutes les fautes sans jamais appliquer l'avantage.",
+     "r": "faute",
+     "e": "Attention : il doit appliquer l'avantage."
+    },
+    {
+     "q": "L'arbitre utilise les ballons sans les vérifier.",
+     "r": "faute",
+     "e": "Attention : il vérifie l'état du ou des ballons avant la rencontre."
+    },
+    {
+     "q": "Pendant le match, seul l'entraîneur se lève pour donner des consignes, puis regagne sa place.",
+     "r": "valable",
+     "e": "Seul l'entraîneur se lève pour donner des consignes, mais doit regagner sa place."
+    }
+   ]
+  }
+ ]
+}

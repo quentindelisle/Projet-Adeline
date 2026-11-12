@@ -1,0 +1,265 @@
+{
+ "id": "savate-boxe-francaise-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre/Juge Savate Boxe Française",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT SAVATE BOXE FRANÇAISE UNSS",
+ "sport": "savate-boxe-francaise",
+ "source": "https://glowing-faloodeh-5fe0a9.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "L'espace de pratique est un carré de 4,90 à 6 mètres de côtés.",
+     "r": "valable",
+     "e": "L'espace de pratique est un carré (enceinte ou tapis) de 4.90 à 6 mètres de côtés."
+    },
+    {
+     "q": "L'espace de pratique est un carré de 10 à 12 mètres de côtés.",
+     "r": "faute",
+     "e": "L'espace de pratique mesure de 4,90 à 6 mètres de côtés, pas 10 à 12 mètres."
+    },
+    {
+     "q": "L'espace de pratique dispose de 4 coins : un rouge, un bleu et deux blancs dits « neutres ».",
+     "r": "valable",
+     "e": "L'espace de pratique dispose de quatre coins : un coin rouge, un coin bleu et deux coins blancs dit « neutres »."
+    },
+    {
+     "q": "L'espace de pratique ne dispose que de 2 coins : un rouge et un bleu.",
+     "r": "faute",
+     "e": "Il y a 4 coins au total : rouge, bleu, et deux coins neutres blancs."
+    },
+    {
+     "q": "Le chronométreur donne le signal du début et de la fin des reprises en frappant dans le gong.",
+     "r": "valable",
+     "e": "Le chronométreur donne le signal du début et de la fin des reprises en frappant dans le gong."
+    },
+    {
+     "q": "C'est l'arbitre qui donne le signal du début et de la fin des reprises avec un sifflet.",
+     "r": "faute",
+     "e": "C'est le chronométreur qui donne ce signal, au gong, pas l'arbitre au sifflet."
+    },
+    {
+     "q": "Entre chaque reprise, les tireurs regagnent leurs coins pendant 1 minute de récupération.",
+     "r": "valable",
+     "e": "Entre chaque reprise, les tireurs regagnent leurs coins respectifs pendant 1 minute."
+    },
+    {
+     "q": "Entre chaque reprise, les tireurs regagnent leurs coins pendant 3 minutes.",
+     "r": "faute",
+     "e": "La récupération entre les reprises dure 1 minute, pas 3."
+    },
+    {
+     "q": "Pour une équipe Établissement, la rencontre dure 3 reprises d'1'15 avec 1' de récupération.",
+     "r": "valable",
+     "e": "Equipe Etablissement : 3 x 1'15 avec 1' de récupération."
+    },
+    {
+     "q": "Pour une équipe Établissement, la rencontre dure 3 reprises de 3 minutes.",
+     "r": "faute",
+     "e": "La durée réglementaire pour l'Établissement est 3 x 1'15, pas 3 x 3 minutes."
+    },
+    {
+     "q": "Pour une équipe Excellence, la rencontre dure 3 reprises d'1'30 avec 1' de récupération.",
+     "r": "valable",
+     "e": "Equipe Excellence : 3 x 1'30 avec 1' de récupération."
+    },
+    {
+     "q": "Pour une équipe Excellence, la rencontre dure 2 reprises d'1'30.",
+     "r": "faute",
+     "e": "La rencontre Excellence dure 3 reprises, pas 2."
+    },
+    {
+     "q": "Les seconds ne doivent pas être plus de deux dans le coin du tireur.",
+     "r": "valable",
+     "e": "Les seconds ne doivent pas être plus que deux dans le coin du tireur."
+    },
+    {
+     "q": "Un tireur peut avoir autant de seconds qu'il le souhaite dans son coin.",
+     "r": "faute",
+     "e": "Le règlement limite à deux le nombre de seconds dans le coin du tireur."
+    },
+    {
+     "q": "Les seconds ne peuvent pas parler pendant la reprise.",
+     "r": "valable",
+     "e": "Les seconds ne peuvent pas parler pendant la reprise."
+    },
+    {
+     "q": "Les seconds peuvent conseiller le tireur à voix haute pendant toute la reprise.",
+     "r": "faute",
+     "e": "Les seconds ne peuvent parler que pendant la minute de récupération, pas pendant la reprise."
+    },
+    {
+     "q": "Les coups de pied sont autorisés sur la face antérieure et les faces latérales de la tête.",
+     "r": "valable",
+     "e": "Pour les coups de pied, les surfaces autorisées sont la face antérieure et les faces latérales de la tête."
+    },
+    {
+     "q": "Les coups de pied sont interdits sur toute la tête, quelle que soit la face.",
+     "r": "faute",
+     "e": "Les coups de pied sont autorisés sur la face antérieure et les faces latérales de la tête."
+    },
+    {
+     "q": "Les coups de poing sont autorisés sur la face antérieure et les faces latérales du tronc.",
+     "r": "valable",
+     "e": "Pour les coups de poing, les surfaces autorisées sont la face antérieure et les faces latérales du tronc."
+    },
+    {
+     "q": "Les coups de poing sont interdits sur tout le tronc, quelle que soit la face.",
+     "r": "faute",
+     "e": "Les coups de poing sont autorisés sur la face antérieure et les faces latérales du tronc."
+    },
+    {
+     "q": "Le triangle génital est une cible interdite pour les coups de pied.",
+     "r": "valable",
+     "e": "Pour les coups de pied, le triangle génital est une surface interdite."
+    },
+    {
+     "q": "Le triangle génital peut être touché par un coup de pied sans sanction.",
+     "r": "faute",
+     "e": "Le triangle génital est une cible strictement interdite pour les coups de pied."
+    },
+    {
+     "q": "La nuque, l'arrière et le dessus de la tête sont interdits pour les coups de pied.",
+     "r": "valable",
+     "e": "Pour les coups de pied, la nuque, l'arrière et le dessus de la tête sont des surfaces interdites."
+    },
+    {
+     "q": "La nuque et l'arrière de la tête peuvent être touchés librement par un coup de pied.",
+     "r": "faute",
+     "e": "Ces zones sont interdites aux coups de pied, quelle que soit la situation."
+    },
+    {
+     "q": "Les fauchages et les balayages sont autorisés.",
+     "r": "valable",
+     "e": "Les fauchages et les balayages sont autorisés."
+    },
+    {
+     "q": "Les fauchages et les balayages sont strictement interdits.",
+     "r": "faute",
+     "e": "Le règlement autorise explicitement les fauchages et les balayages."
+    },
+    {
+     "q": "Il est interdit de poser les mains à terre ou sur les cordes pour frapper.",
+     "r": "valable",
+     "e": "Il est interdit de poser les mains à terre ou sur les cordes pour frapper."
+    },
+    {
+     "q": "Un tireur peut poser les mains à terre ou sur les cordes pour frapper sans sanction.",
+     "r": "faute",
+     "e": "Cette action est explicitement interdite par le règlement."
+    },
+    {
+     "q": "Il est interdit de porter des coups en tenant l'adversaire.",
+     "r": "valable",
+     "e": "Il est interdit de porter des coups en tenant l'adversaire."
+    },
+    {
+     "q": "Porter des coups en tenant l'adversaire est autorisé si le contact est bref.",
+     "r": "faute",
+     "e": "Porter un coup en tenant l'adversaire est interdit, sans exception liée à la durée."
+    },
+    {
+     "q": "Il est interdit d'effectuer des parades avec les tibias.",
+     "r": "valable",
+     "e": "Il est interdit d'effectuer des parades avec les tibias."
+    },
+    {
+     "q": "Les parades avec les tibias sont autorisées en défense.",
+     "r": "faute",
+     "e": "Les parades avec les tibias sont interdites par le règlement."
+    },
+    {
+     "q": "Il est interdit de frapper un tireur à terre ou en train de se relever.",
+     "r": "valable",
+     "e": "Il est interdit de frapper un tireur à terre ou en train de se relever."
+    },
+    {
+     "q": "Un tireur à terre peut être frappé tant qu'il n'est pas complètement relevé.",
+     "r": "faute",
+     "e": "Il est interdit de frapper un tireur à terre ou en train de se relever, sans exception."
+    },
+    {
+     "q": "Il est interdit de frapper un adversaire engagé dans les cordes.",
+     "r": "valable",
+     "e": "Il est interdit de frapper un adversaire engagé dans les cordes."
+    },
+    {
+     "q": "Un adversaire engagé dans les cordes peut être frappé librement.",
+     "r": "faute",
+     "e": "Frapper un adversaire engagé dans les cordes est interdit par le règlement."
+    },
+    {
+     "q": "Le protège-dent fait partie des protections obligatoires.",
+     "r": "valable",
+     "e": "Les protections obligatoires sont : gants, casque (sans mentonnière), coquille (garçon), protège-dent et protège-tibia."
+    },
+    {
+     "q": "Le protège-dent est une protection facultative, laissée au choix du tireur.",
+     "r": "faute",
+     "e": "Le protège-dent fait partie des protections obligatoires, ce n'est pas facultatif."
+    },
+    {
+     "q": "Le casque porté par les tireurs ne doit pas avoir de mentonnière.",
+     "r": "valable",
+     "e": "Les protections obligatoires incluent le casque (sans mentonnière)."
+    },
+    {
+     "q": "Le casque doit obligatoirement avoir une mentonnière.",
+     "r": "faute",
+     "e": "Le règlement précise que le casque doit être sans mentonnière."
+    },
+    {
+     "q": "Les gants doivent être de 10 onces et au-delà.",
+     "r": "valable",
+     "e": "Les gants : 10 onces et au-delà."
+    },
+    {
+     "q": "Les gants doivent être de 6 onces maximum.",
+     "r": "faute",
+     "e": "Le règlement impose des gants de 10 onces et au-delà, pas 6 onces maximum."
+    },
+    {
+     "q": "Chaque assaut est encadré par 3 ou 5 juges, un arbitre, un chronométreur et un délégué officiel.",
+     "r": "valable",
+     "e": "Chaque assaut de savate boxe française en UNSS est encadré par 3 ou 5 juges, un arbitre, un chronométreur et un délégué officiel qui préside la rencontre."
+    },
+    {
+     "q": "Chaque assaut est encadré par un seul officiel qui cumule tous les rôles.",
+     "r": "faute",
+     "e": "Un assaut mobilise plusieurs officiels distincts : juges, arbitre, chronométreur et délégué officiel."
+    },
+    {
+     "q": "Le Jeune Arbitre / Jeune Juge est identifié par un polo de couleur verte.",
+     "r": "valable",
+     "e": "Le Jeune Arbitre / Jeune Juge est identifié par un polo de couleur verte."
+    },
+    {
+     "q": "Le Jeune Arbitre / Jeune Juge est identifié par un polo de couleur rouge.",
+     "r": "faute",
+     "e": "C'est un polo vert qui identifie le Jeune Arbitre / Jeune Juge, pas rouge."
+    },
+    {
+     "q": "Les 4 commandements de l'arbitre sont : STOP, EN GARDE, ALLEZ et DISTANCE.",
+     "r": "valable",
+     "e": "Pour faire respecter le règlement, l'arbitre utilise 4 commandements : STOP, EN GARDE, ALLEZ, DISTANCE."
+    },
+    {
+     "q": "L'arbitre utilise seulement 2 commandements : STOP et ALLEZ.",
+     "r": "faute",
+     "e": "L'arbitre dispose de 4 commandements, pas seulement 2."
+    },
+    {
+     "q": "Au 3ème avertissement reçu, le tireur est disqualifié.",
+     "r": "valable",
+     "e": "Au 3ème avertissement reçu, le tireur est disqualifié."
+    },
+    {
+     "q": "Un tireur peut recevoir un nombre illimité d'avertissements sans être disqualifié.",
+     "r": "faute",
+     "e": "Le 3ème avertissement entraîne automatiquement la disqualification du tireur."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "natation-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Juge Natation",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT NATATION UNSS",
+ "sport": "natation",
+ "source": "https://curious-tulumba-25ef53.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Pour établir les séries en bassin de 8 couloirs, l'ordre des lignes d'eau est 4, 5, 3, 6, 2, 7, 1, 8.",
+     "r": "valable",
+     "e": "Pour faire les séries, classer à partir des meilleurs temps les nageurs dans les lignes d'eau dans cet ordre : 4,5,3,6,2,7,1,8 dans un bassin de 8 couloirs."
+    },
+    {
+     "q": "Pour établir les séries en bassin de 8 couloirs, l'ordre des lignes d'eau est simplement 1, 2, 3, 4, 5, 6, 7, 8.",
+     "r": "faute",
+     "e": "L'ordre réglementaire est 4,5,3,6,2,7,1,8, pas l'ordre croissant simple."
+    },
+    {
+     "q": "Pour établir les séries en bassin de 6 couloirs, l'ordre des lignes d'eau est 3, 4, 2, 5, 1, 6.",
+     "r": "valable",
+     "e": "Et dans cet ordre : 3,4,2,5,1,6 dans un bassin de 6 couloirs."
+    },
+    {
+     "q": "Pour établir les séries en bassin de 6 couloirs, l'ordre des lignes d'eau est 1, 2, 3, 4, 5, 6.",
+     "r": "faute",
+     "e": "L'ordre réglementaire pour 6 couloirs est 3,4,2,5,1,6, pas l'ordre croissant simple."
+    },
+    {
+     "q": "La navette recueille les fiches de nage auprès des chronométreurs et des juges à l'arrivée.",
+     "r": "valable",
+     "e": "Il recueille les fiches de nage auprès des chronométreurs et des juges à l'arrivée."
+    },
+    {
+     "q": "La navette ne s'occupe que du transport des nageurs, jamais des fiches.",
+     "r": "faute",
+     "e": "La navette recueille bien les fiches de nage auprès des chronométreurs et juges à l'arrivée."
+    },
+    {
+     "q": "Le responsable de la chambre d'appel contrôle la licence de chacun des nageurs.",
+     "r": "valable",
+     "e": "Il contrôle la licence de chacun des nageurs."
+    },
+    {
+     "q": "Le responsable de la chambre d'appel ne contrôle jamais les licences des nageurs.",
+     "r": "faute",
+     "e": "Le contrôle des licences fait partie des missions du responsable de la chambre d'appel."
+    },
+    {
+     "q": "Pour les épreuves de 50m en bassin de 50m, le responsable de chambre d'appel vérifie que les chronométreurs sont placés à l'arrivée avec les fiches.",
+     "r": "valable",
+     "e": "Pour les épreuves de 50 m en bassin de 50 m, il est attentif et vérifie que les chronométreurs sont placés à l'arrivée et en possession des fiches de nage."
+    },
+    {
+     "q": "Cette vérification ne concerne que les épreuves de relais, jamais les épreuves de 50m.",
+     "r": "faute",
+     "e": "Cette vérification concerne précisément les épreuves de 50m en bassin de 50m."
+    },
+    {
+     "q": "Le juge de virage doit s'assurer que le nageur partant est en contact avec la plateforme de départ lors des relais.",
+     "r": "valable",
+     "e": "Chaque juge à l'extrémité du départ doit déterminer, dans les épreuves de relais, si le nageur partant est en contact avec la plateforme de départ lorsque le concurrent précédent touche le mur de départ."
+    },
+    {
+     "q": "Le contact avec la plateforme de départ n'est jamais vérifié lors des relais.",
+     "r": "faute",
+     "e": "Cette vérification du contact avec la plateforme est une mission précise du juge de virage en relais."
+    },
+    {
+     "q": "Lorsque l'équipement automatique de jugement des prises de relais est disponible, il doit être utilisé.",
+     "r": "valable",
+     "e": "Lorsque l'équipement automatique qui juge les prises de relais est disponible, il doit être utilisé."
+    },
+    {
+     "q": "L'équipement automatique de jugement des relais n'est jamais utilisé, même disponible.",
+     "r": "faute",
+     "e": "Le règlement impose l'utilisation de cet équipement automatique lorsqu'il est disponible."
+    },
+    {
+     "q": "Une équipe de relais peut être pénalisée de -10 points pour une prise de relais anticipée.",
+     "r": "valable",
+     "e": "De -10 points pour une prise de relais anticipée."
+    },
+    {
+     "q": "Une prise de relais anticipée n'entraîne jamais de pénalité.",
+     "r": "faute",
+     "e": "Une prise de relais anticipée est pénalisée de -10 points."
+    },
+    {
+     "q": "En établissement et en excellence, une bonification de 4 secondes est accordée pour la présence de la 3ème fille dans le relais.",
+     "r": "valable",
+     "e": "En établissement et en excellence, une bonification est accordée pour la présence de filles dans la composition du relais : 4 secondes pour la 3 ème fille."
+    },
+    {
+     "q": "Aucune bonification n'est jamais accordée pour la présence de filles dans un relais.",
+     "r": "faute",
+     "e": "Une bonification de 4 secondes est bien accordée pour la 3ème fille en établissement et excellence."
+    },
+    {
+     "q": "En équipe sport partagé, la bonification est de 4 secondes pour la 2ème fille et 4 secondes pour la 3ème fille éventuelle.",
+     "r": "valable",
+     "e": "En équipe sport partagé, une bonification est accordée pour la présence de filles dans la composition du relais : 4 secondes pour la 2ème fille et 4 secondes pour la 3ème fille éventuelle."
+    },
+    {
+     "q": "En sport partagé, la bonification est uniquement de 4 secondes pour la 3ème fille, comme en établissement.",
+     "r": "faute",
+     "e": "En sport partagé, la bonification concerne la 2ème ET la 3ème fille, contrairement à l'établissement."
+    },
+    {
+     "q": "Pour le 200m palmes, les palmes mesurent au maximum 65 cm de longueur et 30 cm de largeur.",
+     "r": "valable",
+     "e": "2 palmes de 65 cm de longueur et 30 cm de largeur au maximum."
+    },
+    {
+     "q": "Pour le 200m palmes, les palmes mesurent au maximum 100 cm de longueur.",
+     "r": "faute",
+     "e": "Les palmes sont limitées à 65 cm de longueur maximum, pas 100 cm."
+    },
+    {
+     "q": "Pour le 200m palmes, le départ est impérativement plongé avec une coulée autorisée de 15 mètres maximum.",
+     "r": "valable",
+     "e": "Le départ est impérativement un départ plongé avec une coulée autorisée de 15m maximum."
+    },
+    {
+     "q": "Pour le 200m palmes, le départ se fait toujours dans l'eau, sans coulée autorisée.",
+     "r": "faute",
+     "e": "Le départ du 200m palmes est un départ plongé, avec une coulée maximale de 15 mètres."
+    },
+    {
+     "q": "En sport partagé, les nageurs en situation de handicap sont répartis en 6 groupes.",
+     "r": "valable",
+     "e": "Les nageurs en situation de handicap seront répartis en 6 groupes."
+    },
+    {
+     "q": "En sport partagé, les nageurs en situation de handicap sont répartis en 3 groupes seulement.",
+     "r": "faute",
+     "e": "Il existe bien 6 groupes de classification (G1 à G6), pas 3."
+    },
+    {
+     "q": "Pour le groupe G1, la bonification par rapport à la table de cotation des valides est de moins 40 secondes.",
+     "r": "valable",
+     "e": "G1 - Anneau lesté - Départ plongé - Moins 40s."
+    },
+    {
+     "q": "Pour le groupe G1, la bonification est de moins 10 secondes.",
+     "r": "faute",
+     "e": "La bonification du groupe G1 est de 40 secondes, pas 10 secondes."
+    },
+    {
+     "q": "Pour le groupe G2, la bonification par rapport à la table de cotation des valides est de moins 25 secondes.",
+     "r": "valable",
+     "e": "G2 - Anneau lesté - Départ plongé - Moins 25s."
+    },
+    {
+     "q": "Pour le groupe G2, la bonification est de moins 40 secondes, comme le groupe G1.",
+     "r": "faute",
+     "e": "La bonification du groupe G2 est de 25 secondes, différente de celle du groupe G1 (40s)."
+    },
+    {
+     "q": "Pour le groupe G3, la bonification par rapport à la table de cotation des valides est de moins 12 secondes.",
+     "r": "valable",
+     "e": "G3 - Anneau lesté - Départ plongé - Moins 12s."
+    },
+    {
+     "q": "Pour le groupe G3, la bonification est de moins 25 secondes, comme le groupe G2.",
+     "r": "faute",
+     "e": "La bonification du groupe G3 est de 12 secondes, différente de celle du groupe G2 (25s)."
+    },
+    {
+     "q": "Pour le groupe G4, qui utilise un mini mannequin lesté, la bonification est de moins 15 secondes.",
+     "r": "valable",
+     "e": "G4 - Mini mannequin lesté - Départ plongé - Moins15s."
+    },
+    {
+     "q": "Pour le groupe G4, la bonification est de moins 3 secondes.",
+     "r": "faute",
+     "e": "La bonification du groupe G4 est de 15 secondes, pas 3 secondes."
+    },
+    {
+     "q": "Pour le groupe G5, un coup de sifflet est donné quand le nageur est à 1 mètre du mannequin, avec une bonification de moins 3 secondes.",
+     "r": "valable",
+     "e": "G5 - Mini mannequin lesté - Coup de sifflet quand le nageur est à 1m du mannequin - Moins 3s."
+    },
+    {
+     "q": "Pour le groupe G5, aucune adaptation particulière n'est prévue par rapport aux valides.",
+     "r": "faute",
+     "e": "Le groupe G5 bénéficie d'un signal sonore spécifique et d'une bonification de 3 secondes."
+    },
+    {
+     "q": "Pour le groupe G6, le départ est adapté (départ tactile) mais aucune bonification de temps n'est accordée.",
+     "r": "valable",
+     "e": "G6 - Mini mannequin lesté - Adaptation départ (départ tactile) - Pas de bonification."
+    },
+    {
+     "q": "Pour le groupe G6, une bonification de 15 secondes est accordée comme pour le groupe G4.",
+     "r": "faute",
+     "e": "Le groupe G6 bénéficie d'une adaptation de départ mais sans aucune bonification de temps."
+    },
+    {
+     "q": "Dans la classification cognitive, un score de 0 à 3 points avec reconnaissance MDPH correspond à la classe C1.",
+     "r": "valable",
+     "e": "C1 : 0 à 3 points avec Reconnaissance MDPH/MDA sans gêne à la pratique."
+    },
+    {
+     "q": "Dans la classification cognitive, un score de 0 à 3 points correspond directement à la classe C3.",
+     "r": "faute",
+     "e": "Un score de 0 à 3 points avec reconnaissance MDPH correspond à la classe C1, pas C3."
+    },
+    {
+     "q": "Dans la classification cognitive, un score de 4 à 6 points correspond à la classe C2.",
+     "r": "valable",
+     "e": "C2 : 4 à 6 points."
+    },
+    {
+     "q": "Dans la classification cognitive, un score de 4 à 6 points correspond à la classe C4.",
+     "r": "faute",
+     "e": "Le score de 4 à 6 points correspond à la classe C2, pas C4."
+    },
+    {
+     "q": "Dans la classification cognitive, un score de 7 et 8 points correspond à la classe C3.",
+     "r": "valable",
+     "e": "C3 : 7 et 8 points."
+    },
+    {
+     "q": "Dans la classification cognitive, un score de 7 et 8 points correspond à la classe C1.",
+     "r": "faute",
+     "e": "Le score de 7 et 8 points correspond à la classe C3, pas C1."
+    },
+    {
+     "q": "Un relais sport partagé se compose de 2 nageurs valides et 2 nageurs en situation de handicap.",
+     "r": "valable",
+     "e": "Le relais se compose de 4 nageurs, 2 nageurs valides et 2 nageurs en situation de handicap."
+    },
+    {
+     "q": "Un relais sport partagé se compose de 4 nageurs valides uniquement.",
+     "r": "faute",
+     "e": "Le relais sport partagé compte bien 2 nageurs valides et 2 en situation de handicap, pas 4 valides."
+    },
+    {
+     "q": "La formation pour le niveau national de Jeune Juge se déroule sur deux ans avec un examen écrit.",
+     "r": "valable",
+     "e": "Formation sur deux ans avec un examen écrit."
+    },
+    {
+     "q": "La formation pour le niveau national se déroule en une seule journée, sans examen écrit.",
+     "r": "faute",
+     "e": "La formation nationale dure deux ans et comprend un examen écrit, ce n'est pas une formation d'une journée."
+    },
+    {
+     "q": "Selon la convention FFN-UNSS, un titre « JJ UNSS Départemental » permet notamment d'exercer les fonctions de chambre d'appel, navette, secrétariat assistant, chronométreur et chef chronométreur.",
+     "r": "valable",
+     "e": "Titre FFN : JJ UNSS Départemental. Fonctions dans le jury : Chambre d'appel, Navette, Secrétariat (assistant), Chronométreur, Chef Chronométreur."
+    },
+    {
+     "q": "Cette équivalence ne concerne que la fonction de juge à l'arrivée, aucune autre fonction.",
+     "r": "faute",
+     "e": "Cette équivalence couvre plusieurs fonctions : chambre d'appel, navette, secrétariat, chronométreur et chef chronométreur."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "volley-ball-3",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre Volleyball",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT VOLLEYBALL UNSS",
+ "sport": "volley-ball",
+ "source": "https://thriving-mochi-a8ef58.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Une équipe a droit à 5 touches de balle avant de renvoyer le ballon.",
+     "r": "faute",
+     "e": "C'est faux. Chaque équipe a droit à 3 touches de balle, en plus du contre."
+    },
+    {
+     "q": "Une équipe a droit à 3 touches de balle, en plus du contre.",
+     "r": "valable",
+     "e": "Chaque équipe a droit à 3 touches de balle, en plus du contre."
+    },
+    {
+     "q": "Un joueur ne peut pas toucher la balle deux fois de suite, sauf au contre.",
+     "r": "valable",
+     "e": "Un joueur ne peut pas toucher la balle 2 fois consécutivement, à l'exception du contre."
+    },
+    {
+     "q": "Un joueur peut toucher la balle deux fois de suite quand il le souhaite.",
+     "r": "faute",
+     "e": "C'est faux. Un joueur ne peut pas toucher la balle 2 fois consécutivement, à l'exception du contre."
+    },
+    {
+     "q": "La balle peut être tenue un instant avant d'être renvoyée.",
+     "r": "faute",
+     "e": "C'est faux. La balle doit être frappée, pas tenue, lancée ni poussée."
+    },
+    {
+     "q": "La balle doit être frappée : elle ne doit être ni tenue, ni lancée, ni poussée.",
+     "r": "valable",
+     "e": "La balle doit être frappée, pas tenue, lancée ni poussée."
+    },
+    {
+     "q": "La balle ne doit jamais toucher le filet quand elle le franchit.",
+     "r": "faute",
+     "e": "C'est faux. La balle peut toucher le filet au moment où elle le franchit."
+    },
+    {
+     "q": "La balle peut toucher le filet quand elle le franchit.",
+     "r": "valable",
+     "e": "La balle peut toucher le filet au moment où elle le franchit."
+    },
+    {
+     "q": "Un set normal se gagne à 15 points avec 2 points d'avance.",
+     "r": "faute",
+     "e": "C'est faux. À l'exception du set décisif, le set est gagné à 25 points avec au moins 2 points d'avance."
+    },
+    {
+     "q": "Un set normal se gagne à 25 points avec 2 points d'avance.",
+     "r": "valable",
+     "e": "À l'exception du set décisif, le set est gagné à 25 points avec au moins 2 points d'avance."
+    },
+    {
+     "q": "Le set décisif se joue en 15 points avec 2 points d'avance.",
+     "r": "valable",
+     "e": "Le set décisif est remporté à 15 points avec une avance d'au moins 2 points."
+    },
+    {
+     "q": "Le set décisif se joue en 25 points sans écart minimum.",
+     "r": "faute",
+     "e": "C'est faux. Le set décisif est remporté à 15 points avec une avance d'au moins 2 points."
+    },
+    {
+     "q": "Le service est effectué par le joueur placé en position 3.",
+     "r": "faute",
+     "e": "C'est faux. Le service est la mise en jeu par le joueur arrière droit (position 1), placé dans la zone de service."
+    },
+    {
+     "q": "Le service est effectué par le joueur placé en position 1.",
+     "r": "valable",
+     "e": "Le service est la mise en jeu par le joueur arrière droit (position 1), placé dans la zone de service."
+    },
+    {
+     "q": "Le serveur n'a droit qu'à un seul lancer de balle pour effectuer sa mise en jeu.",
+     "r": "valable",
+     "e": "Le joueur au service ne dispose que d'un seul lancer."
+    },
+    {
+     "q": "Le serveur peut relancer la balle autant de fois qu'il veut.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur au service ne dispose que d'un seul lancer."
+    },
+    {
+     "q": "Quand l'équipe en réception gagne l'échange, elle marque le point mais ne sert pas.",
+     "r": "faute",
+     "e": "C'est faux. Elle effectue alors une rotation d'un poste dans le sens des aiguilles d'une montre."
+    },
+    {
+     "q": "Quand l'équipe en réception gagne l'échange, elle marque le point et effectue le service suivant.",
+     "r": "valable",
+     "e": "Elle effectue alors une rotation d'un poste dans le sens des aiguilles d'une montre."
+    },
+    {
+     "q": "L'équipe qui gagne l'échange alors qu'elle servait continue de servir.",
+     "r": "valable",
+     "e": "Lorsque l'équipe au service gagne l'échange, elle marque le point et continue de servir."
+    },
+    {
+     "q": "L'équipe qui gagne l'échange alors qu'elle servait perd le service.",
+     "r": "faute",
+     "e": "C'est faux. Lorsque l'équipe au service gagne l'échange, elle marque le point et continue de servir."
+    },
+    {
+     "q": "Une balle qui touche la ligne est « Out » (dehors).",
+     "r": "faute",
+     "e": "C'est faux. La balle est « In » lorsqu'elle touche le sol du terrain, lignes de délimitation incluses."
+    },
+    {
+     "q": "Une balle qui touche la ligne est « In » (dedans).",
+     "r": "valable",
+     "e": "La balle est « In » lorsqu'elle touche le sol du terrain, lignes de délimitation incluses."
+    },
+    {
+     "q": "Une balle qui touche le plafond reste en jeu.",
+     "r": "faute",
+     "e": "C'est faux. La balle est « Out » lorsqu'elle touche un objet hors du terrain, le plafond ou une personne extérieure au jeu."
+    },
+    {
+     "q": "Une balle qui touche le plafond est « Out ».",
+     "r": "valable",
+     "e": "La balle est « Out » lorsqu'elle touche un objet hors du terrain, le plafond ou une personne extérieure au jeu."
+    },
+    {
+     "q": "Une faute est sanctionnée par la perte de l'échange de jeu.",
+     "r": "valable",
+     "e": "La faute est sanctionnée par la perte de l'échange de jeu."
+    },
+    {
+     "q": "Une faute est sanctionnée par un carton rouge systématique.",
+     "r": "faute",
+     "e": "C'est faux. La faute est sanctionnée par la perte de l'échange de jeu."
+    },
+    {
+     "q": "Le premier arbitre dirige le match du début à la fin.",
+     "r": "valable",
+     "e": "Il a autorité sur tout le corps arbitral et sur les membres des équipes."
+    },
+    {
+     "q": "Le premier arbitre dirige uniquement le début du match.",
+     "r": "faute",
+     "e": "C'est faux. Il a autorité sur tout le corps arbitral et sur les membres des équipes."
+    },
+    {
+     "q": "Seuls le premier et le second arbitre peuvent siffler pendant le match.",
+     "r": "valable",
+     "e": "Seuls le premier et le second arbitre sifflent ; le marqueur dispose d'un buzzer pour notifier des irrégularités."
+    },
+    {
+     "q": "Le marqueur peut siffler les fautes pendant le match.",
+     "r": "faute",
+     "e": "C'est faux. Seuls le premier et le second arbitre sifflent ; le marqueur dispose d'un buzzer pour notifier des irrégularités."
+    },
+    {
+     "q": "Le marqueur siffle la mise en jeu.",
+     "r": "faute",
+     "e": "C'est faux. Il est assis à la table de marque et enregistre tout ce qui est nécessaire au jeu."
+    },
+    {
+     "q": "Le marqueur tient la feuille de match.",
+     "r": "valable",
+     "e": "Il est assis à la table de marque et enregistre tout ce qui est nécessaire au jeu."
+    },
+    {
+     "q": "Le second arbitre est placé en face du premier arbitre.",
+     "r": "valable",
+     "e": "Il est debout, hors du terrain, près du poteau situé du côté opposé et en face du premier arbitre."
+    },
+    {
+     "q": "Le second arbitre est placé à côté du premier arbitre sur la plate-forme.",
+     "r": "faute",
+     "e": "C'est faux. Il est debout, hors du terrain, près du poteau situé du côté opposé et en face du premier arbitre."
+    },
+    {
+     "q": "Le premier arbitre fait le tirage au sort avant le match.",
+     "r": "valable",
+     "e": "Le tirage au sort est effectué avant le match par le premier arbitre, en présence des deux capitaines."
+    },
+    {
+     "q": "Le marqueur fait le tirage au sort avant le match.",
+     "r": "faute",
+     "e": "C'est faux. Le tirage au sort est effectué avant le match par le premier arbitre, en présence des deux capitaines."
+    },
+    {
+     "q": "N'importe quel joueur peut parler aux arbitres à tout moment.",
+     "r": "faute",
+     "e": "C'est faux. Le capitaine de jeu peut demander une explication, vérifier les positions ou demander les temps morts."
+    },
+    {
+     "q": "Le capitaine de jeu est seul habilité à parler aux arbitres quand le ballon est hors-jeu.",
+     "r": "valable",
+     "e": "Le capitaine de jeu peut demander une explication, vérifier les positions ou demander les temps morts."
+    },
+    {
+     "q": "Un set se joue sans limite de points en cas d'égalité à 24-24 tant que l'écart n'est pas de 2 points.",
+     "r": "valable",
+     "e": "Le jeu continue jusqu'à ce qu'un écart de 2 points soit atteint ; il n'y a aucune limite au nombre de points."
+    },
+    {
+     "q": "À 24-24, le premier à 25 points gagne le set.",
+     "r": "faute",
+     "e": "C'est faux. Le jeu continue jusqu'à ce qu'un écart de 2 points soit atteint ; il n'y a aucune limite au nombre de points."
+    },
+    {
+     "q": "Le contre est interdit sur le service adverse.",
+     "r": "valable",
+     "e": "L'action de contre sur le service adverse est interdite."
+    },
+    {
+     "q": "Le contre est autorisé sur le service adverse.",
+     "r": "faute",
+     "e": "C'est faux. L'action de contre sur le service adverse est interdite."
+    },
+    {
+     "q": "Seuls les joueurs avants peuvent contrer.",
+     "r": "valable",
+     "e": "Seuls les joueurs de la ligne avant peuvent effectuer un contre."
+    },
+    {
+     "q": "Tous les joueurs, y compris les arrières, peuvent contrer.",
+     "r": "faute",
+     "e": "C'est faux. Seuls les joueurs de la ligne avant peuvent effectuer un contre."
+    },
+    {
+     "q": "Le jeune arbitre est identifié par un tee-shirt rouge aux championnats de France.",
+     "r": "faute",
+     "e": "C'est faux. Il est identifié par un tee-shirt de couleur verte."
+    },
+    {
+     "q": "Le jeune arbitre est identifié par un tee-shirt vert aux championnats de France.",
+     "r": "valable",
+     "e": "Il est identifié par un tee-shirt de couleur verte."
+    },
+    {
+     "q": "Au volley 4x4, il y a 4 joueurs sur le terrain.",
+     "r": "valable",
+     "e": "Le nombre de joueurs sur le terrain est de 4 en 4x4."
+    },
+    {
+     "q": "Au volley 4x4, il y a 6 joueurs sur le terrain.",
+     "r": "faute",
+     "e": "C'est faux. Le nombre de joueurs sur le terrain est de 4 en 4x4."
+    },
+    {
+     "q": "Au volley 6x6, il y a 4 joueurs sur le terrain.",
+     "r": "faute",
+     "e": "C'est faux. Le 6x6 se joue avec 6 joueurs sur le terrain et au maximum 5 remplaçants."
+    },
+    {
+     "q": "Au volley 6x6, il y a 6 joueurs sur le terrain.",
+     "r": "valable",
+     "e": "Le 6x6 se joue avec 6 joueurs sur le terrain et au maximum 5 remplaçants."
+    }
+   ]
+  }
+ ]
+}

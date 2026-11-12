@@ -1,0 +1,265 @@
+{
+ "id": "surf-2",
+ "titre": "Jugement & notation",
+ "sousTitre": "Quiz Jeune Officiel Surf",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT SURF UNSS",
+ "sport": "surf",
+ "source": "https://quiet-pothos-b6e5cd.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le juge évalue les prestations des compétiteurs sur une échelle de 0 à 10.",
+     "r": "valable",
+     "e": "Le juge évalue les prestations des compétiteurs sur une échelle de 0 à 10."
+    },
+    {
+     "q": "Le juge évalue les prestations sur une échelle de 0 à 100.",
+     "r": "faute",
+     "e": "L'échelle de notation est de 0 à 10, pas de 0 à 100."
+    },
+    {
+     "q": "Une cotation de 0 à 2 correspond à « Pauvre ».",
+     "r": "valable",
+     "e": "La cotation « Pauvre » se situe entre 0 et 2."
+    },
+    {
+     "q": "Une cotation de 0 à 2 correspond à « Excellent ».",
+     "r": "faute",
+     "e": "La cotation « Excellent » se situe entre 8,5 et 10, pas 0 à 2."
+    },
+    {
+     "q": "Une chute au take-off correspond à une cotation pauvre.",
+     "r": "valable",
+     "e": "La chute au take-off est un repère caractéristique de la cotation « Pauvre »."
+    },
+    {
+     "q": "Une chute au take-off correspond à une cotation excellente.",
+     "r": "faute",
+     "e": "Une chute au take-off correspond à la cotation la plus basse, « Pauvre »."
+    },
+    {
+     "q": "La cotation « Passable » se situe entre 2,5 et 4.",
+     "r": "valable",
+     "e": "La cotation « Passable » se situe entre 2,5 et 4."
+    },
+    {
+     "q": "La cotation « Passable » se situe entre 8 et 10.",
+     "r": "faute",
+     "e": "La cotation « Passable » est entre 2,5 et 4, pas 8 à 10 (qui correspond à « Excellent »)."
+    },
+    {
+     "q": "La cotation « Moyen » se situe entre 4,5 et 6.",
+     "r": "valable",
+     "e": "La cotation « Moyen » se situe entre 4,5 et 6."
+    },
+    {
+     "q": "La cotation « Moyen » se situe entre 0 et 2.",
+     "r": "faute",
+     "e": "La cotation « Moyen » est entre 4,5 et 6, pas 0 à 2 (qui correspond à « Pauvre »)."
+    },
+    {
+     "q": "La cotation « Bon » se situe entre 6,5 et 8.",
+     "r": "valable",
+     "e": "La cotation « Bon » se situe entre 6,5 et 8."
+    },
+    {
+     "q": "La cotation « Bon » se situe entre 2,5 et 4.",
+     "r": "faute",
+     "e": "La cotation « Bon » est entre 6,5 et 8, pas 2,5 à 4 (qui correspond à « Passable »)."
+    },
+    {
+     "q": "La cotation « Excellent » se situe entre 8,5 et 10.",
+     "r": "valable",
+     "e": "La cotation « Excellent » se situe entre 8,5 et 10."
+    },
+    {
+     "q": "La cotation « Excellent » se situe entre 4,5 et 6.",
+     "r": "faute",
+     "e": "La cotation « Excellent » est entre 8,5 et 10, pas 4,5 à 6 (qui correspond à « Moyen »)."
+    },
+    {
+     "q": "Quel que soit le support utilisé, les critères de notation retenus sont ceux du shortboard.",
+     "r": "valable",
+     "e": "Quel que soit le support, les critères de notation retenus sont ceux du shortboard."
+    },
+    {
+     "q": "Les critères de notation changent selon le support utilisé.",
+     "r": "faute",
+     "e": "Les critères restent ceux du shortboard, quel que soit le support réellement utilisé."
+    },
+    {
+     "q": "La note sur la vague de référence doit être une note pleine, sans décimale.",
+     "r": "valable",
+     "e": "La note sur la vague de référence doit être une note pleine (sans décimale) pour se laisser une marge de manœuvre."
+    },
+    {
+     "q": "La note sur la vague de référence doit toujours comporter une décimale.",
+     "r": "faute",
+     "e": "La note de référence doit au contraire être pleine, sans décimale."
+    },
+    {
+     "q": "La règle de base ne tolère qu'un seul compétiteur par vague.",
+     "r": "valable",
+     "e": "La règle de base ne tolère qu'un seul compétiteur par vague, sauf exception de directions opposées."
+    },
+    {
+     "q": "Plusieurs compétiteurs peuvent toujours surfer la même vague sans restriction.",
+     "r": "faute",
+     "e": "La règle de base limite à un seul compétiteur par vague, sauf directions radicalement opposées."
+    },
+    {
+     "q": "Deux compétiteurs peuvent surfer la même vague s'ils empruntent des directions radicalement opposées sans se gêner.",
+     "r": "valable",
+     "e": "C'est l'exception prévue à la règle de base d'un seul compétiteur par vague."
+    },
+    {
+     "q": "Deux compétiteurs ne peuvent jamais surfer la même vague, même sans se gêner.",
+     "r": "faute",
+     "e": "Ils le peuvent s'ils empruntent des directions radicalement opposées sans se gêner."
+    },
+    {
+     "q": "Une sanction d'interférence est appliquée si un compétiteur gêne un concurrent prioritaire.",
+     "r": "valable",
+     "e": "Une sanction d'interférence est appliquée si la majorité des juges estime qu'un compétiteur a gêné un concurrent prioritaire."
+    },
+    {
+     "q": "Une interférence n'entraîne jamais de sanction.",
+     "r": "faute",
+     "e": "Une interférence entraîne au contraire une sanction précise, définie par le règlement."
+    },
+    {
+     "q": "La victime d'une interférence a droit à une vague supplémentaire.",
+     "r": "valable",
+     "e": "Celui qui subit l'interférence a droit à une vague supplémentaire."
+    },
+    {
+     "q": "La victime d'une interférence ne reçoit aucune compensation.",
+     "r": "faute",
+     "e": "Elle reçoit une vague supplémentaire en compensation."
+    },
+    {
+     "q": "La meilleure vague du fautif d'une interférence est divisée par 2.",
+     "r": "valable",
+     "e": "La meilleure vague du fautif est divisée par 2 en cas d'interférence."
+    },
+    {
+     "q": "La meilleure vague du fautif est simplement annulée.",
+     "r": "faute",
+     "e": "Elle n'est pas annulée mais divisée par 2."
+    },
+    {
+     "q": "En cas de récidive, la deuxième meilleure vague du fautif est aussi divisée par 2.",
+     "r": "valable",
+     "e": "Si le fautif récidive, sa deuxième meilleure vague est également divisée par 2."
+    },
+    {
+     "q": "La récidive n'entraîne aucune sanction supplémentaire.",
+     "r": "faute",
+     "e": "La récidive entraîne une sanction supplémentaire sur la deuxième meilleure vague."
+    },
+    {
+     "q": "Le coach signale l'interférence par un drapeau blanc fourni par le juge de box.",
+     "r": "valable",
+     "e": "Le coach de l'équipe ayant subi l'interférence signale par un drapeau blanc, fourni par le juge de box."
+    },
+    {
+     "q": "Le coach signale l'interférence en criant depuis le box.",
+     "r": "faute",
+     "e": "Le signalement se fait par un drapeau blanc, pas en criant."
+    },
+    {
+     "q": "Une interférence de rame entraîne la même sanction qu'une interférence classique.",
+     "r": "valable",
+     "e": "Une interférence de rame amène la même sanction qu'une interférence de vague."
+    },
+    {
+     "q": "Une interférence de rame n'est jamais sanctionnée.",
+     "r": "faute",
+     "e": "Elle entraîne la même sanction qu'une interférence classique."
+    },
+    {
+     "q": "Un concurrent qui sort immédiatement de la vague sans dévaluer le prioritaire peut échapper à l'interférence.",
+     "r": "valable",
+     "e": "Un concurrent qui démarre devant un prioritaire peut échapper à l'interférence dans ces conditions."
+    },
+    {
+     "q": "Un concurrent qui démarre devant un prioritaire est toujours sanctionné, sans exception.",
+     "r": "faute",
+     "e": "Il peut échapper à la sanction s'il sort immédiatement sans dévaluer le potentiel de points du prioritaire."
+    },
+    {
+     "q": "Sur un pic droite/gauche, chaque surfeur est prioritaire sur sa vague respective.",
+     "r": "valable",
+     "e": "Sur un pic droite/gauche, A et B peuvent surfer et sont prioritaires sur leur vague respective."
+    },
+    {
+     "q": "Sur un pic droite/gauche, un seul surfeur a toujours la priorité sur toutes les vagues.",
+     "r": "faute",
+     "e": "Chaque surfeur est prioritaire sur sa propre vague, pas sur toutes les vagues."
+    },
+    {
+     "q": "En situation multi-pics, les surfeurs doivent éviter tout risque de collision.",
+     "r": "valable",
+     "e": "En situation multi-pics, les surfeurs sont prioritaires sur leur vague mais doivent éviter tout risque de collision."
+    },
+    {
+     "q": "En situation multi-pics, aucune vigilance particulière n'est requise.",
+     "r": "faute",
+     "e": "Une vigilance particulière contre les collisions est au contraire requise."
+    },
+    {
+     "q": "Le surfeur le plus proche du point de déferlement est prioritaire.",
+     "r": "valable",
+     "e": "Sur un pic droite ou gauche, le surfeur le plus proche du point de déferlement est prioritaire."
+    },
+    {
+     "q": "La priorité ne dépend jamais de la position par rapport au point de déferlement.",
+     "r": "faute",
+     "e": "La priorité dépend justement de la proximité avec le point de déferlement."
+    },
+    {
+     "q": "Le chef juge peut exiger d'un juge une modification de note.",
+     "r": "valable",
+     "e": "Le chef juge peut exiger d'un juge une éventuelle modification d'une note."
+    },
+    {
+     "q": "Le chef juge n'a aucun droit de regard sur les notes des juges.",
+     "r": "faute",
+     "e": "Le chef juge peut au contraire exiger la modification d'une note."
+    },
+    {
+     "q": "Le chef juge s'assure que les règles d'interférence sont bien appliquées.",
+     "r": "valable",
+     "e": "Le chef juge s'assure que les règles d'interférences sont appliquées."
+    },
+    {
+     "q": "Le chef juge ne s'occupe jamais des règles d'interférence.",
+     "r": "faute",
+     "e": "Il s'assure au contraire de leur bonne application."
+    },
+    {
+     "q": "Le chef juge peut reconstituer une note manquante.",
+     "r": "valable",
+     "e": "Le chef juge peut reconstituer une note manquante."
+    },
+    {
+     "q": "Une note manquante empêche systématiquement le calcul du score final.",
+     "r": "faute",
+     "e": "Le chef juge peut la reconstituer, ce qui permet de calculer le score."
+    },
+    {
+     "q": "Le chef juge officie lors des finales du championnat de France.",
+     "r": "valable",
+     "e": "Le protocole de certification du chef juge prévoit qu'il officie lors des finales du championnat de France."
+    },
+    {
+     "q": "Le chef juge n'intervient qu'au niveau départemental.",
+     "r": "faute",
+     "e": "Le chef juge est un rôle de niveau national, pas départemental."
+    }
+   ]
+  }
+ ]
+}

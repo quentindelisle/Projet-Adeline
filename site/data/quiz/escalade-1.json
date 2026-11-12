@@ -1,0 +1,265 @@
+{
+ "id": "escalade-1",
+ "titre": "Difficulté",
+ "sousTitre": "Quiz Jeune Juge Escalade",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT ESCALADE UNSS · MIXTE",
+ "sport": "escalade",
+ "source": "https://chipper-babka-0e8160.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Les compétitions UNSS n'incluent que des tentatives « flash ».",
+     "r": "valable",
+     "e": "Le règlement précise que seules les tentatives flash sont pratiquées en UNSS."
+    },
+    {
+     "q": "Les compétitions UNSS autorisent plusieurs essais successifs sur la même voie avant le passage officiel.",
+     "r": "faute",
+     "e": "Seules des tentatives flash sont prévues, sans essai préalable sur la voie elle-même."
+    },
+    {
+     "q": "La tentative débute dès que les deux pieds du grimpeur ont quitté le sol.",
+     "r": "valable",
+     "e": "Le règlement fixe ce point de départ précis pour la tentative."
+    },
+    {
+     "q": "La tentative débute uniquement lorsque le grimpeur clippe la première dégaine.",
+     "r": "faute",
+     "e": "La tentative débute dès que les 2 pieds quittent le sol, pas au premier clippage."
+    },
+    {
+     "q": "Chaque dégaine doit être mousquetonnée dans l'ordre de progression.",
+     "r": "valable",
+     "e": "Le règlement impose cet ordre de mousquetonnage."
+    },
+    {
+     "q": "Le grimpeur peut mousquetonner les dégaines dans l'ordre qu'il souhaite.",
+     "r": "faute",
+     "e": "L'ordre de progression est obligatoire pour le mousquetonnage."
+    },
+    {
+     "q": "La dernière position admise pour mousquetonner est la prise ultime identifiée sur les plans de voie.",
+     "r": "valable",
+     "e": "Les prises ultimes sont identifiées sur les plans et matérialisées pour les premières dégaines."
+    },
+    {
+     "q": "Le grimpeur peut mousquetonner depuis n'importe quelle prise, sans restriction de position.",
+     "r": "faute",
+     "e": "Seule la prise ultime identifiée permet le mousquetonnage d'une dégaine donnée."
+    },
+    {
+     "q": "Si le grimpeur quitte la prise ultime avec les 2 mains sans mousquetonner, sa prestation est arrêtée à cette prise.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette conséquence précise."
+    },
+    {
+     "q": "S'il oublie de mousquetonner la prise ultime, il peut simplement continuer sans conséquence.",
+     "r": "faute",
+     "e": "La prestation est arrêtée à cette prise, comptée comme contrôlée."
+    },
+    {
+     "q": "Le mousquetonnage depuis le sol est autorisé.",
+     "r": "valable",
+     "e": "Le règlement autorise explicitement le mousquetonnage depuis le sol."
+    },
+    {
+     "q": "Le mousquetonnage depuis le sol est strictement interdit.",
+     "r": "faute",
+     "e": "Le mousquetonnage depuis le sol est au contraire autorisé."
+    },
+    {
+     "q": "Le démousquetonnage volontaire d'une dégaine est interdit et entraîne des sanctions sportives.",
+     "r": "valable",
+     "e": "Le règlement interdit explicitement cette action, sauf procédure de correction d'un yoyo."
+    },
+    {
+     "q": "Le démousquetonnage volontaire d'une dégaine est toujours autorisé sans conséquence.",
+     "r": "faute",
+     "e": "Cette action est interdite et sanctionnée, sauf dans le cadre de la correction d'un yoyo."
+    },
+    {
+     "q": "Un mauvais mousquetonnage appelé « yoyo » peut être signalé par le jury, le coach ou le superviseur.",
+     "r": "valable",
+     "e": "Le règlement limite ce signalement à ces trois personnes."
+    },
+    {
+     "q": "Un yoyo ne peut être signalé que par le grimpeur lui-même, jamais par un tiers.",
+     "r": "faute",
+     "e": "Le signalement d'un yoyo revient au jury, au coach ou au superviseur, pas au grimpeur seul."
+    },
+    {
+     "q": "Une voie est réussie lorsque la corde est passée dans le mousqueton de la dernière dégaine (ou un easytop wall).",
+     "r": "valable",
+     "e": "C'est la définition réglementaire de la réussite d'une voie."
+    },
+    {
+     "q": "Une voie n'est réussie que si le grimpeur touche physiquement la dernière prise de la voie.",
+     "r": "faute",
+     "e": "Atteindre la dernière prise n'est pas obligatoire, seul le mousquetonnage final compte."
+    },
+    {
+     "q": "Un dépassement du temps maximum imparti à l'équipe entraîne l'arrêt du concurrent.",
+     "r": "valable",
+     "e": "Le règlement prévoit cet arrêt en cas de dépassement du temps."
+    },
+    {
+     "q": "Le temps imparti à l'équipe n'a aucune incidence sur l'arrêt d'une tentative.",
+     "r": "faute",
+     "e": "Le dépassement du temps imparti entraîne bien l'arrêt du concurrent."
+    },
+    {
+     "q": "Toucher le sol avec une partie du corps après avoir commencé sa tentative arrête la prestation.",
+     "r": "valable",
+     "e": "Le règlement liste ce cas parmi les motifs d'arrêt de tentative."
+    },
+    {
+     "q": "Toucher le sol en cours de tentative n'a aucune conséquence tant que le grimpeur ne lâche pas la corde.",
+     "r": "faute",
+     "e": "Toucher le sol après le début de la tentative arrête la prestation, sans autre condition."
+    },
+    {
+     "q": "Une prise « contrôlée » est une prise que le grimpeur tient sur sa zone de préhension en stabilisant son corps.",
+     "r": "valable",
+     "e": "C'est la définition réglementaire d'une prise contrôlée."
+    },
+    {
+     "q": "Une prise « contrôlée » désigne uniquement la dernière prise de la voie, quelle que soit son utilisation.",
+     "r": "faute",
+     "e": "La prise contrôlée est définie par la tenue et la stabilisation du corps, pas par sa position dans la voie."
+    },
+    {
+     "q": "Une prise « utilisée » reçoit la valeur de la prise avec un suffixe (+).",
+     "r": "valable",
+     "e": "Le règlement attribue ce suffixe à la prise utilisée."
+    },
+    {
+     "q": "Une prise « utilisée » reçoit une valeur inférieure à celle d'une prise « contrôlée ».",
+     "r": "faute",
+     "e": "La prise utilisée reçoit la même valeur numérique, avec un simple suffixe (+)."
+    },
+    {
+     "q": "Seules les prises de main sont comptabilisées pour la mesure des hauteurs.",
+     "r": "valable",
+     "e": "Le règlement précise que seules les prises de main comptent pour cette mesure."
+    },
+    {
+     "q": "Les prises de pied comptent également pour la mesure de la hauteur atteinte.",
+     "r": "faute",
+     "e": "Seules les prises de main sont prises en compte, pas les prises de pied."
+    },
+    {
+     "q": "Lorsqu'une prise doit être utilisée avec les 2 mains, deux numérotations lui sont attribuées.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette double numérotation dans ce cas précis."
+    },
+    {
+     "q": "Une prise utilisée avec les 2 mains ne reçoit qu'une seule numérotation, quel que soit le nombre de mains.",
+     "r": "faute",
+     "e": "Deux numéros sont attribués dans ce cas, un pour chaque main."
+    },
+    {
+     "q": "Les grimpeurs de l'équipe s'assurent entre eux en UNSS.",
+     "r": "valable",
+     "e": "C'est une spécificité du fonctionnement UNSS en difficulté."
+    },
+    {
+     "q": "Seuls des adultes extérieurs à l'équipe peuvent assurer les grimpeurs en UNSS.",
+     "r": "faute",
+     "e": "Ce sont bien les grimpeurs de l'équipe qui s'assurent mutuellement en UNSS."
+    },
+    {
+     "q": "Un grimpeur gêné par une corde trop tendue posée par son propre coéquipier ne peut pas réclamer d'incident technique.",
+     "r": "valable",
+     "e": "Le règlement l'indique explicitement, car les grimpeurs s'assurent entre eux."
+    },
+    {
+     "q": "Un grimpeur peut toujours réclamer un incident technique si la corde posée par son coéquipier est trop tendue.",
+     "r": "faute",
+     "e": "Cette situation ne peut pas donner lieu à une réclamation d'incident technique."
+    },
+    {
+     "q": "Si la tension de la corde constitue une aide, le juge de voie avertit l'assureur et peut arrêter la prestation en cas de récidive.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette procédure d'avertissement puis d'arrêt."
+    },
+    {
+     "q": "La tension de la corde ne peut jamais être considérée comme une aide par le juge de voie.",
+     "r": "faute",
+     "e": "La tension de la corde peut être considérée comme une aide, avec avertissement puis arrêt en cas de récidive."
+    },
+    {
+     "q": "Une prise cassée ou desserrée est un incident technique reconnu en difficulté.",
+     "r": "valable",
+     "e": "Le règlement liste ce cas parmi les incidents techniques en difficulté."
+    },
+    {
+     "q": "Une prise cassée n'est jamais considérée comme un incident technique en difficulté.",
+     "r": "faute",
+     "e": "Une prise cassée ou desserrée est bien reconnue comme un incident technique."
+    },
+    {
+     "q": "Le concurrent victime d'un incident technique confirmé bénéficie d'une nouvelle tentative.",
+     "r": "valable",
+     "e": "Le règlement accorde cette nouvelle tentative en cas de confirmation."
+    },
+    {
+     "q": "Un incident technique confirmé n'ouvre droit à aucune nouvelle tentative.",
+     "r": "faute",
+     "e": "Une nouvelle tentative est bien accordée en cas d'incident technique confirmé."
+    },
+    {
+     "q": "La bordure supérieure de la SAE (bordures de plaques) ne peut jamais être utilisée.",
+     "r": "valable",
+     "e": "Le règlement interdit explicitement l'usage de cette bordure."
+    },
+    {
+     "q": "La bordure supérieure de la SAE peut être utilisée librement par tous les compétiteurs.",
+     "r": "faute",
+     "e": "Cette bordure ne peut jamais être utilisée, quelle que soit la situation."
+    },
+    {
+     "q": "Il est interdit d'utiliser avec les mains les inserts servant à la fixation des prises rapportées.",
+     "r": "valable",
+     "e": "Le règlement interdit explicitement cet usage aux mains."
+    },
+    {
+     "q": "Les inserts de fixation des prises peuvent être utilisés librement avec les mains.",
+     "r": "faute",
+     "e": "Cet usage est interdit avec les mains, quelle que soit la situation."
+    },
+    {
+     "q": "Un jeune officiel ne peut pas officier lors du passage de sa propre équipe.",
+     "r": "valable",
+     "e": "Le règlement impose cette restriction, avec signalement au superviseur."
+    },
+    {
+     "q": "Un jeune officiel peut juger sa propre équipe sans restriction particulière.",
+     "r": "faute",
+     "e": "Un jeune officiel ne peut pas officier sur le passage de sa propre équipe."
+    },
+    {
+     "q": "Les appareils audio et vidéo sont interdits dans la zone de compétition.",
+     "r": "valable",
+     "e": "Le règlement interdit explicitement ces appareils en zone de compétition."
+    },
+    {
+     "q": "Les appareils audio et vidéo sont autorisés librement dans la zone de compétition.",
+     "r": "faute",
+     "e": "Ces appareils sont au contraire interdits dans la zone de compétition."
+    },
+    {
+     "q": "Toute réclamation en difficulté doit être faite par écrit auprès du président de jury par le jeune coach.",
+     "r": "valable",
+     "e": "Le règlement impose cette procédure écrite par le jeune coach."
+    },
+    {
+     "q": "Toute réclamation peut être faite oralement par n'importe quel membre de l'équipe, sans écrit nécessaire.",
+     "r": "faute",
+     "e": "Seul le jeune coach peut réclamer, et la réclamation doit être confirmée par écrit."
+    }
+   ]
+  }
+ ]
+}

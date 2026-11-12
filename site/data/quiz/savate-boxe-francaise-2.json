@@ -1,0 +1,265 @@
+{
+ "id": "savate-boxe-francaise-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre/Juge Savate Boxe Française",
+ "entete": "",
+ "sport": "savate-boxe-francaise",
+ "source": "https://calm-gumdrop-350768.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Une touche en ligne haute avec les pieds vaut 4 points.",
+     "r": "valable",
+     "e": "4 points = touche en ligne haute avec les pieds."
+    },
+    {
+     "q": "Une touche en ligne haute avec les pieds vaut 1 point.",
+     "r": "faute",
+     "e": "La touche en ligne haute avec les pieds vaut 4 points, pas 1 point."
+    },
+    {
+     "q": "Une touche en ligne médiane avec les pieds, ou un enchaînement de 2 touches ou plus avec les poings, vaut 2 points.",
+     "r": "valable",
+     "e": "2 points = touche en ligne médiane avec les pieds ou enchaînement de 2 ou plusieurs touches avec les poings."
+    },
+    {
+     "q": "Une touche en ligne médiane avec les pieds vaut toujours 4 points.",
+     "r": "faute",
+     "e": "La touche en ligne médiane avec les pieds vaut 2 points, pas 4."
+    },
+    {
+     "q": "Une touche en ligne basse avec les pieds, ou une touche avec les poings, vaut 1 point.",
+     "r": "valable",
+     "e": "1 point = touche en ligne basse avec les pieds ou une touche avec les poings."
+    },
+    {
+     "q": "Une touche avec les poings vaut systématiquement 2 points.",
+     "r": "faute",
+     "e": "Une touche isolée avec les poings vaut 1 point, pas 2."
+    },
+    {
+     "q": "Le juge note 3/1 lorsque la domination d'un tireur est importante.",
+     "r": "valable",
+     "e": "Si la domination est importante, 3 pour le meilleur et 1 pour l'autre : 3/1."
+    },
+    {
+     "q": "Le juge note 3/1 uniquement en cas d'égalité parfaite.",
+     "r": "faute",
+     "e": "Le 3/1 est utilisé en cas de forte domination, pas en cas d'égalité."
+    },
+    {
+     "q": "Le juge note 3/2 lorsqu'il y a un avantage avec une faible différence.",
+     "r": "valable",
+     "e": "S'il y a avantage avec une faible différence, 3 pour le meilleur et 2 pour l'autre : 3/2."
+    },
+    {
+     "q": "Le juge note 3/2 uniquement en cas de disqualification d'un tireur.",
+     "r": "faute",
+     "e": "Le 3/2 correspond à un avantage avec une faible différence, pas à une disqualification."
+    },
+    {
+     "q": "En cas d'égalité entre les deux tireurs à une reprise, le juge note 2/2.",
+     "r": "valable",
+     "e": "S'il y a égalité : 2/2."
+    },
+    {
+     "q": "En cas d'égalité, le juge doit obligatoirement désigner un tireur comme meilleur.",
+     "r": "faute",
+     "e": "En cas d'égalité entre les tireurs à une reprise, le juge note 2/2."
+    },
+    {
+     "q": "Si les tireurs sont à égalité au terme de l'assaut, le juge attribue un bonus de +1 point à l'un d'eux.",
+     "r": "valable",
+     "e": "Si les tireurs sont à égalité, mettre un bonus (+1 point) à l'un des tireurs selon des critères définis."
+    },
+    {
+     "q": "Si les tireurs sont à égalité au terme de l'assaut, la rencontre est déclarée nulle.",
+     "r": "faute",
+     "e": "Un bonus de +1 point est attribué en cas d'égalité, la décision de match nul n'est jamais possible."
+    },
+    {
+     "q": "La décision de match nul ne peut jamais être rendue à l'issue d'un assaut.",
+     "r": "valable",
+     "e": "À la suite de l'assaut, la décision de match nul ne peut être rendue."
+    },
+    {
+     "q": "La décision de match nul est la décision la plus fréquente à l'issue d'un assaut.",
+     "r": "faute",
+     "e": "Le règlement exclut explicitement le match nul comme décision possible."
+    },
+    {
+     "q": "En chambre d'appel, la validité des équipements et de la licence UNSS des tireurs est vérifiée.",
+     "r": "valable",
+     "e": "Avant le début de l'assaut, les tireurs sont appelés en chambre d'appels où est vérifiée la validité de leurs équipements et de leur licence UNSS."
+    },
+    {
+     "q": "La chambre d'appel ne sert qu'à faire patienter les tireurs, sans aucun contrôle.",
+     "r": "faute",
+     "e": "La chambre d'appel sert précisément à contrôler les équipements et la licence UNSS."
+    },
+    {
+     "q": "Sur appel du délégué officiel, le tireur rouge monte et salue l'arbitre en premier.",
+     "r": "valable",
+     "e": "Sur appel du délégué officiel, le tireur rouge monte sur l'enceinte et salue l'arbitre de la rencontre, puis le tireur bleu monte à son tour."
+    },
+    {
+     "q": "Le tireur bleu est toujours le premier à monter et saluer l'arbitre.",
+     "r": "faute",
+     "e": "C'est le tireur rouge qui monte et salue en premier, avant le tireur bleu."
+    },
+    {
+     "q": "Le délégué officiel donne les bulletins de jugement à l'arbitre, qui les distribue ensuite aux juges.",
+     "r": "valable",
+     "e": "Le délégué officiel donne les bulletins de jugements à l'arbitre qui les distribue aux juges."
+    },
+    {
+     "q": "Le délégué officiel distribue lui-même les bulletins directement à chaque juge.",
+     "r": "faute",
+     "e": "C'est l'arbitre qui distribue les bulletins aux juges, après les avoir reçus du délégué officiel."
+    },
+    {
+     "q": "L'arbitre vérifie les protège-dents des tireurs avant de commander le départ de l'assaut.",
+     "r": "valable",
+     "e": "L'arbitre rappelle les tireurs au centre de l'enceinte, vérifie le protège dent de chaque tireur et fait démarrer la rencontre."
+    },
+    {
+     "q": "L'arbitre ne vérifie jamais les protège-dents, c'est le rôle du chronométreur.",
+     "r": "faute",
+     "e": "C'est bien l'arbitre qui vérifie les protège-dents, pas le chronométreur."
+    },
+    {
+     "q": "À la 3ème remarque pour la même faute, l'arbitre demande un avertissement aux juges.",
+     "r": "valable",
+     "e": "A la 3ème remarque, l'arbitre demande aux juges un avertissement pour le tireur fautif."
+    },
+    {
+     "q": "L'arbitre peut demander un avertissement dès la 1ère remarque, sans exception.",
+     "r": "faute",
+     "e": "C'est à la 3ème remarque pour la même faute que l'avertissement est demandé."
+    },
+    {
+     "q": "Une faute visiblement intentionnelle ou antisportive peut entraîner un avertissement direct, sans remarque préalable.",
+     "r": "valable",
+     "e": "Si le tireur commet une faute visiblement intentionnelle ou antisportive, l'arbitre peut demander un avertissement, voire une disqualification sans avertissement préalable."
+    },
+    {
+     "q": "Toute faute doit obligatoirement passer par 3 remarques avant un avertissement, sans exception.",
+     "r": "faute",
+     "e": "Une faute intentionnelle ou antisportive peut sauter directement à l'avertissement, voire à la disqualification."
+    },
+    {
+     "q": "En cas de double avertissement, l'arbitre commence par le tireur qui a le moins d'avertissements.",
+     "r": "valable",
+     "e": "En cas d'une demande de double avertissement, si les deux tireurs ont déjà un ou plusieurs avertissements, l'arbitre commence par celui qui en a le moins."
+    },
+    {
+     "q": "En cas de double avertissement, l'arbitre commence toujours par le tireur du coin rouge.",
+     "r": "faute",
+     "e": "L'arbitre commence par le tireur ayant le moins d'avertissements, pas systématiquement par le rouge."
+    },
+    {
+     "q": "Un avertissement n'est prononcé que si la majorité des juges est d'accord.",
+     "r": "valable",
+     "e": "Si la majorité des juges est d'accord, l'arbitre dit « AVERTISSEMENT PRONONCE »."
+    },
+    {
+     "q": "L'arbitre peut prononcer un avertissement seul, sans consulter les juges.",
+     "r": "faute",
+     "e": "L'avertissement nécessite l'accord de la majorité des juges avant d'être prononcé."
+    },
+    {
+     "q": "Le geste « d'accord » du juge consiste à lever la main.",
+     "r": "valable",
+     "e": "Pour répondre aux demandes de l'arbitre, le geste d'accord consiste à lever la main."
+    },
+    {
+     "q": "Le geste « d'accord » du juge consiste à croiser les bras au-dessus de la tête.",
+     "r": "faute",
+     "e": "Croiser les bras au-dessus de la tête signifie « pas d'accord », pas « d'accord »."
+    },
+    {
+     "q": "À la 55ème seconde de récupération, le chronométreur tapote plusieurs fois sur le gong.",
+     "r": "valable",
+     "e": "À la 55ème seconde de récupération, le chronométreur tapote plusieurs fois sur le gong pour signaler la reprise imminente de l'assaut."
+    },
+    {
+     "q": "Le chronométreur ne donne aucun signal avant la reprise de l'assaut.",
+     "r": "faute",
+     "e": "Le chronométreur signale la reprise imminente en tapotant plusieurs fois à la 55ème seconde."
+    },
+    {
+     "q": "À chaque « STOP » de l'arbitre, le chronométreur arrête le temps, puis le fait repartir au commandement « ALLEZ ».",
+     "r": "valable",
+     "e": "À chaque « STOP » de l'arbitre, le chrono arrête le temps, puis le fait repartir au commandement « ALLER »."
+    },
+    {
+     "q": "Le chronométreur ignore les « STOP » de l'arbitre et laisse le temps continuer de s'écouler.",
+     "r": "faute",
+     "e": "Le chronomètre s'arrête à chaque « STOP » et repart au commandement « ALLEZ »."
+    },
+    {
+     "q": "Il est interdit de faire prédominer les enchaînements de coups de poings sur les autres types d'enchaînements.",
+     "r": "valable",
+     "e": "Il est interdit de faire prédominer les enchaînements de coups de poings sur les autres types d'enchaînements : de coups de pieds, pieds-poings et poings-pieds."
+    },
+    {
+     "q": "Les enchaînements de coups de poings peuvent librement prédominer sur tous les autres.",
+     "r": "faute",
+     "e": "Le règlement interdit que les enchaînements de poings prédominent sur les autres types de coups."
+    },
+    {
+     "q": "Les gants doivent être de 10 onces au minimum.",
+     "r": "valable",
+     "e": "Les gants : 10 onces et au-delà."
+    },
+    {
+     "q": "Les gants doivent être strictement inférieurs à 10 onces.",
+     "r": "faute",
+     "e": "Le minimum réglementaire est de 10 onces, pas moins."
+    },
+    {
+     "q": "Les chaussures doivent avoir des semelles plates et souples, avec des lacets couverts.",
+     "r": "valable",
+     "e": "Les chaussures : semelles plates et souple type gymnastique ou boxe, lacets couverts."
+    },
+    {
+     "q": "N'importe quel type de chaussures de sport est autorisé, sans condition sur les semelles.",
+     "r": "faute",
+     "e": "Les chaussures doivent respecter des critères précis : semelles plates, souples, lacets couverts."
+    },
+    {
+     "q": "La tenue des tireurs doit être aux couleurs de l'AS ; la tenue de club est interdite.",
+     "r": "valable",
+     "e": "Tenue aux couleurs de l'AS (tenue de club interdite)."
+    },
+    {
+     "q": "Les tireurs peuvent porter la tenue de leur club personnel durant les rencontres UNSS.",
+     "r": "faute",
+     "e": "Seule la tenue aux couleurs de l'AS est autorisée, la tenue de club est interdite."
+    },
+    {
+     "q": "Le niveau national de compétence est acquis à partir d'une note de 16/20.",
+     "r": "valable",
+     "e": "Un Jeune Arbitre / Jeune Juge acquiert le niveau 5 (national) de la compétence à partir d'une note de 16/20 lors de son évaluation."
+    },
+    {
+     "q": "Le niveau national est acquis à partir d'une note de 10/20.",
+     "r": "faute",
+     "e": "Le seuil pour le niveau national est de 16/20, pas 10/20."
+    },
+    {
+     "q": "L'évaluation additionne une partie théorique sur 4 points et une partie pratique sur 16 points.",
+     "r": "valable",
+     "e": "Il s'agit d'additionner le résultat théorique (sur 4 points) à l'évaluation pratique (sur 16 points) du Jeune Juge/Arbitre."
+    },
+    {
+     "q": "L'évaluation ne comporte qu'une seule partie, notée sur 20 points directement.",
+     "r": "faute",
+     "e": "L'évaluation comporte deux parties distinctes : théorique sur 4 points et pratique sur 16 points."
+    }
+   ]
+  }
+ ]
+}

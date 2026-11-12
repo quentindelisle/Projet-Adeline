@@ -1,0 +1,265 @@
+{
+ "id": "petanque-1",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre Pétanque",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT PÉTANQUE UNSS",
+ "sport": "petanque",
+ "source": "https://euphonious-cat-c53d80.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le combiné tir/point se joue sur 6 mènes.",
+     "r": "faute",
+     "e": "C'est faux. C'est une opposition en 1 contre 1."
+    },
+    {
+     "q": "Le combiné tir/point se joue sur 8 mènes.",
+     "r": "valable",
+     "e": "C'est une opposition en 1 contre 1."
+    },
+    {
+     "q": "Au combiné, chaque joueur joue 3 boules par mène, soit 24 boules au total.",
+     "r": "valable",
+     "e": "12 au point et 12 au tir."
+    },
+    {
+     "q": "Au combiné, chaque joueur joue 2 boules par mène, soit 16 boules au total.",
+     "r": "faute",
+     "e": "C'est faux. 12 au point et 12 au tir."
+    },
+    {
+     "q": "Au combiné, les joueurs gardent le même rôle pendant toute l'opposition.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur qui commence au tir finira au point."
+    },
+    {
+     "q": "Au combiné, les joueurs changent de rôle (pointeur ou tireur) à chaque mène.",
+     "r": "valable",
+     "e": "Le joueur qui commence au tir finira au point."
+    },
+    {
+     "q": "Au point, une boule à moins de 15 cm du but rapporte 2 points.",
+     "r": "valable",
+     "e": "1 point dans la grande cible, 2 points si moins de 15 cm."
+    },
+    {
+     "q": "Au point, une boule à moins de 30 cm du but rapporte 2 points.",
+     "r": "faute",
+     "e": "C'est faux. 1 point dans la grande cible, 2 points si moins de 15 cm."
+    },
+    {
+     "q": "Au tir, un carreau rapporte 2 points.",
+     "r": "valable",
+     "e": "Le carreau : la boule de tir reste dans la cible."
+    },
+    {
+     "q": "Au tir, un carreau rapporte 3 points.",
+     "r": "faute",
+     "e": "C'est faux. Le carreau : la boule de tir reste dans la cible."
+    },
+    {
+     "q": "Une boule qui touche la ligne de la cible est nulle.",
+     "r": "faute",
+     "e": "C'est faux. Règle de validité du combiné."
+    },
+    {
+     "q": "Une boule qui touche la ligne de la cible est valable.",
+     "r": "valable",
+     "e": "Règle de validité du combiné."
+    },
+    {
+     "q": "Au tir, la boule adverse est sortie dès qu'elle touche la ligne.",
+     "r": "faute",
+     "e": "C'est faux. Si elle reste dans la cible, le tireur retire."
+    },
+    {
+     "q": "Au tir, la boule adverse doit avoir franchi complètement la limite de la cible pour être sortie.",
+     "r": "valable",
+     "e": "Si elle reste dans la cible, le tireur retire."
+    },
+    {
+     "q": "Au combiné, chaque joueur dispose de 2 minutes pour jouer sa boule.",
+     "r": "faute",
+     "e": "C'est faux. Délai spécifique au combiné."
+    },
+    {
+     "q": "Au combiné, chaque joueur dispose de 30 secondes maximum pour jouer sa boule.",
+     "r": "valable",
+     "e": "Délai spécifique au combiné."
+    },
+    {
+     "q": "Au combiné, les distances de lancer en collège sont de 5,5 m et 6,5 m.",
+     "r": "valable",
+     "e": "6,5 m et 7,5 m en lycée."
+    },
+    {
+     "q": "Au combiné, les distances de lancer en collège sont de 6,5 m et 7,5 m.",
+     "r": "faute",
+     "e": "C'est faux. 6,5 m et 7,5 m en lycée."
+    },
+    {
+     "q": "Au combiné, on change de distance à chaque mène.",
+     "r": "faute",
+     "e": "C'est faux. Deux distances de jeu sont prévues."
+    },
+    {
+     "q": "Au combiné, on change de distance toutes les deux mènes.",
+     "r": "valable",
+     "e": "Deux distances de jeu sont prévues."
+    },
+    {
+     "q": "Les joueurs du combiné ne peuvent intégrer la partie qu'à partir de la 5e mène.",
+     "r": "valable",
+     "e": "La doublette se poursuit alors en triplette."
+    },
+    {
+     "q": "Les joueurs du combiné intègrent la partie dès la 2e mène.",
+     "r": "faute",
+     "e": "C'est faux. La doublette se poursuit alors en triplette."
+    },
+    {
+     "q": "Le bonus ou malus du combiné est choisi par le jeune arbitre.",
+     "r": "faute",
+     "e": "C'est faux. Il choisit d'augmenter son score ou de diminuer celui de l'adversaire, dans la minute impartie."
+    },
+    {
+     "q": "Le bonus ou malus du combiné est choisi par le jeune coach de l'équipe gagnante du combiné.",
+     "r": "valable",
+     "e": "Il choisit d'augmenter son score ou de diminuer celui de l'adversaire, dans la minute impartie."
+    },
+    {
+     "q": "Une mène supplémentaire en cas d'égalité ne peut pas être annulée.",
+     "r": "valable",
+     "e": "Le but doit impérativement être marqué ; s'il sort, il est remis à sa place d'origine."
+    },
+    {
+     "q": "Une mène supplémentaire peut être annulée si le but sort.",
+     "r": "faute",
+     "e": "C'est faux. Le but doit impérativement être marqué ; s'il sort, il est remis à sa place d'origine."
+    },
+    {
+     "q": "Une mène est commencée quand la 12e boule de la mène précédente est jouée et arrêtée.",
+     "r": "valable",
+     "e": "Précision réglementaire du format."
+    },
+    {
+     "q": "Une mène est commencée dès que le but est ramassé.",
+     "r": "faute",
+     "e": "C'est faux. Précision réglementaire du format."
+    },
+    {
+     "q": "En sport partagé, l'équipe compte 3 joueurs valides.",
+     "r": "faute",
+     "e": "C'est faux. Plus un jeune coach et un jeune arbitre."
+    },
+    {
+     "q": "En sport partagé, l'équipe compte 4 joueurs : 2 jeunes en situation de handicap et 2 valides.",
+     "r": "valable",
+     "e": "Plus un jeune coach et un jeune arbitre."
+    },
+    {
+     "q": "En cas d'égalité de poule, on prend d'abord le résultat des rencontres entre les équipes concernées.",
+     "r": "valable",
+     "e": "Les critères se succèdent dans l'ordre."
+    },
+    {
+     "q": "En cas d'égalité de poule, on prend d'abord la moyenne d'âge.",
+     "r": "faute",
+     "e": "C'est faux. Les critères se succèdent dans l'ordre."
+    },
+    {
+     "q": "Dernier critère de départage de poule : l'équipe dont la moyenne d'âge est la plus élevée.",
+     "r": "faute",
+     "e": "C'est faux. Joueurs inscrits sur la feuille de composition."
+    },
+    {
+     "q": "Dernier critère de départage de poule : l'équipe dont la moyenne d'âge est la plus faible.",
+     "r": "valable",
+     "e": "Joueurs inscrits sur la feuille de composition."
+    },
+    {
+     "q": "Dans le point-average, les scores du combiné et de la triplette sont pris en compte.",
+     "r": "valable",
+     "e": "Précision sur le classement."
+    },
+    {
+     "q": "Dans le point-average, seul le score de la triplette est pris en compte.",
+     "r": "faute",
+     "e": "C'est faux. Précision sur le classement."
+    },
+    {
+     "q": "Le carton rouge ne peut être donné qu'après avis du jury sportif.",
+     "r": "valable",
+     "e": "Il entraîne la défaite de la partie."
+    },
+    {
+     "q": "Le carton rouge peut être donné immédiatement par le jeune arbitre.",
+     "r": "faute",
+     "e": "C'est faux. Il entraîne la défaite de la partie."
+    },
+    {
+     "q": "Le carton orange entraîne l'annulation de la partie.",
+     "r": "faute",
+     "e": "C'est faux. Il suit le carton jaune."
+    },
+    {
+     "q": "Le carton orange entraîne l'annulation de la boule jouée ou à jouer du joueur.",
+     "r": "valable",
+     "e": "Il suit le carton jaune."
+    },
+    {
+     "q": "Un joueur en fauteuil roulant lance depuis l'extérieur du cercle.",
+     "r": "faute",
+     "e": "C'est faux. Article 5 du règlement."
+    },
+    {
+     "q": "Un joueur en fauteuil roulant doit avoir la roue du côté du bras lanceur à l'intérieur du cercle.",
+     "r": "valable",
+     "e": "Article 5 du règlement."
+    },
+    {
+     "q": "Un joueur mutilé d'un membre inférieur peut ne placer qu'un pied à l'intérieur du cercle.",
+     "r": "valable",
+     "e": "Exception prévue au règlement."
+    },
+    {
+     "q": "Aucun joueur ne peut avoir un seul pied dans le cercle.",
+     "r": "faute",
+     "e": "C'est faux. Exception prévue au règlement."
+    },
+    {
+     "q": "Une équipe sans jeune coach reçoit un simple avertissement.",
+     "r": "faute",
+     "e": "C'est faux. Le jeune coach est obligatoire."
+    },
+    {
+     "q": "Une équipe sans jeune coach est déclassée.",
+     "r": "valable",
+     "e": "Le jeune coach est obligatoire."
+    },
+    {
+     "q": "Pour la certification nationale : 16/20, avec 16 points de pratique et 4 points de théorie.",
+     "r": "valable",
+     "e": "Départemental 12, académique 14, national 16."
+    },
+    {
+     "q": "Pour la certification nationale : 10/20, avec 4 points de pratique et 16 de théorie.",
+     "r": "faute",
+     "e": "C'est faux. Départemental 12, académique 14, national 16."
+    },
+    {
+     "q": "Le combiné est joué par des joueurs qui entrent ensuite dans la partie : la doublette se poursuit alors en triplette.",
+     "r": "valable",
+     "e": "Les 2 joueurs du combiné entrent dans la doublette au début de la 5e mène."
+    },
+    {
+     "q": "Le combiné est joué par des remplaçants qui ne rejoignent jamais la partie.",
+     "r": "faute",
+     "e": "C'est faux. Les 2 joueurs du combiné entrent dans la doublette au début de la 5e mène."
+    }
+   ]
+  }
+ ]
+}

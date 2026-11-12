@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-6",
+ "titre": "Barres parallèles",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 6 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · GAM",
+ "sport": "gymnastique-artistique",
+ "source": "https://jocular-halva-d3822d.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La hauteur des barres parallèles est laissée libre, comme aux barres asymétriques.",
+     "r": "valable",
+     "e": "Le règlement laisse la hauteur libre aux barres parallèles."
+    },
+    {
+     "q": "La hauteur des barres parallèles est fixée réglementairement, contrairement aux barres asymétriques.",
+     "r": "faute",
+     "e": "La hauteur est laissée libre aux barres parallèles, tout comme aux barres asymétriques."
+    },
+    {
+     "q": "Un tremplin est autorisé pour l'entrée aux barres parallèles.",
+     "r": "valable",
+     "e": "Le règlement autorise un tremplin pour l'entrée à cet agrès."
+    },
+    {
+     "q": "Aucun tremplin n'est autorisé pour l'entrée aux barres parallèles.",
+     "r": "faute",
+     "e": "Un tremplin est au contraire autorisé pour l'entrée."
+    },
+    {
+     "q": "La flexion des jambes est autorisée après un siège écarté, pour reprendre un élan.",
+     "r": "valable",
+     "e": "Le règlement autorise explicitement cette flexion dans ce cas précis."
+    },
+    {
+     "q": "La flexion des jambes est interdite à tout moment aux barres parallèles.",
+     "r": "faute",
+     "e": "La flexion des jambes est autorisée après un siège écarté, pour reprendre un élan."
+    },
+    {
+     "q": "Les 4 exigences de composition aux barres parallèles sont AP, AB, S et MP.",
+     "r": "valable",
+     "e": "Ce sont bien les 4 exigences prévues aux barres parallèles."
+    },
+    {
+     "q": "Les 4 exigences de composition aux barres parallèles sont BI, BS, R et F, comme aux barres asymétriques.",
+     "r": "faute",
+     "e": "BI, BS, R et F concernent les barres asymétriques ; les barres parallèles ont AP, AB, S et MP."
+    },
+    {
+     "q": "L'exigence AB impose un élément réalisé à l'Appui Brachial.",
+     "r": "valable",
+     "e": "AB désigne l'Appui Brachial."
+    },
+    {
+     "q": "L'exigence AB impose un élément réalisé en Appui Bipode, peu importe la position des bras.",
+     "r": "faute",
+     "e": "AB signifie Appui Brachial, pas Appui Bipode."
+    },
+    {
+     "q": "L'exigence S impose un élément réalisé à la Suspension.",
+     "r": "valable",
+     "e": "S désigne l'exigence de la Suspension."
+    },
+    {
+     "q": "L'exigence S impose un élément réalisé en Souplesse, sans lien avec la suspension.",
+     "r": "faute",
+     "e": "S signifie Suspension, pas Souplesse."
+    },
+    {
+     "q": "Toucher le sol avec les pieds aux barres parallèles est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique vaut 0,30 point aux barres parallèles."
+    },
+    {
+     "q": "Toucher le sol avec les pieds aux barres parallèles est pénalisé de 0,10 point seulement.",
+     "r": "faute",
+     "e": "Cette faute vaut 0,30 point, pas 0,10 point."
+    },
+    {
+     "q": "Heurter le sol avec les pieds (chute) est pénalisé de 1,00 point aux barres parallèles.",
+     "r": "valable",
+     "e": "Cette faute (chute) vaut 1,00 point aux barres parallèles."
+    },
+    {
+     "q": "Heurter le sol avec les pieds aux barres parallèles est pénalisé de 0,50 point, comme à la poutre.",
+     "r": "faute",
+     "e": "Cette faute vaut 1,00 point aux barres parallèles, pas 0,50 point."
+    },
+    {
+     "q": "Un déplacement ou un ajustement de prise, à chaque fois, est pénalisé de 0,10 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique vaut 0,10 point à chaque occurrence."
+    },
+    {
+     "q": "Un déplacement ou ajustement de prise n'est jamais pénalisé aux barres parallèles.",
+     "r": "faute",
+     "e": "Le déplacement ou ajustement de prise est bien pénalisé, de 0,10 point à chaque fois."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins aux barres parallèles est pénalisé de 2 points.",
+     "r": "valable",
+     "e": "Le règlement prévoit une pénalité de 2 points pour un exercice trop court."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins n'entraîne aucune pénalité aux barres parallèles.",
+     "r": "faute",
+     "e": "Un exercice de 5 éléments ou moins est au contraire pénalisé de 2 points."
+    },
+    {
+     "q": "Le siège écarté, bras derrière, tenu 2 secondes est un élément de maintien de valeur A.",
+     "r": "valable",
+     "e": "Ce siège écarté figure en colonne A du code."
+    },
+    {
+     "q": "Le siège écarté bras derrière tenu 2 secondes est un élément de maintien de valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur A, pas D."
+    },
+    {
+     "q": "L'équerre tenue 2 secondes est un élément de valeur C.",
+     "r": "valable",
+     "e": "L'équerre tenue 2 secondes figure en colonne C du code."
+    },
+    {
+     "q": "L'équerre tenue 2 secondes est un élément de valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "L'appui brachial renversé tenu 2 secondes est un élément de valeur C.",
+     "r": "valable",
+     "e": "L'appui brachial renversé tenu 2 secondes figure en colonne C du code."
+    },
+    {
+     "q": "L'appui brachial renversé tenu 2 secondes est un élément de valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "Un élément de maintien non tenu 2 secondes lorsqu'exigé n'est pas comptabilisé.",
+     "r": "valable",
+     "e": "Le code exige les 2 secondes pour comptabiliser l'élément."
+    },
+    {
+     "q": "Un élément de maintien non tenu 2 secondes reste comptabilisé, même partiellement réalisé.",
+     "r": "faute",
+     "e": "Sans les 2 secondes, l'élément de maintien n'est simplement pas comptabilisé."
+    },
+    {
+     "q": "De l'appui tendu, un tour complet sans arrêt est un élément de valeur C.",
+     "r": "valable",
+     "e": "Ce tour complet sans arrêt figure en colonne C du code."
+    },
+    {
+     "q": "De l'appui tendu, un tour complet sans arrêt n'est reconnu qu'en valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "La sortie ATR décalé aux barres parallèles est un élément de valeur D.",
+     "r": "valable",
+     "e": "Cette sortie figure en colonne D du code."
+    },
+    {
+     "q": "La sortie ATR décalé aux barres parallèles n'est reconnue qu'en valeur B.",
+     "r": "faute",
+     "e": "Cette sortie est de valeur D, pas B."
+    },
+    {
+     "q": "Un balancer avant est autorisé sans pénalité avant de réaliser certains éléments de sortie.",
+     "r": "valable",
+     "e": "Le code prévoit cette tolérance pour certains éléments de sortie."
+    },
+    {
+     "q": "Tout balancer avant préalable à une sortie est systématiquement pénalisé aux barres parallèles.",
+     "r": "faute",
+     "e": "Un balancer avant est au contraire toléré sans pénalité avant certaines sorties."
+    },
+    {
+     "q": "De l'appui brachial, balancer vers l'avant et s'établir au siège écarté (temps de ventre) est un élément de valeur C.",
+     "r": "valable",
+     "e": "Ce « temps de ventre » figure en colonne C du code."
+    },
+    {
+     "q": "Le temps de ventre à l'appui brachial n'est reconnu qu'en valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "La bascule de fond pour arriver au siège écarté est un élément de valeur C.",
+     "r": "valable",
+     "e": "Cette bascule de fond figure en colonne C du code."
+    },
+    {
+     "q": "La bascule de fond pour arriver au siège écarté n'est reconnue qu'en valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "Le rouleau avant à l'appui brachial est un élément de valeur B.",
+     "r": "valable",
+     "e": "Le rouleau avant figure en colonne B du code."
+    },
+    {
+     "q": "Le rouleau avant à l'appui brachial est un élément de valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur B, pas D."
+    },
+    {
+     "q": "Un exercice trop court est pénalisé de 2 points, indépendamment des pénalités d'exécution.",
+     "r": "valable",
+     "e": "Cette pénalité de 2 points s'ajoute indépendamment aux fautes d'exécution."
+    },
+    {
+     "q": "Un exercice trop court ne peut jamais être pénalisé en plus des fautes d'exécution.",
+     "r": "faute",
+     "e": "La pénalité pour exercice trop court s'ajoute bien aux fautes d'exécution."
+    },
+    {
+     "q": "Un élément non réalisé ou réalisé avec aide entraîne la suppression de sa valeur en difficulté.",
+     "r": "valable",
+     "e": "L'élément non réalisé ou aidé perd sa valeur de difficulté."
+    },
+    {
+     "q": "Un élément réalisé avec aide reste comptabilisé, avec une pénalité réduite de 0,10 point seulement.",
+     "r": "faute",
+     "e": "Un élément réalisé avec aide perd totalement sa valeur, pas seulement une pénalité réduite."
+    },
+    {
+     "q": "L'exigence MP correspond à un élément de Maintien ou de Placement.",
+     "r": "valable",
+     "e": "MP désigne Maintien ou Placement."
+    },
+    {
+     "q": "L'exigence MP correspond à un Mouvement Périlleux, indépendamment d'un maintien.",
+     "r": "faute",
+     "e": "MP signifie Maintien ou Placement, pas Mouvement Périlleux."
+    },
+    {
+     "q": "L'exigence AP impose un élément réalisé à l'Appui.",
+     "r": "valable",
+     "e": "AP désigne l'exigence d'un élément à l'Appui."
+    },
+    {
+     "q": "L'exigence AP impose un élément réalisé en Appui Périlleux, distinct d'un simple appui.",
+     "r": "faute",
+     "e": "AP signifie simplement un élément à l'Appui, pas un « Appui Périlleux »."
+    },
+    {
+     "q": "Aux fautes spécifiques des barres parallèles s'ajoutent les fautes de tenue, de technique et de comportement communes à tous les agrès.",
+     "r": "valable",
+     "e": "Ces fautes générales s'ajoutent toujours aux fautes spécifiques de l'agrès."
+    },
+    {
+     "q": "Les fautes de comportement générales ne concernent pas les barres parallèles, seules les fautes de prise comptent.",
+     "r": "faute",
+     "e": "Les fautes générales de comportement s'appliquent aussi aux barres parallèles."
+    }
+   ]
+  }
+ ]
+}

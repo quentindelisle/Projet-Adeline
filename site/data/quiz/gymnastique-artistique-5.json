@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-5",
+ "titre": "Saut",
+ "sousTitre": "filles et garçons — Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 5 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · MIXTE",
+ "sport": "gymnastique-artistique",
+ "source": "https://rad-babka-8f270b.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La hauteur de la table de saut est de 1,15 m au collège et 1,25 m au lycée.",
+     "r": "valable",
+     "e": "Le règlement fixe ces deux hauteurs selon le niveau scolaire."
+    },
+    {
+     "q": "La hauteur de la table de saut est identique au collège et au lycée, fixée à 1,20 m.",
+     "r": "faute",
+     "e": "La hauteur diffère selon le niveau : 1,15 m au collège, 1,25 m au lycée."
+    },
+    {
+     "q": "La course d'élan est limitée à 25 mètres maximum.",
+     "r": "valable",
+     "e": "Le règlement fixe la course d'élan à 25 m maximum au saut."
+    },
+    {
+     "q": "La course d'élan est limitée à 15 mètres maximum, comme au mini trampoline.",
+     "r": "faute",
+     "e": "La course d'élan au saut est de 25 m ; 15 m concerne le mini trampoline."
+    },
+    {
+     "q": "Une ligne de réception est tracée à 0,80 mètre derrière la table de saut.",
+     "r": "valable",
+     "e": "Le règlement fixe cette ligne à 0,80 m derrière la table."
+    },
+    {
+     "q": "Une ligne de réception est tracée à 1,50 mètre derrière la table de saut.",
+     "r": "faute",
+     "e": "La ligne de réception est tracée à 0,80 m, pas 1,50 m."
+    },
+    {
+     "q": "Au collège, un tremplin simple et un mini trampoline (ou trampo-tramp) sont autorisés.",
+     "r": "valable",
+     "e": "Le règlement autorise ces deux dispositifs au collège."
+    },
+    {
+     "q": "Au collège, seul un tremplin simple est autorisé, sans mini trampoline possible.",
+     "r": "faute",
+     "e": "Le mini trampoline (ou trampo-tramp) est aussi autorisé au collège, en plus du tremplin."
+    },
+    {
+     "q": "La note D au saut est directement comprise entre 5,50 et 10 points.",
+     "r": "valable",
+     "e": "Le règlement fixe cette plage directe pour la note D au saut."
+    },
+    {
+     "q": "La note D au saut se construit comme sur les autres agrès, en additionnant des éléments A à D.",
+     "r": "faute",
+     "e": "La note D au saut est directement comprise entre 5,50 et 10 points, pas construite par addition d'éléments."
+    },
+    {
+     "q": "Deux sauts sont réalisés et seule la meilleure note est prise en compte.",
+     "r": "valable",
+     "e": "Le règlement retient la meilleure des deux notes de saut."
+    },
+    {
+     "q": "Deux sauts sont réalisés et la moyenne des deux notes est prise en compte, comme au mini trampoline.",
+     "r": "faute",
+     "e": "C'est la meilleure note qui est retenue au saut, pas la moyenne (contrairement au mini trampoline)."
+    },
+    {
+     "q": "Une 3e course d'élan est autorisée si l'élève n'a touché ni le tremplin ni la table.",
+     "r": "valable",
+     "e": "Le règlement autorise cette 3e tentative dans ce cas précis."
+    },
+    {
+     "q": "Une 3e course d'élan n'est jamais autorisée, quelle que soit la situation.",
+     "r": "faute",
+     "e": "Une 3e course d'élan est au contraire autorisée si rien n'a été touché."
+    },
+    {
+     "q": "Un appel des 2 pieds non simultané entraîne un Saut nul.",
+     "r": "valable",
+     "e": "Le règlement impose un appel simultané des 2 pieds, sinon Saut nul."
+    },
+    {
+     "q": "Un appel des 2 pieds non simultané n'entraîne qu'une pénalité de 0,30 point, sans Saut nul.",
+     "r": "faute",
+     "e": "Un appel non simultané entraîne un Saut nul, pas une simple pénalité."
+    },
+    {
+     "q": "Une aide pendant le saut entraîne un Saut nul.",
+     "r": "valable",
+     "e": "Toute aide pendant le saut invalide celui-ci."
+    },
+    {
+     "q": "Une aide pendant le saut est tolérée si elle reste minime, sans conséquence sur la note.",
+     "r": "faute",
+     "e": "Toute aide pendant le saut entraîne un Saut nul, sans tolérance."
+    },
+    {
+     "q": "Une rondade ou un Pétrick réalisé à plus de 45° par rapport à la verticale entraîne un Saut nul.",
+     "r": "valable",
+     "e": "Le règlement fixe ce seuil de 45° au-delà duquel le saut est nul."
+    },
+    {
+     "q": "L'angle de la rondade ou du Pétrick par rapport à la verticale n'a aucune incidence sur la validité du saut.",
+     "r": "faute",
+     "e": "Au-delà de 45° par rapport à la verticale, le saut est nul."
+    },
+    {
+     "q": "Un appui de la tête sur la table de saut entraîne un Saut nul.",
+     "r": "valable",
+     "e": "Le règlement classe l'appui de tête comme Saut nul."
+    },
+    {
+     "q": "Un appui de la tête sur la table de saut est pénalisé de 0,50 point, sans être un Saut nul.",
+     "r": "faute",
+     "e": "L'appui de la tête sur la table entraîne un Saut nul, pas une simple pénalité."
+    },
+    {
+     "q": "Un saut avec pose des mains puis des pieds et saut extension au tremplin vaut 6 points en note D.",
+     "r": "valable",
+     "e": "Ce saut au tremplin vaut 6 points selon le tableau des familles de sauts."
+    },
+    {
+     "q": "Un saut avec pose des mains puis des pieds et saut extension au tremplin vaut 8 points en note D.",
+     "r": "faute",
+     "e": "Ce saut vaut 6 points au tremplin, pas 8."
+    },
+    {
+     "q": "Un saut par renversement (lune) au tremplin vaut 10 points en note D.",
+     "r": "valable",
+     "e": "Ce saut par renversement au tremplin vaut la valeur maximale de 10 points."
+    },
+    {
+     "q": "Un saut par renversement (lune) au tremplin ne vaut que 8 points en note D.",
+     "r": "faute",
+     "e": "Le saut par renversement au tremplin vaut 10 points, pas 8."
+    },
+    {
+     "q": "Un saut par renversement avec 1/2 tour dans le 1er envol et 1/2 tour dans le 2e envol (Pétrick) vaut 10 points.",
+     "r": "valable",
+     "e": "Le Pétrick complet au tremplin vaut 10 points selon le tableau des familles."
+    },
+    {
+     "q": "Un saut Pétrick complet ne vaut que 9 points en note D, quelle que soit sa qualité d'exécution.",
+     "r": "faute",
+     "e": "Le Pétrick complet vaut 10 points, pas 9."
+    },
+    {
+     "q": "Un manque de hauteur au 2e envol est une faute pénalisée jusqu'à 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute d'exécution du 2e envol peut aller jusqu'à 0,30 point."
+    },
+    {
+     "q": "Le manque de hauteur au 2e envol n'est jamais pénalisé, seule la réception compte.",
+     "r": "faute",
+     "e": "Le manque de hauteur au 2e envol est bien pénalisé, jusqu'à 0,30 point."
+    },
+    {
+     "q": "Une réception hors du couloir avec 1 pied ou 1 main est pénalisée de 0,10 point.",
+     "r": "valable",
+     "e": "Cette pénalité spécifique vaut 0,10 point."
+    },
+    {
+     "q": "Une réception hors du couloir avec 1 pied ou 1 main est pénalisée de 0,30 point, comme avec 2 pieds.",
+     "r": "faute",
+     "e": "Avec 1 pied ou 1 main la pénalité est de 0,10 point ; 0,30 point concerne 2 pieds ou 2 mains."
+    },
+    {
+     "q": "Une réception ou des pas hors du couloir avec les 2 pieds ou les 2 mains est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette pénalité spécifique vaut 0,30 point."
+    },
+    {
+     "q": "Une réception avec les 2 pieds hors du couloir n'est pénalisée que de 0,10 point.",
+     "r": "faute",
+     "e": "Avec les 2 pieds hors couloir, la pénalité est de 0,30 point, pas 0,10 point."
+    },
+    {
+     "q": "La longueur de réception insuffisante au premier impact peut valoir jusqu'à 0,50 point de pénalité si elle reste dans la zone de 0,80 mètre.",
+     "r": "valable",
+     "e": "Le tableau des pénalités spécifiques du saut prévoit ce cas précis."
+    },
+    {
+     "q": "La longueur de réception n'a aucune incidence sur la note d'exécution au saut.",
+     "r": "faute",
+     "e": "La longueur de réception insuffisante est bien pénalisée, jusqu'à 0,50 point."
+    },
+    {
+     "q": "L'appui des 2 mains sur la table est obligatoire, sinon le saut est nul.",
+     "r": "valable",
+     "e": "Le règlement impose l'appui des 2 mains, sinon Saut nul."
+    },
+    {
+     "q": "L'appui d'une seule main sur la table suffit à valider le saut.",
+     "r": "faute",
+     "e": "L'appui des 2 mains est obligatoire, une seule main ne suffit pas."
+    },
+    {
+     "q": "Au lycée, le mini trampoline reste autorisé en plus du tremplin simple.",
+     "r": "valable",
+     "e": "Le règlement autorise le mini trampoline au lycée, en plus du tremplin."
+    },
+    {
+     "q": "Au lycée, seul le trampo-tramp est autorisé, le mini trampoline étant réservé au collège.",
+     "r": "faute",
+     "e": "Le mini trampoline reste autorisé au lycée, pas réservé au seul collège."
+    },
+    {
+     "q": "La descente en pont sur un saut par lune (2e envol) est une faute pénalisée de 1,00 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique du saut par lune vaut 1,00 point."
+    },
+    {
+     "q": "La descente en pont sur un saut par lune n'est jamais pénalisée si la réception reste stable.",
+     "r": "faute",
+     "e": "La descente en pont est pénalisée de 1,00 point, indépendamment de la stabilité de la réception."
+    },
+    {
+     "q": "Une rotation incomplète de 180° sur un Pétrick (1er envol) est une faute pouvant aller jusqu'à 0,50 point.",
+     "r": "valable",
+     "e": "Cette faute du 1er envol figure dans le tableau des pénalités spécifiques."
+    },
+    {
+     "q": "La rotation lors du 1er envol d'un Pétrick n'est jamais évaluée par le jury E.",
+     "r": "faute",
+     "e": "La rotation incomplète du 1er envol est bien évaluée, jusqu'à 0,50 point."
+    },
+    {
+     "q": "Un dynamisme insuffisant sur le saut est une faute générale pouvant aller jusqu'à 0,50 point.",
+     "r": "valable",
+     "e": "Le dynamisme insuffisant figure parmi les fautes générales du saut."
+    },
+    {
+     "q": "Le dynamisme du saut n'entre pas dans les critères d'évaluation du jury E.",
+     "r": "faute",
+     "e": "Le dynamisme insuffisant est bien évalué, jusqu'à 0,50 point de pénalité."
+    },
+    {
+     "q": "Les fautes générales de corps cassé ou cambré s'appliquent au 1er comme au 2e envol du saut.",
+     "r": "valable",
+     "e": "Le tableau des pénalités précise que ces fautes concernent les deux envols."
+    },
+    {
+     "q": "Les fautes de corps cassé ou cambré ne concernent que le 2e envol du saut.",
+     "r": "faute",
+     "e": "Ces fautes générales s'appliquent aux deux envols, pas seulement au 2e."
+    },
+    {
+     "q": "Un saut en rondade avec faute d'angle par rapport à la verticale est une faute du 1er envol.",
+     "r": "valable",
+     "e": "Cette faute figure bien dans les fautes du 1er envol pour un saut en rondade."
+    },
+    {
+     "q": "Un saut en rondade n'est jamais évalué sur son angle par rapport à la verticale.",
+     "r": "faute",
+     "e": "L'angle par rapport à la verticale est bien évalué sur le 1er envol d'un saut en rondade."
+    }
+   ]
+  }
+ ]
+}

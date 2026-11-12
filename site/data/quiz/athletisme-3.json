@@ -1,0 +1,320 @@
+{
+ "id": "athletisme-3",
+ "titre": "Le Carnet du Juge",
+ "sousTitre": "Questionnaire n°3",
+ "entete": "Fiche d'entraînement — officiels d'athlétisme · Série 3",
+ "sport": "athletisme",
+ "source": "https://adorable-mandazi-30ea7f.netlify.app/",
+ "themes": [
+  {
+   "nom": "Courses — Juges des départs",
+   "questions": [
+    {
+     "q": "Les concurrents ne doivent pas toucher la ligne de départ avec les mains ou les pieds.",
+     "r": "valable",
+     "e": "C'est une interdiction explicite vérifiée par les aide-starters, tout comme le fait de dépasser la piste au-delà de la ligne."
+    },
+    {
+     "q": "Les aide-starters n'ont pas à se soucier de la disponibilité des témoins pour les courses de relais.",
+     "r": "faute",
+     "e": "Au contraire, ils doivent s'assurer que les témoins sont disponibles pour les premiers partants et les récupérer à l'arrivée."
+    },
+    {
+     "q": "Pour les épreuves combinées de cadets à seniors, une responsabilité de faux départ est admise avant disqualification à la deuxième.",
+     "r": "valable",
+     "e": "Contrairement aux courses individuelles cadets à seniors (tolérance zéro), les épreuves combinées admettent 1 responsabilité par course."
+    },
+    {
+     "q": "Le carton jaune, mi-jaune/mi-noir, est en vigueur depuis le 1er novembre 2011.",
+     "r": "valable",
+     "e": "C'est la date de mise en application de ce format de carton pour l'avertissement."
+    },
+    {
+     "q": "Le contrôle du point zéro se réalise après le premier départ de la compétition.",
+     "r": "faute",
+     "e": "Il se fait avant le premier départ, sous la direction du juge chef de photo finish et sous le contrôle du juge arbitre des départs."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Commissaires de courses",
+   "questions": [
+    {
+     "q": "Dans les courses en ligne droite, le commissaire veille à ce qu'un athlète ne gêne pas un autre concurrent.",
+     "r": "valable",
+     "e": "C'est le point de vigilance principal pour ce type de course."
+    },
+    {
+     "q": "Dans les courses de demi-fond, les athlètes sont autorisés à monter sur la pelouse pour doubler un concurrent.",
+     "r": "faute",
+     "e": "C'est interdit : le commissaire doit veiller à ce que les athlètes ne quittent pas la piste en montant sur la pelouse."
+    },
+    {
+     "q": "Un athlète peut faire tomber volontairement une haie avant de la franchir, sans que ce soit signalé comme faute.",
+     "r": "faute",
+     "e": "Le commissaire doit au contraire veiller à ce que les athlètes ne fassent pas tomber une haie volontairement avant de la franchir."
+    },
+    {
+     "q": "C'est le juge arbitre, et non le commissaire de course, qui prend la décision finale en cas de faute signalée.",
+     "r": "valable",
+     "e": "Le commissaire lève le drapeau à l'endroit de la faute, mais c'est le juge arbitre qui tranche."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Chronométrie électrique",
+   "questions": [
+    {
+     "q": "Jusqu'à 10 000 m inclus, le temps électrique est considéré comme officiel sauf anomalie constatée.",
+     "r": "valable",
+     "e": "Dans ce cas, la décision de basculer sur les temps manuels est prise par le juge arbitre en accord avec le chef juge photo d'arrivée."
+    },
+    {
+     "q": "Le 20 000 m sur piste est enregistré au 1/100e de seconde, sans aucune conversion.",
+     "r": "faute",
+     "e": "Le 20 000 m sur piste (à ne pas confondre avec le 20 km route) est converti et enregistré au 1/10e de seconde supérieur."
+    },
+    {
+     "q": "Le point zéro correspond à une course fictive de 0 m qui permet d'établir l'écart entre l'émetteur et le récepteur de la photo finish.",
+     "r": "valable",
+     "e": "C'est la définition même de cette étape de vérification indispensable avant chaque compétition."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Chronométrie manuelle",
+   "questions": [
+    {
+     "q": "Si un chronométreur rate le départ, il doit annoncer « temps pas pris » au chef chronométreur.",
+     "r": "valable",
+     "e": "Cela permet au chef chronométreur de pallier la situation, en prenant lui-même le temps ou en s'appuyant sur les autres chronométreurs."
+    },
+    {
+     "q": "Le chronométreur peut remettre son chronomètre à zéro dès qu'il le souhaite, sans attendre l'indication du chef chronométreur.",
+     "r": "faute",
+     "e": "La remise à zéro doit se faire quand le chef chronométreur l'indique, celui-ci pouvant effectuer un contrôle."
+    },
+    {
+     "q": "Pour les courses de demi-fond et de marche, un chronométreur dédié communique les temps de tous les concurrents à chaque passage, sans tenir compte des athlètes doublés.",
+     "r": "valable",
+     "e": "C'est une fonction supplémentaire désignée par le chef chronométreur, en plus des chronométreurs d'arrivée classiques."
+    },
+    {
+     "q": "Pour un marathon couru en 2h09'44''32, le temps officiel enregistré est 2h09'44''.",
+     "r": "faute",
+     "e": "Pour les épreuves hors stade, le temps est converti à la seconde supérieure : le temps officiel devient donc 2h09'45''."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Juges aux arrivées & compteurs de tours",
+   "questions": [
+    {
+     "q": "Un juge aux arrivées doit rester objectif et impartial, sans se laisser influencer par les autres.",
+     "r": "valable",
+     "e": "C'est une exigence de posture explicitement rappelée pour ce poste : concentration, indépendance et objectivité."
+    },
+    {
+     "q": "Le tableau affichant le nombre de tours restants doit être situé au niveau de la ligne d'arrivée.",
+     "r": "valable",
+     "e": "C'est l'emplacement prévu pour ce tableau, tenu par un juge dédié."
+    },
+    {
+     "q": "La répartition des rôles entre juges de courses est figée avant la compétition et ne peut plus évoluer ensuite.",
+     "r": "faute",
+     "e": "Au contraire, cette répartition peut évoluer en cours de compétition selon le programme de celle-ci."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut en hauteur",
+   "questions": [
+    {
+     "q": "Quand il reste 2 ou 3 athlètes en hauteur, chacun dispose d'1'30 par essai.",
+     "r": "valable",
+     "e": "C'est le temps de concentration accordé à ce stade du concours, contre 1' au début et 3' pour le dernier athlète restant."
+    },
+    {
+     "q": "Le temps de récupération entre deux essais consécutifs en hauteur est de 2 minutes.",
+     "r": "valable",
+     "e": "C'est le délai fixé entre deux tentatives successives, quel que soit le nombre d'athlètes restants."
+    },
+    {
+     "q": "En cas d'ex-aequo pour la première place, le barrage reprend directement à la hauteur suivante non tentée.",
+     "r": "faute",
+     "e": "Le barrage reprend à la première barre prévue après la dernière hauteur franchie, pas à une hauteur non tentée."
+    },
+    {
+     "q": "Pour départager un ex-aequo hors 1re place, on retient d'abord le concurrent ayant fait le moins de sauts à la hauteur où se produit l'ex-aequo.",
+     "r": "valable",
+     "e": "C'est le premier critère de départage, avant le nombre total d'échecs sur l'ensemble du concours."
+    },
+    {
+     "q": "Deux personnes sont chargées de reposer la barre après chaque essai.",
+     "r": "valable",
+     "e": "C'est l'un des rôles attribués dans le placement des juges du concours de hauteur."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut à la perche",
+   "questions": [
+    {
+     "q": "Quand il reste 2 ou 3 athlètes en perche, chacun dispose de 2 minutes par essai.",
+     "r": "valable",
+     "e": "C'est le temps de concentration accordé à ce stade, contre 1' au premier saut et 5' pour le dernier athlète restant."
+    },
+    {
+     "q": "En cas de barrage pour la première place à la perche, la barre est élevée ou abaissée de 5 cm à chaque tentative.",
+     "r": "valable",
+     "e": "Contrairement au barrage en hauteur qui se fait par pas de 2 cm, celui de la perche se fait par pas de 5 cm, comme la montée normale de barre."
+    },
+    {
+     "q": "Le secrétaire du concours annonce l'éloignement des poteaux et doit attendre le positionnement par le jury avant d'appeler le concurrent.",
+     "r": "valable",
+     "e": "C'est une étape précise du rôle du secrétaire, entre 0 et 80 cm par rapport au point zéro."
+    },
+    {
+     "q": "La sécurité en perche concerne notamment l'état des dalots de la zone d'élan et la protection des rails, poteaux et butoir.",
+     "r": "valable",
+     "e": "Ce sont des points de vigilance sécurité explicitement listés pour ce concours."
+    },
+    {
+     "q": "Le chef de concours indique si le saut est réussi ou non uniquement à l'oral, sans utiliser de drapeaux.",
+     "r": "faute",
+     "e": "Il indique la validité du saut à l'aide de drapeaux, pas seulement à la voix."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut en longueur & triple saut",
+   "questions": [
+    {
+     "q": "Après chaque saut, une personne doit ratisser le sable pour l'aplanir avant l'essai suivant.",
+     "r": "valable",
+     "e": "C'est l'un des rôles attribués dans le placement des juges de longueur et triple saut."
+    },
+    {
+     "q": "Si un concurrent prend appel totalement en dehors des extrémités latérales de la planche d'appel, c'est une faute.",
+     "r": "valable",
+     "e": "C'est une des fautes explicitement listées dans le règlement de la longueur."
+    },
+    {
+     "q": "Un athlète dispose de 2 minutes pour un saut isolé, même sans enchaînement de sauts consécutifs.",
+     "r": "faute",
+     "e": "Le temps normal est d'1 minute pour un saut ; les 2 minutes ne s'appliquent qu'en cas de 2 sauts consécutifs."
+    },
+    {
+     "q": "Pour les benjamin-e-s, le triple bond peut se faire selon la séquence D-G-D ou G-D-G, en plus de G-G-D ou D-D-G.",
+     "r": "valable",
+     "e": "C'est une variante spécifiquement autorisée pour cette catégorie."
+    },
+    {
+     "q": "L'anémomètre se déclenche pendant 10 secondes au passage de l'athlète.",
+     "r": "faute",
+     "e": "L'anémomètre est déclenché pendant 5 secondes seulement, quand l'athlète passe à 40 m (longueur) ou 35 m (triple saut)."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de poids",
+   "questions": [
+    {
+     "q": "La lecture de la mesure au lancer de poids se fait sur l'arête intérieure du dessus du butoir.",
+     "r": "valable",
+     "e": "C'est le point de lecture précis indiqué pour la mesure officielle du poids."
+    },
+    {
+     "q": "Un jet de poids qui tombe exactement sur la ligne de secteur est considéré comme valide.",
+     "r": "faute",
+     "e": "Une chute sur la ligne de secteur, comme à l'extérieur de celui-ci, constitue une faute."
+    },
+    {
+     "q": "Une dalle de béton de 4 m x 4 m autour du cercle est une installation possible pour l'aire de lancer du poids.",
+     "r": "valable",
+     "e": "C'est une des configurations admises pour l'aire de lancer, en plus d'un sol extérieur naturel-stabilisé."
+    },
+    {
+     "q": "C'est le secrétaire du concours qui détermine la validité du lancer et établit le classement final.",
+     "r": "faute",
+     "e": "C'est le chef du concours qui détermine la validité du lancer, établit la mesure officielle et le classement ; le secrétaire se contente d'inscrire les performances annoncées."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de disque",
+   "questions": [
+    {
+     "q": "La lecture de la mesure au lancer de disque se fait sur le cercle, à l'intérieur.",
+     "r": "valable",
+     "e": "C'est le point de lecture précis indiqué pour la mesure officielle du disque."
+    },
+    {
+     "q": "C'est le secrétaire du concours qui détermine la validité du lancer de disque.",
+     "r": "faute",
+     "e": "C'est le chef du concours qui détermine la validité du lancer ; le secrétaire inscrit seulement les performances annoncées."
+    },
+    {
+     "q": "Deux personnes surveillent le point de chute au disque, l'une d'elles tenant la fiche du point 0.",
+     "r": "valable",
+     "e": "C'est le rôle attribué à ces deux personnes dans le placement des juges du concours de disque."
+    },
+    {
+     "q": "La sécurité au disque exige de vérifier l'absence de béance entre les filets et les montants de la cage.",
+     "r": "valable",
+     "e": "C'est un point de vigilance explicitement listé, en plus de l'état du terrain et du secteur dégagé."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de javelot",
+   "questions": [
+    {
+     "q": "La mesure au javelot se lit sur le bord intérieur de l'arc de cercle.",
+     "r": "valable",
+     "e": "C'est le point de lecture précis indiqué pour la mesure officielle du javelot."
+    },
+    {
+     "q": "En quittant la piste d'élan, le premier contact peut se faire n'importe où, sans contrainte de ligne.",
+     "r": "faute",
+     "e": "Le premier contact doit se faire derrière des lignes tracées à angles droits à partir des extrémités de l'arc, ou en arrière d'une marque à 4 m de l'arc."
+    },
+    {
+     "q": "La sécurité au javelot inclut la vigilance sur les effets du vent et de la foudre sur les installations du stade.",
+     "r": "valable",
+     "e": "C'est un point de sécurité spécifiquement mentionné pour ce lancer, en lien avec la météo."
+    },
+    {
+     "q": "C'est le chef du concours qui établit la mesure officielle et le classement au javelot.",
+     "r": "valable",
+     "e": "Comme pour les autres lancers, c'est le chef du concours qui détermine la validité, établit la mesure et le classement."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de marteau",
+   "questions": [
+    {
+     "q": "Le concurrent est autorisé à toucher l'intérieur de la bande de fer du cercle pendant le lancer de marteau.",
+     "r": "valable",
+     "e": "Ce contact est explicitement autorisé, comme au poids et au disque."
+    },
+    {
+     "q": "Un athlète peut s'arrêter, poser son marteau au sol, puis recommencer son essai depuis une position stationnaire, dans le respect du temps imparti.",
+     "r": "valable",
+     "e": "C'est une possibilité explicitement offerte par le règlement du marteau."
+    },
+    {
+     "q": "La lecture de la mesure au marteau se fait sur le cercle, à l'extérieur.",
+     "r": "faute",
+     "e": "La lecture se fait à l'intérieur du cercle, comme pour le poids et le disque."
+    },
+    {
+     "q": "La sécurité au marteau concerne notamment l'utilisation appropriée des panneaux mobiles de la cage.",
+     "r": "valable",
+     "e": "C'est un point de vigilance propre au marteau, en plus de l'état des filets et du terrain."
+    }
+   ]
+  }
+ ]
+}

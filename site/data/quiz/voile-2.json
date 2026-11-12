@@ -1,0 +1,265 @@
+{
+ "id": "voile-2",
+ "titre": "Les 9 rôles du jeune arbitre",
+ "sousTitre": "Quiz Jeune Arbitre Voile",
+ "entete": "",
+ "sport": "voile",
+ "source": "https://bucolic-crostata-9df0d6.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le chronométreur fait le décompte à voix haute pour chaque pavillon.",
+     "r": "valable",
+     "e": "Il fait le décompte à voix haute, pavillon par pavillon."
+    },
+    {
+     "q": "Le commissaire aux bouées ne s'occupe jamais du passage des concurrents.",
+     "r": "faute",
+     "e": "Attention : c'est sa mission principale : noter ce passage et les incidents éventuels."
+    },
+    {
+     "q": "Le jeune arbitre doit assister à la remise des récompenses jusqu'à la fin.",
+     "r": "valable",
+     "e": "Il doit assister respectueusement à la remise des récompenses, jusqu'à la fin."
+    },
+    {
+     "q": "Le mouilleur doit se repérer sur le plan d'eau par rapport au vent et au bateau comité.",
+     "r": "valable",
+     "e": "Il doit se repérer précisément pour établir un parcours équitable."
+    },
+    {
+     "q": "Dès son retour à terre, le jeune arbitre doit informer l'équipe de la CMN de sa présence.",
+     "r": "valable",
+     "e": "Il doit informer l'équipe de la CMN et faire les retours sur sa journée."
+    },
+    {
+     "q": "Le jeune arbitre peut quitter la compétition dès la fin de sa dernière course.",
+     "r": "faute",
+     "e": "Attention : il doit assister respectueusement à la remise des récompenses, jusqu'à la fin."
+    },
+    {
+     "q": "Le pavillonneur doit être prêt en cas de rappel individuel ou général.",
+     "r": "valable",
+     "e": "Il doit être prêt à agir lors de ces rappels, individuels ou généraux."
+    },
+    {
+     "q": "L'adjoint du comité de course s'assure que chacun est à son poste.",
+     "r": "valable",
+     "e": "L'adjoint peut s'assurer que chacun est à son poste et sait ce qu'il doit faire."
+    },
+    {
+     "q": "L'umpire suit la régate depuis la plage, à terre.",
+     "r": "faute",
+     "e": "Attention : l'umpire est bien à bord d'un bateau à moteur, pour l'arbitrage semi-direct."
+    },
+    {
+     "q": "Le président du comité de course décide du classement des concurrents.",
+     "r": "valable",
+     "e": "Le président décide du classement à chaque course de la régate."
+    },
+    {
+     "q": "Le rôle à terre inclut l'aide à la collecte des résultats et au calcul des classements.",
+     "r": "valable",
+     "e": "Il aide le PC course à collecter les résultats et calculer les classements."
+    },
+    {
+     "q": "Le président du comité de course décide de l'implantation de la ligne de départ.",
+     "r": "valable",
+     "e": "C'est l'une de ses missions principales."
+    },
+    {
+     "q": "Le rôle à terre inclut la vérification de la mixité des équipes qui courent.",
+     "r": "valable",
+     "e": "Cette vérification fait partie de ses missions, notamment en sport partagé."
+    },
+    {
+     "q": "Le jeune arbitre n'a aucune obligation après son retour à terre.",
+     "r": "faute",
+     "e": "Attention : il doit informer l'équipe de la CMN et faire les retours sur sa journée."
+    },
+    {
+     "q": "Le pavillonneur doit connaître la pavillonnerie et préparer l'envoi des pavillons.",
+     "r": "valable",
+     "e": "C'est précisément son rôle : connaître et préparer l'envoi des pavillons."
+    },
+    {
+     "q": "Le jeune arbitre doit noter sa présence, le lieu et le rôle attribué sur son carton de contrôle.",
+     "r": "valable",
+     "e": "Il note ces informations sur son carton de contrôle à chaque rotation."
+    },
+    {
+     "q": "Le jeune arbitre est identifié par un tee-shirt vert lors des championnats de France.",
+     "r": "faute",
+     "e": "Attention : c'est un brassard jaune fluo qui identifie le jeune arbitre en voile."
+    },
+    {
+     "q": "Le jeune arbitre n'a aucun document à remplir pendant la compétition.",
+     "r": "faute",
+     "e": "Attention : il note ces informations sur son carton de contrôle à chaque rotation."
+    },
+    {
+     "q": "Le mouilleur aide à mouiller ou déplacer les marques du parcours selon le vent.",
+     "r": "valable",
+     "e": "Il aide à cette tâche, à bord d'un bateau rapide, sur ordre du comité."
+    },
+    {
+     "q": "Le viseur ne vérifie jamais les réparations de faute.",
+     "r": "faute",
+     "e": "Attention : cette vérification fait partie de son rôle."
+    },
+    {
+     "q": "Le président du comité de course ne s'occupe jamais de la ligne de départ.",
+     "r": "faute",
+     "e": "Attention : c'est l'une de ses missions principales."
+    },
+    {
+     "q": "Le viseur s'occupe uniquement du classement final.",
+     "r": "faute",
+     "e": "Attention : viser la ligne et indiquer les infractions sont ses missions principales."
+    },
+    {
+     "q": "L'umpire n'impose jamais de pénalité directement, il se contente d'observer.",
+     "r": "faute",
+     "e": "Attention : il impose la pénalité en direct si le fautif ne répare pas de lui-même."
+    },
+    {
+     "q": "Cette vérification n'est jamais faite par l'adjoint, mais uniquement par le président.",
+     "r": "faute",
+     "e": "Attention : l'adjoint peut s'assurer que chacun est à son poste et sait ce qu'il doit faire."
+    },
+    {
+     "q": "Un jeune arbitre reste toujours sur le même poste pendant tout le championnat.",
+     "r": "faute",
+     "e": "Attention : il doit vivre la majorité des postes et rotation pour son évaluation."
+    },
+    {
+     "q": "Le mouilleur n'a pas besoin de se repérer, il suit simplement les instructions.",
+     "r": "faute",
+     "e": "Attention : il doit se repérer précisément pour établir un parcours équitable."
+    },
+    {
+     "q": "Le rôle à terre n'a aucun lien avec la vérification de la mixité des équipes.",
+     "r": "faute",
+     "e": "Attention : cette vérification fait partie de ses missions, notamment en sport partagé."
+    },
+    {
+     "q": "Le jeune arbitre est identifié par un brassard jaune fluo lors des championnats de France.",
+     "r": "valable",
+     "e": "C'est un brassard jaune fluo qui identifie le jeune arbitre en voile."
+    },
+    {
+     "q": "L'adjoint du comité de course peut établir des relevés de vent.",
+     "r": "valable",
+     "e": "Il peut établir ces relevés et en informer le président."
+    },
+    {
+     "q": "Le secrétaire sur l'eau note les informations utiles pour témoigner des procédures et pénalités.",
+     "r": "valable",
+     "e": "C'est précisément sa mission : noter ces informations."
+    },
+    {
+     "q": "Le rôle à terre se limite uniquement à l'accueil des spectateurs.",
+     "r": "faute",
+     "e": "Attention : il aide le PC course à collecter les résultats et calculer les classements."
+    },
+    {
+     "q": "Le pavillonneur n'a aucun rapport avec les pavillons de la régate.",
+     "r": "faute",
+     "e": "Attention : c'est précisément son rôle : connaître et préparer l'envoi des pavillons."
+    },
+    {
+     "q": "Le mouilleur n'intervient jamais sur les marques du parcours.",
+     "r": "faute",
+     "e": "Attention : il aide à cette tâche, à bord d'un bateau rapide, sur ordre du comité."
+    },
+    {
+     "q": "L'umpire impose les pénalités en direct sur l'eau si le fautif ne répare pas spontanément.",
+     "r": "valable",
+     "e": "Il impose la pénalité en direct si le fautif ne répare pas de lui-même."
+    },
+    {
+     "q": "Le viseur vise la ligne de départ et indique les infractions.",
+     "r": "valable",
+     "e": "Viser la ligne et indiquer les infractions sont ses missions principales."
+    },
+    {
+     "q": "Un jeune arbitre doit vivre la majorité des postes pour pouvoir être évalué.",
+     "r": "valable",
+     "e": "Il doit vivre la majorité des postes et rotation pour son évaluation."
+    },
+    {
+     "q": "L'umpire peut sanctionner dès qu'il a un simple soupçon d'infraction.",
+     "r": "faute",
+     "e": "Attention : en cas de doute, aucune sanction n'est prise ; le doute profite au fautif."
+    },
+    {
+     "q": "L'adjoint du comité de course n'a aucun lien avec les relevés météorologiques.",
+     "r": "faute",
+     "e": "Attention : il peut établir ces relevés et en informer le président."
+    },
+    {
+     "q": "Le chronométreur ne s'occupe jamais du temps, seulement du classement.",
+     "r": "faute",
+     "e": "Attention : tenir le chronomètre est sa mission principale."
+    },
+    {
+     "q": "L'umpire communique par VHF avec le président du comité de course ou le PC Course.",
+     "r": "valable",
+     "e": "Il communique par VHF pour prévenir toute infraction ou demande de réparation."
+    },
+    {
+     "q": "Le viseur vérifie aussi les bateaux qui réparent leur faute.",
+     "r": "valable",
+     "e": "Cette vérification fait partie de son rôle."
+    },
+    {
+     "q": "Le secrétaire sur l'eau ne prend jamais de notes pendant la course.",
+     "r": "faute",
+     "e": "Attention : c'est précisément sa mission : noter ces informations."
+    },
+    {
+     "q": "Une décision de l'umpire n'est prise que s'il n'y a aucun doute que la règle a été enfreinte.",
+     "r": "valable",
+     "e": "En cas de doute, aucune sanction n'est prise ; le doute profite au fautif."
+    },
+    {
+     "q": "Le classement est uniquement décidé par le secrétaire sur l'eau.",
+     "r": "faute",
+     "e": "Attention : le président décide du classement à chaque course de la régate."
+    },
+    {
+     "q": "Le chronométreur reste silencieux pendant toute la procédure.",
+     "r": "faute",
+     "e": "Attention : il fait le décompte à voix haute, pavillon par pavillon."
+    },
+    {
+     "q": "L'umpire suit la régate à bord d'un bateau à moteur piloté par un adulte.",
+     "r": "valable",
+     "e": "L'umpire est bien à bord d'un bateau à moteur, pour l'arbitrage semi-direct."
+    },
+    {
+     "q": "Le pavillonneur n'intervient jamais lors des rappels.",
+     "r": "faute",
+     "e": "Attention : il doit être prêt à agir lors de ces rappels, individuels ou généraux."
+    },
+    {
+     "q": "L'umpire n'a aucun moyen de communication avec les autres officiels.",
+     "r": "faute",
+     "e": "Attention : il communique par VHF pour prévenir toute infraction ou demande de réparation."
+    },
+    {
+     "q": "Le chronométreur tient le chronomètre pour suivre les procédures.",
+     "r": "valable",
+     "e": "Tenir le chronomètre est sa mission principale."
+    },
+    {
+     "q": "Le commissaire aux bouées note le passage des concurrents aux marques du parcours.",
+     "r": "valable",
+     "e": "C'est sa mission principale : noter ce passage et les incidents éventuels."
+    }
+   ]
+  }
+ ]
+}

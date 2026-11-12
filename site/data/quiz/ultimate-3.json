@@ -1,0 +1,265 @@
+{
+ "id": "ultimate-3",
+ "titre": "Les rôles du Jeune Superviseur & les signaux",
+ "sousTitre": "Quiz Jeune Superviseur Ultimate",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT ULTIMATE UNSS",
+ "sport": "ultimate",
+ "source": "https://silly-biscotti-9f397a.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le Jeune Superviseur en Ultimate doit tenir 3 rôles : secrétaire, chronométreur, observateur.",
+     "r": "valable",
+     "e": "Le Jeune Superviseur en Ultimate doit tenir 3 rôles : Secrétaire, Chronométreur, Observateur."
+    },
+    {
+     "q": "Le secrétaire se tient debout autour du terrain.",
+     "r": "faute",
+     "e": "Le secrétaire est à la table, pas debout autour du terrain (c'est l'observateur qui se déplace autour du terrain)."
+    },
+    {
+     "q": "Le secrétaire vérifie les licences au premier match.",
+     "r": "valable",
+     "e": "Le secrétaire vérifie les licences (premier match)."
+    },
+    {
+     "q": "Le secrétaire n'a pas besoin de communiquer avec le chronométreur.",
+     "r": "faute",
+     "e": "Le secrétaire doit communiquer avec le chronométreur en se faisant bien entendre de tous."
+    },
+    {
+     "q": "Le secrétaire gère l'affichage du score et remplit la feuille au fur et à mesure.",
+     "r": "valable",
+     "e": "Le secrétaire gère l'affichage du score et remplit la feuille au fur et à mesure (score / temps morts…)."
+    },
+    {
+     "q": "Le chronométreur annonce « reprise du temps dans 30 sec » dès le début du temps mort.",
+     "r": "faute",
+     "e": "Il annonce « reprise du temps dans 30 sec » à 1'30, pas dès le début du temps mort de 2 minutes."
+    },
+    {
+     "q": "Le chronométreur se tient debout à côté de la table.",
+     "r": "valable",
+     "e": "Le chronométreur est debout à côté de la table."
+    },
+    {
+     "q": "Le changement de joueur peut se faire à tout moment, même hors turnover.",
+     "r": "faute",
+     "e": "Le changement de joueur s'effectue à l'initiative de l'équipe qui récupère le disque en attaque lors d'un turnover uniquement."
+    },
+    {
+     "q": "Le chronométreur déclenche le chronomètre au moment du pull.",
+     "r": "valable",
+     "e": "Le chronométreur déclenche le chronomètre au moment du pull et annonce le temps au fur et à mesure."
+    },
+    {
+     "q": "L'observateur décide lui-même des fautes commises par les joueurs.",
+     "r": "faute",
+     "e": "L'observateur relaie les appels des joueurs, il ne décide jamais à leur place."
+    },
+    {
+     "q": "Le chronométreur gère un temps mort de 2 minutes par équipe et par match.",
+     "r": "valable",
+     "e": "Gestion des temps morts (un temps mort de 2' par équipe et par match)."
+    },
+    {
+     "q": "Le signal « Down » (disque au sol) se fait en pointant l'index vers le haut.",
+     "r": "faute",
+     "e": "« Down » se fait en pointant l'index vers le sol avec un angle de 45°, pas vers le haut (c'est « Up » qui pointe vers le haut)."
+    },
+    {
+     "q": "Au collège, le chronométreur annonce les changements de joueurs toutes les 2'30.",
+     "r": "valable",
+     "e": "Annoncer les changements toutes les 2'30 (collège) et 4' (lycée)."
+    },
+    {
+     "q": "Le référent adulte peut s'adresser directement aux joueurs sur le terrain à tout moment.",
+     "r": "faute",
+     "e": "Il est autorisé à s'adresser uniquement au Jeune Coach et aux joueurs en dehors du terrain, pas directement sur le terrain."
+    },
+    {
+     "q": "Au lycée, le chronométreur annonce les changements de joueurs toutes les 4 minutes.",
+     "r": "valable",
+     "e": "Au lycée, les changements sont annoncés toutes les 4 minutes."
+    },
+    {
+     "q": "Officier en tant que Superviseur sur un championnat de France engendre automatiquement une certification nationale.",
+     "r": "faute",
+     "e": "Officier en tant que SUPERVISEUR sur un championnat de France n'engendre pas systématiquement une certification nationale."
+    },
+    {
+     "q": "Le chronométreur annonce 30 secondes pour l'équipe recevant l'engagement.",
+     "r": "valable",
+     "e": "Annoncer les séquences de jeu (30'' équipe recevant l'engagement)."
+    },
+    {
+     "q": "Le secrétaire se déplace autour du terrain comme l'observateur.",
+     "r": "faute",
+     "e": "Le secrétaire reste à la table de marque, c'est l'observateur qui se déplace autour du terrain."
+    },
+    {
+     "q": "Le chronométreur annonce 45 secondes pour l'équipe effectuant l'engagement.",
+     "r": "valable",
+     "e": "Le chronométreur annonce 45'' pour l'équipe effectuant l'engagement."
+    },
+    {
+     "q": "Le chronométreur peut remettre à zéro le chronomètre de séquence n'importe quand, sans raison précise.",
+     "r": "faute",
+     "e": "Le chronomètre n'est remis à zéro que dans des cas précis : changement demandé, temps mort, point marqué."
+    },
+    {
+     "q": "Le chronométreur écrit le CAP s'il y en a un sur la tablette Velleda.",
+     "r": "valable",
+     "e": "Le chronométreur annonce le CAP s'il y en a un et l'écrit sur la tablette Velleda."
+    },
+    {
+     "q": "L'observateur peut décider d'une faute à la place des joueurs s'il est certain de son analyse.",
+     "r": "faute",
+     "e": "L'observateur relaie uniquement les appels des joueurs ; il ne décide jamais à leur place, même en étant certain."
+    },
+    {
+     "q": "L'observateur se tient autour du terrain.",
+     "r": "valable",
+     "e": "L'observateur se déplace autour du terrain."
+    },
+    {
+     "q": "Le protocole de début de match (tirage au sort, entrée des joueurs) n'a pas besoin d'être supervisé.",
+     "r": "faute",
+     "e": "L'observateur supervise justement ce protocole de début de match."
+    },
+    {
+     "q": "L'observateur vérifie le matériel : disque et lignes du terrain.",
+     "r": "valable",
+     "e": "L'observateur vérifie le matériel (disque / lignes du terrain)."
+    },
+    {
+     "q": "Le signal « Violation » et le signal « Faute » utilisent exactement le même geste.",
+     "r": "faute",
+     "e": "Ce sont deux gestes différents : bras croisés devant pour la faute, bras en V au-dessus de la tête pour la violation."
+    },
+    {
+     "q": "L'observateur supervise le protocole de début de match, dont le tirage au sort.",
+     "r": "valable",
+     "e": "L'observateur supervise le protocole du début de match (tirage au sort, entrée des joueurs…)."
+    },
+    {
+     "q": "Le signal « In/Out » est identique au signal « Up/Down ».",
+     "r": "faute",
+     "e": "Ce sont des gestes différents : In/Out se fait bras tendu latéralement, Up/Down avec l'index pointé verticalement ou à 45°."
+    },
+    {
+     "q": "L'observateur relaie les appels de faute avec les signaux manuels.",
+     "r": "valable",
+     "e": "L'observateur relaie les appels à la faute effectués par les joueurs avec les signaux manuels."
+    },
+    {
+     "q": "Le Jeune Coach peut être un joueur actif sur le terrain en plus de son rôle de coach.",
+     "r": "faute",
+     "e": "Le Jeune Coach est non-joueur, comme précisé dans le format de jeu (1 Jeune Coach non joueur)."
+    },
+    {
+     "q": "L'observateur se tient à disposition des joueurs pour un rappel de règle.",
+     "r": "valable",
+     "e": "L'observateur se tient à la disposition des joueurs pour toute demande d'aide ou de rappel de la règle."
+    },
+    {
+     "q": "Le Jeune Officiel (superviseur) peut également être un joueur remplaçant de l'équipe qu'il supervise.",
+     "r": "faute",
+     "e": "Le format de jeu précise 1 Jeune Officiel non joueur, distinct des joueurs et remplaçants."
+    },
+    {
+     "q": "H-15 minutes avant la rencontre, on vérifie la caisse de la table de marque.",
+     "r": "valable",
+     "e": "H-15' : Vérification de la caisse de la table de marque."
+    },
+    {
+     "q": "La certification internationale ISF est automatiquement accordée à tout Jeune Superviseur de niveau national.",
+     "r": "faute",
+     "e": "Elle n'est accordée que si le Jeune Superviseur est sélectionné pour officier lors d'un championnat du monde ISF, pas automatiquement."
+    },
+    {
+     "q": "H-10 minutes avant la rencontre, on procède à l'appel des équipes et à la vérification des licences.",
+     "r": "valable",
+     "e": "H-10' : Appel des équipes et vérifications de licences (premier match)."
+    },
+    {
+     "q": "Le secrétaire n'a pas besoin de préparer la feuille de match avant la rencontre.",
+     "r": "faute",
+     "e": "Le secrétaire doit préparer la feuille de match avant la rencontre, dans le cadre de ses missions."
+    },
+    {
+     "q": "H-3 minutes avant la rencontre, les 2 capitaines effectuent le tirage au sort pour l'engagement.",
+     "r": "valable",
+     "e": "H-3' : Mise en place du tirage au sort par les 2 capitaines pour déterminer l'engagement."
+    },
+    {
+     "q": "Le chronométreur n'a pas besoin de vérifier que les chronomètres fonctionnent avant le match.",
+     "r": "faute",
+     "e": "Vérifier que les chronomètres fonctionnent fait partie de ses missions avant le match."
+    },
+    {
+     "q": "Après la rencontre, chaque équipe dispose de 5 minutes pour le pré-cercle.",
+     "r": "valable",
+     "e": "Chaque équipe dispose de 5 minutes pour faire son pré-cercle et effectuer l'EDJ."
+    },
+    {
+     "q": "L'observateur n'a pas besoin de vérifier le matériel avant le match.",
+     "r": "faute",
+     "e": "Vérifier le matériel (disque / lignes du terrain) fait partie de ses missions avant le match."
+    },
+    {
+     "q": "Le Jeune Superviseur porte un polo de couleur verte lors des championnats de France.",
+     "r": "valable",
+     "e": "Le Jeune SUPERVISEUR est identifié par un polo de couleur verte, au niveau des différentes organisations nationales et championnats de France."
+    },
+    {
+     "q": "Le signal « Rétracté » et le signal « Point » utilisent le même geste.",
+     "r": "faute",
+     "e": "Ce sont deux gestes différents : balayage croisé vers le bas pour rétracté, bras tendus verticalement pour point."
+    },
+    {
+     "q": "Le Jeune Superviseur se rend sur le terrain en tenue de sport (short ou jogging noir) avec maillot de jeune arbitre.",
+     "r": "valable",
+     "e": "Il se rend sur le lieu de la rencontre en tenue de sport (short ou jogging noir), maillot de jeune arbitre."
+    },
+    {
+     "q": "Un Jeune Superviseur peut officier sans avoir la tenue vestimentaire requise.",
+     "r": "faute",
+     "e": "L'identification par le polo vert et la tenue de sport appropriée est une exigence du règlement."
+    },
+    {
+     "q": "Le signal « Faute » se fait avec un bras tendu vers l'avant et l'autre bras qui le croise.",
+     "r": "valable",
+     "e": "Faute : un bras tendu vers l'avant et l'autre bras qui le croise."
+    },
+    {
+     "q": "Le niveau de certification le plus bas exige une note de 16/20.",
+     "r": "faute",
+     "e": "C'est le niveau national (le plus haut) qui exige 16/20 ; le niveau départemental exige 12/20."
+    },
+    {
+     "q": "Le signal « Violation » se fait avec les bras tendus au-dessus de la tête formant un V.",
+     "r": "valable",
+     "e": "Violation : bras tendus au-dessus de la tête formant un V, poings fermés."
+    },
+    {
+     "q": "La partie théorique de l'évaluation est notée sur 16 points.",
+     "r": "faute",
+     "e": "La partie théorique est notée sur 4 points, la partie pratique sur 16 points."
+    },
+    {
+     "q": "Le signal « Point » se fait avec les bras tendus verticalement au-dessus de la tête.",
+     "r": "valable",
+     "e": "Point : bras tendus verticalement au-dessus de la tête, paumes des mains vers l'intérieur."
+    },
+    {
+     "q": "Un jeune superviseur n'a besoin d'aucun document particulier pour remplir sa fonction.",
+     "r": "faute",
+     "e": "Il doit disposer de l'ensemble des documents nécessaires (licence UNSS, règlement…) pour remplir sa fonction."
+    }
+   ]
+  }
+ ]
+}

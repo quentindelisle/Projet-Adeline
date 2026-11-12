@@ -1,0 +1,265 @@
+{
+ "id": "ultimate-2",
+ "titre": "Le compte, le check & les manquements",
+ "sousTitre": "Quiz Jeune Superviseur Ultimate",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT ULTIMATE UNSS",
+ "sport": "ultimate",
+ "source": "https://ubiquitous-cobbler-a1926e.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le marqueur débute le compte en annonçant « compté » puis compte de 1 à 10.",
+     "r": "valable",
+     "e": "Le marqueur débute un compte sur le lanceur en annonçant « compté » puis compte de 1 à 10."
+    },
+    {
+     "q": "Le marqueur peut compter même s'il est à 5 mètres du lanceur.",
+     "r": "faute",
+     "e": "Le marqueur ne peut compter que lorsqu'il est à moins de 3 mètres du lanceur."
+    },
+    {
+     "q": "L'intervalle entre chaque nombre du compte doit être d'au moins 1 seconde.",
+     "r": "valable",
+     "e": "L'intervalle entre le début de chaque nombre doit être d'au moins 1 seconde."
+    },
+    {
+     "q": "Si un autre joueur devient le marqueur, le compte continue là où il était.",
+     "r": "faute",
+     "e": "Si un autre joueur devient le marqueur, le compte redémarre à « compté 1 »."
+    },
+    {
+     "q": "Si le compte atteint 10 avant le lancer et que l'appel est non contesté, il y a changement de possession.",
+     "r": "valable",
+     "e": "Avant que le lanceur n'ait lancé, si non contesté : il y a changement de possession."
+    },
+    {
+     "q": "Suite à un manquement défensif non contesté, le compte reprend là où il s'était arrêté.",
+     "r": "faute",
+     "e": "Suite à un manquement défensif non contesté, le compte reprend à « compté 1 », pas là où il s'était arrêté (c'est le cas pour un manquement offensif)."
+    },
+    {
+     "q": "Si le compte atteint 10 avant le lancer et que l'appel est contesté, le compte reprend à 8.",
+     "r": "valable",
+     "e": "Avant le lancer, si contesté : le compte reprend à 8."
+    },
+    {
+     "q": "Le check peut être retardé indéfiniment sans justification.",
+     "r": "faute",
+     "e": "Le check ne peut être retardé que par une discussion concernant un appel ; sinon l'adversaire peut appeler « délai de jeu »."
+    },
+    {
+     "q": "Tous les appels de manquement aux règles arrêtent le compte.",
+     "r": "valable",
+     "e": "Tous les appels de manquement aux règles arrêtent le compte."
+    },
+    {
+     "q": "Il y a un check après une remise en jeu suite à une sortie en touche.",
+     "r": "faute",
+     "e": "Il n'y a pas de check lors d'une remise en jeu (touche)."
+    },
+    {
+     "q": "Suite à un manquement offensif non contesté, le compte reprend là où il s'était arrêté.",
+     "r": "valable",
+     "e": "Suite à un manquement offensif non contesté, le compte reprend là où il s'était arrêté."
+    },
+    {
+     "q": "En cas d'infraction, le jeu s'arrête immédiatement.",
+     "r": "faute",
+     "e": "En cas d'infraction, le jeu ne s'arrête pas."
+    },
+    {
+     "q": "Suite à un manquement contesté (offensif ou défensif), le compte reprend au maximum à « compté 6 ».",
+     "r": "valable",
+     "e": "Suite à un manquement contesté, le compte reprend au maximum à « compté 6 »."
+    },
+    {
+     "q": "Lorsqu'une faute est appelée, un turnover reste possible immédiatement.",
+     "r": "faute",
+     "e": "Lorsqu'une faute ou une violation est appelée, le jeu s'arrête immédiatement et aucun turnover n'est possible."
+    },
+    {
+     "q": "Le « check » consiste à toucher le disque tenu par l'attaquant après un décompte de 3, en annonçant « Disc In ».",
+     "r": "valable",
+     "e": "Le défenseur effectue un décompte de « 3 » puis annonce « Disc In » en touchant le disque tenu par l'attaquant."
+    },
+    {
+     "q": "Si la possession est établie par l'équipe qui a appelé la faute, le jeu s'arrête alors.",
+     "r": "faute",
+     "e": "Si la possession est établie par l'équipe qui a appelé la faute, le jeu continue (il s'arrête si établie par l'équipe adverse)."
+    },
+    {
+     "q": "Si le défenseur est trop loin pour checker, c'est l'attaquant qui tape le disque au sol en annonçant « disque en jeu ».",
+     "r": "valable",
+     "e": "Si le défenseur est trop loin, c'est l'attaquant en possession du disque qui le tape au sol."
+    },
+    {
+     "q": "Un joueur peut pousser un adversaire pour prendre sa position sur le terrain.",
+     "r": "faute",
+     "e": "Il est interdit de pousser ou de chercher à prendre la position d'un autre joueur en initiant un contact."
+    },
+    {
+     "q": "Un check a lieu après un temps mort.",
+     "r": "valable",
+     "e": "Il y a un check après un temps mort."
+    },
+    {
+     "q": "Un disque intercepté par un défenseur reste en possession de l'attaque.",
+     "r": "faute",
+     "e": "Le disque attrapé par un défenseur (interception) entraîne un changement de possession (turnover)."
+    },
+    {
+     "q": "Il n'y a pas de check après une interception d'un défenseur.",
+     "r": "valable",
+     "e": "Il n'y a pas de check lors d'une interception d'un défenseur."
+    },
+    {
+     "q": "Le pick est une catégorie de faute, pas de violation.",
+     "r": "faute",
+     "e": "Le pick (obstruction) est classé parmi les violations, pas les fautes."
+    },
+    {
+     "q": "Il existe trois types de manquements aux règles : les fautes, les infractions et les violations.",
+     "r": "valable",
+     "e": "Il existe trois types de manquements aux règles : FAUTES, INFRACTIONS et VIOLATIONS."
+    },
+    {
+     "q": "Le marqueur qui a été gêné dans son déplacement (pick) peut appeler la faute.",
+     "r": "faute",
+     "e": "Pour un pick, c'est le défenseur gêné dans son déplacement qui peut l'appeler, pas le marqueur en tant que tel — mais la règle précise que c'est le joueur gêné."
+    },
+    {
+     "q": "Les fautes résultent d'un contact non accidentel entre deux ou plusieurs adversaires.",
+     "r": "valable",
+     "e": "Les FAUTES résultent d'un contact non accidentel entre deux ou plusieurs adversaires."
+    },
+    {
+     "q": "Un « stall out » (compte terminé) peut être appelé uniquement par le lanceur lui-même.",
+     "r": "faute",
+     "e": "C'est le défenseur sur la marque qui peut appeler le stall out (compte terminé), pas le lanceur."
+    },
+    {
+     "q": "Les infractions concernent le marquage et le fait de marcher.",
+     "r": "valable",
+     "e": "Les INFRACTIONS concernent le marquage et le marcher."
+    },
+    {
+     "q": "Si un joueur arrête le jeu par erreur suite à une mauvaise compréhension, toutes les actions suivies sont annulées.",
+     "r": "faute",
+     "e": "Toutes les actions suivies sont maintenues et le jeu reprend par un check là où il s'est arrêté."
+    },
+    {
+     "q": "Les violations regroupent tous les autres manquements, comme le pick.",
+     "r": "valable",
+     "e": "Les VIOLATIONS regroupent tous les autres manquements aux règles (le pick, les violations de l'EDJ…)."
+    },
+    {
+     "q": "Le disque hors limites ne provoque jamais de changement de possession.",
+     "r": "faute",
+     "e": "Le disque tombant hors limites provoque bien un changement de possession (turnover)."
+    },
+    {
+     "q": "En cas de faute, le jeu s'arrête immédiatement.",
+     "r": "valable",
+     "e": "En cas de faute ou de violation, le jeu s'arrête."
+    },
+    {
+     "q": "Un réceptionneur qui attrape le disque en l'air et retombe hors limites conserve la possession.",
+     "r": "faute",
+     "e": "Cela entraîne un changement de possession (turnover), la possession n'est pas conservée."
+    },
+    {
+     "q": "Les appels doivent être faits immédiatement après que le manquement se soit produit.",
+     "r": "valable",
+     "e": "Les appels doivent être faits immédiatement après que le manquement aux règles se soit produit."
+    },
+    {
+     "q": "Le marqueur peut compter à voix basse, inaudible pour le lanceur.",
+     "r": "faute",
+     "e": "Le compte doit être clairement audible par le lanceur."
+    },
+    {
+     "q": "Un joueur peut se rétracter après un appel de faute qu'il juge finalement inutile.",
+     "r": "valable",
+     "e": "Un joueur ayant appelé « faute », « violation » ou « contest » peut se rétracter s'il considère que son appel était inutile."
+    },
+    {
+     "q": "Le check peut être effectué avant que les deux équipes ne soient prêtes.",
+     "r": "faute",
+     "e": "Le joueur qui checke doit vérifier avec l'adversaire le plus proche que les équipes sont prêtes."
+    },
+    {
+     "q": "Si l'appel est fait lors du lancer, le jeu continue jusqu'à ce que la possession soit établie.",
+     "r": "valable",
+     "e": "Si l'appel a été effectué lors du lancer, le jeu continue jusqu'à ce que la possession soit établie."
+    },
+    {
+     "q": "Un joueur peut checker le disque sans respecter les positions initiales des joueurs.",
+     "r": "faute",
+     "e": "Tous les joueurs doivent avoir repris la position qu'ils occupaient au moment de l'arrêt de jeu avant le check."
+    },
+    {
+     "q": "Le contact accidentel n'affectant pas le résultat d'une action n'est pas considéré comme une faute.",
+     "r": "valable",
+     "e": "Les contacts accidentels doivent être évités mais ne sont pas considérés comme une faute."
+    },
+    {
+     "q": "Une violation d'obstruction (pick) appelée avant la passe n'a aucune conséquence sur la possession.",
+     "r": "faute",
+     "e": "Si l'appel de pick est effectué avant la passe, le disque revient au lanceur quel que soit l'issue de la réception."
+    },
+    {
+     "q": "Le lanceur qui tente une passe avant le check garde la possession du disque, quelle que soit l'issue.",
+     "r": "valable",
+     "e": "Si le lanceur tente une passe avant le check, le disque revient au lanceur indépendamment du fait que la passe ait été complétée ou non."
+    },
+    {
+     "q": "Un turnover causé par une passe non complétée nécessite un check pour reprendre le jeu.",
+     "r": "faute",
+     "e": "Il n'y a pas de check lors d'un changement de possession dû à une passe non complétée."
+    },
+    {
+     "q": "Il est interdit de bloquer intentionnellement le déplacement d'un joueur adverse.",
+     "r": "valable",
+     "e": "Il est interdit de bloquer intentionnellement ou d'empêcher le déplacement d'un joueur adverse."
+    },
+    {
+     "q": "Une faute simultanée entre deux joueurs n'existe pas dans la liste des manquements du règlement.",
+     "r": "faute",
+     "e": "Les fautes simultanées font partie de la liste des types de fautes recensées dans le règlement."
+    },
+    {
+     "q": "Le disque qui touche le sol alors qu'il n'est pas en possession d'un attaquant entraîne un turnover.",
+     "r": "valable",
+     "e": "Le changement de possession se produit lorsque le disque touche le sol alors qu'il n'est pas en possession d'un attaquant."
+    },
+    {
+     "q": "Un défenseur peut utiliser ses bras pour entraver le mouvement d'un attaquant sans que cela soit une faute.",
+     "r": "faute",
+     "e": "Les joueurs ne doivent pas utiliser leurs bras ou leurs jambes pour entraver le mouvement d'adversaires."
+    },
+    {
+     "q": "Si un turnover est contesté, le disque revient au lanceur précédent.",
+     "r": "valable",
+     "e": "Si un « turnover » est contesté, le disque revient au lanceur précédent."
+    },
+    {
+     "q": "Le disque qui passe d'un attaquant à un autre sans être complètement lâché (contact simultané) reste en possession de l'attaque.",
+     "r": "faute",
+     "e": "Ce cas est listé comme provoquant un changement de possession (turnover), pas un maintien de la possession."
+    },
+    {
+     "q": "Lors d'une interception, c'est le joueur qui a intercepté qui a la possession du disque.",
+     "r": "valable",
+     "e": "Après un turnover, pour une interception, c'est le joueur qui a intercepté qui a la possession du disque."
+    },
+    {
+     "q": "Un manquement appelé pendant un temps mort ne nécessite jamais de check pour la reprise.",
+     "r": "faute",
+     "e": "Un check a lieu après un temps mort, comme après un appel de manquement aux règles."
+    }
+   ]
+  }
+ ]
+}

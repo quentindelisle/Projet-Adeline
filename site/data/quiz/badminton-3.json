@@ -1,0 +1,265 @@
+{
+ "id": "badminton-3",
+ "titre": "Championnats, coaching et cas particuliers",
+ "sousTitre": "Quiz Jeune Arbitre Badminton",
+ "entete": "QUIZ 3 / 3 · NIVEAU 3 — DIFFICILE · RÈGLEMENT BADMINTON UNSS",
+ "sport": "badminton",
+ "source": "https://cool-valkyrie-b52bb5.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La tenue de compétition doit comporter un short, une jupe, un cycliste ou un legging, avec short ou jupe par-dessus.",
+     "r": "valable",
+     "e": "Le règlement exige un short/jupe/cycliste/legging complété par un short ou une jupe par-dessus."
+    },
+    {
+     "q": "Un legging simple, sans short ni jupe par-dessus, est une tenue conforme au règlement UNSS.",
+     "r": "faute",
+     "e": "Le legging seul n'est pas conforme : un short ou une jupe doit être porté par-dessus."
+    },
+    {
+     "q": "Le tee-shirt de l'équipe doit être de coloris identique à chaque rencontre, sans logo de club fédéral.",
+     "r": "valable",
+     "e": "Le tee-shirt doit être identique pour toute l'équipe, sans tee-shirt de club fédéral FFBad ou autre."
+    },
+    {
+     "q": "Chaque joueur peut porter le tee-shirt de son club fédéral FFBad pendant la compétition UNSS.",
+     "r": "faute",
+     "e": "Le règlement interdit explicitement le tee-shirt de club fédéral FFBad ou d'une autre fédération."
+    },
+    {
+     "q": "À partir des demi-finales, le tee-shirt de l'AS UNSS doit être identique pour tous les joueurs.",
+     "r": "valable",
+     "e": "Le règlement impose un tee-shirt d'AS identique pour tous, à partir des demi-finales."
+    },
+    {
+     "q": "L'obligation de tee-shirt identique pour tous ne s'applique qu'à la finale, pas aux demi-finales.",
+     "r": "faute",
+     "e": "L'obligation s'applique dès les demi-finales, pas seulement en finale."
+    },
+    {
+     "q": "Un joueur en fauteuil ou en situation de handicap aux membres inférieurs peut jouer en pantalon ou en legging.",
+     "r": "valable",
+     "e": "Le règlement autorise le pantalon ou le legging pour un joueur en fauteuil ou avec un tel handicap."
+    },
+    {
+     "q": "Un joueur en fauteuil doit obligatoirement porter un short, sans exception possible.",
+     "r": "faute",
+     "e": "Le règlement prévoit au contraire une exception : pantalon ou legging autorisés dans ce cas."
+    },
+    {
+     "q": "Le contrôle des tenues par les Jeunes Coaches adverses se fait en début de rencontre.",
+     "r": "valable",
+     "e": "Ce contrôle mutuel entre Jeunes Coaches adverses a lieu en début de rencontre."
+    },
+    {
+     "q": "Le contrôle des tenues est réalisé uniquement par un adulte, jamais par les Jeunes Coaches.",
+     "r": "faute",
+     "e": "Ce sont au contraire les Jeunes Coaches adverses qui réalisent ce contrôle en début de rencontre."
+    },
+    {
+     "q": "Une équipe dont la tenue n'est pas conforme s'expose à la disqualification.",
+     "r": "valable",
+     "e": "Le règlement prévoit la disqualification en cas de non-conformité persistante de la tenue."
+    },
+    {
+     "q": "Une équipe dont la tenue n'est pas conforme ne reçoit qu'un simple avertissement oral, sans autre suite.",
+     "r": "faute",
+     "e": "La sanction prévue va jusqu'à la disqualification, pas seulement un avertissement oral."
+    },
+    {
+     "q": "En championnat Établissement/Excellence, la rencontre se joue en 5 sets de 15 points, en tie-break.",
+     "r": "valable",
+     "e": "Le format prévu est 5 sets de 15 points, joués en tie-break, dans l'ordre SH-SD-DH-DD-DM."
+    },
+    {
+     "q": "En championnat Établissement/Excellence, la rencontre se joue en 3 sets de 21 points.",
+     "r": "faute",
+     "e": "Le format réglementaire est 5 sets de 15 points en tie-break, pas 3 sets de 21 points."
+    },
+    {
+     "q": "Le changement de demi-terrain a lieu à 8 points, sur un seul terrain pour toute la rencontre.",
+     "r": "valable",
+     "e": "La rencontre se joue sur un seul terrain, avec changement de côté à 8 points."
+    },
+    {
+     "q": "Chaque set du championnat Établissement se joue sur un terrain différent.",
+     "r": "faute",
+     "e": "La rencontre se joue au contraire sur un seul et même terrain pour tous les sets."
+    },
+    {
+     "q": "En cas d'égalité au nombre de points à l'issue de la rencontre, l'équipe ayant remporté le plus de sets l'emporte.",
+     "r": "valable",
+     "e": "Le départage en cas d'égalité de points se fait par le nombre de sets remportés."
+    },
+    {
+     "q": "En cas d'égalité au nombre de points, un set supplémentaire est systématiquement rejoué.",
+     "r": "faute",
+     "e": "Le règlement départage par le nombre de sets gagnés, sans rejouer de set supplémentaire."
+    },
+    {
+     "q": "La feuille de match du championnat Établissement doit faire apparaître 4 joueurs, dont le Jeune Coach.",
+     "r": "valable",
+     "e": "La feuille de match mentionne 4 joueurs, en incluant le nom du Jeune Coach qui est aussi joueur."
+    },
+    {
+     "q": "La feuille de match du championnat Établissement ne mentionne jamais le nom du Jeune Coach.",
+     "r": "faute",
+     "e": "Le nom du Jeune Coach doit au contraire apparaître, puisqu'il est également joueur."
+    },
+    {
+     "q": "Le Jeune Coach est identifié par un brassard orange offert par l'organisateur.",
+     "r": "valable",
+     "e": "Un brassard orange, fourni par l'organisateur, permet d'identifier le Jeune Coach."
+    },
+    {
+     "q": "Le Jeune Coach ne porte aucun signe distinctif particulier pendant la rencontre.",
+     "r": "faute",
+     "e": "Il porte au contraire un brassard orange qui l'identifie clairement."
+    },
+    {
+     "q": "La feuille de match doit être remise à la table de marque 30 minutes avant le début du match.",
+     "r": "valable",
+     "e": "Le délai réglementaire de remise de la feuille de match est de 30 minutes avant le match."
+    },
+    {
+     "q": "La feuille de match peut être remise à tout moment, même après le début du match.",
+     "r": "faute",
+     "e": "Elle doit impérativement être remise 30 minutes avant le début du match."
+    },
+    {
+     "q": "Si une erreur de composition d'équipe est relevée avant le début du 1er set, la composition peut être modifiée.",
+     "r": "valable",
+     "e": "Une erreur détectée avant le 1er set permet encore de corriger la composition d'équipe."
+    },
+    {
+     "q": "Une erreur de composition d'équipe ne peut jamais être corrigée, même avant le début du 1er set.",
+     "r": "faute",
+     "e": "Elle peut au contraire être corrigée si elle est détectée avant le début du 1er set."
+    },
+    {
+     "q": "En championnat Établissement, une erreur de composition non détectée avant le 1er set fixe le score final à 75 pour l'équipe en règle.",
+     "r": "valable",
+     "e": "Passé le début du 1er set, l'équipe en règle se voit attribuer un score final de 75 points."
+    },
+    {
+     "q": "En championnat Établissement, une erreur de composition non détectée entraîne l'annulation pure et simple de la rencontre.",
+     "r": "faute",
+     "e": "Le règlement fixe un score forfaitaire de 75 points pour l'équipe en règle, sans annuler la rencontre."
+    },
+    {
+     "q": "Il n'y a pas de remplacement sur blessure : les sets non joués sont perdus 0/15.",
+     "r": "valable",
+     "e": "En cas de blessure, aucun remplacement n'est prévu et les sets restants sont perdus 0/15."
+    },
+    {
+     "q": "En cas de blessure, un remplaçant peut entrer en jeu pour terminer la rencontre.",
+     "r": "faute",
+     "e": "Aucun remplacement n'est prévu ; les sets non joués sont comptabilisés perdus 0/15."
+    },
+    {
+     "q": "Le coaching a lieu à chaque changement de demi-terrain, pendant 1 minute, tous les 8 points de chaque set.",
+     "r": "valable",
+     "e": "Le règlement prévoit 1 minute de coaching à chaque changement de côté, tous les 8 points."
+    },
+    {
+     "q": "Le coaching n'est autorisé qu'une seule fois par rencontre, en tout début de match.",
+     "r": "faute",
+     "e": "Le coaching est au contraire prévu à chaque changement de demi-terrain, tous les 8 points."
+    },
+    {
+     "q": "Entre les sets, 2 minutes sont accordées pour la rotation des joueurs, avec échauffement possible.",
+     "r": "valable",
+     "e": "Le règlement accorde 2 minutes entre les sets pour la rotation des joueurs et un échauffement."
+    },
+    {
+     "q": "Entre les sets, aucune pause n'est prévue : le set suivant démarre immédiatement.",
+     "r": "faute",
+     "e": "2 minutes sont au contraire accordées entre les sets, avec possibilité d'échauffement."
+    },
+    {
+     "q": "Un joueur blessé avant la fin d'un set perd ce set et ne peut plus jouer dans ce match, mais peut reprendre pour un nouveau match sur avis médical.",
+     "r": "valable",
+     "e": "Le joueur blessé perd le set en cours, sort du match, mais peut revenir sur un match ultérieur avec avis médical."
+    },
+    {
+     "q": "Un joueur blessé pendant un set peut immédiatement revenir jouer le set suivant du même match.",
+     "r": "faute",
+     "e": "Il perd le set et ne peut pas revenir sur ce même match ; seul un match ultérieur est envisageable, sur avis médical."
+    },
+    {
+     "q": "Un joueur qui abandonne volontairement ne peut plus participer à la compétition.",
+     "r": "valable",
+     "e": "L'abandon volontaire d'un joueur entraîne son exclusion du reste de la compétition."
+    },
+    {
+     "q": "Un joueur qui abandonne volontairement peut revenir jouer dès le match suivant.",
+     "r": "faute",
+     "e": "L'abandon volontaire empêche au contraire toute participation ultérieure à la compétition."
+    },
+    {
+     "q": "En championnat Lycées Professionnels, la feuille de match mentionne 3 joueurs identifiés J1, J2, J3.",
+     "r": "valable",
+     "e": "Le format Lycées Professionnels prévoit 3 joueurs identifiés J1, J2, J3, plus le Jeune Coach."
+    },
+    {
+     "q": "En championnat Lycées Professionnels, la feuille de match mentionne 4 joueurs comme en établissement.",
+     "r": "faute",
+     "e": "Le format Lycées Professionnels prévoit 3 joueurs, pas 4 comme en championnat Établissement."
+    },
+    {
+     "q": "En Lycées Professionnels, le match se joue en 84 points répartis en 12 séquences (9 simples et 3 doubles).",
+     "r": "valable",
+     "e": "Le format LP prévoit 84 points sur 12 séquences : 9 simples et 3 doubles."
+    },
+    {
+     "q": "En Lycées Professionnels, le match se joue en 5 sets de 15 points, comme en championnat Établissement.",
+     "r": "faute",
+     "e": "Le format LP est spécifique : 84 points en 12 séquences, différent du format Établissement."
+    },
+    {
+     "q": "En Lycées Professionnels, les changements de joueurs interviennent aux scores 7/14/21, 28/35/42, 49/56/63 et 70/77/84.",
+     "r": "valable",
+     "e": "Ces paliers de score déterminent les changements de joueurs sur les 4 sets du format LP."
+    },
+    {
+     "q": "En Lycées Professionnels, les joueurs changent uniquement à la moitié du match, à 42 points.",
+     "r": "faute",
+     "e": "Les changements interviennent à plusieurs paliers précis (7/14/21, etc.), pas uniquement à 42 points."
+    },
+    {
+     "q": "En Lycées Professionnels, le match est gagné par l'équipe qui atteint la première 84 points, sans prolongation.",
+     "r": "valable",
+     "e": "Le premier arrivé à 84 points remporte le match, sans prolongation possible."
+    },
+    {
+     "q": "En Lycées Professionnels, une prolongation est jouée en cas d'égalité à 84 points.",
+     "r": "faute",
+     "e": "Aucune prolongation n'est prévue : la première équipe à 84 points gagne directement."
+    },
+    {
+     "q": "En Lycées Professionnels, un tirage au sort détermine l'équipe A ou B avant le dépôt de la composition d'équipe.",
+     "r": "valable",
+     "e": "Le tirage au sort attribue les identifiants équipe A / équipe B avant que les compositions soient déposées."
+    },
+    {
+     "q": "En Lycées Professionnels, les équipes choisissent librement d'être équipe A ou B, sans tirage au sort.",
+     "r": "faute",
+     "e": "C'est un tirage au sort qui détermine cette identification, pas un choix libre des équipes."
+    },
+    {
+     "q": "En championnat Sport Partagé, la rencontre se joue en 5 sets dont un double mixte associant un joueur valide et un joueur en situation de handicap.",
+     "r": "valable",
+     "e": "Le format Sport Partagé inclut un double mixte valide-handi parmi ses 5 sets."
+    },
+    {
+     "q": "En championnat Sport Partagé, tous les sets se jouent uniquement entre joueurs valides.",
+     "r": "faute",
+     "e": "Le format Sport Partagé inclut au contraire des sets handi et un double mixte valide-handi."
+    }
+   ]
+  }
+ ]
+}

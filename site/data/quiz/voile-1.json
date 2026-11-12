@@ -1,0 +1,265 @@
+{
+ "id": "voile-1",
+ "titre": "Vocabulaire et règles de priorité",
+ "sousTitre": "Quiz Jeune Arbitre Voile",
+ "entete": "",
+ "sport": "voile",
+ "source": "https://benevolent-twilight-c8920a.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un bateau est engagé quand une partie de sa coque a franchi la ligne perpendiculaire à l'arrière du safran du bateau devant.",
+     "r": "valable",
+     "e": "L'engagement se définit par le franchissement de cette ligne précise."
+    },
+    {
+     "q": "Pendant un virement de bord, le bateau qui vire reste toujours prioritaire.",
+     "r": "faute",
+     "e": "Attention : pendant le virement de bord, ce bateau n'est pas prioritaire (règle 13)."
+    },
+    {
+     "q": "La voile apparaît aux Jeux Olympiques à Athènes en 1896.",
+     "r": "valable",
+     "e": "Elle apparaît en 1896 à Athènes, mais les premières vraies compétitions datent de 1908 à Londres."
+    },
+    {
+     "q": "Un bateau est en route libre derrière dès qu'il touche le bateau devant lui.",
+     "r": "faute",
+     "e": "Attention : c'est la définition exacte de la route libre derrière."
+    },
+    {
+     "q": "La zone correspond à l'espace autour d'une marque sur une distance de trois longueurs de coque.",
+     "r": "valable",
+     "e": "La zone se définit précisément comme trois longueurs de coque du bateau le plus proche."
+    },
+    {
+     "q": "La zone correspond à l'espace autour d'une marque sur une distance de dix longueurs de coque.",
+     "r": "faute",
+     "e": "Attention : la zone se définit précisément comme trois longueurs de coque du bateau le plus proche."
+    },
+    {
+     "q": "Si votre infraction a causé un dommage ou une blessure, vous devez abandonner la course.",
+     "r": "valable",
+     "e": "Dans ce cas précis, l'abandon de la course est obligatoire."
+    },
+    {
+     "q": "Le côté bâbord est généralement représenté en rouge.",
+     "r": "valable",
+     "e": "Bâbord est en rouge, tribord en vert."
+    },
+    {
+     "q": "Le côté bâbord est généralement représenté en vert.",
+     "r": "faute",
+     "e": "Attention : bâbord est en rouge, tribord en vert."
+    },
+    {
+     "q": "Le virement de bord commence dès que le bateau touche l'eau.",
+     "r": "faute",
+     "e": "Attention : il commence précisément au dépassement du bout au vent."
+    },
+    {
+     "q": "Un bateau est en route libre derrière si aucune partie de sa coque ne franchit la ligne perpendiculaire à l'arrière du safran du bateau devant.",
+     "r": "valable",
+     "e": "C'est la définition exacte de la route libre derrière."
+    },
+    {
+     "q": "Selon la règle 11, c'est le bateau sous le vent qui doit se maintenir à l'écart du bateau au vent.",
+     "r": "faute",
+     "e": "Attention : le bateau au vent cède le passage au bateau sous le vent."
+    },
+    {
+     "q": "Quand des bateaux sont engagés à la marque, le bateau extérieur doit donner la place au bateau intérieur.",
+     "r": "valable",
+     "e": "Le bateau à l'extérieur doit donner la place à la marque au bateau à l'intérieur."
+    },
+    {
+     "q": "Le virement de bord commence quand le bateau dépasse la position bout au vent.",
+     "r": "valable",
+     "e": "Il commence précisément au dépassement du bout au vent."
+    },
+    {
+     "q": "Aucun support, y compris la planche à voile, n'est autorisé à toucher les marques.",
+     "r": "faute",
+     "e": "Attention : la planche à voile bénéficie d'une exception explicite à cette règle."
+    },
+    {
+     "q": "Une marque de parcours ne doit en principe pas être touchée.",
+     "r": "valable",
+     "e": "Toucher une marque est interdit, sauf exception pour les planches à voile."
+    },
+    {
+     "q": "Le jeune arbitre doit être sensible à l'esprit de la course.",
+     "r": "valable",
+     "e": "Être sensible à l'esprit de la course fait partie des exigences du jeune arbitre voile."
+    },
+    {
+     "q": "L'empannage commence dès que le bateau touche la marque.",
+     "r": "faute",
+     "e": "Attention : l'empannage débute au franchissement de l'axe par la grand-voile."
+    },
+    {
+     "q": "Pendant un virement de bord, le bateau qui vire n'est pas prioritaire.",
+     "r": "valable",
+     "e": "Pendant le virement de bord, ce bateau n'est pas prioritaire (règle 13)."
+    },
+    {
+     "q": "La règle 18 (place à la marque) ne s'applique pas entre bateaux sur des bords opposés au louvoyage.",
+     "r": "valable",
+     "e": "Cette règle a des exceptions précises, dont celle des bords opposés au louvoyage."
+    },
+    {
+     "q": "Selon la règle 16, un bateau prioritaire peut modifier sa route sans aucune contrainte.",
+     "r": "faute",
+     "e": "Attention : même prioritaire, il ne doit pas gêner le bateau qui tente de l'éviter."
+    },
+    {
+     "q": "Un bateau est engagé uniquement s'il dépasse complètement le bateau devant.",
+     "r": "faute",
+     "e": "Attention : l'engagement se définit par le franchissement de cette ligne précise."
+    },
+    {
+     "q": "Lofer, c'est se rapprocher de l'axe du vent.",
+     "r": "valable",
+     "e": "Lofer correspond à une aulofée ou un lof, rapprochement de l'axe du vent."
+    },
+    {
+     "q": "Selon la règle 12, sur le même bord non engagé, le bateau en route libre derrière doit se maintenir à l'écart.",
+     "r": "valable",
+     "e": "Le bateau en route libre derrière cède le passage au bateau devant."
+    },
+    {
+     "q": "Les planches à voile sont autorisées à toucher les marques de parcours.",
+     "r": "valable",
+     "e": "La planche à voile bénéficie d'une exception explicite à cette règle."
+    },
+    {
+     "q": "Toucher une marque de parcours n'a jamais de conséquence réglementaire.",
+     "r": "faute",
+     "e": "Attention : toucher une marque est interdit, sauf exception pour les planches à voile."
+    },
+    {
+     "q": "La particularité de l'UNSS est de développer une course par équipe.",
+     "r": "valable",
+     "e": "L'UNSS développe une pratique par équipe, contrairement à la pratique fédérale majoritairement solitaire."
+    },
+    {
+     "q": "Selon la règle 16, un bateau prioritaire qui modifie sa route ne doit pas gêner le bateau qui essaie de l'éviter.",
+     "r": "valable",
+     "e": "Même prioritaire, il ne doit pas gêner le bateau qui tente de l'éviter."
+    },
+    {
+     "q": "Au signal de départ, un bateau doit être derrière la ligne de départ.",
+     "r": "valable",
+     "e": "Le bateau doit être derrière la ligne, sinon il doit y retourner côté pré-départ."
+    },
+    {
+     "q": "Si vous enfreignez une règle de priorité, aucune pénalité spécifique n'est prévue.",
+     "r": "faute",
+     "e": "Attention : la pénalité standard est un tour complet comprenant virement et empannage."
+    },
+    {
+     "q": "Si votre infraction a causé un dommage, vous pouvez simplement continuer la course normalement.",
+     "r": "faute",
+     "e": "Attention : dans ce cas précis, l'abandon de la course est obligatoire."
+    },
+    {
+     "q": "Le côté sous le vent d'un bateau est le côté le plus proche du vent.",
+     "r": "faute",
+     "e": "Attention : le côté sous le vent est, par définition, le plus éloigné du vent."
+    },
+    {
+     "q": "Un bateau est sur le bord correspondant à son côté au vent.",
+     "r": "valable",
+     "e": "Le bord (bâbord ou tribord) correspond au côté au vent du bateau."
+    },
+    {
+     "q": "La particularité de l'UNSS est de pratiquer uniquement en solitaire, comme au niveau fédéral.",
+     "r": "faute",
+     "e": "Attention : l'UNSS développe une pratique par équipe, contrairement à la pratique fédérale majoritairement solitaire."
+    },
+    {
+     "q": "Abattre, c'est s'écarter de l'axe du vent.",
+     "r": "valable",
+     "e": "Abattre = s'écarter de l'axe du vent ; lofer = s'en rapprocher."
+    },
+    {
+     "q": "Selon la règle 10, un bateau tribord doit se maintenir à l'écart d'un bateau bâbord.",
+     "r": "faute",
+     "e": "Attention : c'est le bateau bâbord qui cède le passage, sur des bords opposés."
+    },
+    {
+     "q": "La règle 18 s'applique à tout moment, sans exception, entre tous les bateaux.",
+     "r": "faute",
+     "e": "Attention : cette règle a des exceptions précises, dont celle des bords opposés au louvoyage."
+    },
+    {
+     "q": "Selon la règle 12, c'est le bateau en route libre devant qui doit se maintenir à l'écart.",
+     "r": "faute",
+     "e": "Attention : le bateau en route libre derrière cède le passage au bateau devant."
+    },
+    {
+     "q": "Le côté sous le vent d'un bateau est le côté le plus éloigné du vent.",
+     "r": "valable",
+     "e": "Le côté sous le vent est, par définition, le plus éloigné du vent."
+    },
+    {
+     "q": "Si vous enfreignez une règle de priorité, vous devez faire un tour complet (virement + empannage).",
+     "r": "valable",
+     "e": "La pénalité standard est un tour complet comprenant virement et empannage."
+    },
+    {
+     "q": "Selon la règle 11, sur le même bord engagé, le bateau au vent doit se maintenir à l'écart du bateau sous le vent.",
+     "r": "valable",
+     "e": "Le bateau au vent cède le passage au bateau sous le vent."
+    },
+    {
+     "q": "Le jeune arbitre n'a pas besoin de se soucier de l'esprit de la course, seulement du règlement.",
+     "r": "faute",
+     "e": "Attention : être sensible à l'esprit de la course fait partie des exigences du jeune arbitre voile."
+    },
+    {
+     "q": "Un bateau est sur le bord correspondant à son côté sous le vent.",
+     "r": "faute",
+     "e": "Attention : le bord (bâbord ou tribord) correspond au côté au vent du bateau."
+    },
+    {
+     "q": "La voile apparaît aux Jeux Olympiques dès l'antiquité grecque.",
+     "r": "faute",
+     "e": "Attention : elle apparaît en 1896 à Athènes, mais les premières vraies compétitions datent de 1908 à Londres."
+    },
+    {
+     "q": "L'empannage commence quand la grand-voile franchit l'axe du bateau.",
+     "r": "valable",
+     "e": "L'empannage débute au franchissement de l'axe par la grand-voile."
+    },
+    {
+     "q": "Selon la règle 10, un bateau bâbord doit se maintenir à l'écart d'un bateau tribord.",
+     "r": "valable",
+     "e": "C'est le bateau bâbord qui cède le passage, sur des bords opposés."
+    },
+    {
+     "q": "Lofer, c'est s'écarter de l'axe du vent.",
+     "r": "faute",
+     "e": "Attention : lofer correspond à une aulofée ou un lof, rapprochement de l'axe du vent."
+    },
+    {
+     "q": "Un bateau peut être n'importe où par rapport à la ligne au signal de départ.",
+     "r": "faute",
+     "e": "Attention : le bateau doit être derrière la ligne, sinon il doit y retourner côté pré-départ."
+    },
+    {
+     "q": "Abattre, c'est se rapprocher de l'axe du vent.",
+     "r": "faute",
+     "e": "Attention : abattre = s'écarter de l'axe du vent ; lofer = s'en rapprocher."
+    },
+    {
+     "q": "Quand des bateaux sont engagés à la marque, c'est le bateau intérieur qui doit céder la place.",
+     "r": "faute",
+     "e": "Attention : le bateau à l'extérieur doit donner la place à la marque au bateau à l'intérieur."
+    }
+   ]
+  }
+ ]
+}

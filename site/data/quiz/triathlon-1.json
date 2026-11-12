@@ -1,0 +1,265 @@
+{
+ "id": "triathlon-1",
+ "titre": "Chambre d'appel & contrôle technique",
+ "sousTitre": "Quiz Jeune Arbitre Triathlon",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT TRIATHLON UNSS",
+ "sport": "triathlon",
+ "source": "https://fluffy-sunshine-11d48b.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La chambre d'appel est ouverte 1 heure avant le départ de la course.",
+     "r": "valable",
+     "e": "La chambre d'appel est ouverte 1 heure avant le départ de la course."
+    },
+    {
+     "q": "La chambre d'appel est ouverte seulement 30 minutes avant le départ de la course.",
+     "r": "faute",
+     "e": "La chambre d'appel est ouverte 1 heure avant le départ, pas 30 minutes."
+    },
+    {
+     "q": "Les élèves se présentent en chambre d'appel par groupes de 4, avec leur professeur accompagnateur.",
+     "r": "valable",
+     "e": "Les élèves se présentent par 4 en chambre d'appel, avec leur professeur accompagnateur."
+    },
+    {
+     "q": "Les élèves se présentent en chambre d'appel individuellement, sans leur professeur.",
+     "r": "faute",
+     "e": "Ils se présentent par 4, avec leur professeur accompagnateur — jamais seuls."
+    },
+    {
+     "q": "Une fois marqués, les élèves doivent être revenus en chambre d'appel 15 minutes avant le départ.",
+     "r": "valable",
+     "e": "Les élèves doivent être revenus 15 minutes avant le départ, en repassant par la même porte."
+    },
+    {
+     "q": "Une fois marqués, les élèves doivent être revenus 5 minutes avant le départ seulement.",
+     "r": "faute",
+     "e": "Le délai réglementaire est de 15 minutes avant le départ, pas 5."
+    },
+    {
+     "q": "Un retard non justifié au retour en chambre d'appel entraîne à minima 3 minutes de pénalité (carton orange).",
+     "r": "valable",
+     "e": "Tout retard non justifié est sanctionné à minima de 3 minutes de pénalité (carton orange) pour l'équipe."
+    },
+    {
+     "q": "Un retard au retour en chambre d'appel n'entraîne strictement aucune sanction.",
+     "r": "faute",
+     "e": "Un retard non justifié entraîne au minimum 3 minutes de pénalité pour l'équipe."
+    },
+    {
+     "q": "Le jeune coach vérifie et signe la fiche de composition d'équipe présentée par le Jeune Arbitre.",
+     "r": "valable",
+     "e": "Un Jeune Arbitre présente la fiche de composition au jeune coach, qui la vérifie et la signe."
+    },
+    {
+     "q": "C'est l'arbitre principal seul, sans le jeune coach, qui valide la composition d'équipe.",
+     "r": "faute",
+     "e": "C'est le jeune coach qui vérifie et signe la fiche de composition, pas l'arbitre principal seul."
+    },
+    {
+     "q": "L'identité des élèves est vérifiée en chambre d'appel grâce à une licence avec photo.",
+     "r": "valable",
+     "e": "L'identité des élèves est vérifiée via des licences avec photos et/ou un listing avec photos."
+    },
+    {
+     "q": "En chambre d'appel, l'identité des élèves n'est jamais contrôlée.",
+     "r": "faute",
+     "e": "L'identité est systématiquement vérifiée par licence avec photo et/ou listing avec photos."
+    },
+    {
+     "q": "Les athlètes sont numérotés à l'épaule et au mollet lors du marquage.",
+     "r": "valable",
+     "e": "En aquathlon et triathlon, les JA numérotent les athlètes à l'épaule et au mollet."
+    },
+    {
+     "q": "Les athlètes sont numérotés uniquement sur le front lors du marquage.",
+     "r": "faute",
+     "e": "Le marquage se fait à l'épaule et au mollet, jamais sur le front."
+    },
+    {
+     "q": "C'est l'arbitre principal qui indique de quel côté positionner le numéro de marquage.",
+     "r": "valable",
+     "e": "L'arbitre principal indique de quel côté positionner le numéro."
+    },
+    {
+     "q": "Chaque concurrent choisit librement de quel côté se faire marquer.",
+     "r": "faute",
+     "e": "C'est l'arbitre principal qui décide du côté, pas le concurrent."
+    },
+    {
+     "q": "Le jeune coach émarge une fiche d'émargement en chambre d'appel.",
+     "r": "valable",
+     "e": "Le jeune coach émarge la fiche d'émargement en chambre d'appel."
+    },
+    {
+     "q": "Aucune fiche d'émargement n'existe en chambre d'appel.",
+     "r": "faute",
+     "e": "Une fiche d'émargement est bien émargée par le jeune coach."
+    },
+    {
+     "q": "Le matériel fourni par l'organisation est restitué en quittant le parc, après la dernière épreuve du championnat.",
+     "r": "valable",
+     "e": "Les équipes restituent le matériel en quittant le parc, une fois la dernière épreuve terminée."
+    },
+    {
+     "q": "Le matériel fourni doit être restitué avant chaque épreuve individuelle du championnat.",
+     "r": "faute",
+     "e": "Le matériel n'est restitué qu'à la toute fin du championnat, pas entre chaque épreuve."
+    },
+    {
+     "q": "En cas de non-retour du matériel, celui-ci est facturé à l'association sportive.",
+     "r": "valable",
+     "e": "En cas de non-retour, le matériel est facturé à l'association sportive."
+    },
+    {
+     "q": "Le non-retour du matériel fourni n'a aucune conséquence financière.",
+     "r": "faute",
+     "e": "Le matériel non retourné est facturé à l'association sportive."
+    },
+    {
+     "q": "Une caution de 50€ est demandée à l'accueil du championnat pour le matériel fourni.",
+     "r": "valable",
+     "e": "Un chèque de caution de 50€ est demandé à l'accueil pour tout le matériel fourni."
+    },
+    {
+     "q": "Une caution de 200€ est demandée à l'accueil du championnat pour le matériel fourni.",
+     "r": "faute",
+     "e": "Le montant réglementaire de la caution est de 50€, pas 200€."
+    },
+    {
+     "q": "Le pré-contrôle technique des VTT est réalisé par 2 officiels locaux.",
+     "r": "valable",
+     "e": "Un pré-contrôle, non obligatoire, est réalisé par 2 officiels locaux."
+    },
+    {
+     "q": "Le pré-contrôle technique des VTT est obligatoire pour toutes les équipes.",
+     "r": "faute",
+     "e": "Le pré-contrôle technique n'est pas obligatoire."
+    },
+    {
+     "q": "Le diamètre de pneu maximal autorisé pour un VTT est de 29 pouces.",
+     "r": "valable",
+     "e": "Le diamètre de pneu maximal autorisé est de 29 pouces."
+    },
+    {
+     "q": "Le diamètre de pneu maximal autorisé pour un VTT est de 26 pouces.",
+     "r": "faute",
+     "e": "Le diamètre maximal autorisé est de 29 pouces, pas 26."
+    },
+    {
+     "q": "Les vélos de route et les VTC sont interdits en compétition.",
+     "r": "valable",
+     "e": "Seuls les VTT sont autorisés ; VTC, vélos de route, bicross, cyclo-cross et gravel sont interdits."
+    },
+    {
+     "q": "Les vélos de type gravel sont autorisés au même titre que les VTT.",
+     "r": "faute",
+     "e": "Les vélos gravel sont explicitement interdits, comme les VTC et vélos de route."
+    },
+    {
+     "q": "Les embouts de guidon type « bar-end » sont interdits.",
+     "r": "valable",
+     "e": "Les embouts de guidon (cornes, « bar-end »), ajouts et prolongateurs sont interdits."
+    },
+    {
+     "q": "Les embouts de guidon type « bar-end » sont autorisés en catégorie Excellence.",
+     "r": "faute",
+     "e": "Les bar-end sont interdits pour toutes les catégories, sans exception."
+    },
+    {
+     "q": "Le port du casque à coque dure est obligatoire à VTT.",
+     "r": "valable",
+     "e": "Le port du casque à coque dure est obligatoire à VTT, sans exception."
+    },
+    {
+     "q": "Le port du casque est facultatif à VTT pour la catégorie benjamins.",
+     "r": "faute",
+     "e": "Le casque à coque dure est obligatoire pour toutes les catégories."
+    },
+    {
+     "q": "Les pédales automatiques sont autorisées.",
+     "r": "valable",
+     "e": "Les pédales automatiques sont autorisées par le règlement."
+    },
+    {
+     "q": "Les pédales automatiques sont strictement interdites.",
+     "r": "faute",
+     "e": "Les pédales automatiques sont au contraire autorisées."
+    },
+    {
+     "q": "Le torse nu est interdit pendant toute l'épreuve.",
+     "r": "valable",
+     "e": "Le torse nu est interdit, aussi bien en VTT qu'en course à pied."
+    },
+    {
+     "q": "Le torse nu est autorisé en cas de forte chaleur.",
+     "r": "faute",
+     "e": "Le torse nu reste interdit quelles que soient les conditions météo."
+    },
+    {
+     "q": "De 1 à 4 VTT sont autorisés par équipe.",
+     "r": "valable",
+     "e": "De 1 à 4 VTT sont autorisés par équipe (matériel autorisé)."
+    },
+    {
+     "q": "Un seul VTT est autorisé pour toute l'équipe, sans exception.",
+     "r": "faute",
+     "e": "Jusqu'à 4 VTT sont autorisés par équipe, pas un seul."
+    },
+    {
+     "q": "La plaque de cadre frontale doit être visible de face.",
+     "r": "valable",
+     "e": "La plaque de cadre frontale, fournie, doit être visible de face."
+    },
+    {
+     "q": "La plaque de cadre peut être positionnée n'importe où sur le vélo, au choix du concurrent.",
+     "r": "faute",
+     "e": "La plaque de cadre doit être frontale et visible de face, pas positionnée librement."
+    },
+    {
+     "q": "Le stockage des vélos proposé par l'organisateur n'est pas obligatoire.",
+     "r": "valable",
+     "e": "Le stockage des vélos dans l'espace proposé n'est pas obligatoire."
+    },
+    {
+     "q": "Le stockage des vélos proposé par l'organisateur est obligatoire pour toutes les équipes.",
+     "r": "faute",
+     "e": "Ce stockage est proposé mais reste facultatif."
+    },
+    {
+     "q": "Aucun dossard papier n'est distribué aux élèves.",
+     "r": "valable",
+     "e": "Aucun dossard ne sera distribué aux élèves, pour toutes les catégories."
+    },
+    {
+     "q": "Chaque élève reçoit un dossard papier à épingler sur son maillot.",
+     "r": "faute",
+     "e": "Aucun dossard papier n'est distribué ; l'identification se fait par marquage et plaque de cadre."
+    },
+    {
+     "q": "Une chasuble de compétition doit être portée par-dessus la tenue individuelle.",
+     "r": "valable",
+     "e": "L'organisation fournit une chasuble à porter obligatoirement par-dessus la tenue individuelle."
+    },
+    {
+     "q": "Le port de la chasuble de compétition est facultatif.",
+     "r": "faute",
+     "e": "Le port de la chasuble est obligatoire, de la chambre d'appel jusqu'à la fin des épreuves."
+    },
+    {
+     "q": "Les vêtements aux couleurs d'un club, comité ou ligue sont interdits en zone de compétition.",
+     "r": "valable",
+     "e": "Tout vêtement aux couleurs de clubs, comités ou ligues est interdit en zone de compétition."
+    },
+    {
+     "q": "Les vêtements aux couleurs d'un club fédéral sont autorisés en zone de compétition.",
+     "r": "faute",
+     "e": "Ces vêtements sont au contraire interdits, de la chambre d'appel à l'arrivée."
+    }
+   ]
+  }
+ ]
+}

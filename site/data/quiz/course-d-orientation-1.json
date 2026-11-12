@@ -1,0 +1,265 @@
+{
+ "id": "course-d-orientation-1",
+ "titre": "Règlement du championnat",
+ "sousTitre": "Quiz Jeune Juge Course d'orientation",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT COURSE D'ORIENTATION UNSS",
+ "sport": "course-d-orientation",
+ "source": "https://strong-praline-5a0729.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le départ en masse du relais a lieu entre 11h30 et 12h00.",
+     "r": "valable",
+     "e": "Il ne peut pas avoir lieu avant 11h30 et au plus tard à 12h00."
+    },
+    {
+     "q": "En équipe établissement, deux garçons au maximum composent l'équipe.",
+     "r": "valable",
+     "e": "Deux garçons maximum par équipe."
+    },
+    {
+     "q": "La fin de course du relais est fixée à 3 heures après le départ en masse.",
+     "r": "faute",
+     "e": "Attention : fin de course : 1h30 après le départ en masse."
+    },
+    {
+     "q": "Au relais lycée, le parcours court dure 15 minutes et le long 25 minutes.",
+     "r": "faute",
+     "e": "Attention : lycée : 25' pour les courts, 35' pour les longs."
+    },
+    {
+     "q": "Une équipe qui abandonne est mise hors classement.",
+     "r": "valable",
+     "e": "Abandon ou disqualification : hors classement."
+    },
+    {
+     "q": "En répartition, chaque coureur peut franchir la ligne d'arrivée séparément.",
+     "r": "faute",
+     "e": "Attention : le franchissement de la ligne se fait les 4 coureurs ensemble."
+    },
+    {
+     "q": "Une réclamation peut se faire oralement le lendemain.",
+     "r": "faute",
+     "e": "Attention : réclamation par écrit dans la demi-heure après l'arrivée du dernier coureur."
+    },
+    {
+     "q": "Le relais alterne les parcours long, court, long, court, dans cet ordre.",
+     "r": "valable",
+     "e": "L'ordre imposé est long/court/long/court."
+    },
+    {
+     "q": "Les élèves en situation de handicap doivent être reconnus par la MDPH.",
+     "r": "valable",
+     "e": "Les élèves ESH doivent être reconnus par la MDPH."
+    },
+    {
+     "q": "Une équipe est composée de 4 élèves avec 2 remplaçants.",
+     "r": "faute",
+     "e": "Attention : il n'y a pas de remplaçant : équipe de 4 élèves."
+    },
+    {
+     "q": "Le temps de course de la répartition commence deux minutes après le premier top.",
+     "r": "valable",
+     "e": "Une minute après le 2e top, le temps de course commence."
+    },
+    {
+     "q": "Au relais collège, le parcours court dure 30 minutes et le long 20 minutes.",
+     "r": "faute",
+     "e": "Attention : collège : 20' pour les courts, 30' pour les longs."
+    },
+    {
+     "q": "En répartition, le temps de course est de 35 minutes en collège.",
+     "r": "valable",
+     "e": "Répartition : 35' en collège, 45' en lycée."
+    },
+    {
+     "q": "L'ordre des relayeurs est librement modifiable pendant la course.",
+     "r": "faute",
+     "e": "Attention : l'ordre est donné la veille ; aucun changement une fois la course commencée."
+    },
+    {
+     "q": "La carte du championnat est toujours à l'échelle 1/50000.",
+     "r": "faute",
+     "e": "Attention : échelle 1/7500 (éventuellement 1/5000 en sport partagé)."
+    },
+    {
+     "q": "Le passage de relais s'effectue par l'intermédiaire de la carte.",
+     "r": "valable",
+     "e": "C'est la carte qui est transmise au relayeur suivant."
+    },
+    {
+     "q": "En sport partagé, l'équipe compte 4 élèves en situation de handicap.",
+     "r": "faute",
+     "e": "Attention : 2 élèves valides et 2 élèves en situation de handicap."
+    },
+    {
+     "q": "Consulter la carte du secteur sur le lieu de course est interdit et entraîne la disqualification.",
+     "r": "valable",
+     "e": "C'est formellement interdit : disqualification de l'équipe."
+    },
+    {
+     "q": "En répartition, le parcours compte toujours 12 postes obligatoires.",
+     "r": "faute",
+     "e": "Attention : minimum 5 et maximum 8 postes obligatoires."
+    },
+    {
+     "q": "Le championnat de France UNSS de course d'orientation se déroule sur une seule course de type individuel.",
+     "r": "faute",
+     "e": "Attention : le championnat comporte deux courses : relais et répartition sur réseau de postes."
+    },
+    {
+     "q": "En cas d'égalité sans poste manquant, le relais départage les équipes.",
+     "r": "faute",
+     "e": "Attention : l'épreuve de répartition départage."
+    },
+    {
+     "q": "La fin de course du relais est fixée à 1h30 après le départ en masse.",
+     "r": "valable",
+     "e": "Fin de course : 1h30 après le départ en masse."
+    },
+    {
+     "q": "Le championnat de France UNSS de course d'orientation se déroule sur deux courses : le relais et la répartition sur réseau de postes.",
+     "r": "valable",
+     "e": "Le championnat comporte deux courses : relais et répartition sur réseau de postes."
+    },
+    {
+     "q": "En répartition, le parcours compte de 5 à 8 postes obligatoires.",
+     "r": "valable",
+     "e": "Minimum 5 et maximum 8 postes obligatoires."
+    },
+    {
+     "q": "Au premier top de la répartition, les quatre coureurs consultent leur carte.",
+     "r": "faute",
+     "e": "Attention : seul le jeune coach regarde au premier top ; les 3 autres tournent le dos."
+    },
+    {
+     "q": "Une équipe avec des postes manquants reçoit 2 × N + le total des PM.",
+     "r": "valable",
+     "e": "Elle reçoit 2 × N (nombre d'équipes) + le total des PM."
+    },
+    {
+     "q": "Porter le doigt électronique d'un autre coureur entraîne la disqualification de l'équipe.",
+     "r": "valable",
+     "e": "Le port d'un doigt différent du sien entraîne la disqualification."
+    },
+    {
+     "q": "Le passage de relais s'effectue par un simple contact de la main entre coureurs.",
+     "r": "faute",
+     "e": "Attention : c'est la carte qui est transmise au relayeur suivant."
+    },
+    {
+     "q": "L'ordre des relayeurs est donné la veille de la course à l'accueil.",
+     "r": "valable",
+     "e": "L'ordre est donné la veille ; aucun changement une fois la course commencée."
+    },
+    {
+     "q": "Au relais lycée, le parcours court dure 25 minutes et le long 35 minutes.",
+     "r": "valable",
+     "e": "Lycée : 25' pour les courts, 35' pour les longs."
+    },
+    {
+     "q": "En cas d'égalité sans poste manquant, la répartition départage les équipes.",
+     "r": "valable",
+     "e": "L'épreuve de répartition départage."
+    },
+    {
+     "q": "En répartition, le temps de course est de 60 minutes en collège.",
+     "r": "faute",
+     "e": "Attention : répartition : 35' en collège, 45' en lycée."
+    },
+    {
+     "q": "Une équipe est composée de 4 élèves, sans remplaçant.",
+     "r": "valable",
+     "e": "Il n'y a pas de remplaçant : équipe de 4 élèves."
+    },
+    {
+     "q": "En équipe établissement, l'équipe peut être composée de 4 garçons.",
+     "r": "faute",
+     "e": "Attention : deux garçons maximum par équipe."
+    },
+    {
+     "q": "Aucune reconnaissance MDPH n'est demandée pour les élèves en situation de handicap.",
+     "r": "faute",
+     "e": "Attention : les élèves ESH doivent être reconnus par la MDPH."
+    },
+    {
+     "q": "Le départ en masse du relais peut avoir lieu dès 9h00.",
+     "r": "faute",
+     "e": "Attention : il ne peut pas avoir lieu avant 11h30 et au plus tard à 12h00."
+    },
+    {
+     "q": "Une réclamation se fait par écrit dans la demi-heure qui suit l'arrivée du dernier coureur.",
+     "r": "valable",
+     "e": "Réclamation par écrit dans la demi-heure après l'arrivée du dernier coureur."
+    },
+    {
+     "q": "En sport partagé, l'équipe compte 2 élèves valides et 2 élèves en situation de handicap.",
+     "r": "valable",
+     "e": "2 élèves valides et 2 élèves en situation de handicap."
+    },
+    {
+     "q": "La carte du championnat est à l'échelle 1/7500.",
+     "r": "valable",
+     "e": "Échelle 1/7500 (éventuellement 1/5000 en sport partagé)."
+    },
+    {
+     "q": "Une équipe qui abandonne est classée dernière.",
+     "r": "faute",
+     "e": "Attention : abandon ou disqualification : hors classement."
+    },
+    {
+     "q": "En répartition, les 4 coureurs franchissent la ligne d'arrivée ensemble.",
+     "r": "valable",
+     "e": "Le franchissement de la ligne se fait les 4 coureurs ensemble."
+    },
+    {
+     "q": "Consulter la carte du secteur sur le lieu de course est autorisé.",
+     "r": "faute",
+     "e": "Attention : c'est formellement interdit : disqualification de l'équipe."
+    },
+    {
+     "q": "Le relais alterne les parcours court, long, court, long, dans cet ordre.",
+     "r": "faute",
+     "e": "Attention : l'ordre imposé est long/court/long/court."
+    },
+    {
+     "q": "Au relais collège, le parcours court dure 20 minutes et le long 30 minutes.",
+     "r": "valable",
+     "e": "Collège : 20' pour les courts, 30' pour les longs."
+    },
+    {
+     "q": "Une équipe avec des postes manquants reçoit simplement le dernier rang.",
+     "r": "faute",
+     "e": "Attention : elle reçoit 2 × N (nombre d'équipes) + le total des PM."
+    },
+    {
+     "q": "Au premier top de la répartition, seul le jeune coach consulte les cartes.",
+     "r": "valable",
+     "e": "Seul le jeune coach regarde au premier top ; les 3 autres tournent le dos."
+    },
+    {
+     "q": "Porter le doigt électronique d'un autre coureur entraîne un simple avertissement.",
+     "r": "faute",
+     "e": "Attention : le port d'un doigt différent du sien entraîne la disqualification."
+    },
+    {
+     "q": "Les postes obligatoires ne sont pas distingués des autres postes sur la carte.",
+     "r": "faute",
+     "e": "Attention : ils sont distingués de manière évidente par la colorisation des balises."
+    },
+    {
+     "q": "Le temps de course de la répartition commence dès le premier top.",
+     "r": "faute",
+     "e": "Attention : une minute après le 2e top, le temps de course commence."
+    },
+    {
+     "q": "Les postes obligatoires sont distingués sur la carte par une couleur différente.",
+     "r": "valable",
+     "e": "Ils sont distingués de manière évidente par la colorisation des balises."
+    }
+   ]
+  }
+ ]
+}

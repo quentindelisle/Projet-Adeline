@@ -1,0 +1,265 @@
+{
+ "id": "volley-ball-2",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre Volleyball",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT VOLLEYBALL UNSS",
+ "sport": "volley-ball",
+ "source": "https://dashing-eclair-9e3b26.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La hauteur du filet est de 2,24 m pour les lycéens garçons.",
+     "r": "faute",
+     "e": "C'est faux. Lyc Garçons : 2,35 m (Excellence et Établissement). Col Garçons : 2,24 m."
+    },
+    {
+     "q": "La hauteur du filet est de 2,35 m pour les lycéens garçons.",
+     "r": "valable",
+     "e": "Lyc Garçons : 2,35 m (Excellence et Établissement). Col Garçons : 2,24 m."
+    },
+    {
+     "q": "La hauteur du filet est de 2,15 m pour les collégiennes d'Excellence.",
+     "r": "valable",
+     "e": "Col Filles Excellence : 2,15 m ; Col Filles Établissement : 2,10 m."
+    },
+    {
+     "q": "La hauteur du filet est de 2,35 m pour les collégiennes d'Excellence.",
+     "r": "faute",
+     "e": "C'est faux. Col Filles Excellence : 2,15 m ; Col Filles Établissement : 2,10 m."
+    },
+    {
+     "q": "Les lignes du terrain mesurent 10 cm de large.",
+     "r": "faute",
+     "e": "C'est faux. La largeur de toutes les lignes est de 5 cm."
+    },
+    {
+     "q": "Les lignes du terrain mesurent 5 cm de large.",
+     "r": "valable",
+     "e": "La largeur de toutes les lignes est de 5 cm."
+    },
+    {
+     "q": "La ligne d'attaque est tracée à 3 mètres de la ligne centrale.",
+     "r": "valable",
+     "e": "La zone avant est délimitée par la ligne d'attaque tracée à 3 m, et comprend la ligne centrale."
+    },
+    {
+     "q": "La ligne d'attaque est tracée à 5 mètres de la ligne centrale.",
+     "r": "faute",
+     "e": "C'est faux. La zone avant est délimitée par la ligne d'attaque tracée à 3 m, et comprend la ligne centrale."
+    },
+    {
+     "q": "Les antennes délimitent l'espace latéral de passage de la balle au-dessus du filet.",
+     "r": "valable",
+     "e": "Elles sont fixées sur les bords extérieurs des bandes latérales du filet."
+    },
+    {
+     "q": "Les antennes délimitent la zone de service.",
+     "r": "faute",
+     "e": "C'est faux. Elles sont fixées sur les bords extérieurs des bandes latérales du filet."
+    },
+    {
+     "q": "Une balle sortie à l'extérieur des antennes peut revenir de l'autre côté du terrain.",
+     "r": "faute",
+     "e": "C'est faux. Elle doit franchir à nouveau le plan du filet à l'extérieur des antennes, du même côté, avec 3 touches maximum."
+    },
+    {
+     "q": "Une balle ramenée dans son terrain après avoir franchi le plan du filet à l'extérieur des antennes doit revenir du même côté.",
+     "r": "valable",
+     "e": "Elle doit franchir à nouveau le plan du filet à l'extérieur des antennes, du même côté, avec 3 touches maximum."
+    },
+    {
+     "q": "La zone de service fait 9 mètres de large en Excellence.",
+     "r": "valable",
+     "e": "8 m (lycée), 7 m (collège) et 9 m en Excellence."
+    },
+    {
+     "q": "La zone de service fait 5 mètres de large en Excellence.",
+     "r": "faute",
+     "e": "C'est faux. 8 m (lycée), 7 m (collège) et 9 m en Excellence."
+    },
+    {
+     "q": "Les camps font 9x9 m en Établissement collège.",
+     "r": "faute",
+     "e": "C'est faux. Établissement lycée : 8x8 m ; Excellence collège et lycée : 9x9 m."
+    },
+    {
+     "q": "Les camps font 7x7 m en Établissement collège et 9x9 m en Excellence.",
+     "r": "valable",
+     "e": "Établissement lycée : 8x8 m ; Excellence collège et lycée : 9x9 m."
+    },
+    {
+     "q": "Une balle qui passe sous le filet reste en jeu.",
+     "r": "faute",
+     "e": "C'est faux. La balle est « Out » lorsqu'elle franchit entièrement l'espace inférieur situé sous le filet."
+    },
+    {
+     "q": "Une balle qui franchit entièrement l'espace inférieur situé sous le filet est « Out ».",
+     "r": "valable",
+     "e": "La balle est « Out » lorsqu'elle franchit entièrement l'espace inférieur situé sous le filet."
+    },
+    {
+     "q": "Le tirage au sort est refait avant le set décisif.",
+     "r": "valable",
+     "e": "Le gagnant choisit de servir ou recevoir, ou le côté du terrain."
+    },
+    {
+     "q": "Le tirage au sort n'est jamais refait pendant un match.",
+     "r": "faute",
+     "e": "C'est faux. Le gagnant choisit de servir ou recevoir, ou le côté du terrain."
+    },
+    {
+     "q": "Le serveur peut prendre la balle dans une main ou n'importe quelle partie du bras.",
+     "r": "valable",
+     "e": "La balle est frappée avec une seule main ou n'importe quelle partie du bras après avoir été lancée ou lâchée."
+    },
+    {
+     "q": "Le serveur doit frapper la balle uniquement avec un poing fermé.",
+     "r": "faute",
+     "e": "C'est faux. La balle est frappée avec une seule main ou n'importe quelle partie du bras après avoir été lancée ou lâchée."
+    },
+    {
+     "q": "Le premier service du set décisif est effectué par l'équipe qui a perdu le set précédent.",
+     "r": "faute",
+     "e": "C'est faux. Le tirage au sort est refait avant le set décisif."
+    },
+    {
+     "q": "Le premier service du set décisif est effectué par l'équipe désignée par le tirage au sort.",
+     "r": "valable",
+     "e": "Le tirage au sort est refait avant le set décisif."
+    },
+    {
+     "q": "Les autres sets sont commencés par le service de l'équipe qui n'a pas servi la première dans le set précédent.",
+     "r": "valable",
+     "e": "Les équipes alternent le premier service d'un set à l'autre."
+    },
+    {
+     "q": "Tous les sets commencent par le service de la même équipe.",
+     "r": "faute",
+     "e": "C'est faux. Les équipes alternent le premier service d'un set à l'autre."
+    },
+    {
+     "q": "Au 4x4, les avants se placent dans l'ordre 2, 3, 4 de droite à gauche en regard du filet.",
+     "r": "valable",
+     "e": "Le joueur arrière de l'équipe en réception se place derrière les 3 avants."
+    },
+    {
+     "q": "Au 4x4, les avants se placent dans l'ordre 4, 3, 2 de droite à gauche en regard du filet.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur arrière de l'équipe en réception se place derrière les 3 avants."
+    },
+    {
+     "q": "Au 4x4, le joueur de la position 1 ne peut pas remplacer le joueur de la position 2.",
+     "r": "valable",
+     "e": "Cela évite qu'un même joueur serve deux fois consécutivement."
+    },
+    {
+     "q": "Au 4x4, le joueur de la position 1 peut toujours remplacer le joueur de la position 2.",
+     "r": "faute",
+     "e": "C'est faux. Cela évite qu'un même joueur serve deux fois consécutivement."
+    },
+    {
+     "q": "Un joueur expulsé est remplacé par n'importe qui sans limite.",
+     "r": "faute",
+     "e": "C'est faux. En cas d'impossibilité de changement réglementaire, l'équipe est déclarée incomplète."
+    },
+    {
+     "q": "Un joueur expulsé ou disqualifié doit être remplacé réglementairement.",
+     "r": "valable",
+     "e": "En cas d'impossibilité de changement réglementaire, l'équipe est déclarée incomplète."
+    },
+    {
+     "q": "Une expulsion est signifiée par un seul carton jaune.",
+     "r": "faute",
+     "e": "C'est faux. Le fautif ne peut plus jouer pour le reste du set et reste dans l'aire de pénalité."
+    },
+    {
+     "q": "Une expulsion est signifiée par un carton jaune et un carton rouge présentés ensemble.",
+     "r": "valable",
+     "e": "Le fautif ne peut plus jouer pour le reste du set et reste dans l'aire de pénalité."
+    },
+    {
+     "q": "Une disqualification est signifiée par deux cartons jaunes présentés ensemble.",
+     "r": "faute",
+     "e": "C'est faux. Le fautif quitte l'aire de contrôle pour le reste du match."
+    },
+    {
+     "q": "Une disqualification est signifiée par un carton jaune et un carton rouge présentés séparément.",
+     "r": "valable",
+     "e": "Le fautif quitte l'aire de contrôle pour le reste du match."
+    },
+    {
+     "q": "Une agression est sanctionnée par une disqualification dès la 1re fois.",
+     "r": "valable",
+     "e": "Elle sanctionne toute attaque physique ou tentative d'agression."
+    },
+    {
+     "q": "Une agression est sanctionnée seulement par un avertissement la 1re fois.",
+     "r": "faute",
+     "e": "C'est faux. Elle sanctionne toute attaque physique ou tentative d'agression."
+    },
+    {
+     "q": "Une sanction prise entre les sets est appliquée dès le début du set suivant.",
+     "r": "valable",
+     "e": "Toute sanction prise avant ou entre les sets est appliquée dès le début du set suivant."
+    },
+    {
+     "q": "Une sanction prise entre les sets est annulée.",
+     "r": "faute",
+     "e": "C'est faux. Toute sanction prise avant ou entre les sets est appliquée dès le début du set suivant."
+    },
+    {
+     "q": "Le geste « retard de service » correspond à plus de 8 secondes.",
+     "r": "valable",
+     "e": "Le retard de service est indiqué par un geste spécifique du premier arbitre."
+    },
+    {
+     "q": "Le geste « retard de service » correspond à plus de 20 secondes.",
+     "r": "faute",
+     "e": "C'est faux. Le retard de service est indiqué par un geste spécifique du premier arbitre."
+    },
+    {
+     "q": "Le geste « ballon touché » consiste à lever les deux pouces.",
+     "r": "faute",
+     "e": "C'est faux. Les deux pouces signifient « ballon à remettre »."
+    },
+    {
+     "q": "Le geste « ballon touché » consiste à frotter les doigts d'une main avec la paume de l'autre.",
+     "r": "valable",
+     "e": "Les deux pouces signifient « ballon à remettre »."
+    },
+    {
+     "q": "Le geste « fin de set » consiste à croiser les bras sur le buste, paumes vers les épaules.",
+     "r": "valable",
+     "e": "Il est identique pour la fin du match."
+    },
+    {
+     "q": "Le geste « fin de set » consiste à lever les deux bras au-dessus de la tête.",
+     "r": "faute",
+     "e": "C'est faux. Il est identique pour la fin du match."
+    },
+    {
+     "q": "Le niveau national s'obtient à partir de 12/20.",
+     "r": "faute",
+     "e": "C'est faux. Note globale = pratique sur 16 points + théorie sur 4 points."
+    },
+    {
+     "q": "Le niveau national s'obtient à partir de 16/20, avec une théorie notée sur 4 points.",
+     "r": "valable",
+     "e": "Note globale = pratique sur 16 points + théorie sur 4 points."
+    },
+    {
+     "q": "La certification académique en 6x6 valide automatiquement Arbitre Jeune FFVolley.",
+     "r": "faute",
+     "e": "C'est faux. La certification académique n'entraîne pas de validation automatique : la CDA ou la CRA vérifie le niveau."
+    },
+    {
+     "q": "La certification nationale en 6x6 valide Arbitre Jeune FFVolley.",
+     "r": "valable",
+     "e": "La certification académique n'entraîne pas de validation automatique : la CDA ou la CRA vérifie le niveau."
+    }
+   ]
+  }
+ ]
+}

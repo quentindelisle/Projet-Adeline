@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-7",
+ "titre": "Mini trampoline",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 7 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · MIXTE",
+ "sport": "gymnastique-artistique",
+ "source": "https://resplendent-daffodil-392d65.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La course d'élan au mini trampoline est limitée à 15 mètres maximum.",
+     "r": "valable",
+     "e": "Le règlement fixe la course d'élan à 15 m maximum au mini trampoline."
+    },
+    {
+     "q": "La course d'élan au mini trampoline est limitée à 25 mètres, comme au saut de table.",
+     "r": "faute",
+     "e": "La course d'élan au mini trampoline est de 15 m ; 25 m concerne le saut de table."
+    },
+    {
+     "q": "La note D au mini trampoline est directement comprise entre 4 et 10 points.",
+     "r": "valable",
+     "e": "Le règlement fixe cette plage directe pour la note D au mini trampoline."
+    },
+    {
+     "q": "La note D au mini trampoline se construit en additionnant des éléments A à D, comme au sol.",
+     "r": "faute",
+     "e": "La note D est directement comprise entre 4 et 10 points, pas construite par addition d'éléments."
+    },
+    {
+     "q": "Deux sauts différents sont réalisés et la moyenne des deux notes est prise en compte.",
+     "r": "valable",
+     "e": "Le règlement retient la moyenne des deux notes au mini trampoline."
+    },
+    {
+     "q": "Deux sauts sont réalisés et seule la meilleure des deux notes est retenue, comme au saut de table.",
+     "r": "faute",
+     "e": "C'est la moyenne des deux notes qui est retenue au mini trampoline, pas la meilleure (contrairement au saut)."
+    },
+    {
+     "q": "Si les deux sauts sont identiques, la valeur du deuxième saut est ramenée à zéro.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette pénalité en cas de sauts identiques."
+    },
+    {
+     "q": "Si les deux sauts sont identiques, chacun garde sa pleine valeur sans pénalité.",
+     "r": "faute",
+     "e": "Le deuxième saut identique voit sa valeur ramenée à zéro."
+    },
+    {
+     "q": "Une 3e course d'élan est autorisée si l'élève n'a pas touché le mini trampoline, même si celui-ci a été dépassé.",
+     "r": "valable",
+     "e": "Le règlement autorise cette 3e tentative dans ce cas précis."
+    },
+    {
+     "q": "Une 3e course d'élan n'est jamais autorisée au mini trampoline, quelle que soit la situation.",
+     "r": "faute",
+     "e": "Une 3e course d'élan est au contraire autorisée si le trampoline n'a pas été touché."
+    },
+    {
+     "q": "Un appel des 2 pieds non simultané entraîne un Saut nul au mini trampoline.",
+     "r": "valable",
+     "e": "Le règlement impose un appel simultané, sinon Saut nul."
+    },
+    {
+     "q": "Un appel des 2 pieds non simultané n'entraîne qu'une simple pénalité de points, sans Saut nul.",
+     "r": "faute",
+     "e": "Un appel non simultané entraîne un Saut nul, pas une simple pénalité."
+    },
+    {
+     "q": "Un saut exécuté non répertorié dans le code est considéré comme un Saut nul.",
+     "r": "valable",
+     "e": "Le règlement classe un saut non répertorié comme Saut nul."
+    },
+    {
+     "q": "Un saut non répertorié dans le code reçoit automatiquement la valeur minimale de 4 points.",
+     "r": "faute",
+     "e": "Un saut non répertorié entraîne un Saut nul, pas une valeur minimale de 4 points."
+    },
+    {
+     "q": "Une aide pendant le saut entraîne un Saut nul au mini trampoline.",
+     "r": "valable",
+     "e": "Toute aide pendant le saut invalide celui-ci."
+    },
+    {
+     "q": "Une aide légère pendant le saut est tolérée sans conséquence sur la validité du saut.",
+     "r": "faute",
+     "e": "Toute aide pendant le saut entraîne un Saut nul, sans tolérance."
+    },
+    {
+     "q": "Si la réception au premier contact avec le tapis ne se fait pas sur les pieds, le saut est nul.",
+     "r": "valable",
+     "e": "Le règlement exige une réception sur les pieds au premier contact, sinon Saut nul."
+    },
+    {
+     "q": "La réception au premier contact peut se faire sur une autre partie du corps sans invalider le saut.",
+     "r": "faute",
+     "e": "La réception doit se faire sur les pieds au premier contact, sinon le saut est nul."
+    },
+    {
+     "q": "La chandelle est le saut de valeur la plus basse au mini trampoline, à 4 points.",
+     "r": "valable",
+     "e": "La chandelle correspond à la valeur minimale de 4 points dans le tableau des familles."
+    },
+    {
+     "q": "La chandelle est le saut de valeur la plus élevée au mini trampoline, à 10 points.",
+     "r": "faute",
+     "e": "La chandelle vaut 4 points, la valeur la plus basse, pas 10 points."
+    },
+    {
+     "q": "Le salto avant tendu demi (10 points) exige que le demi-tour soit réalisé après le passage des jambes à la verticale renversée, sinon une pénalité de 2 points s'applique.",
+     "r": "valable",
+     "e": "Le règlement précise cette condition et cette pénalité en cas de non-respect."
+    },
+    {
+     "q": "Le moment où le demi-tour est réalisé sur le salto avant tendu demi n'a aucune incidence sur la note.",
+     "r": "faute",
+     "e": "Le moment du demi-tour a une incidence directe : sinon, pénalité de 2 points."
+    },
+    {
+     "q": "Le saut groupé avec genoux sur poitrine vaut 5 points en note D.",
+     "r": "valable",
+     "e": "Ce saut groupé figure à 5 points dans le tableau des familles de sauts."
+    },
+    {
+     "q": "Le saut groupé avec genoux sur poitrine vaut 7,5 points en note D, comme le salto avant groupé.",
+     "r": "faute",
+     "e": "Ce saut vaut 5 points, pas 7,5 points (valeur du salto avant groupé)."
+    },
+    {
+     "q": "Le saut carpé écarté avec jambes à l'horizontale vaut 6 points en note D.",
+     "r": "valable",
+     "e": "Ce saut carpé écarté figure à 6 points dans le tableau des familles."
+    },
+    {
+     "q": "Le saut carpé écarté avec jambes à l'horizontale vaut 8 points en note D.",
+     "r": "faute",
+     "e": "Ce saut vaut 6 points, pas 8 points."
+    },
+    {
+     "q": "Le salto avant carpé avec 1/2 tour vaut 9 points en note D.",
+     "r": "valable",
+     "e": "Ce salto avec 1/2 tour figure à 9 points dans le tableau des familles."
+    },
+    {
+     "q": "Le salto avant carpé avec 1/2 tour vaut 9,5 points, comme le salto avant tendu sans tour.",
+     "r": "faute",
+     "e": "Ce salto avec 1/2 tour vaut 9 points ; 9,5 points correspond au salto avant tendu sans tour."
+    },
+    {
+     "q": "L'amplitude du saut est évaluée par rapport au nombril du gymnaste debout sur le mini trampoline.",
+     "r": "valable",
+     "e": "Le règlement fixe ce point de repère précis pour l'amplitude."
+    },
+    {
+     "q": "L'amplitude du saut est évaluée par rapport à la hauteur des épaules du juge, sans repère fixe sur le gymnaste.",
+     "r": "faute",
+     "e": "Le repère est le nombril du gymnaste debout sur le trampoline, pas la hauteur des épaules du juge."
+    },
+    {
+     "q": "Une fermeture ou ouverture insuffisante du saut est une faute pouvant aller jusqu'à 0,50 point.",
+     "r": "valable",
+     "e": "Cette faute figure dans le tableau des pénalités spécifiques du mini trampoline."
+    },
+    {
+     "q": "La fermeture ou l'ouverture du saut n'est jamais évaluée par le jury E au mini trampoline.",
+     "r": "faute",
+     "e": "La fermeture ou l'ouverture insuffisante est bien évaluée, jusqu'à 0,50 point."
+    },
+    {
+     "q": "Une arrivée pieds décalés est pénalisée de 0,50 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique vaut 0,50 point au mini trampoline."
+    },
+    {
+     "q": "Une arrivée pieds décalés n'est pénalisée que de 0,10 point.",
+     "r": "faute",
+     "e": "Cette faute vaut 0,50 point, pas 0,10 point."
+    },
+    {
+     "q": "Une déviation par rapport à la course d'élan est une faute pouvant aller jusqu'à 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute de réception figure dans le tableau des pénalités spécifiques."
+    },
+    {
+     "q": "La déviation par rapport à la course d'élan n'entre pas dans les critères de notation.",
+     "r": "faute",
+     "e": "La déviation par rapport à la course d'élan est bien pénalisée, jusqu'à 0,30 point."
+    },
+    {
+     "q": "Un saut avec 1/2 tour dont la rotation longitudinale commence avant la position renversée est pénalisé de 1,00 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique vaut 1,00 point au mini trampoline."
+    },
+    {
+     "q": "Le moment où commence la rotation longitudinale sur un saut avec 1/2 tour n'a aucune incidence sur la note.",
+     "r": "faute",
+     "e": "Le moment de la rotation a une incidence directe, avec une pénalité de 1,00 point si anticipée."
+    },
+    {
+     "q": "Une rotation longitudinale incomplète est une faute pouvant aller jusqu'à 0,50 point.",
+     "r": "valable",
+     "e": "Cette faute figure dans le tableau des pénalités spécifiques du mini trampoline."
+    },
+    {
+     "q": "Une rotation longitudinale incomplète n'est jamais pénalisée si la réception reste stable.",
+     "r": "faute",
+     "e": "La rotation longitudinale incomplète est bien pénalisée, jusqu'à 0,50 point."
+    },
+    {
+     "q": "Le saut extension avec pose des mains puis des pieds sur la table vaut 4 points au mini trampoline utilisé en saut.",
+     "r": "valable",
+     "e": "Ce saut extension figure à 4 points dans le tableau des familles au mini trampoline."
+    },
+    {
+     "q": "Le saut extension avec pose des mains puis des pieds ne peut être réalisé qu'au tremplin, jamais au mini trampoline.",
+     "r": "faute",
+     "e": "Ce saut peut aussi être réalisé au mini trampoline, où il vaut 4 points."
+    },
+    {
+     "q": "Un saut avec 1/4 ou 1/2 tour dans le 1er envol, arrivée face à la table, correspond à la famille rondade et vaut 8 points au mini trampoline.",
+     "r": "valable",
+     "e": "Ce saut en rondade au mini trampoline vaut 8 points selon le tableau des familles."
+    },
+    {
+     "q": "Un saut avec 1/4 ou 1/2 tour dans le 1er envol au mini trampoline ne peut jamais dépasser 6 points.",
+     "r": "faute",
+     "e": "Ce saut en rondade au mini trampoline vaut 8 points, plus que 6 points."
+    },
+    {
+     "q": "Le saut par renversement (lune) au mini trampoline vaut 9 points.",
+     "r": "valable",
+     "e": "Ce saut par renversement au mini trampoline figure à 9 points dans le tableau des familles."
+    },
+    {
+     "q": "Le saut par renversement (lune) au mini trampoline vaut 10 points, comme au tremplin.",
+     "r": "faute",
+     "e": "Au mini trampoline, ce saut vaut 9 points ; 10 points concerne le tremplin."
+    },
+    {
+     "q": "Aux fautes spécifiques du mini trampoline s'ajoutent les fautes de tenue, de technique et de comportement communes à tous les agrès.",
+     "r": "valable",
+     "e": "Ces fautes générales s'ajoutent toujours aux fautes spécifiques de l'agrès."
+    },
+    {
+     "q": "Le mini trampoline est le seul agrès où les fautes de tenue générales ne s'appliquent pas.",
+     "r": "faute",
+     "e": "Les fautes générales de tenue s'appliquent aussi au mini trampoline, comme partout ailleurs."
+    },
+    {
+     "q": "Le tableau des pénalités spécifiques du mini trampoline distingue l'amplitude, la fermeture/ouverture, la tenue du corps, la réception et la déviation.",
+     "r": "valable",
+     "e": "Ces cinq familles de fautes structurent le tableau des pénalités spécifiques."
+    },
+    {
+     "q": "Le tableau des pénalités spécifiques du mini trampoline ne prend en compte que la hauteur du saut, aucun autre critère.",
+     "r": "faute",
+     "e": "Le tableau distingue plusieurs critères (amplitude, fermeture/ouverture, tenue, réception, déviation), pas seulement la hauteur."
+    }
+   ]
+  }
+ ]
+}

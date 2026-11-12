@@ -1,0 +1,265 @@
+{
+ "id": "basket-ball-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre Basketball",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT BASKETBALL UNSS",
+ "sport": "basket-ball",
+ "source": "https://tranquil-haupia-776db0.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un match de basketball se joue en 2 périodes de 20 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Le temps de jeu est de 4 périodes de 10 minutes (ou le temps indiqué sur la feuille de marque)."
+    },
+    {
+     "q": "Un match de basketball se joue en 4 périodes de 10 minutes.",
+     "r": "valable",
+     "e": "Le temps de jeu est de 4 périodes de 10 minutes (ou le temps indiqué sur la feuille de marque)."
+    },
+    {
+     "q": "En cas d'égalité à la fin du temps réglementaire, le match se termine par un match nul.",
+     "r": "faute",
+     "e": "C'est faux. S'il y a égalité, une prolongation de 5 minutes est jouée, puis d'autres si nécessaire jusqu'à ce qu'une équipe gagne."
+    },
+    {
+     "q": "En cas d'égalité à la fin du temps réglementaire, on joue une prolongation de 5 minutes.",
+     "r": "valable",
+     "e": "S'il y a égalité, une prolongation de 5 minutes est jouée, puis d'autres si nécessaire jusqu'à ce qu'une équipe gagne."
+    },
+    {
+     "q": "Le panier est situé à 2 m 60 de hauteur.",
+     "r": "faute",
+     "e": "C'est faux. La hauteur du panier est de 3 m 05."
+    },
+    {
+     "q": "Le panier est situé à 3 m 05 de hauteur.",
+     "r": "valable",
+     "e": "La hauteur du panier est de 3 m 05."
+    },
+    {
+     "q": "Le terrain mesure 40 mètres de long sur 20 mètres de large.",
+     "r": "faute",
+     "e": "C'est faux. Le terrain mesure 28 m sur 15 m (les terrains de 26 m × 14 m peuvent aussi être homologués)."
+    },
+    {
+     "q": "Le terrain mesure 28 mètres de long sur 15 mètres de large.",
+     "r": "valable",
+     "e": "Le terrain mesure 28 m sur 15 m (les terrains de 26 m × 14 m peuvent aussi être homologués)."
+    },
+    {
+     "q": "Une violation est une infraction au règlement qui donne le ballon à l'équipe adverse.",
+     "r": "valable",
+     "e": "Sur une violation, le ballon est remis à l'équipe adverse pour une remise en jeu à l'endroit le plus proche de l'infraction."
+    },
+    {
+     "q": "Une violation est une infraction qui donne toujours des lancers francs.",
+     "r": "faute",
+     "e": "C'est faux. Sur une violation, le ballon est remis à l'équipe adverse pour une remise en jeu à l'endroit le plus proche de l'infraction."
+    },
+    {
+     "q": "Après son dribble, un joueur qui fait 3 pas sans tirer ni passer commet un « marcher ».",
+     "r": "valable",
+     "e": "Après un dribble, un double pas est permis pour tirer ou passer. Au 3e pas, c'est « marcher »."
+    },
+    {
+     "q": "Après son dribble, un joueur peut faire jusqu'à 5 pas avant de tirer ou de passer.",
+     "r": "faute",
+     "e": "C'est faux. Après un dribble, un double pas est permis pour tirer ou passer. Au 3e pas, c'est « marcher »."
+    },
+    {
+     "q": "Un joueur peut dribbler avec les deux mains en même temps.",
+     "r": "faute",
+     "e": "C'est faux. Dribbler à deux mains est une « reprise de dribble », qui est une violation."
+    },
+    {
+     "q": "Un joueur doit dribbler avec une seule main à la fois.",
+     "r": "valable",
+     "e": "Dribbler à deux mains est une « reprise de dribble », qui est une violation."
+    },
+    {
+     "q": "Jouer volontairement le ballon avec le pied ou le poing est une violation.",
+     "r": "valable",
+     "e": "Le ballon se joue avec les mains. Le jouer volontairement avec la jambe ou le poing est une violation."
+    },
+    {
+     "q": "Jouer volontairement le ballon avec le pied est autorisé.",
+     "r": "faute",
+     "e": "C'est faux. Le ballon se joue avec les mains. Le jouer volontairement avec la jambe ou le poing est une violation."
+    },
+    {
+     "q": "Un joueur peut rester 10 secondes dans la raquette adverse tant que son équipe attaque.",
+     "r": "faute",
+     "e": "C'est faux. C'est la règle des 3 secondes : 3 secondes maximum dans la zone restrictive adverse."
+    },
+    {
+     "q": "Un joueur ne doit pas rester plus de 3 secondes dans la raquette adverse quand son équipe contrôle le ballon en zone avant.",
+     "r": "valable",
+     "e": "C'est la règle des 3 secondes : 3 secondes maximum dans la zone restrictive adverse."
+    },
+    {
+     "q": "Un joueur étroitement marqué doit passer, tirer ou dribbler dans un délai de 5 secondes.",
+     "r": "valable",
+     "e": "C'est la règle des 5 secondes."
+    },
+    {
+     "q": "Un joueur étroitement marqué dispose de 15 secondes pour passer, tirer ou dribbler.",
+     "r": "faute",
+     "e": "C'est faux. C'est la règle des 5 secondes."
+    },
+    {
+     "q": "Une équipe a 8 secondes pour franchir la ligne médiane après une remise en jeu.",
+     "r": "valable",
+     "e": "C'est la règle des 8 secondes."
+    },
+    {
+     "q": "Une équipe a 15 secondes pour franchir la ligne médiane après une remise en jeu.",
+     "r": "faute",
+     "e": "C'est faux. C'est la règle des 8 secondes."
+    },
+    {
+     "q": "Une équipe dispose de 30 secondes pour déclencher un tir.",
+     "r": "faute",
+     "e": "C'est faux. C'est la règle des 24 secondes (chronomètre des tirs)."
+    },
+    {
+     "q": "Une équipe dispose de 24 secondes pour déclencher un tir.",
+     "r": "valable",
+     "e": "C'est la règle des 24 secondes (chronomètre des tirs)."
+    },
+    {
+     "q": "Une équipe qui contrôle le ballon en zone avant ne doit pas le ramener en zone arrière.",
+     "r": "valable",
+     "e": "Le retour du ballon en zone arrière est une violation."
+    },
+    {
+     "q": "Une équipe qui contrôle le ballon en zone avant peut le ramener librement en zone arrière.",
+     "r": "faute",
+     "e": "C'est faux. Le retour du ballon en zone arrière est une violation."
+    },
+    {
+     "q": "Une faute personnelle est une faute sans contact avec l'adversaire.",
+     "r": "faute",
+     "e": "C'est faux. Une faute est une infraction impliquant un contact personnel illégal et/ou un comportement antisportif."
+    },
+    {
+     "q": "Une faute personnelle est une faute impliquant un contact illégal avec un adversaire.",
+     "r": "valable",
+     "e": "Une faute est une infraction impliquant un contact personnel illégal et/ou un comportement antisportif."
+    },
+    {
+     "q": "Un joueur est exclu du reste du match à sa 5e faute.",
+     "r": "valable",
+     "e": "Chaque joueur a le droit à 5 fautes dans un match ; la dernière entraîne l'exclusion."
+    },
+    {
+     "q": "Un joueur est exclu du reste du match à sa 2e faute.",
+     "r": "faute",
+     "e": "C'est faux. Chaque joueur a le droit à 5 fautes dans un match ; la dernière entraîne l'exclusion."
+    },
+    {
+     "q": "Un lancer franc réussi vaut 2 points.",
+     "r": "faute",
+     "e": "C'est faux. Chaque lancer franc réussi vaut un point."
+    },
+    {
+     "q": "Un lancer franc réussi vaut 1 point.",
+     "r": "valable",
+     "e": "Chaque lancer franc réussi vaut un point."
+    },
+    {
+     "q": "Un joueur sanctionné de deux fautes antisportives est disqualifié.",
+     "r": "valable",
+     "e": "Il est disqualifié pour le reste de la rencontre ; la faute est inscrite GD."
+    },
+    {
+     "q": "Un joueur sanctionné de deux fautes antisportives reste dans le match.",
+     "r": "faute",
+     "e": "C'est faux. Il est disqualifié pour le reste de la rencontre ; la faute est inscrite GD."
+    },
+    {
+     "q": "Un temps mort dure 5 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Un temps mort dure 1 minute, avec un premier signal sonore à 50 secondes."
+    },
+    {
+     "q": "Un temps mort dure 1 minute.",
+     "r": "valable",
+     "e": "Un temps mort dure 1 minute, avec un premier signal sonore à 50 secondes."
+    },
+    {
+     "q": "C'est le capitaine de l'équipe qui demande un temps mort.",
+     "r": "faute",
+     "e": "C'est faux. Le temps mort est demandé par l'entraîneur ou l'entraîneur adjoint."
+    },
+    {
+     "q": "C'est l'entraîneur ou l'entraîneur adjoint qui demande un temps mort.",
+     "r": "valable",
+     "e": "Le temps mort est demandé par l'entraîneur ou l'entraîneur adjoint."
+    },
+    {
+     "q": "C'est l'entraîneur qui demande le remplacement directement à l'arbitre sur le terrain.",
+     "r": "faute",
+     "e": "C'est faux. Le remplaçant doit faire le geste ou s'asseoir sur la chaise près de la table."
+    },
+    {
+     "q": "C'est le remplaçant qui demande son remplacement à la table de marque.",
+     "r": "valable",
+     "e": "Le remplaçant doit faire le geste ou s'asseoir sur la chaise près de la table."
+    },
+    {
+     "q": "Un match est dirigé par un seul arbitre, sans table de marque.",
+     "r": "faute",
+     "e": "C'est faux. Les officiels : 2 arbitres, 1 marqueur, 1 chronométreur et, si possible, 1 opérateur des 24 secondes."
+    },
+    {
+     "q": "Un match est dirigé par 2 arbitres, un marqueur et un chronométreur.",
+     "r": "valable",
+     "e": "Les officiels : 2 arbitres, 1 marqueur, 1 chronométreur et, si possible, 1 opérateur des 24 secondes."
+    },
+    {
+     "q": "Le marqueur déclenche le chronomètre de jeu et siffle les fautes.",
+     "r": "faute",
+     "e": "C'est faux. Le marqueur note le score, les fautes et les temps morts ; il gère aussi la flèche d'alternance."
+    },
+    {
+     "q": "Le marqueur note le score, les fautes et les temps morts sur la feuille de marque.",
+     "r": "valable",
+     "e": "Le marqueur note le score, les fautes et les temps morts ; il gère aussi la flèche d'alternance."
+    },
+    {
+     "q": "Le jeune arbitre arrive 45 minutes avant le début de la rencontre.",
+     "r": "valable",
+     "e": "Il arrive 45 minutes avant pour se présenter, s'échauffer, faire un briefing et vérifier la feuille et le matériel."
+    },
+    {
+     "q": "Le jeune arbitre arrive au coup d'envoi de la rencontre.",
+     "r": "faute",
+     "e": "C'est faux. Il arrive 45 minutes avant pour se présenter, s'échauffer, faire un briefing et vérifier la feuille et le matériel."
+    },
+    {
+     "q": "Au niveau national, le jeune arbitre est identifié par un polo vert.",
+     "r": "valable",
+     "e": "Il est identifié par un polo de couleur verte."
+    },
+    {
+     "q": "Au niveau national, le jeune arbitre est identifié par un polo rouge.",
+     "r": "faute",
+     "e": "C'est faux. Il est identifié par un polo de couleur verte."
+    },
+    {
+     "q": "Le jeune arbitre signe la feuille de marque en premier.",
+     "r": "faute",
+     "e": "C'est faux. Le marqueur la fait signer au chronométreur, puis aux arbitres ; l'arbitre signe en dernier."
+    },
+    {
+     "q": "Le jeune arbitre signe la feuille de marque en dernier.",
+     "r": "valable",
+     "e": "Le marqueur la fait signer au chronométreur, puis aux arbitres ; l'arbitre signe en dernier."
+    }
+   ]
+  }
+ ]
+}

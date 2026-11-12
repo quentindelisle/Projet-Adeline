@@ -1,0 +1,265 @@
+{
+ "id": "raid-multisports-2",
+ "titre": "Présentation, format & classement",
+ "sousTitre": "Quiz Jeune Officiel Raid Multisports",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT RAID MULTISPORTS UNSS",
+ "sport": "raid-multisports",
+ "source": "https://illustrious-lokum-c1f55c.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le raid multisports de nature est une épreuve d'enchaînement d'activités physiques et sportives non motorisées.",
+     "r": "valable",
+     "e": "C'est la définition officielle du raid multisports de nature selon la Fédération Nationale des Raids Multisports de Nature."
+    },
+    {
+     "q": "Le raid multisports se pratique uniquement avec des activités motorisées.",
+     "r": "faute",
+     "e": "Le raid multisports regroupe des activités non motorisées, par définition."
+    },
+    {
+     "q": "On retrouve généralement au minimum du VTT, du trail et du kayak dans un raid multisports.",
+     "r": "valable",
+     "e": "Chaque organisateur propose les disciplines qu'il souhaite, mais on retrouve généralement à minima du VTT, du trail et du kayak."
+    },
+    {
+     "q": "Un raid multisports ne peut jamais comporter d'ateliers de cordes ou d'escalade.",
+     "r": "faute",
+     "e": "Les ateliers de corde, d'escalade et d'autres sports nature peuvent être ajoutés au programme du raid."
+    },
+    {
+     "q": "Les premiers championnats de France UNSS de raid multisports se sont tenus en 2012.",
+     "r": "valable",
+     "e": "Les premiers championnats de France UNSS se sont tenus en 2012."
+    },
+    {
+     "q": "Le raid multisports UNSS n'existe que depuis 2020.",
+     "r": "faute",
+     "e": "L'activité existe depuis 2012 au niveau des championnats de France UNSS."
+    },
+    {
+     "q": "L'UNSS et la FF Triathlon collaborent pour le développement du raid multisports chez les jeunes.",
+     "r": "valable",
+     "e": "Les 2 fédérations, UNSS et FF Triathlon, collaborent pour le développement coordonné de la pratique chez les jeunes."
+    },
+    {
+     "q": "Le raid multisports est une activité entièrement codifiée, identique dans toutes les compétitions.",
+     "r": "faute",
+     "e": "L'absence de formatage des épreuves constitue justement le principal intérêt du raid multisports."
+    },
+    {
+     "q": "La durée minimale de l'épreuve pour les collèges est de 3 heures par jour.",
+     "r": "valable",
+     "e": "Pour les collèges, la durée est de 3h minimum à 5h maximum par jour."
+    },
+    {
+     "q": "La durée minimale de l'épreuve pour les collèges est de 5 heures par jour.",
+     "r": "faute",
+     "e": "Le minimum pour les collèges est de 3 heures, pas 5."
+    },
+    {
+     "q": "La durée minimale de l'épreuve pour les lycées est de 4 heures par jour.",
+     "r": "valable",
+     "e": "Pour les lycées, la durée est de 4h minimum à 5h maximum par jour."
+    },
+    {
+     "q": "La durée maximale de l'épreuve pour les lycées est de 8 heures par jour.",
+     "r": "faute",
+     "e": "Le maximum pour les lycées est de 5 heures, pas 8."
+    },
+    {
+     "q": "Ces durées concernent uniquement les temps de course enchaînées sur J2 et J3.",
+     "r": "valable",
+     "e": "Ces durées ne concernent que les temps de course enchaînées sur J2 et J3, pas les épreuves de prologue."
+    },
+    {
+     "q": "Ces durées concernent aussi les épreuves de prologue.",
+     "r": "faute",
+     "e": "Les épreuves de prologue ne sont pas concernées par ces contraintes de durée."
+    },
+    {
+     "q": "En cas de dépassement de la durée maximale, une dérogation peut être demandée à la ligue FFTRI.",
+     "r": "valable",
+     "e": "Une demande de dérogation devra être transmise à la ligue de FFTRI et analysée par la direction technique nationale."
+    },
+    {
+     "q": "Aucune dérogation n'est jamais possible en cas de dépassement de durée.",
+     "r": "faute",
+     "e": "Une demande de dérogation est justement prévue par le règlement."
+    },
+    {
+     "q": "Un départ en masse est conseillé pour que tout le monde se confronte au moins une fois.",
+     "r": "valable",
+     "e": "Le conseil particulier du règlement est de favoriser un départ en masse."
+    },
+    {
+     "q": "Le règlement déconseille formellement tout départ en masse.",
+     "r": "faute",
+     "e": "Le règlement conseille au contraire de favoriser un départ en masse."
+    },
+    {
+     "q": "Il existe deux grands types de classement en raid : aux points et au temps.",
+     "r": "valable",
+     "e": "Il existe 2 grands types de classement : le classement aux points et le classement au temps."
+    },
+    {
+     "q": "Il n'existe qu'un seul type de classement possible en raid.",
+     "r": "faute",
+     "e": "Il existe bien deux types distincts : aux points et au temps."
+    },
+    {
+     "q": "Dans le classement aux points, chaque balise rapporte un nombre de points selon sa difficulté.",
+     "r": "valable",
+     "e": "Le classement aux points attribue un nombre de points par balise en fonction de sa difficulté."
+    },
+    {
+     "q": "Dans le classement aux points, seul le temps compte, jamais les points.",
+     "r": "faute",
+     "e": "C'est l'inverse : ce sont les points qui priment, le temps ne sert qu'à départager une égalité."
+    },
+    {
+     "q": "Dans le classement au temps, chaque balise possède une « valeur temps » ajoutée au temps réel.",
+     "r": "valable",
+     "e": "Le classement au temps ajoute une valeur temps par balise au temps réel de l'équipe."
+    },
+    {
+     "q": "Seuls les classements aux points sont autorisés sur les championnats de France.",
+     "r": "faute",
+     "e": "Ce sont au contraire les classements au temps qui sont les seuls autorisés sur les championnats de France."
+    },
+    {
+     "q": "Seuls les classements au temps sont autorisés sur les championnats de France, fédéraux comme scolaires.",
+     "r": "valable",
+     "e": "Le règlement précise explicitement que seuls les classements au temps sont autorisés sur ces championnats."
+    },
+    {
+     "q": "Les participants à un raid multisports peuvent concourir seuls, sans équipe.",
+     "r": "faute",
+     "e": "Le raid se pratique toujours en équipe, jamais en solitaire."
+    },
+    {
+     "q": "Les participants à un raid multisports se déplacent toujours en équipe.",
+     "r": "valable",
+     "e": "Les participants à un raid multisports se déplacent toujours en équipe."
+    },
+    {
+     "q": "Aux championnats de France UNSS collège, seule la mixité est exigée, sans parité stricte.",
+     "r": "faute",
+     "e": "Au niveau collège, c'est bien une parité stricte (2+2) qui est exigée, pas une simple mixité."
+    },
+    {
+     "q": "Aux championnats de France UNSS collège, la parité (2 féminines + 2 masculins) est exigée.",
+     "r": "valable",
+     "e": "Sur les championnats de France UNSS collège, la parité de 2 féminines et 2 masculins est exigée."
+    },
+    {
+     "q": "Aux championnats de France UNSS lycée, la parité stricte 2+2 est obligatoire comme au collège.",
+     "r": "faute",
+     "e": "Au lycée, seule la mixité est exigée, pas la parité stricte propre au collège."
+    },
+    {
+     "q": "Aux championnats de France UNSS lycée, seule la mixité (au moins 1 de chaque sexe) est imposée.",
+     "r": "valable",
+     "e": "Au niveau lycée, seule la mixité est imposée, contrairement au collège où la parité stricte est requise."
+    },
+    {
+     "q": "Une épreuve de raid ne concerne jamais qu'une seule catégorie d'établissement.",
+     "r": "faute",
+     "e": "Une épreuve peut concerner plusieurs catégories d'établissement : excellence, établissement, sport partagé."
+    },
+    {
+     "q": "Une épreuve peut concerner plusieurs catégories d'âge (minime, cadet, junior, sénior).",
+     "r": "valable",
+     "e": "Une épreuve peut concerner plusieurs catégories d'âge : minime, cadet, junior, sénior."
+    },
+    {
+     "q": "Le classement affiché à l'issue de la course est immédiatement définitif.",
+     "r": "faute",
+     "e": "Les classements et résultats affichés sont provisoires ; le classement ne devient définitif qu'après une éventuelle réunion du jury technique."
+    },
+    {
+     "q": "Les résultats affichés sont provisoires, sujets à réclamation dans un délai de 30 minutes.",
+     "r": "valable",
+     "e": "Toute réclamation devra être déposée auprès de l'organisation après l'affichage, dans un délai de 30 minutes."
+    },
+    {
+     "q": "Les temps de course n'ont jamais besoin d'être communiqués à l'organisation nationale.",
+     "r": "faute",
+     "e": "Il est au contraire obligatoire de les faire remonter sur Opuss."
+    },
+    {
+     "q": "Il est obligatoire de faire remonter les temps de course des AS qualifiées sur Opuss.",
+     "r": "valable",
+     "e": "Sur Opuss, il est obligatoire de faire remonter les temps de course des AS qualifiées et qualifiables."
+    },
+    {
+     "q": "Un règlement général de l'épreuve n'est nécessaire qu'au niveau national.",
+     "r": "faute",
+     "e": "La rédaction d'un règlement général est obligatoire pour toute épreuve, pas seulement au niveau national."
+    },
+    {
+     "q": "Il est obligatoire de rédiger un règlement général pour chaque épreuve de raid.",
+     "r": "valable",
+     "e": "Il est obligatoire de rédiger un règlement général de l'épreuve."
+    },
+    {
+     "q": "Les RTS ne sont éditées qu'une seule fois, sans jamais être mises à jour.",
+     "r": "faute",
+     "e": "Les RTS sont éditées chaque année et mises à jour régulièrement."
+    },
+    {
+     "q": "L'organisateur doit s'appuyer sur les règles techniques de sécurité (RTS) éditées par la FFTRI.",
+     "r": "valable",
+     "e": "L'organisateur devra s'appuyer et respecter les règles techniques de sécurité éditées par la FFTRI."
+    },
+    {
+     "q": "Le contrôle de conformité à l'accueil est facultatif, à la discrétion de l'organisateur.",
+     "r": "faute",
+     "e": "Ce premier contrôle est au contraire obligatoire."
+    },
+    {
+     "q": "Un premier contrôle de conformité obligatoire doit être organisé à l'accueil des équipes.",
+     "r": "valable",
+     "e": "Un 1er contrôle de conformité obligatoire doit être organisé à l'accueil des équipes."
+    },
+    {
+     "q": "Une équipe non conforme peut prendre le départ si elle promet de se mettre en conformité plus tard.",
+     "r": "faute",
+     "e": "La non-conformité empêche formellement le départ, sans exception de ce type."
+    },
+    {
+     "q": "Aucune équipe ne sera autorisée à prendre le départ en cas de non-conformité.",
+     "r": "valable",
+     "e": "Aucune équipe ne sera autorisée à prendre le départ en cas de non-conformité."
+    },
+    {
+     "q": "Les AS non conformes sont comptabilisées dans le classement des AS qualifiables du programme national.",
+     "r": "faute",
+     "e": "Elles participent mais ne sont pas comptabilisées dans ce classement spécifique."
+    },
+    {
+     "q": "Des AS « non conformes » peuvent participer aux épreuves académiques dans le cadre du programme territorial.",
+     "r": "valable",
+     "e": "Dans le cadre du Programme territorial, des AS dites « non conformes » peuvent participer, sans être comptabilisées dans le classement des AS qualifiables."
+    },
+    {
+     "q": "La progression sur un raid se fait exclusivement par GPS, sans autre méthode possible.",
+     "r": "faute",
+     "e": "Plusieurs méthodes de progression sont possibles : jalonné, itinéraire, orientation, road book, fléché allemand, pas uniquement le GPS."
+    },
+    {
+     "q": "La progression sur le raid peut se faire en suivi de jalonné, d'itinéraire ou en orientation.",
+     "r": "valable",
+     "e": "La progression se fait en suivi de jalonné, d'itinéraire ou en orientation (cartes IOF ou IGN, photos aériennes, road book, fléché allemand…)."
+    },
+    {
+     "q": "Les valeurs d'esprit d'entraide, de goût de l'effort et de respect de la nature sont optionnelles pour l'organisateur.",
+     "r": "faute",
+     "e": "Ces valeurs doivent au contraire sous-tendre les choix de l'organisation, quelles que soient les activités retenues."
+    }
+   ]
+  }
+ ]
+}

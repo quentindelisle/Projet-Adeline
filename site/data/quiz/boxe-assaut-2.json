@@ -1,0 +1,265 @@
+{
+ "id": "boxe-assaut-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre/Juge Boxe Assaut",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT BOXE ASSAUT UNSS",
+ "sport": "boxe-assaut",
+ "source": "https://luminous-sunburst-303dff.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le jugement se fait toujours avec un nombre impair de juges : 3 ou 5.",
+     "r": "valable",
+     "e": "Le jugement se fait toujours avec un nombre impair de juges (3 ou 5)."
+    },
+    {
+     "q": "Le jugement se fait toujours avec un nombre pair de juges : 2 ou 4.",
+     "r": "faute",
+     "e": "Le nombre de juges est toujours impair (3 ou 5), pour éviter les égalités."
+    },
+    {
+     "q": "Pour valider une touche, le juge enclenche son cliquet de la couleur du boxeur qui a touché son adversaire.",
+     "r": "valable",
+     "e": "Pour valider une touche, le juge enclenche son cliquet de la couleur du boxeur qui a touché son adversaire."
+    },
+    {
+     "q": "Le juge note les touches sur papier, sans utiliser de cliquet.",
+     "r": "faute",
+     "e": "Le juge utilise un cliquet de la couleur du boxeur, ce n'est pas une simple prise de notes."
+    },
+    {
+     "q": "Les juges ne remettent jamais leurs cliquets à zéro entre les reprises.",
+     "r": "valable",
+     "e": "Il ne remet pas ses cliquets à zéro. Ainsi, les scores se cumulent sur chaque reprise."
+    },
+    {
+     "q": "Les juges remettent leurs cliquets à zéro au début de chaque reprise.",
+     "r": "faute",
+     "e": "Les cliquets ne sont jamais remis à zéro : les scores se cumulent sur toute la durée de l'assaut."
+    },
+    {
+     "q": "En cas de pénalité ou d'avertissement, les juges n'actionnent pas leurs cliquets.",
+     "r": "valable",
+     "e": "En cas de pénalité ou d'avertissement, les juges ne doivent pas actionner leurs cliquets."
+    },
+    {
+     "q": "En cas de pénalité, les juges actionnent leur cliquet comme pour une touche normale.",
+     "r": "faute",
+     "e": "Les juges n'actionnent pas leur cliquet pour une pénalité ou un avertissement."
+    },
+    {
+     "q": "Les touches sur les bras de l'adversaire sont autorisées mais ne sont pas comptabilisées.",
+     "r": "valable",
+     "e": "Les touches sur les bras de l'adversaire sont autorisées mais pas comptabilisées."
+    },
+    {
+     "q": "Les touches sur les bras de l'adversaire sont interdites et sanctionnées.",
+     "r": "faute",
+     "e": "Ces touches sont autorisées, simplement non comptabilisées, pas interdites."
+    },
+    {
+     "q": "Les 3 commandements du directeur d'assaut sont : BOXE, STOP, et STOP ! CHRONO.",
+     "r": "valable",
+     "e": "Les commandements sont au nombre de trois : BOXE, STOP, STOP ! CHRONO."
+    },
+    {
+     "q": "Les commandements du directeur d'assaut sont : START, PAUSE, END.",
+     "r": "faute",
+     "e": "Les commandements réglementaires sont BOXE, STOP, STOP ! CHRONO."
+    },
+    {
+     "q": "Le directeur d'assaut monte en premier sur le ring.",
+     "r": "valable",
+     "e": "Monte en premier sur le ring et se positionne au coin neutre en face de la table de marque."
+    },
+    {
+     "q": "Les boxeurs montent toujours sur le ring avant le directeur d'assaut.",
+     "r": "faute",
+     "e": "Les boxeurs montent toujours après le directeur d'assaut, qui monte en premier."
+    },
+    {
+     "q": "Le directeur d'assaut se positionne au coin neutre, en face de la table de marque.",
+     "r": "valable",
+     "e": "Se positionne au coin neutre en face de la table de marque."
+    },
+    {
+     "q": "Le directeur d'assaut se positionne toujours dans le coin rouge.",
+     "r": "faute",
+     "e": "Il se positionne au coin neutre, face à la table de marque, pas dans le coin rouge."
+    },
+    {
+     "q": "Le directeur d'assaut invite les boxeurs à se rejoindre au centre du ring pour se toucher les gants.",
+     "r": "valable",
+     "e": "Invite les boxeurs à se rejoindre au centre du ring et à se toucher les gants."
+    },
+    {
+     "q": "Les boxeurs ne se touchent jamais les gants avant l'assaut.",
+     "r": "faute",
+     "e": "Le toucher de gants au centre du ring fait partie du protocole avant l'assaut."
+    },
+    {
+     "q": "Le chronométreur déclenche le chronomètre au commandement « BOXE » du directeur d'assaut.",
+     "r": "valable",
+     "e": "Au commandement « BOXE » du directeur d'assaut, il déclenche le chronomètre."
+    },
+    {
+     "q": "Le chronométreur déclenche le chronomètre de sa propre initiative, sans attendre de commandement.",
+     "r": "faute",
+     "e": "Le chronomètre est déclenché précisément au commandement « BOXE » du directeur d'assaut."
+    },
+    {
+     "q": "Pendant la minute de repos, le chronométreur énonce « second dehors ».",
+     "r": "valable",
+     "e": "Pendant la minute de repos, il énonce « second dehors »."
+    },
+    {
+     "q": "Pendant la minute de repos, le chronométreur reste silencieux.",
+     "r": "faute",
+     "e": "Le chronométreur énonce « second dehors » pendant la minute de repos."
+    },
+    {
+     "q": "Le régulateur adulte de ring est prioritairement un membre de la CMN ou désigné par elle.",
+     "r": "valable",
+     "e": "Il est prioritairement un membre de la CMN ou désigné par celle-ci."
+    },
+    {
+     "q": "Le régulateur adulte de ring est un boxeur volontaire parmi les participants.",
+     "r": "faute",
+     "e": "Le régulateur est un membre de la CMN ou une personne désignée par elle, pas un boxeur participant."
+    },
+    {
+     "q": "Le régulateur peut disqualifier un boxeur s'il intervient directement pendant l'assaut en cas de danger.",
+     "r": "valable",
+     "e": "Soit en intervenant directement pendant l'assaut, en cas de situation qu'il estime dangereuse. Dans ce cas, il peut disqualifier le boxeur fautif."
+    },
+    {
+     "q": "Le régulateur n'a jamais le pouvoir de disqualifier un boxeur.",
+     "r": "faute",
+     "e": "Le régulateur peut disqualifier un boxeur en cas de danger constaté pendant l'assaut."
+    },
+    {
+     "q": "Le responsable adulte de ring juge chaque assaut en parallèle des trois jeunes juges pour établir un jugement de référence.",
+     "r": "valable",
+     "e": "Il juge avec chaque assaut en parallèle des trois jeunes juges pour établir un jugement de référence."
+    },
+    {
+     "q": "Le responsable adulte de ring ne juge jamais, il se contente d'observer.",
+     "r": "faute",
+     "e": "Le responsable de ring établit un jugement de référence en parallèle des jeunes juges."
+    },
+    {
+     "q": "Le carton bleu est décerné par le régulateur de ring à la fin de chaque assaut.",
+     "r": "valable",
+     "e": "Il est décerné ou pas à la fin de chaque assaut par le régulateur de ring aux deux boxeurs associés à leur coache."
+    },
+    {
+     "q": "Le carton bleu est décerné par les juges au début de l'assaut.",
+     "r": "faute",
+     "e": "C'est le régulateur de ring qui décerne le carton bleu, à la fin de l'assaut, pas les juges au début."
+    },
+    {
+     "q": "Les critères du carton bleu incluent le respect de l'adversaire et l'entente entre le boxeur et son coach.",
+     "r": "valable",
+     "e": "Les critères sont : respect de l'adversaire, respect du directeur d'assaut et des officiels, l'entente entre le boxeur et son coache."
+    },
+    {
+     "q": "Le carton bleu ne dépend que du nombre de victoires du boxeur.",
+     "r": "faute",
+     "e": "Le carton bleu dépend du respect et de l'entente, pas uniquement des victoires."
+    },
+    {
+     "q": "Le coach doit rester assis et silencieux pendant les reprises.",
+     "r": "valable",
+     "e": "Il doit obligatoirement rester silencieux pendant les reprises et systématiquement assis."
+    },
+    {
+     "q": "Le coach peut se déplacer et parler librement pendant les reprises.",
+     "r": "faute",
+     "e": "Le règlement impose au coach de rester assis et silencieux pendant les reprises."
+    },
+    {
+     "q": "Le coaching à distance est interdit et peut entraîner des sanctions jusqu'à la disqualification.",
+     "r": "valable",
+     "e": "En aucun cas le coaching à distance n'est toléré sous peine de sanctions : de la pénalité à l'avertissement jusqu'à la disqualification."
+    },
+    {
+     "q": "Le coaching à distance est toléré sans aucune conséquence pour le boxeur.",
+     "r": "faute",
+     "e": "Le coaching à distance est interdit et peut entraîner des sanctions, jusqu'à la disqualification du boxeur concerné."
+    },
+    {
+     "q": "Le second doit se présenter avec une tenue sportive, une serviette, une bassine et une bouteille d'eau.",
+     "r": "valable",
+     "e": "Le second doit se présenter obligatoirement avec une tenue sportive – serviette – bassine – bouteille d'eau, mouchoirs ou compresses."
+    },
+    {
+     "q": "Le second n'a besoin d'aucun équipement particulier.",
+     "r": "faute",
+     "e": "Le second doit être équipé de tenue sportive, serviette, bassine et bouteille d'eau."
+    },
+    {
+     "q": "Les cheveux des boxeurs doivent être attachés et maintenus par un bandana ou un bonnet de bain.",
+     "r": "valable",
+     "e": "Les cheveux doivent être attachés et maintenus par un bandana ou un bonnet de bain."
+    },
+    {
+     "q": "Les cheveux des boxeurs peuvent rester détachés sans restriction.",
+     "r": "faute",
+     "e": "Le règlement impose que les cheveux soient attachés, avec un bandana ou un bonnet de bain."
+    },
+    {
+     "q": "Une tenue réglementaire non respectée entraîne systématiquement la disqualification du boxeur.",
+     "r": "valable",
+     "e": "La tenue réglementaire non respectée entraine systématiquement la disqualification du boxeur."
+    },
+    {
+     "q": "Une tenue non conforme n'entraîne qu'un simple avertissement oral.",
+     "r": "faute",
+     "e": "Le non-respect de la tenue réglementaire entraîne systématiquement la disqualification, pas un simple avertissement."
+    },
+    {
+     "q": "Le plastron est recommandé pour les jeunes filles.",
+     "r": "valable",
+     "e": "Plastron recommandé pour les jeunes filles."
+    },
+    {
+     "q": "Le plastron est obligatoire pour tous les boxeurs, filles et garçons.",
+     "r": "faute",
+     "e": "Le plastron est recommandé pour les filles, il n'est pas obligatoire pour tous."
+    },
+    {
+     "q": "Le directeur d'assaut invite les boxeurs à se serrer la main avant et après la décision.",
+     "r": "valable",
+     "e": "Invite les deux boxeurs à se serrer la main avant et après la décision."
+    },
+    {
+     "q": "Les boxeurs ne se serrent la main qu'après la décision, jamais avant.",
+     "r": "faute",
+     "e": "Le protocole prévoit une poignée de main avant ET après la décision."
+    },
+    {
+     "q": "Le directeur d'assaut quitte le ring en dernier.",
+     "r": "valable",
+     "e": "Il quitte le ring le dernier."
+    },
+    {
+     "q": "Le directeur d'assaut quitte toujours le ring en premier, avant les boxeurs.",
+     "r": "faute",
+     "e": "C'est le directeur d'assaut qui quitte le ring en dernier, pas en premier."
+    },
+    {
+     "q": "Le niveau national de compétence est acquis à partir d'une note de 16/20.",
+     "r": "valable",
+     "e": "Un Jeune Arbitre / Jeune Juge acquiert le niveau 5 (national) de la compétence à partir d'une note de 16/20 lors de son évaluation."
+    },
+    {
+     "q": "Le niveau national est acquis à partir d'une note de 10/20.",
+     "r": "faute",
+     "e": "Le seuil pour le niveau national est de 16/20, pas 10/20."
+    }
+   ]
+  }
+ ]
+}

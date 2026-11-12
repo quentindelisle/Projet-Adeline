@@ -1,0 +1,265 @@
+{
+ "id": "natation-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Juge Natation",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT NATATION UNSS",
+ "sport": "natation",
+ "source": "https://tubular-taffy-f1a188.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Au 2ème faux départ, le starter laisse les nageurs terminer leur parcours et ne disqualifie que le responsable.",
+     "r": "valable",
+     "e": "Au 2ème faux départ le starter laisse les nageurs faire leur parcours et disqualifie seulement le responsable du 2ème faux départ."
+    },
+    {
+     "q": "Au 2ème faux départ, tous les nageurs sont systématiquement disqualifiés.",
+     "r": "faute",
+     "e": "Seul le responsable du 2ème faux départ est disqualifié, pas tous les nageurs."
+    },
+    {
+     "q": "S'il y a un chronométrage électronique, le temps annoncé par cet équipement est le temps officiel.",
+     "r": "valable",
+     "e": "S'il y a un chronométrage électronique, le temps annoncé par cet équipement est le temps officiel."
+    },
+    {
+     "q": "Le chronométrage électronique n'est jamais pris en compte comme temps officiel.",
+     "r": "faute",
+     "e": "Le temps du chronométrage électronique fait foi lorsqu'il existe."
+    },
+    {
+     "q": "Si les trois chronométreurs ont un temps différent, le temps intermédiaire est le temps officiel.",
+     "r": "valable",
+     "e": "Sinon : lorsque les trois chronométreurs ont un temps différent, le temps intermédiaire est officiel."
+    },
+    {
+     "q": "Si les trois chronométreurs ont un temps différent, c'est le temps le plus rapide qui est retenu.",
+     "r": "faute",
+     "e": "C'est le temps intermédiaire qui est retenu comme officiel, pas le plus rapide."
+    },
+    {
+     "q": "Si deux chronométreurs ont le même temps et le troisième un temps différent, le temps indiqué deux fois est officiel.",
+     "r": "valable",
+     "e": "Lorsque deux chronométreurs ont le même temps et le troisième un temps différent, le temps indiqué deux fois est officiel."
+    },
+    {
+     "q": "Dans ce cas, c'est systématiquement le temps du troisième chronométreur qui est retenu.",
+     "r": "faute",
+     "e": "C'est le temps indiqué par deux chronométreurs qui est retenu comme officiel."
+    },
+    {
+     "q": "S'il n'y a que deux chronométreurs, la moyenne des deux temps est le temps officiel.",
+     "r": "valable",
+     "e": "S'il n'y a que deux chronométreurs, la moyenne des deux temps est le temps officiel."
+    },
+    {
+     "q": "S'il n'y a que deux chronométreurs, seul le temps du plus expérimenté est retenu.",
+     "r": "faute",
+     "e": "Avec deux chronométreurs seulement, c'est la moyenne des deux temps qui fait foi."
+    },
+    {
+     "q": "Le chef chronométreur remplace un chronométreur qui n'a pas pu prendre le temps.",
+     "r": "valable",
+     "e": "Le chef chronométreur remplace un chronométreur si celui-ci n'a pu prendre le temps."
+    },
+    {
+     "q": "Si un chronométreur rate son chronométrage, aucun temps n'est enregistré pour ce nageur.",
+     "r": "faute",
+     "e": "Le chef chronométreur intervient pour remplacer un chronométreur défaillant."
+    },
+    {
+     "q": "Si deux nageurs sont classés 1er et 2ème par le juge à l'arrivée mais que le temps du 2ème est meilleur, ils gardent l'ordre du juge avec le même temps (la moyenne).",
+     "r": "valable",
+     "e": "Lorsque deux nageurs sont classés 1er et 2ème par le juge à l'arrivée et que le temps du 2° est meilleur que le temps du 1er, les nageurs sont classés dans l'ordre du juge et ont le même temps qui est la moyenne des deux temps."
+    },
+    {
+     "q": "Dans ce cas, c'est toujours le temps qui prévaut sur le jugement à l'arrivée.",
+     "r": "faute",
+     "e": "C'est le jugement à l'arrivée qui prévaut ; les deux nageurs reçoivent alors la moyenne des deux temps."
+    },
+    {
+     "q": "Dans la zone des 5 mètres, le nageur doit avoir au moins une main en contact avec le mannequin.",
+     "r": "valable",
+     "e": "Au moins une main du nageur est en contact avec le mannequin."
+    },
+    {
+     "q": "Dans la zone des 5 mètres, aucun contact du nageur avec le mannequin n'est requis.",
+     "r": "faute",
+     "e": "Un contact d'au moins une main du nageur avec le mannequin est requis dans cette zone."
+    },
+    {
+     "q": "Dans la zone des 5 mètres, le mannequin doit être face vers le haut, tête émergée.",
+     "r": "valable",
+     "e": "Le mannequin est face vers le haut et sa tête est émergée."
+    },
+    {
+     "q": "Dans la zone des 5 mètres, la position du mannequin n'a aucune importance.",
+     "r": "faute",
+     "e": "Le mannequin doit être face vers le haut, tête émergée, dans cette zone précise."
+    },
+    {
+     "q": "Orienter la tête du mannequin vers la zone des 5 mètres est une mauvaise prise.",
+     "r": "valable",
+     "e": "Les nageurs ne doivent pas (mauvaises prises) : Orienter la tête du mannequin vers la zone des 5 mètres."
+    },
+    {
+     "q": "Orienter la tête du mannequin vers la zone des 5 mètres est la technique recommandée.",
+     "r": "faute",
+     "e": "Cette orientation est explicitement listée comme une mauvaise prise."
+    },
+    {
+     "q": "En dos, le roulis du corps doit rester inférieur à 90 degrés.",
+     "r": "valable",
+     "e": "Le nageur doit être toujours sur le dos (roulis du corps inférieur à 90° degrés)."
+    },
+    {
+     "q": "En dos, le roulis du corps peut atteindre 180 degrés sans restriction.",
+     "r": "faute",
+     "e": "Le règlement impose un roulis inférieur à 90°, pas 180°."
+    },
+    {
+     "q": "Au virage en dos, le nageur peut passer sur le ventre avant de toucher le mur.",
+     "r": "valable",
+     "e": "Au virage, le nageur peut, avant de toucher le mur, passer sur le ventre."
+    },
+    {
+     "q": "En dos, il est absolument interdit de passer sur le ventre à quelque moment que ce soit.",
+     "r": "faute",
+     "e": "Le passage sur le ventre est autorisé au virage, avant de toucher le mur."
+    },
+    {
+     "q": "En brasse, les mouvements de bras et de jambes doivent être simultanés et symétriques.",
+     "r": "valable",
+     "e": "Les mouvements doivent être simultanés et symétriques."
+    },
+    {
+     "q": "En brasse, les mouvements de bras et de jambes peuvent être alternés librement.",
+     "r": "faute",
+     "e": "Les mouvements de bras et de jambes en brasse doivent être simultanés et symétriques, pas alternés."
+    },
+    {
+     "q": "En brasse, les mains ne doivent pas dépasser les hanches, sauf lors de la reprise de nage.",
+     "r": "valable",
+     "e": "Les mains ne doivent pas aller au-delà des hanches (sauf lors de la reprise de nage)."
+    },
+    {
+     "q": "En brasse, les mains peuvent dépasser librement les hanches à tout moment.",
+     "r": "faute",
+     "e": "Les mains ne doivent pas dépasser les hanches, sauf exception lors de la reprise de nage."
+    },
+    {
+     "q": "En papillon, un seul coup de pied est autorisé avant le premier mouvement de bras après le virage.",
+     "r": "valable",
+     "e": "Après le départ et à chaque virage, un seul coup de pieds de papillon est autorisé avant le premier mouvement de jambes."
+    },
+    {
+     "q": "En papillon, un nombre illimité de coups de pied est autorisé avant le premier mouvement de bras.",
+     "r": "faute",
+     "e": "Un seul coup de pied de papillon est autorisé avant le premier mouvement, pas un nombre illimité."
+    },
+    {
+     "q": "Les 4 nages s'enchaînent dans l'ordre papillon, dos, brasse, nage libre.",
+     "r": "valable",
+     "e": "Un nageur doit parcourir ses épreuves dans l'ordre suivant : papillon, dos, brasse, nage libre."
+    },
+    {
+     "q": "Les 4 nages s'enchaînent dans l'ordre nage libre, dos, brasse, papillon.",
+     "r": "faute",
+     "e": "L'ordre réglementaire est papillon, dos, brasse, nage libre."
+    },
+    {
+     "q": "Le juge arbitre donne 3 signaux pour organiser le départ en dos.",
+     "r": "valable",
+     "e": "Pour départ en dos : 1er signal, 2ème signal, 3ème signal."
+    },
+    {
+     "q": "Le juge arbitre ne donne qu'un seul signal pour le départ en dos.",
+     "r": "faute",
+     "e": "Trois signaux successifs organisent le départ en dos, pas un seul."
+    },
+    {
+     "q": "Le 1er signal pour le départ en dos est un coup de sifflet bref, pour que les nageurs se placent derrière leur plot.",
+     "r": "valable",
+     "e": "1° signal = coup de sifflet bref : les nageurs se préparent derrière leur plot."
+    },
+    {
+     "q": "Le 1er signal pour le départ en dos est un coup de sifflet long.",
+     "r": "faute",
+     "e": "C'est un coup de sifflet bref pour le 1er signal, pas un coup de sifflet long."
+    },
+    {
+     "q": "Le 2ème signal pour le départ en dos est un coup de sifflet long, pour que les nageurs montent sur le plot ou attrapent les étriers.",
+     "r": "valable",
+     "e": "2°signal = coup de sifflet long : les nageurs montent sur le plot ou attrapent les étriers pour le dos."
+    },
+    {
+     "q": "Le 2ème signal pour le départ en dos est identique au premier signal.",
+     "r": "faute",
+     "e": "Le 2ème signal est un coup de sifflet long, différent du premier signal (bref)."
+    },
+    {
+     "q": "Le 3ème signal, le juge arbitre lève le bras pour confier les nageurs au starter.",
+     "r": "valable",
+     "e": "3°signal = lève le bras pour confier les nageurs au starter et ce jusqu'au départ des nageurs."
+    },
+    {
+     "q": "Le 3ème signal est un nouveau coup de sifflet, comme les deux précédents.",
+     "r": "faute",
+     "e": "Le 3ème signal est un geste : le juge arbitre lève le bras, ce n'est pas un coup de sifflet."
+    },
+    {
+     "q": "L'évaluation théorique du Jeune Juge est notée sur 4 points, et la pratique sur 16 points.",
+     "r": "valable",
+     "e": "Il s'agit d'additionner le résultat théorique (sur 4 points) à l'évaluation pratique (sur 16 points) du Jeune Juge."
+    },
+    {
+     "q": "L'évaluation théorique est notée sur 10 points, et la pratique sur 10 points.",
+     "r": "faute",
+     "e": "La théorie est notée sur 4 points et la pratique sur 16 points, pas 10 et 10."
+    },
+    {
+     "q": "Le niveau académique est acquis à partir d'une note de 14/20.",
+     "r": "valable",
+     "e": "Prérequis minimaux niveau 3/4 : niveau académique : 14/20."
+    },
+    {
+     "q": "Le niveau académique est acquis à partir d'une note de 10/20.",
+     "r": "faute",
+     "e": "Le seuil pour le niveau académique est de 14/20, pas 10/20."
+    },
+    {
+     "q": "Le niveau départemental est acquis à partir d'une note de 12/20.",
+     "r": "valable",
+     "e": "Prérequis minimaux niveau 1/2 : niveau départemental : 12/20."
+    },
+    {
+     "q": "Le niveau départemental est acquis à partir d'une note de 16/20.",
+     "r": "faute",
+     "e": "Le seuil pour le niveau départemental est de 12/20, pas 16/20 (réservé au national)."
+    },
+    {
+     "q": "Un élève en difficulté peut repasser la théorie sous forme d'oral, à tous les niveaux.",
+     "r": "valable",
+     "e": "Un élève qui a une mauvaise note à l'écrit et qui se fait repérer comme « performant » dès les premiers arbitrages doit pouvoir repasser la théorie sous forme d'oral, et ce, à tous les niveaux."
+    },
+    {
+     "q": "Un élève en difficulté ne peut jamais repasser la théorie sous une autre forme.",
+     "r": "faute",
+     "e": "Un élève en difficulté peut repasser la théorie à l'oral, à tous les niveaux de certification."
+    },
+    {
+     "q": "Les combinaisons de natation homologuées FINA sont autorisées, sans maillot de bain dessous.",
+     "r": "valable",
+     "e": "Les combinaisons pour les filles et pour les garçons homologuées par la FINA sont autorisées (pas de maillot de bain sous la combinaison)."
+    },
+    {
+     "q": "Les combinaisons homologuées FINA sont autorisées, mais toujours portées avec un maillot dessous.",
+     "r": "faute",
+     "e": "Le règlement précise explicitement qu'aucun maillot de bain ne doit être porté sous la combinaison."
+    }
+   ]
+  }
+ ]
+}

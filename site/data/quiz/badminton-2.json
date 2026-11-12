@@ -1,0 +1,265 @@
+{
+ "id": "badminton-2",
+ "titre": "Service, fautes de jeu et LET",
+ "sousTitre": "Quiz Jeune Arbitre Badminton",
+ "entete": "QUIZ 2 / 3 · NIVEAU 2 — MOYEN · RÈGLEMENT BADMINTON UNSS",
+ "sport": "badminton",
+ "source": "https://resilient-bombolone-cd80fe.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le score du serveur détermine la position du serveur et du receveur sur le terrain.",
+     "r": "valable",
+     "e": "Le score du serveur détermine la position des joueurs (zone droite ou gauche)."
+    },
+    {
+     "q": "La position du serveur et du receveur ne dépend jamais du score.",
+     "r": "faute",
+     "e": "C'est au contraire le score du serveur qui détermine leur position sur le terrain."
+    },
+    {
+     "q": "Au début du match, le joueur qui gagne le tirage au sort choisit de servir, recevoir, ou son camp.",
+     "r": "valable",
+     "e": "Le vainqueur du tirage au sort choisit de servir/recevoir en premier, ou de choisir son camp."
+    },
+    {
+     "q": "Le tirage au sort ne sert qu'à désigner l'arbitre du match.",
+     "r": "faute",
+     "e": "Le tirage au sort détermine qui sert, reçoit, ou choisit son camp en premier."
+    },
+    {
+     "q": "Un point est marqué à chaque échange, que l'on soit ou non au service.",
+     "r": "valable",
+     "e": "Le système de score actuel attribue un point à chaque échange, quel que soit le camp au service."
+    },
+    {
+     "q": "Un point ne peut être marqué que par le camp qui est au service.",
+     "r": "faute",
+     "e": "Le système actuel accorde un point à chaque échange, même au camp qui ne servait pas."
+    },
+    {
+     "q": "C'est une faute si le serveur décolle un pied du sol pendant le service.",
+     "r": "valable",
+     "e": "Décoller un pied du sol pendant le service est une faute."
+    },
+    {
+     "q": "Le serveur peut lever un pied du sol pendant son service sans que ce soit une faute.",
+     "r": "faute",
+     "e": "Décoller un pied du sol pendant le service est au contraire une faute caractérisée."
+    },
+    {
+     "q": "C'est une faute si le volant n'est pas frappé en premier sur sa base (le bouchon).",
+     "r": "valable",
+     "e": "Le volant doit être frappé en premier sur sa base, sinon c'est une faute."
+    },
+    {
+     "q": "Le volant peut être frappé n'importe où au service, cela n'a pas d'importance.",
+     "r": "faute",
+     "e": "Il doit être frappé en premier sur sa base ; frapper ailleurs constitue une faute."
+    },
+    {
+     "q": "Au moment de la frappe du service, le volant doit être entièrement sous la taille du serveur.",
+     "r": "valable",
+     "e": "Le volant doit être entièrement sous la taille du serveur au moment de la frappe."
+    },
+    {
+     "q": "Au service, le volant peut être frappé au-dessus de la taille du serveur.",
+     "r": "faute",
+     "e": "Frapper le volant au-dessus de la taille du serveur est une faute de service."
+    },
+    {
+     "q": "Le mouvement de la raquette doit être continu vers l'avant durant le service.",
+     "r": "valable",
+     "e": "Le service exige un mouvement de raquette continu vers l'avant, sans interruption."
+    },
+    {
+     "q": "Le serveur peut marquer une pause dans son geste pendant le service.",
+     "r": "faute",
+     "e": "Le mouvement doit être continu vers l'avant : une pause dans le geste est une faute."
+    },
+    {
+     "q": "Au service, la tige de la raquette doit être inclinée vers le bas.",
+     "r": "valable",
+     "e": "La règle exige que la tige de la raquette soit inclinée vers le bas au moment du service."
+    },
+    {
+     "q": "Au service, la tige de la raquette doit être inclinée vers le haut.",
+     "r": "faute",
+     "e": "C'est l'inverse : la tige doit être inclinée vers le bas, pas vers le haut."
+    },
+    {
+     "q": "Dans les championnats UNSS, la règle des 1m15 sur la hauteur de frappe au service n'est pas applicable.",
+     "r": "valable",
+     "e": "Le livret précise explicitement que la règle des 1m15 n'est pas applicable dans les championnats UNSS."
+    },
+    {
+     "q": "Dans les championnats UNSS, la règle des 1m15 est strictement appliquée comme en compétition fédérale.",
+     "r": "faute",
+     "e": "Le livret indique au contraire que cette règle n'est pas applicable dans les championnats UNSS."
+    },
+    {
+     "q": "Un volant qui tombe en dehors des limites du terrain est une faute.",
+     "r": "valable",
+     "e": "Un volant tombant hors des limites du terrain constitue une faute."
+    },
+    {
+     "q": "Un volant qui tombe en dehors des limites du terrain reste en jeu si personne ne réagit.",
+     "r": "faute",
+     "e": "Un volant tombant hors des limites du terrain est une faute, quoi qu'il arrive."
+    },
+    {
+     "q": "Un volant qui ne parvient pas à passer au-dessus du filet est une faute.",
+     "r": "valable",
+     "e": "Ne pas faire passer le volant au-dessus du filet est une faute."
+    },
+    {
+     "q": "Un volant qui ne passe pas le filet peut être rejoué sans pénalité.",
+     "r": "faute",
+     "e": "Ne pas faire passer le filet est une faute, elle n'est pas rejouable sans conséquence."
+    },
+    {
+     "q": "Toucher le filet ou ses supports avec sa raquette, son corps ou ses vêtements est une faute.",
+     "r": "valable",
+     "e": "Le joueur qui touche le filet avec sa raquette, son corps ou ses vêtements commet une faute."
+    },
+    {
+     "q": "Toucher légèrement le filet avec sa raquette est toléré sans sanction.",
+     "r": "faute",
+     "e": "Toucher le filet, même légèrement, avec la raquette, le corps ou les vêtements est une faute."
+    },
+    {
+     "q": "Envahir le terrain adverse avec sa raquette est autorisé si le contact initial a eu lieu dans son propre camp.",
+     "r": "valable",
+     "e": "Il existe une exception : le geste est autorisé si le point de contact initial était dans son propre camp."
+    },
+    {
+     "q": "Envahir le terrain adverse avec sa raquette est une faute, sans aucune exception possible.",
+     "r": "faute",
+     "e": "Il existe une exception lorsque le point de contact initial a eu lieu dans son propre camp."
+    },
+    {
+     "q": "Si un volant reste suspendu au filet après avoir été renvoyé, il y a LET.",
+     "r": "valable",
+     "e": "Un volant suspendu au filet après le renvoi entraîne un LET."
+    },
+    {
+     "q": "Si un volant reste suspendu au filet après avoir été renvoyé, le point est perdu pour le relanceur.",
+     "r": "faute",
+     "e": "Cette situation constitue un LET : le point est rejoué, il n'est perdu pour personne."
+    },
+    {
+     "q": "Il y a LET si le serveur sert avant que l'arbitre n'ait dit « Jouez ».",
+     "r": "valable",
+     "e": "Servir avant l'annonce « Jouez » de l'arbitre entraîne un LET."
+    },
+    {
+     "q": "Il y a faute (et non LET) si le serveur sert avant que l'arbitre n'ait dit « Jouez ».",
+     "r": "faute",
+     "e": "Cette situation est un LET, le point est rejoué sans sanctionner le serveur."
+    },
+    {
+     "q": "En double, l'ordre des serveurs reste le même tout au long d'un même set (S1-S2-S3-S4).",
+     "r": "valable",
+     "e": "L'ordre des serveurs S1-S2-S3-S4 est fixe pour toute la durée d'un même set."
+    },
+    {
+     "q": "En double, l'ordre des serveurs change à chaque point marqué.",
+     "r": "faute",
+     "e": "L'ordre des serveurs reste identique durant tout le set, il ne change pas à chaque point."
+    },
+    {
+     "q": "C'est une faute spécifique au double si le volant est frappé successivement par les deux partenaires.",
+     "r": "valable",
+     "e": "Frapper le volant deux fois de suite par les deux partenaires est une faute propre au double."
+    },
+    {
+     "q": "En double, les deux partenaires peuvent frapper successivement le même volant sans faute.",
+     "r": "faute",
+     "e": "Cette action est au contraire une faute spécifique au jeu en double."
+    },
+    {
+     "q": "C'est une faute spécifique au double si le service est frappé par le partenaire du receveur.",
+     "r": "valable",
+     "e": "Le service renvoyé par le partenaire du receveur, au lieu du receveur lui-même, est une faute."
+    },
+    {
+     "q": "En double, n'importe quel joueur de l'équipe peut renvoyer le service, sans faute.",
+     "r": "faute",
+     "e": "Seul le receveur désigné peut renvoyer le service ; le partenaire qui le fait commet une faute."
+    },
+    {
+     "q": "Au second set, c'est l'équipe qui a gagné le premier set qui sert, avec n'importe lequel de ses joueurs.",
+     "r": "valable",
+     "e": "L'équipe victorieuse du premier set sert en second set, avec le joueur de son choix."
+    },
+    {
+     "q": "Au second set, c'est obligatoirement l'équipe perdante du premier set qui sert.",
+     "r": "faute",
+     "e": "C'est au contraire l'équipe gagnante du premier set qui sert en début de second set."
+    },
+    {
+     "q": "Le volant n'est plus « en jeu » lorsqu'il touche le filet, un poteau, un joueur ou la surface du terrain.",
+     "r": "valable",
+     "e": "Ces quatre situations mettent fin au volant « en jeu »."
+    },
+    {
+     "q": "Le volant reste « en jeu » tant qu'il n'a pas touché le sol, même s'il touche un poteau.",
+     "r": "faute",
+     "e": "Toucher un poteau met fin au volant en jeu, tout comme toucher le filet ou la surface du terrain."
+    },
+    {
+     "q": "Un volant jugé « out » donne un point à l'adversaire du joueur qui l'a envoyé.",
+     "r": "valable",
+     "e": "Un volant « out » entraîne la perte du point pour celui qui l'a envoyé hors des limites."
+    },
+    {
+     "q": "Un volant jugé « out » est automatiquement rejoué, sans qu'aucun point ne soit marqué.",
+     "r": "faute",
+     "e": "Un volant « out » donne directement un point à l'adversaire ; il n'est pas rejoué."
+    },
+    {
+     "q": "En simple, lorsque le serveur perd l'échange, c'est l'adversaire qui devient le nouveau serveur.",
+     "r": "valable",
+     "e": "En simple, la perte de l'échange par le serveur fait immédiatement passer le service à l'adversaire."
+    },
+    {
+     "q": "En simple, le service reste toujours au même joueur, quel que soit le résultat de l'échange.",
+     "r": "faute",
+     "e": "Le service change de camp dès que le serveur perd l'échange, en simple."
+    },
+    {
+     "q": "Le scoreur inscrit toujours le score dans la case suivant la dernière case remplie.",
+     "r": "valable",
+     "e": "Le principe de la feuille de score est d'inscrire chaque score dans la case suivante."
+    },
+    {
+     "q": "Le scoreur peut inscrire le score n'importe où sur la feuille, selon sa préférence.",
+     "r": "faute",
+     "e": "Le score doit toujours être inscrit dans la case suivant la dernière remplie, sans exception."
+    },
+    {
+     "q": "Une situation imprévisible ou accidentelle pendant l'échange peut entraîner un LET.",
+     "r": "valable",
+     "e": "Le règlement prévoit qu'un imprévu ou un accident pendant l'échange peut justifier un LET."
+    },
+    {
+     "q": "Une situation imprévisible ou accidentelle pendant l'échange n'a jamais de conséquence sur le score.",
+     "r": "faute",
+     "e": "Une telle situation peut au contraire entraîner un LET et donc le rejeu de l'échange."
+    },
+    {
+     "q": "Un juge de ligne qui n'a pas pu voir où le volant est tombé peut justifier un LET.",
+     "r": "valable",
+     "e": "Si l'arbitre ne peut pas prendre de décision faute d'avoir vu le volant tomber, il y a LET."
+    },
+    {
+     "q": "Un juge de ligne qui n'a pas vu le volant tomber doit obligatoirement annoncer « faute ».",
+     "r": "faute",
+     "e": "Dans ce cas, la règle prévoit un LET, pas une annonce automatique de faute."
+    }
+   ]
+  }
+ ]
+}

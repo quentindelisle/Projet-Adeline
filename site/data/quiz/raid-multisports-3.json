@@ -1,0 +1,265 @@
+{
+ "id": "raid-multisports-3",
+ "titre": "Matériel, EPI, sanctions & jury technique",
+ "sousTitre": "Quiz Jeune Officiel Raid Multisports",
+ "entete": "",
+ "sport": "raid-multisports",
+ "source": "https://beautiful-squirrel-3e56fe.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un téléphone chargé est du matériel obligatoire par équipe.",
+     "r": "valable",
+     "e": "Le téléphone chargé, dont le numéro a été déposé auprès de la direction de course, est obligatoire par équipe."
+    },
+    {
+     "q": "Le téléphone portable de l'équipe n'a besoin d'être signalé à personne.",
+     "r": "faute",
+     "e": "Le numéro doit préalablement être déposé auprès de la direction de course."
+    },
+    {
+     "q": "La boussole est du matériel obligatoire par équipe.",
+     "r": "valable",
+     "e": "La boussole fait partie du matériel obligatoire par équipe."
+    },
+    {
+     "q": "La boussole n'est jamais exigée en raid multisports.",
+     "r": "faute",
+     "e": "La boussole est au contraire un équipement obligatoire par équipe."
+    },
+    {
+     "q": "La couverture de survie est du matériel obligatoire par coureur.",
+     "r": "valable",
+     "e": "La couverture de survie fait partie du matériel obligatoire par coureur."
+    },
+    {
+     "q": "Le casque VTT est facultatif pour chaque coureur.",
+     "r": "faute",
+     "e": "Le casque VTT est au contraire obligatoire par coureur."
+    },
+    {
+     "q": "Le sifflet est du matériel obligatoire par coureur.",
+     "r": "valable",
+     "e": "Le sifflet fait partie du matériel obligatoire par coureur."
+    },
+    {
+     "q": "La lampe frontale ne peut jamais être exigée en raid multisports.",
+     "r": "faute",
+     "e": "La lampe frontale peut au contraire être exigée selon les conditions ou les terrains traversés."
+    },
+    {
+     "q": "Le ravitaillement solide et liquide est obligatoire pour chaque coureur.",
+     "r": "valable",
+     "e": "Le ravitaillement solide et liquide fait partie du matériel obligatoire par coureur."
+    },
+    {
+     "q": "Les systèmes de positionnement satellite personnels sont toujours autorisés, sans exception.",
+     "r": "faute",
+     "e": "Leur autorisation dépend de l'organisation ; ils peuvent aussi être interdits."
+    },
+    {
+     "q": "La veste imperméable peut être exigée selon les conditions ou les terrains traversés.",
+     "r": "valable",
+     "e": "Selon les conditions, la veste imperméable peut être exigée, comme la lampe frontale ou le gilet haute visibilité."
+    },
+    {
+     "q": "Le système de traction à VTT est autorisé partout, y compris en descente.",
+     "r": "faute",
+     "e": "Il est au contraire interdit en descente, que ce soit à VTT ou à pied."
+    },
+    {
+     "q": "Les systèmes de positionnement satellite personnels peuvent être autorisés ou interdits selon l'organisation.",
+     "r": "valable",
+     "e": "Les GPS, GLONASS, Beidou personnels peuvent être autorisés ou interdits, comme au niveau international."
+    },
+    {
+     "q": "Le système de chronométrage est toujours identique d'une organisation à l'autre.",
+     "r": "faute",
+     "e": "Les systèmes de chronométrage peuvent varier d'une organisation à l'autre."
+    },
+    {
+     "q": "Le système de traction à VTT est interdit lors des départs en masse et en descente.",
+     "r": "valable",
+     "e": "Le système de traction à VTT (rétractable, machine à machine) est interdit lors des départs en masse et en descente."
+    },
+    {
+     "q": "Les EPI sont identiques quelle que soit l'activité pratiquée.",
+     "r": "faute",
+     "e": "Chaque activité possède au contraire ses propres EPI spécifiques."
+    },
+    {
+     "q": "Le système de traction à pied est interdit en descente.",
+     "r": "valable",
+     "e": "Le système de traction à pied est interdit en descente, comme à VTT."
+    },
+    {
+     "q": "Les EPI peuvent être librement modifiés par les concurrents s'ils le souhaitent.",
+     "r": "faute",
+     "e": "Les EPI ne peuvent au contraire pas être modifiés."
+    },
+    {
+     "q": "Le système SportIdent est le système de chronométrage le plus fréquemment utilisé en raid.",
+     "r": "valable",
+     "e": "Le système SportIdent est le plus fréquemment utilisé pour le chronométrage et la validation des parcours."
+    },
+    {
+     "q": "La non-assistance à une équipe blessée n'entraîne aucune sanction.",
+     "r": "faute",
+     "e": "Cette faute entraîne au contraire un Stop & Go de 15 minutes minimum."
+    },
+    {
+     "q": "Chaque activité du raid possède ses propres Équipements de Protection Individuelle (EPI).",
+     "r": "valable",
+     "e": "En raid multisports, chaque activité possède ses propres EPI."
+    },
+    {
+     "q": "Le tractage en descente n'entraîne aucune sanction particulière.",
+     "r": "faute",
+     "e": "Le tractage en descente entraîne un Stop & Go de 15 minutes minimum, comme les autres fautes du tableau."
+    },
+    {
+     "q": "Les EPI répondent à des normes précises et ne peuvent pas être modifiés.",
+     "r": "valable",
+     "e": "Les EPI doivent répondre à des normes précises et ne peuvent pas être modifiés."
+    },
+    {
+     "q": "La non-présentation du téléphone de sécurité n'a aucune conséquence si l'équipe continue la course.",
+     "r": "faute",
+     "e": "Elle entraîne un Stop & Go et une mise en conformité obligatoire avant toute reprise de course."
+    },
+    {
+     "q": "Les conditions d'utilisation des EPI sont reprises dans les RTS de la FF Triathlon.",
+     "r": "valable",
+     "e": "Ces informations sont reprises dans les RTS de la FF Triathlon, mises à jour chaque année."
+    },
+    {
+     "q": "Le non-port du casque n'entraîne jamais de conséquence pour l'équipe.",
+     "r": "faute",
+     "e": "Cette faute entraîne un Stop & Go et l'intervention de l'accompagnateur."
+    },
+    {
+     "q": "Une équipe ayant un blessé et ne recevant aucune assistance risque un Stop & Go de 15 minutes minimum.",
+     "r": "valable",
+     "e": "La non-assistance à une équipe ayant un blessé entraîne un Stop & Go de 15 minutes minimum."
+    },
+    {
+     "q": "Les pénalités du tableau sont fixes et ne peuvent jamais être augmentées.",
+     "r": "faute",
+     "e": "La CMN peut au contraire les majorer selon la gravité ou la fréquence de la faute."
+    },
+    {
+     "q": "L'utilisation d'un système de tractage non conforme entraîne un Stop & Go de 15 minutes minimum.",
+     "r": "valable",
+     "e": "L'utilisation d'un système de tractage non conforme entraîne un Stop & Go de 15 minutes minimum."
+    },
+    {
+     "q": "Le jury technique est composé d'une seule personne, désignée par l'organisateur local.",
+     "r": "faute",
+     "e": "Le jury est composé de 3 à 5 personnes désignées par le DNA, pas d'une seule personne locale."
+    },
+    {
+     "q": "Une équipe séparée reçoit un Stop & Go appliqué après regroupement de l'équipe.",
+     "r": "valable",
+     "e": "La sanction pour équipe séparée est un Stop & Go, appliqué après regroupement de l'équipe."
+    },
+    {
+     "q": "La décision du jury technique peut toujours être annulée par un simple vote des équipes.",
+     "r": "faute",
+     "e": "La décision du jury est souveraine, elle ne peut pas être annulée par un vote des équipes."
+    },
+    {
+     "q": "Le non-respect des consignes d'un officiel de course entraîne un Stop & Go de 15 minutes minimum.",
+     "r": "valable",
+     "e": "Le non-respect des consignes d'un officiel de course (signaleur, JA, commissaire) entraîne un Stop & Go de 15 minutes minimum."
+    },
+    {
+     "q": "Le professeur accompagnateur est un acteur sportif qui prend part aux épreuves chronométrées.",
+     "r": "faute",
+     "e": "Le professeur accompagnateur n'est pas un acteur sportif : il ne prend pas part physiquement aux épreuves chronométrées."
+    },
+    {
+     "q": "Le passage sur une zone interdite entraîne un Stop & Go de 15 minutes minimum.",
+     "r": "valable",
+     "e": "Le passage sur une zone interdite entraîne un Stop & Go de 15 minutes minimum."
+    },
+    {
+     "q": "L'identification des organisateurs n'est jamais exigée.",
+     "r": "faute",
+     "e": "L'identification des organisateurs est au contraire exigée, comme le port du casque à vélo."
+    },
+    {
+     "q": "La non-présentation de matériel de sécurité obligatoire entraîne une pénalité par élément manquant.",
+     "r": "valable",
+     "e": "La pénalité est appliquée par élément manquant, avec mise en conformité obligatoire en fin de journée."
+    },
+    {
+     "q": "Les pénalités Stop & Go peuvent être ignorées si l'équipe est en tête de la course.",
+     "r": "faute",
+     "e": "Les pénalités s'appliquent à toutes les équipes, sans exception liée à leur position au classement."
+    },
+    {
+     "q": "Le non-port du casque entraîne l'intervention de l'accompagnateur pour récupérer son équipe.",
+     "r": "valable",
+     "e": "En cas de non-port du casque, l'accompagnateur vient récupérer son équipe, en plus du Stop & Go."
+    },
+    {
+     "q": "Le port des EPI est facultatif dès lors que le concurrent se sent en sécurité.",
+     "r": "faute",
+     "e": "Les EPI répondent à des normes précises et leurs conditions d'utilisation sont obligatoires, indépendamment du ressenti du concurrent."
+    },
+    {
+     "q": "Les pénalités du tableau sont des durées minimales, la CMN pouvant les majorer.",
+     "r": "valable",
+     "e": "Ces pénalités sont minimales ; la CMN se réserve le droit de les majorer selon leur gravité ou fréquence."
+    },
+    {
+     "q": "Le matériel obligatoire par coureur peut être partagé entre plusieurs membres de l'équipe.",
+     "r": "faute",
+     "e": "Le matériel obligatoire (couverture de survie, sifflet, casque) est exigé individuellement, par coureur."
+    },
+    {
+     "q": "Les pénalités sont appliquées immédiatement sur le parcours par la CMN et la direction de course.",
+     "r": "valable",
+     "e": "Ces pénalités sont applicables immédiatement sur tout le parcours par la CMN et la direction de course."
+    },
+    {
+     "q": "Le professeur accompagnateur peut prendre part physiquement à toutes les épreuves chronométrées.",
+     "r": "faute",
+     "e": "Le professeur accompagnateur n'est pas un acteur sportif et ne prend pas part physiquement aux épreuves chronométrées, sauf exception sur les liaisons."
+    },
+    {
+     "q": "Si une pénalité ne peut être appliquée en Stop & Go sur le dernier jour, elle est transférée à la GEC en pénalité temps.",
+     "r": "valable",
+     "e": "En cas d'impossibilité d'appliquer le Stop & Go, transfert à la GEC pour application en pénalité temps."
+    },
+    {
+     "q": "Le jury technique n'intervient jamais en cas de litige non prévu par le règlement.",
+     "r": "faute",
+     "e": "Le jury technique intervient justement pour tout problème de litige non prévu par le règlement."
+    },
+    {
+     "q": "Le jury technique est composé de 3 à 5 personnes désignées par le Directeur National Adjoint de l'UNSS.",
+     "r": "valable",
+     "e": "Le jury sportif est composé de trois à cinq personnes désignées par le DNA de l'UNSS ayant en charge la discipline."
+    },
+    {
+     "q": "Les sanctions de type Stop & Go n'ont pas de durée minimale précisée par le règlement.",
+     "r": "faute",
+     "e": "Une durée minimale de 15 minutes est précisée pour la plupart des fautes du tableau des pénalités."
+    },
+    {
+     "q": "La décision du jury technique est souveraine.",
+     "r": "valable",
+     "e": "La décision du jury technique est souveraine."
+    },
+    {
+     "q": "Le compteur vélo est un équipement toujours interdit en raid multisports.",
+     "r": "faute",
+     "e": "Le compteur vélo fait partie des équipements pouvant être exigés selon les conditions, pas interdit."
+    }
+   ]
+  }
+ ]
+}

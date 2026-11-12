@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-12",
+ "titre": "Barre fixe",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Excellence",
+ "entete": "QUIZ 7 / 7 · RÈGLEMENT GYMNASTIQUE EXCELLENCE UNSS · GAM",
+ "sport": "gymnastique-artistique",
+ "source": "https://spiffy-kringle-05c5ba.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La barre fixe est un agrès propre à la catégorie Excellence, remplaçant le mini trampoline.",
+     "r": "valable",
+     "e": "Le mini trampoline de l'Équipe Établissement est remplacé par la barre fixe en Excellence chez les garçons."
+    },
+    {
+     "q": "La barre fixe existe aussi en Équipe Établissement, au même titre qu'en Excellence.",
+     "r": "faute",
+     "e": "La barre fixe est un agrès propre à l'Excellence, absent du règlement Équipe Établissement."
+    },
+    {
+     "q": "Le barème de difficulté à la barre fixe va de C = 0,40 pt à F = 1,00 pt.",
+     "r": "valable",
+     "e": "Ce barème Excellence, commun à tous les agrès, s'applique aussi à la barre fixe."
+    },
+    {
+     "q": "Le barème à la barre fixe va de A = 0,40 pt à D = 1,00 pt.",
+     "r": "faute",
+     "e": "Le barème utilise les lettres C à F, comme sur tous les agrès Excellence."
+    },
+    {
+     "q": "L'exigence PB à la barre fixe impose un élément réalisé près de la barre.",
+     "r": "valable",
+     "e": "PB désigne précisément ce type d'élément selon le règlement Excellence."
+    },
+    {
+     "q": "L'exigence PB impose un élément de maintien tenu 2 secondes.",
+     "r": "faute",
+     "e": "PB signifie élément près de la barre, une exigence spécifique à cet agrès."
+    },
+    {
+     "q": "L'exigence FP à la barre fixe impose un changement de face ou de prise.",
+     "r": "valable",
+     "e": "FP désigne précisément ce type d'élément selon le règlement Excellence."
+    },
+    {
+     "q": "L'exigence FP impose une sortie de valeur D minimum.",
+     "r": "faute",
+     "e": "FP signifie changement de face ou de prise, pas une exigence de sortie."
+    },
+    {
+     "q": "L'exigence GT à la barre fixe impose la réalisation d'un grand tour.",
+     "r": "valable",
+     "e": "GT désigne précisément un grand tour selon le règlement Excellence."
+    },
+    {
+     "q": "L'exigence GT impose un élément acrobatique au sol.",
+     "r": "faute",
+     "e": "GT signifie grand tour, un mouvement caractéristique de la barre fixe."
+    },
+    {
+     "q": "L'exigence S à la barre fixe impose une sortie de valeur D minimum.",
+     "r": "valable",
+     "e": "Cette exigence de sortie minimale est prévue par le règlement Excellence."
+    },
+    {
+     "q": "Aucune exigence de sortie minimale n'existe à la barre fixe.",
+     "r": "faute",
+     "e": "L'exigence S impose bien une sortie de valeur D minimum à la barre fixe."
+    },
+    {
+     "q": "Un élan intermédiaire non nécessaire à l'élément suivant est pénalisé de 0,50 point à la barre fixe.",
+     "r": "valable",
+     "e": "Cette pénalité spécifique est prévue par le règlement Excellence pour la barre fixe."
+    },
+    {
+     "q": "Un élan intermédiaire non nécessaire n'entraîne aucune pénalité à la barre fixe.",
+     "r": "faute",
+     "e": "La pénalité de 0,50 point s'applique bien à l'élan intermédiaire non nécessaire."
+    },
+    {
+     "q": "L'élan intermédiaire en tout début d'enchaînement à la barre fixe échappe à la pénalité habituelle.",
+     "r": "valable",
+     "e": "Le règlement Excellence prévoit cette exception pour le tout début de l'enchaînement."
+    },
+    {
+     "q": "L'élan intermédiaire est toujours pénalisé à la barre fixe, y compris en tout début d'enchaînement.",
+     "r": "faute",
+     "e": "Une exception existe bien pour l'élan intermédiaire en tout début d'enchaînement."
+    },
+    {
+     "q": "Un arrêt dans l'enchaînement à la barre fixe est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Cette pénalité est prévue par le règlement Excellence pour la barre fixe."
+    },
+    {
+     "q": "Un arrêt dans l'enchaînement n'entraîne aucune pénalité à la barre fixe.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point s'applique bien à tout arrêt dans l'enchaînement."
+    },
+    {
+     "q": "Une sortie finissant à 30° de la position d'ATR est pénalisée de 0,10 point à la barre fixe.",
+     "r": "valable",
+     "e": "Le règlement Excellence prévoit cette pénalité graduée selon l'angle de déviation."
+    },
+    {
+     "q": "Une sortie finissant à 30° de l'ATR n'entraîne aucune pénalité à la barre fixe.",
+     "r": "faute",
+     "e": "La pénalité de 0,10 point s'applique bien à cette déviation de 30°."
+    },
+    {
+     "q": "Une sortie finissant à 45° de la position d'ATR est pénalisée de 0,30 point à la barre fixe.",
+     "r": "valable",
+     "e": "Le règlement Excellence prévoit cette pénalité graduée selon l'angle de déviation."
+    },
+    {
+     "q": "Une déviation de 45° est pénalisée de 0,10 point, comme une déviation de 30°.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point s'applique à une déviation de 45°, plus sévère que celle de 30°."
+    },
+    {
+     "q": "Une sortie finissant à 90° de la position d'ATR est pénalisée de 0,50 point à la barre fixe.",
+     "r": "valable",
+     "e": "Le règlement Excellence prévoit cette pénalité maximale pour la déviation la plus importante."
+    },
+    {
+     "q": "Une déviation de 90° n'entraîne aucune pénalité supplémentaire par rapport à 45°.",
+     "r": "faute",
+     "e": "La pénalité augmente jusqu'à 0,50 point pour la déviation maximale de 90°."
+    },
+    {
+     "q": "Un élément non réalisé ou réalisé avec aide à la barre fixe est noté « NR ».",
+     "r": "valable",
+     "e": "Cette notation NR (non-reconnaissance) est utilisée dans le règlement Excellence."
+    },
+    {
+     "q": "Un élément non réalisé à la barre fixe est simplement ignoré sans notation particulière.",
+     "r": "faute",
+     "e": "Le règlement utilise bien la notation NR pour ce cas précis à la barre fixe."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins à la barre fixe est pénalisé de 2 points sur la note D.",
+     "r": "valable",
+     "e": "Cette pénalité pour exercice trop court s'applique aussi à la barre fixe."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins n'entraîne aucune pénalité à la barre fixe.",
+     "r": "faute",
+     "e": "La pénalité de 2 points reste appliquée pour un exercice trop court à la barre fixe."
+    },
+    {
+     "q": "Un élément identique réalisé deux fois à la barre fixe n'est comptabilisé qu'une seule fois en difficulté.",
+     "r": "valable",
+     "e": "Cette règle générale de comptage s'applique aussi à la barre fixe."
+    },
+    {
+     "q": "Un élément identique répété deux fois est comptabilisé deux fois à la barre fixe.",
+     "r": "faute",
+     "e": "L'élément identique n'est comptabilisé qu'une seule fois, comme sur les autres agrès."
+    },
+    {
+     "q": "L'addition des 8 meilleurs éléments détermine la note de difficulté à la barre fixe.",
+     "r": "valable",
+     "e": "Ce principe de calcul commun aux agrès Excellence s'applique à la barre fixe."
+    },
+    {
+     "q": "Tous les éléments réalisés sont additionnés sans limite à la barre fixe.",
+     "r": "faute",
+     "e": "Seuls les 8 meilleurs éléments sont retenus pour la note de difficulté."
+    },
+    {
+     "q": "La note de composition maximale à la barre fixe est de 2 points.",
+     "r": "valable",
+     "e": "Cette note maximale, commune aux agrès Excellence, s'applique à la barre fixe."
+    },
+    {
+     "q": "La note de composition maximale à la barre fixe est de 1 point.",
+     "r": "faute",
+     "e": "La note de composition reste plafonnée à 2 points à la barre fixe."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS ne reçoit aucune valeur à la barre fixe.",
+     "r": "valable",
+     "e": "Cette règle générale s'applique aussi à ce nouvel agrès."
+    },
+    {
+     "q": "Un élément non reconnu reçoit automatiquement une valeur par défaut à la barre fixe.",
+     "r": "faute",
+     "e": "Un élément non reconnu ne reçoit aucune valeur, sans exception, même à la barre fixe."
+    },
+    {
+     "q": "La note finale à la barre fixe est égale à (Note D + Note E) moins les pénalités.",
+     "r": "valable",
+     "e": "Ce mode de calcul commun aux agrès Excellence s'applique à la barre fixe."
+    },
+    {
+     "q": "La note finale à la barre fixe ne prend en compte que la Note D.",
+     "r": "faute",
+     "e": "La note finale combine bien Note D et Note E, moins les pénalités."
+    },
+    {
+     "q": "Aux fautes spécifiques de la barre fixe s'ajoutent les fautes de tenue, de technique et de comportement.",
+     "r": "valable",
+     "e": "Ces fautes générales s'appliquent en plus des fautes spécifiques à cet agrès."
+    },
+    {
+     "q": "Seules les fautes spécifiques à la barre fixe comptent, sans les fautes générales.",
+     "r": "faute",
+     "e": "Les fautes générales s'ajoutent bien aux fautes spécifiques de la barre fixe."
+    },
+    {
+     "q": "Un élément peut être déclassé à une valeur inférieure s'il n'est pas techniquement conforme à la barre fixe.",
+     "r": "valable",
+     "e": "Cette règle de déclassement, commune aux agrès Excellence, s'applique à la barre fixe."
+    },
+    {
+     "q": "Le déclassement n'existe pas à la barre fixe, seule la suppression totale est prévue.",
+     "r": "faute",
+     "e": "Le déclassement à une valeur inférieure reste possible à la barre fixe."
+    },
+    {
+     "q": "La barre fixe est un agrès exclusivement masculin en Excellence.",
+     "r": "valable",
+     "e": "Le règlement Excellence réserve cet agrès aux garçons, comme la barre fixe en gymnastique fédérale."
+    },
+    {
+     "q": "La barre fixe est un agrès mixte, pratiqué aussi bien par les filles que les garçons en Excellence.",
+     "r": "faute",
+     "e": "Cet agrès reste propre à la gymnastique artistique masculine (GAM)."
+    },
+    {
+     "q": "La déviation par rapport à l'ATR à la sortie est un concept lié aux grands tours de la barre fixe.",
+     "r": "valable",
+     "e": "Les grands tours (giant swings) se terminent idéalement proche de la position ATR à la sortie."
+    },
+    {
+     "q": "La déviation par rapport à l'ATR ne concerne aucun élément spécifique de la barre fixe.",
+     "r": "faute",
+     "e": "Ce concept est directement lié à la sortie après un grand tour, élément caractéristique de l'agrès."
+    },
+    {
+     "q": "Le Jeune Juge D à la barre fixe doit connaître le nombre de gymnastes autorisés à concourir sur cet agrès.",
+     "r": "valable",
+     "e": "Cette connaissance fait partie des compétences attendues d'un Jeune Juge, quel que soit l'agrès."
+    },
+    {
+     "q": "Le nombre de gymnastes autorisés n'a aucune importance pour le Jeune Juge D.",
+     "r": "faute",
+     "e": "Le Jeune Juge doit connaître ce nombre, comme sur tous les agrès de la compétition."
+    },
+    {
+     "q": "La devise « simple et correct vaut mieux que difficile et incorrect » reste valable à la barre fixe.",
+     "r": "valable",
+     "e": "Cette philosophie du jugement UNSS s'applique à tous les agrès Excellence, y compris ce nouvel agrès."
+    },
+    {
+     "q": "Cette devise ne s'applique pas à la barre fixe, agrès réservé aux gymnastes les plus expérimentés.",
+     "r": "faute",
+     "e": "La devise reste un principe directeur du jugement sur tous les agrès, sans exception."
+    }
+   ]
+  }
+ ]
+}

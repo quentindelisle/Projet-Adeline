@@ -1,0 +1,265 @@
+{
+ "id": "bike-and-run-2",
+ "titre": "Le parc à vélos : transition, box & relais",
+ "sousTitre": "Quiz Jeune Arbitre Run & Bike",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT RUN & BIKE UNSS",
+ "sport": "bike-and-run",
+ "source": "https://delightful-rolypoly-639e8a.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le cycliste doit mettre pied à terre avant la ligne d'entrée du parc.",
+     "r": "valable",
+     "e": "À VTT, le cycliste doit descendre de vélo avant la ligne d'ENTRÉE (pied à terre)."
+    },
+    {
+     "q": "Le cycliste peut rester sur son vélo jusqu'à son box.",
+     "r": "faute",
+     "e": "Le cycliste doit obligatoirement mettre pied à terre avant la ligne d'entrée."
+    },
+    {
+     "q": "L'athlète peut remonter sur son vélo seulement après avoir franchi la ligne de sortie.",
+     "r": "valable",
+     "e": "L'athlète peut enfourcher son vélo seulement après la ligne de SORTIE."
+    },
+    {
+     "q": "L'athlète peut remonter sur son vélo dès qu'il quitte son box.",
+     "r": "faute",
+     "e": "Il doit attendre d'avoir franchi la ligne de sortie du parc pour remonter sur son vélo."
+    },
+    {
+     "q": "Pour entrer dans le parc, un binôme doit franchir la ligne d'entrée ensemble.",
+     "r": "valable",
+     "e": "Les 2 coéquipiers doivent franchir la ligne d'entrée ENSEMBLE, côte à côte."
+    },
+    {
+     "q": "Pour entrer dans le parc, un binôme peut franchir la ligne séparément.",
+     "r": "faute",
+     "e": "L'entrée dans le parc impose au contraire un franchissement groupé."
+    },
+    {
+     "q": "Pour sortir du parc, un binôme peut être séparé.",
+     "r": "valable",
+     "e": "Pour SORTIR du parc, les 2 coéquipiers peuvent être séparés."
+    },
+    {
+     "q": "Pour sortir du parc, un binôme doit obligatoirement rester groupé, comme à l'entrée.",
+     "r": "faute",
+     "e": "Contrairement à l'entrée, la sortie ne les oblige pas à rester groupés."
+    },
+    {
+     "q": "La circulation à pied est obligatoire dans toute l'aire de transition.",
+     "r": "valable",
+     "e": "La circulation à pied dans toute l'aire de transition est obligatoire."
+    },
+    {
+     "q": "Il est possible de circuler à vélo dans l'aire de transition, hors des lignes d'entrée et de sortie.",
+     "r": "faute",
+     "e": "La circulation doit toujours se faire à pied dans toute l'aire de transition."
+    },
+    {
+     "q": "Le numéro du box est identique au numéro de dossard.",
+     "r": "valable",
+     "e": "Le numéro du box attribué à chaque équipe est identique au numéro de dossard."
+    },
+    {
+     "q": "Le numéro du box est totalement indépendant du numéro de dossard.",
+     "r": "faute",
+     "e": "Les deux numéros sont identiques, pas indépendants."
+    },
+    {
+     "q": "Un box mesure 2 barrières Vauban de chaque côté, pour une largeur de 2 mètres.",
+     "r": "valable",
+     "e": "Un box mesure 2 barrières Vauban de chaque côté, largeur 2 mètres."
+    },
+    {
+     "q": "Un box mesure 1 barrière Vauban de chaque côté, pour une largeur de 1 mètre.",
+     "r": "faute",
+     "e": "Les dimensions réglementaires sont 2 barrières Vauban et 2 mètres de largeur."
+    },
+    {
+     "q": "Chaque box est équipé de 2 chaises et 1 sac poubelle.",
+     "r": "valable",
+     "e": "Chaque box comprend 2 chaises et 1 sac poubelle."
+    },
+    {
+     "q": "Chaque box est équipé de 4 chaises et d'une table.",
+     "r": "faute",
+     "e": "L'équipement réglementaire est 2 chaises et 1 sac poubelle, pas 4 chaises et une table."
+    },
+    {
+     "q": "Tout marquage distinctif du box (drapeau, parasol) est interdit.",
+     "r": "valable",
+     "e": "Tout marquage distinctif ou personnalisé permettant d'identifier son emplacement est interdit."
+    },
+    {
+     "q": "Chaque équipe peut décorer librement son box pour le repérer plus facilement.",
+     "r": "faute",
+     "e": "Tout marquage distinctif est au contraire interdit."
+    },
+    {
+     "q": "L'entraide entre coéquipiers est autorisée uniquement à l'intérieur du box.",
+     "r": "valable",
+     "e": "L'entraide au sein de l'équipe est autorisée, mais uniquement à l'intérieur du box."
+    },
+    {
+     "q": "L'entraide entre coéquipiers est autorisée n'importe où sur le parcours.",
+     "r": "faute",
+     "e": "L'entraide est limitée strictement à l'intérieur du box."
+    },
+    {
+     "q": "Le port du casque est obligatoire pour les équipiers en binôme sur toutes les boucles.",
+     "r": "valable",
+     "e": "Le port du casque est obligatoire pour les équipiers durant toutes les boucles effectuées en binôme."
+    },
+    {
+     "q": "Le port du casque est facultatif pour les équipiers en binôme.",
+     "r": "faute",
+     "e": "Le casque est au contraire obligatoire durant toutes les boucles en binôme."
+    },
+    {
+     "q": "La transmission du chouchou doit se faire exclusivement à l'intérieur du box.",
+     "r": "valable",
+     "e": "La transmission du/des chouchou(s) se réalise exclusivement à l'intérieur du box."
+    },
+    {
+     "q": "La transmission du chouchou peut se faire n'importe où dans l'aire de transition.",
+     "r": "faute",
+     "e": "Elle doit se faire exclusivement dans le box, pas ailleurs dans l'aire de transition."
+    },
+    {
+     "q": "Aucune anticipation dans le retrait du chouchou n'est tolérée.",
+     "r": "valable",
+     "e": "Aucune « anticipation » n'est tolérée dans le retrait du chouchou."
+    },
+    {
+     "q": "Une légère anticipation de 2 secondes dans le retrait du chouchou est tolérée.",
+     "r": "faute",
+     "e": "Aucune anticipation, même minime, n'est tolérée."
+    },
+    {
+     "q": "Aucun retard dans le passage du chouchou au relayeur n'est toléré.",
+     "r": "valable",
+     "e": "Le chouchou doit être enfilé au poignet du relayeur sans retard, à l'intérieur du box."
+    },
+    {
+     "q": "Un léger retard dans le passage du chouchou est toléré s'il ne dépasse pas 3 secondes.",
+     "r": "faute",
+     "e": "Aucun retard, même minime, n'est toléré."
+    },
+    {
+     "q": "Pour quitter le box, l'équipier doit avoir son chouchou au poignet et son casque coiffé.",
+     "r": "valable",
+     "e": "Ces deux conditions cumulatives sont exigées pour quitter le box."
+    },
+    {
+     "q": "Pour quitter le box, seul le port du casque est obligatoire.",
+     "r": "faute",
+     "e": "Le chouchou au poignet est également obligatoire, en plus du casque."
+    },
+    {
+     "q": "Les 2 équipiers d'un box peuvent en sortir séparément.",
+     "r": "valable",
+     "e": "Les 2 équipiers peuvent sortir séparément de leur box."
+    },
+    {
+     "q": "Les 2 équipiers d'un box doivent en sortir ensemble, comme à l'entrée du parc.",
+     "r": "faute",
+     "e": "Contrairement à l'entrée du parc, la sortie du box n'impose pas d'être groupés."
+    },
+    {
+     "q": "La formule établissement/excellence se déroule sur 8 boucles.",
+     "r": "valable",
+     "e": "En établissement/excellence, les 2 binômes se relayent sur un parcours de 8 boucles."
+    },
+    {
+     "q": "La formule établissement/excellence se déroule sur 4 boucles.",
+     "r": "faute",
+     "e": "La formule établissement/excellence compte 8 boucles, pas 4."
+    },
+    {
+     "q": "La formule sport partagé autonome se déroule sur 6 boucles.",
+     "r": "valable",
+     "e": "La formule sport partagé autonome se déroule sur 6 boucles."
+    },
+    {
+     "q": "La formule sport partagé autonome se déroule sur 10 boucles.",
+     "r": "faute",
+     "e": "La formule sport partagé autonome compte 6 boucles, pas 10."
+    },
+    {
+     "q": "Il est interdit de s'échauffer avec son dossard visible près des tapis de chronométrie.",
+     "r": "valable",
+     "e": "Il est interdit de s'échauffer avec son dossard visible ou sa puce électronique près des tentes ou tapis de chronométrie."
+    },
+    {
+     "q": "Il n'y a aucune restriction pour s'échauffer près des tapis de chronométrie.",
+     "r": "faute",
+     "e": "Une restriction existe bien concernant le dossard visible et la puce électronique près de ces zones."
+    },
+    {
+     "q": "Les coéquipiers peuvent s'échanger le vélo librement de mains à mains.",
+     "r": "valable",
+     "e": "L'échange de vélo peut se faire librement de mains à mains sur le parcours."
+    },
+    {
+     "q": "L'échange de vélo de mains à mains est toujours interdit en Run & Bike.",
+     "r": "faute",
+     "e": "L'échange libre de mains à mains est au contraire autorisé."
+    },
+    {
+     "q": "L'échange de vélo peut aussi se faire en « gagne-terrain » dans des zones imposées.",
+     "r": "valable",
+     "e": "L'échange peut se faire en zones « gagne-terrain » imposées, type triparc."
+    },
+    {
+     "q": "Le « gagne-terrain » est une notion propre au triathlon, absente du Run & Bike.",
+     "r": "faute",
+     "e": "Le gagne-terrain est au contraire un mode d'échange prévu spécifiquement en Run & Bike."
+    },
+    {
+     "q": "Les équipes peuvent évacuer les boxes une fois la dernière équipe arrivée.",
+     "r": "valable",
+     "e": "Les équipes sont autorisées à évacuer les boxes une fois la dernière équipe arrivée."
+    },
+    {
+     "q": "Les équipes peuvent évacuer leur box dès qu'elles ont terminé leur propre course.",
+     "r": "faute",
+     "e": "Il faut attendre que la dernière équipe soit arrivée, pas seulement sa propre arrivée."
+    },
+    {
+     "q": "Le box doit être totalement vidé et nettoyé avant de partir.",
+     "r": "valable",
+     "e": "Le box doit être totalement vidé et nettoyé avant l'évacuation."
+    },
+    {
+     "q": "Il suffit de retirer les vélos, le reste du matériel peut être laissé sur place.",
+     "r": "faute",
+     "e": "Le box doit être intégralement vidé et nettoyé, pas seulement débarrassé des vélos."
+    },
+    {
+     "q": "Aucune aide extérieure n'est autorisée en catégorie établissement/excellence.",
+     "r": "valable",
+     "e": "Aucune aide extérieure n'est autorisée sur toute la durée de l'épreuve en établissement/excellence."
+    },
+    {
+     "q": "Une aide extérieure ponctuelle est tolérée en établissement/excellence en cas de crevaison.",
+     "r": "faute",
+     "e": "Aucune exception n'est prévue : l'aide extérieure reste totalement interdite."
+    },
+    {
+     "q": "Les 4 équipiers doivent repasser par la chambre d'appel pour restituer le matériel fourni.",
+     "r": "valable",
+     "e": "Les 4 équipiers doivent repasser par la chambre d'appel pour restituer le matériel fourni par l'organisation."
+    },
+    {
+     "q": "Le matériel fourni peut être restitué à n'importe quel poste en fin de course.",
+     "r": "faute",
+     "e": "Le matériel doit être restitué en repassant précisément par la chambre d'appel."
+    }
+   ]
+  }
+ ]
+}

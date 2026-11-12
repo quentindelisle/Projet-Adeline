@@ -1,0 +1,265 @@
+{
+ "id": "tennis-de-table-2",
+ "titre": "L'arbitre, l'arbitre adjoint et le service",
+ "sousTitre": "Quiz Jeune Arbitre Tennis de Table",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT TENNIS DE TABLE UNSS",
+ "sport": "tennis-de-table",
+ "source": "https://resonant-zuccutto-d16120.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La balle ne doit jamais être cachée au relanceur par le corps ou la tenue.",
+     "r": "valable",
+     "e": "La balle ne doit jamais être cachée au relanceur, quelle qu'en soit la raison."
+    },
+    {
+     "q": "Le sigle ITTF doit être clairement écrit sur les revêtements de raquette.",
+     "r": "valable",
+     "e": "Le sigle ITTF doit être écrit clairement sur les revêtements."
+    },
+    {
+     "q": "Les décisions de l'arbitre adjoint sur les balles de bord ne peuvent pas être déjugées par l'arbitre.",
+     "r": "valable",
+     "e": "Ces décisions précises ne peuvent pas être déjugées par l'arbitre."
+    },
+    {
+     "q": "La balle doit être touchée dans sa phase descendante au service.",
+     "r": "valable",
+     "e": "Elle doit être touchée dans sa phase descendante."
+    },
+    {
+     "q": "L'arbitre ne surveille jamais l'ordre du service.",
+     "r": "faute",
+     "e": "Attention : il surveille l'ordre du service, la réception, le camp, et corrige les erreurs."
+    },
+    {
+     "q": "L'arbitre effectue le tirage au sort.",
+     "r": "valable",
+     "e": "C'est l'arbitre qui effectue le tirage au sort."
+    },
+    {
+     "q": "La balle doit être lancée verticalement, d'au moins 16 cm, au service.",
+     "r": "valable",
+     "e": "Lancer vertical, 16 cm minimum, environ la hauteur du filet."
+    },
+    {
+     "q": "On peut taper du pied au service.",
+     "r": "valable",
+     "e": "Taper du pied au service est autorisé par le règlement."
+    },
+    {
+     "q": "Le revêtement ne doit pas dépasser de plus de 2 mm autour de la palette.",
+     "r": "valable",
+     "e": "Il ne doit pas dépasser de plus de 2 mm, uniformément."
+    },
+    {
+     "q": "Une face du revêtement doit être noire, l'autre d'une couleur claire distincte.",
+     "r": "valable",
+     "e": "Une face mate noire, l'autre claire, distincte du noir et de la couleur de la balle."
+    },
+    {
+     "q": "L'arbitre adjoint peut signaler un service faute à son arbitre.",
+     "r": "valable",
+     "e": "Il peut signaler une faute de service qu'il constate à son arbitre."
+    },
+    {
+     "q": "En cas de doute sur le service, l'arbitre ne peut avertir qu'une seule fois par joueur dans la partie.",
+     "r": "valable",
+     "e": "Un seul avertissement de doute est permis par joueur, pour toute la partie."
+    },
+    {
+     "q": "L'arbitre se tient debout pendant les doubles.",
+     "r": "valable",
+     "e": "Il se tient debout pendant les doubles, pour mieux observer le service."
+    },
+    {
+     "q": "L'arbitre peut toujours modifier les décisions de l'arbitre adjoint.",
+     "r": "faute",
+     "e": "Attention : ces décisions précises ne peuvent pas être déjugées par l'arbitre."
+    },
+    {
+     "q": "La décision de l'arbitre peut toujours être contestée par les joueurs.",
+     "r": "faute",
+     "e": "Attention : sa décision est définitive sur toute question de fait."
+    },
+    {
+     "q": "Si la faute de service est certaine, l'arbitre donne directement le point à l'adversaire.",
+     "r": "valable",
+     "e": "En cas de certitude, le point est donné directement à l'adversaire, sans avertissement."
+    },
+    {
+     "q": "La décision de l'arbitre est définitive sur toute question de fait dépendant de sa juridiction.",
+     "r": "valable",
+     "e": "Sa décision est définitive sur toute question de fait."
+    },
+    {
+     "q": "En cas de doute sur une raquette, l'arbitre va voir le juge arbitre ou l'arbitre formateur.",
+     "r": "valable",
+     "e": "Il va voir le juge arbitre ou l'arbitre formateur de la compétition."
+    },
+    {
+     "q": "L'arbitre surveille l'ordre du service, de la réception et du camp.",
+     "r": "valable",
+     "e": "Il surveille l'ordre du service, la réception, le camp, et corrige les erreurs."
+    },
+    {
+     "q": "L'arbitre adjoint se tient debout à côté du filet.",
+     "r": "faute",
+     "e": "Attention : il est assis face à l'arbitre, de l'autre côté de la table."
+    },
+    {
+     "q": "La balle peut être lancée dans n'importe quelle direction au service.",
+     "r": "faute",
+     "e": "Attention : lancer vertical, 16 cm minimum, environ la hauteur du filet."
+    },
+    {
+     "q": "L'arbitre adjoint ne prend jamais de décision concernant les balles de bord.",
+     "r": "faute",
+     "e": "Attention : il décide pour le côté de la table qui lui est le plus proche."
+    },
+    {
+     "q": "Le tirage au sort est effectué par les deux joueurs eux-mêmes.",
+     "r": "faute",
+     "e": "Attention : c'est l'arbitre qui effectue le tirage au sort."
+    },
+    {
+     "q": "L'arbitre vérifie la conformité des équipements, y compris les raquettes.",
+     "r": "valable",
+     "e": "Il vérifie la conformité des équipements, dont les raquettes, et signale les manquements."
+    },
+    {
+     "q": "En cas de doute sur une raquette, l'arbitre tranche seul, sans en référer à personne.",
+     "r": "faute",
+     "e": "Attention : il va voir le juge arbitre ou l'arbitre formateur de la compétition."
+    },
+    {
+     "q": "L'arbitre est assis sur le côté de la table, face au public.",
+     "r": "faute",
+     "e": "Attention : l'arbitre est assis face à la table, dans le prolongement du filet."
+    },
+    {
+     "q": "L'arbitre adjoint est assis face à l'arbitre, de l'autre côté de la table.",
+     "r": "valable",
+     "e": "Il est assis face à l'arbitre, de l'autre côté de la table."
+    },
+    {
+     "q": "L'arbitre ne s'occupe jamais de la conformité des raquettes.",
+     "r": "faute",
+     "e": "Attention : il vérifie la conformité des équipements, dont les raquettes, et signale les manquements."
+    },
+    {
+     "q": "En cas de doute, l'arbitre peut avertir autant de fois qu'il le souhaite.",
+     "r": "faute",
+     "e": "Attention : un seul avertissement de doute est permis par joueur, pour toute la partie."
+    },
+    {
+     "q": "L'arbitre reste toujours assis, même pendant les doubles.",
+     "r": "faute",
+     "e": "Attention : il se tient debout pendant les doubles, pour mieux observer le service."
+    },
+    {
+     "q": "Taper du pied au service est une faute sanctionnée.",
+     "r": "faute",
+     "e": "Attention : taper du pied au service est autorisé par le règlement."
+    },
+    {
+     "q": "L'arbitre est assis dans le prolongement du filet.",
+     "r": "valable",
+     "e": "L'arbitre est assis face à la table, dans le prolongement du filet."
+    },
+    {
+     "q": "L'arbitre adjoint ne s'occupe jamais du matériel de jeu.",
+     "r": "faute",
+     "e": "Attention : il vérifie le bon état des équipements de jeu."
+    },
+    {
+     "q": "La balle peut être tenue n'importe comment dans la main au service.",
+     "r": "faute",
+     "e": "Attention : la balle doit être immobile, dans la paume, main à plat, pouce écarté."
+    },
+    {
+     "q": "Le bras libre du serveur doit être retiré de la zone entre le corps et le filet dès que la balle est lancée.",
+     "r": "valable",
+     "e": "Il doit être retiré de cette zone dès que la balle est lancée."
+    },
+    {
+     "q": "Il est autorisé de cacher la balle au relanceur avec son corps.",
+     "r": "faute",
+     "e": "Attention : la balle ne doit jamais être cachée au relanceur, quelle qu'en soit la raison."
+    },
+    {
+     "q": "La balle doit être touchée dans sa phase ascendante au service.",
+     "r": "faute",
+     "e": "Attention : elle doit être touchée dans sa phase descendante."
+    },
+    {
+     "q": "Une balle qui touche le filet au service est toujours un point perdu.",
+     "r": "faute",
+     "e": "Attention : c'est une balle à remettre, pas un point perdu, dans ce cas précis."
+    },
+    {
+     "q": "L'arbitre adjoint vérifie le bon état de la table, du filet et des séparations.",
+     "r": "valable",
+     "e": "Il vérifie le bon état des équipements de jeu."
+    },
+    {
+     "q": "Si la faute est certaine, l'arbitre donne toujours un avertissement d'abord.",
+     "r": "faute",
+     "e": "Attention : en cas de certitude, le point est donné directement à l'adversaire, sans avertissement."
+    },
+    {
+     "q": "Aucun sigle n'est requis sur les revêtements de raquette.",
+     "r": "faute",
+     "e": "Attention : le sigle ITTF doit être écrit clairement sur les revêtements."
+    },
+    {
+     "q": "Le bras libre du serveur peut rester où il veut pendant le service.",
+     "r": "faute",
+     "e": "Attention : il doit être retiré de cette zone dès que la balle est lancée."
+    },
+    {
+     "q": "La balle doit être immobile dans la paume de la main, main à plat, au service.",
+     "r": "valable",
+     "e": "La balle doit être immobile, dans la paume, main à plat, pouce écarté."
+    },
+    {
+     "q": "Les deux faces du revêtement peuvent être de la même couleur.",
+     "r": "faute",
+     "e": "Attention : une face mate noire, l'autre claire, distincte du noir et de la couleur de la balle."
+    },
+    {
+     "q": "L'arbitre et l'arbitre adjoint décident ensemble en cas d'obstruction.",
+     "r": "valable",
+     "e": "Ils peuvent décider ensemble en cas d'obstruction, service irrégulier, filet touché."
+    },
+    {
+     "q": "Le revêtement peut dépasser de n'importe quelle distance autour de la palette.",
+     "r": "faute",
+     "e": "Attention : il ne doit pas dépasser de plus de 2 mm, uniformément."
+    },
+    {
+     "q": "L'arbitre adjoint décide si la balle touche l'arête du côté de la table le plus proche de lui.",
+     "r": "valable",
+     "e": "Il décide pour le côté de la table qui lui est le plus proche."
+    },
+    {
+     "q": "L'arbitre adjoint n'a aucun rôle concernant les fautes de service.",
+     "r": "faute",
+     "e": "Attention : il peut signaler une faute de service qu'il constate à son arbitre."
+    },
+    {
+     "q": "Une balle à remettre au service se produit si elle touche le filet puis rebondit sur chaque demi-table.",
+     "r": "valable",
+     "e": "C'est une balle à remettre, pas un point perdu, dans ce cas précis."
+    },
+    {
+     "q": "Seul l'arbitre décide en cas d'obstruction, sans l'adjoint.",
+     "r": "faute",
+     "e": "Attention : ils peuvent décider ensemble en cas d'obstruction, service irrégulier, filet touché."
+    }
+   ]
+  }
+ ]
+}

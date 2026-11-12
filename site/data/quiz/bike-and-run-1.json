@@ -1,0 +1,265 @@
+{
+ "id": "bike-and-run-1",
+ "titre": "Chambre d'appel, contrôleur technique & starter",
+ "sousTitre": "Quiz Jeune Arbitre Run & Bike",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT RUN & BIKE UNSS",
+ "sport": "bike-and-run",
+ "source": "https://inquisitive-brioche-8a4154.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La chambre d'appel est ouverte 1 heure avant le départ.",
+     "r": "valable",
+     "e": "La chambre d'appel est ouverte 1 heure avant le départ de la course."
+    },
+    {
+     "q": "La chambre d'appel est ouverte 2 heures avant le départ.",
+     "r": "faute",
+     "e": "Le délai réglementaire est de 1 heure avant le départ, pas 2 heures."
+    },
+    {
+     "q": "Les élèves doivent être revenus en chambre d'appel 15 minutes avant le départ.",
+     "r": "valable",
+     "e": "Les élèves doivent être revenus 15 minutes avant le départ, en repassant par la même porte."
+    },
+    {
+     "q": "Les élèves doivent être revenus en chambre d'appel 30 minutes avant le départ.",
+     "r": "faute",
+     "e": "Le délai réglementaire est de 15 minutes, pas 30."
+    },
+    {
+     "q": "Un retard non justifié au retour en chambre d'appel entraîne à minima 3 minutes de pénalité.",
+     "r": "valable",
+     "e": "Tout retard non justifié est sanctionné à minima de 3 minutes de pénalité (carton orange) pour l'équipe."
+    },
+    {
+     "q": "Un retard au retour en chambre d'appel n'entraîne aucune sanction.",
+     "r": "faute",
+     "e": "Un retard non justifié entraîne au minimum 3 minutes de pénalité pour l'équipe."
+    },
+    {
+     "q": "La fiche de composition d'équipe est vérifiée et signée par le professeur accompagnateur.",
+     "r": "valable",
+     "e": "Un Jeune Arbitre présente la fiche de composition au professeur accompagnateur, qui la vérifie et la signe."
+    },
+    {
+     "q": "La fiche de composition d'équipe est vérifiée uniquement par l'arbitre principal.",
+     "r": "faute",
+     "e": "C'est le professeur accompagnateur qui vérifie et signe la fiche, pas l'arbitre principal seul."
+    },
+    {
+     "q": "L'identité des élèves est vérifiée en chambre d'appel grâce à une licence avec photo.",
+     "r": "valable",
+     "e": "L'identité est vérifiée via des licences avec photos et/ou un listing avec photos."
+    },
+    {
+     "q": "En chambre d'appel, l'identité des élèves n'est jamais contrôlée.",
+     "r": "faute",
+     "e": "L'identité est systématiquement vérifiée par licence avec photo et/ou listing avec photos."
+    },
+    {
+     "q": "Le diamètre de pneu maximal autorisé pour un VTT est de 29 pouces.",
+     "r": "valable",
+     "e": "Le diamètre de pneu maximal autorisé est de 29 pouces."
+    },
+    {
+     "q": "Le diamètre de pneu maximal autorisé pour un VTT est de 26 pouces.",
+     "r": "faute",
+     "e": "Le diamètre maximal autorisé est de 29 pouces, pas 26."
+    },
+    {
+     "q": "Les vélos de type gravel sont interdits en compétition.",
+     "r": "valable",
+     "e": "Les vélos gravel sont explicitement interdits, comme les VTC et vélos de route."
+    },
+    {
+     "q": "Les vélos de type gravel sont autorisés au même titre que les VTT.",
+     "r": "faute",
+     "e": "Les vélos gravel sont explicitement interdits, seuls les VTT sont autorisés."
+    },
+    {
+     "q": "Les embouts de guidon type « bar-end » sont interdits.",
+     "r": "valable",
+     "e": "Les embouts de guidon (cornes, « bar-end »), ajouts et prolongateurs sont interdits."
+    },
+    {
+     "q": "Les embouts de guidon type « bar-end » sont autorisés en catégorie excellence.",
+     "r": "faute",
+     "e": "Les bar-end sont interdits pour toutes les catégories, sans exception."
+    },
+    {
+     "q": "Le port du casque à coque dure est obligatoire à VTT.",
+     "r": "valable",
+     "e": "Le port du casque à coque dure est obligatoire à VTT, sans exception."
+    },
+    {
+     "q": "Le port du casque est facultatif à VTT pour la catégorie benjamins.",
+     "r": "faute",
+     "e": "Le casque à coque dure est obligatoire pour toutes les catégories."
+    },
+    {
+     "q": "De 1 à 4 VTT sont autorisés par équipe établissement.",
+     "r": "valable",
+     "e": "De 1 à 4 VTT sont autorisés par équipe pour les catégories établissement, excellence et sport partagé autonome."
+    },
+    {
+     "q": "Un seul VTT est autorisé pour toute l'équipe, sans exception.",
+     "r": "faute",
+     "e": "Jusqu'à 4 VTT sont autorisés par équipe, pas un seul."
+    },
+    {
+     "q": "Les tandems sont autorisés en sport partagé tandem, de 1 à 2 par équipe.",
+     "r": "valable",
+     "e": "La catégorie sport partagé tandem autorise de 1 à 2 tandems VTT par équipe."
+    },
+    {
+     "q": "Les tandems sont totalement interdits en Run & Bike.",
+     "r": "faute",
+     "e": "Les tandems sont au contraire prévus et autorisés pour la catégorie sport partagé tandem."
+    },
+    {
+     "q": "Le pré-contrôle technique des VTT n'est pas obligatoire.",
+     "r": "valable",
+     "e": "Le pré-contrôle technique n'est pas obligatoire, même s'il est recommandé."
+    },
+    {
+     "q": "Le pré-contrôle technique des VTT est obligatoire pour toutes les équipes.",
+     "r": "faute",
+     "e": "Ce pré-contrôle n'est pas obligatoire."
+    },
+    {
+     "q": "Le départ du duathlon (prologue) est donné en masse, au coup de pistolet.",
+     "r": "valable",
+     "e": "Au coup de pistolet, le départ du duathlon est donné en masse pour la première boucle pédestre."
+    },
+    {
+     "q": "Le départ du duathlon se fait individuellement, athlète par athlète.",
+     "r": "faute",
+     "e": "Le départ du duathlon est donné en masse, pas individuellement."
+    },
+    {
+     "q": "Le port du casque est interdit en course à pied.",
+     "r": "valable",
+     "e": "Le port du casque est interdit sur les parcours de course à pied, en duathlon comme en Run & Bike."
+    },
+    {
+     "q": "Le port du casque reste obligatoire même en course à pied.",
+     "r": "faute",
+     "e": "Le casque est au contraire interdit dès que le concurrent court à pied."
+    },
+    {
+     "q": "Le classement du duathlon détermine l'ordre de départ en poursuite du Run & Bike.",
+     "r": "valable",
+     "e": "Le classement du duathlon détermine l'ordre de départ en poursuite pour le Run & Bike."
+    },
+    {
+     "q": "Le départ du Run & Bike se fait toujours en masse, sans tenir compte du classement du duathlon.",
+     "r": "faute",
+     "e": "Le départ est échelonné selon le classement du duathlon, pas donné en masse."
+    },
+    {
+     "q": "La 1ère équipe classée au duathlon part au coup de pistolet, à 0''.",
+     "r": "valable",
+     "e": "La 1ère équipe part au coup de pistolet, sans écart (0'')."
+    },
+    {
+     "q": "La 1ère équipe classée au duathlon part avec 10 secondes d'avance sur les autres.",
+     "r": "faute",
+     "e": "La 1ère équipe part à 0'', ce sont les suivantes qui ont un écart croissant."
+    },
+    {
+     "q": "Les équipes classées du 6ème au 10ème rang partent avec un écart de 50''.",
+     "r": "valable",
+     "e": "Les équipes classées du 6ème au 10ème rang partent avec un écart de 50''."
+    },
+    {
+     "q": "Les équipes classées du 6ème au 10ème rang partent avec un écart de 30''.",
+     "r": "faute",
+     "e": "L'écart réglementaire pour cette tranche est de 50'', pas 30''."
+    },
+    {
+     "q": "Les équipes établissement classées du 26ème au 30ème rang partent avec un écart de 1'30''.",
+     "r": "valable",
+     "e": "C'est l'écart maximum prévu par le tableau, pour cette tranche de classement."
+    },
+    {
+     "q": "Les équipes établissement classées du 26ème au 30ème rang partent avec un écart de 50''.",
+     "r": "faute",
+     "e": "L'écart pour cette tranche est de 1'30'', pas 50''."
+    },
+    {
+     "q": "La boucle de départ pédestre en Run & Bike fait environ 400 mètres.",
+     "r": "valable",
+     "e": "Les coureurs s'élancent sur une boucle pédestre d'environ 400 m avant de rejoindre leur box."
+    },
+    {
+     "q": "La boucle de départ pédestre en Run & Bike fait environ 2 kilomètres.",
+     "r": "faute",
+     "e": "La boucle de départ mesure environ 400 m, pas 2 km."
+    },
+    {
+     "q": "Aucun dossard papier n'est distribué aux élèves.",
+     "r": "valable",
+     "e": "Aucun dossard ne sera distribué aux élèves, pour toutes les catégories."
+    },
+    {
+     "q": "Chaque élève reçoit un dossard papier à épingler sur son maillot.",
+     "r": "faute",
+     "e": "Aucun dossard papier n'est distribué ; l'identification se fait par marquage et plaque de cadre."
+    },
+    {
+     "q": "Une caution de 50€ est demandée à l'accueil pour le matériel fourni.",
+     "r": "valable",
+     "e": "Un chèque de caution de 50€ est demandé à l'accueil pour tout le matériel fourni."
+    },
+    {
+     "q": "Aucune caution n'est demandée pour le matériel fourni par l'organisation.",
+     "r": "faute",
+     "e": "Une caution de 50€ est bien demandée pour le matériel fourni."
+    },
+    {
+     "q": "Le torse nu est interdit pendant toute l'épreuve.",
+     "r": "valable",
+     "e": "Le torse nu est interdit, aussi bien en VTT qu'en course à pied."
+    },
+    {
+     "q": "Le torse nu est autorisé en cas de forte chaleur.",
+     "r": "faute",
+     "e": "Le torse nu reste interdit quelles que soient les conditions météo."
+    },
+    {
+     "q": "Les pédales automatiques sont autorisées.",
+     "r": "valable",
+     "e": "Les pédales automatiques sont autorisées par le règlement."
+    },
+    {
+     "q": "Les pédales automatiques sont strictement interdites.",
+     "r": "faute",
+     "e": "Les pédales automatiques sont au contraire autorisées."
+    },
+    {
+     "q": "Le stockage des vélos proposé par l'organisateur n'est pas obligatoire.",
+     "r": "valable",
+     "e": "Le stockage des vélos dans l'espace proposé n'est pas obligatoire."
+    },
+    {
+     "q": "Le stockage des vélos proposé par l'organisateur est obligatoire pour toutes les équipes.",
+     "r": "faute",
+     "e": "Ce stockage est proposé mais reste facultatif."
+    },
+    {
+     "q": "Une équipe sport partagé tandem compte 8 compétiteurs, dont 4 ESH et 4 valides.",
+     "r": "valable",
+     "e": "L'équipe sport partagé tandem est composée de 8 compétiteurs : 4 élèves en situation de handicap et 4 valides."
+    },
+    {
+     "q": "Une équipe sport partagé tandem compte 4 compétiteurs, comme l'équipe autonome.",
+     "r": "faute",
+     "e": "L'équipe tandem compte 8 compétiteurs, le double de l'équipe autonome."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-4",
+ "titre": "Sol garçons",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 4 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · GAM",
+ "sport": "gymnastique-artistique",
+ "source": "https://dazzling-pie-5b1c0e.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La pénalité pour « mouvement sans sortie » (-0,30 pt) ne s'applique pas au sol, selon le texte du règlement.",
+     "r": "valable",
+     "e": "Le règlement précise explicitement cette exception pour le sol."
+    },
+    {
+     "q": "La pénalité pour « mouvement sans sortie » s'applique systématiquement au sol garçons, comme sur tous les agrès.",
+     "r": "faute",
+     "e": "Le règlement indique au contraire que cette pénalité ne s'applique pas au sol."
+    },
+    {
+     "q": "La durée maximale de l'enchaînement au sol garçons est de 1 minute.",
+     "r": "valable",
+     "e": "La durée réglementaire au sol garçons est de 1 minute maximum."
+    },
+    {
+     "q": "La durée maximale de l'enchaînement au sol garçons est de 1 minute 10, comme à la poutre.",
+     "r": "faute",
+     "e": "La durée au sol garçons est de 1 minute, pas 1mn10 comme à la poutre."
+    },
+    {
+     "q": "Une touche d'une main ou d'un pied à l'extérieur des lignes au sol garçons est pénalisée de 0,10 point.",
+     "r": "valable",
+     "e": "Cette faute légère de sortie de praticable coûte 0,10 point."
+    },
+    {
+     "q": "Une touche d'une main ou d'un pied hors lignes au sol garçons est pénalisée de 0,50 point.",
+     "r": "faute",
+     "e": "Cette faute vaut 0,10 point, pas 0,50 point."
+    },
+    {
+     "q": "Une réception d'un élément directement à l'extérieur des lignes est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute de sortie de praticable vaut 0,30 point."
+    },
+    {
+     "q": "Une réception hors lignes n'est jamais pénalisée si l'élan initial était correct.",
+     "r": "faute",
+     "e": "La réception hors lignes est pénalisée de 0,30 point, indépendamment de l'élan initial."
+    },
+    {
+     "q": "Les 4 exigences de composition au sol garçons sont ATR, SM/AP, AC AV et AC AR/LAT.",
+     "r": "valable",
+     "e": "Ce sont bien les 4 exigences prévues au sol garçons."
+    },
+    {
+     "q": "Les 4 exigences de composition au sol garçons sont identiques à celles du sol filles.",
+     "r": "faute",
+     "e": "Les exigences du sol garçons diffèrent de celles du sol filles (SM/AP et AC AV/AR au lieu de SM et LG)."
+    },
+    {
+     "q": "L'exigence AC AV impose un élément acrobatique réalisé vers l'avant.",
+     "r": "valable",
+     "e": "AC AV désigne un élément acrobatique vers l'avant."
+    },
+    {
+     "q": "L'exigence AC AV impose un élément acrobatique vers l'arrière ou latéral.",
+     "r": "faute",
+     "e": "AC AV signifie acrobatique Avant, pas arrière ou latéral (c'est l'exigence AC AR/LAT)."
+    },
+    {
+     "q": "La planche faciale jambes écartées tenue 2 secondes est un élément de valeur A.",
+     "r": "valable",
+     "e": "Cette planche faciale figure en colonne A du code."
+    },
+    {
+     "q": "La planche faciale jambes écartées tenue 2 secondes est un élément de valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur A, pas D."
+    },
+    {
+     "q": "Un élément de maintien non tenu 2 secondes lorsqu'exigé n'est pas comptabilisé en difficulté.",
+     "r": "valable",
+     "e": "Le code exige les 2 secondes pour comptabiliser un élément de maintien."
+    },
+    {
+     "q": "Un élément de maintien non tenu 2 secondes reste comptabilisé, sans conséquence sur la note.",
+     "r": "faute",
+     "e": "Sans les 2 secondes, l'élément de maintien n'est simplement pas comptabilisé."
+    },
+    {
+     "q": "La roulade AR bras fléchis à l'ATR, jambes serrées et tendues, est un élément de valeur C, déclassé en B7 si l'ATR n'est pas atteint.",
+     "r": "valable",
+     "e": "Le code prévoit ce déclassement si le passage par l'ATR n'est pas atteint."
+    },
+    {
+     "q": "La roulade AR à l'ATR garde toujours sa valeur C, que l'ATR soit atteint ou non.",
+     "r": "faute",
+     "e": "L'élément est déclassé en B7 si l'ATR n'est pas atteint."
+    },
+    {
+     "q": "Le flic flac arrière (flip arrière) est un élément de valeur C.",
+     "r": "valable",
+     "e": "Le flic flac arrière figure en colonne C du code."
+    },
+    {
+     "q": "Le flic flac arrière est un élément de valeur A, au même titre qu'une roulade simple.",
+     "r": "faute",
+     "e": "Cet élément est de valeur C, pas A."
+    },
+    {
+     "q": "Le salto arrière tendu ou tempo est un élément de valeur D.",
+     "r": "valable",
+     "e": "Ce salto figure en colonne D du code."
+    },
+    {
+     "q": "Le salto arrière tendu ou tempo n'est reconnu qu'en valeur B.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas B."
+    },
+    {
+     "q": "Un saut vertical avec 1 tour et demi (540°) est un élément de valeur D.",
+     "r": "valable",
+     "e": "Ce saut avec 540° figure en colonne D du code."
+    },
+    {
+     "q": "Un saut vertical avec 1 tour et demi n'est reconnu qu'en valeur C.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas C."
+    },
+    {
+     "q": "De l'appui tendu facial, un cercle complet à l'appui tendu facial est un élément de valeur D, déclassé en C4 s'il n'est pas terminé.",
+     "r": "valable",
+     "e": "Le code prévoit ce déclassement si le cercle n'est pas terminé."
+    },
+    {
+     "q": "Le cercle à l'appui tendu facial garde toujours sa valeur D, terminé ou non.",
+     "r": "faute",
+     "e": "L'élément est déclassé en C4 s'il n'est pas terminé."
+    },
+    {
+     "q": "Le saut de mains avec réception 2 pieds est un élément acrobatique avant de valeur B.",
+     "r": "valable",
+     "e": "Ce saut de mains figure en colonne B du code."
+    },
+    {
+     "q": "Le saut de mains avec réception 2 pieds est un élément acrobatique avant de valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur B, pas D."
+    },
+    {
+     "q": "La roulade avant jambes tendues et serrées est un élément de valeur C, déclassé en A5 si les jambes sont fléchies.",
+     "r": "valable",
+     "e": "Le code prévoit ce déclassement en cas de jambes fléchies."
+    },
+    {
+     "q": "La roulade avant jambes tendues garde toujours sa valeur C, jambes fléchies ou non.",
+     "r": "faute",
+     "e": "L'élément est déclassé en A5 si les jambes sont fléchies."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins au sol garçons est pénalisé de 2 points.",
+     "r": "valable",
+     "e": "Le règlement prévoit une pénalité de 2 points pour un exercice trop court."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins au sol garçons n'entraîne aucune pénalité.",
+     "r": "faute",
+     "e": "Un exercice de 5 éléments ou moins est au contraire pénalisé de 2 points."
+    },
+    {
+     "q": "L'ATR en force passager est un élément de valeur D.",
+     "r": "valable",
+     "e": "Cet ATR en force figure en colonne D du code."
+    },
+    {
+     "q": "L'ATR en force passager n'est reconnu qu'en valeur B.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas B."
+    },
+    {
+     "q": "Deux valses à l'ATR (soit un tour complet à l'ATR de 360°) constituent un élément de valeur D.",
+     "r": "valable",
+     "e": "Les 2 valses à l'ATR figurent en colonne D du code."
+    },
+    {
+     "q": "Deux valses à l'ATR ne constituent qu'un élément de valeur B.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas B."
+    },
+    {
+     "q": "Le grand écart antéropostérieur tenu 2 secondes est un élément de souplesse ou de maintien de valeur D.",
+     "r": "valable",
+     "e": "Cet écart tenu 2 secondes figure en colonne D du code au sol garçons."
+    },
+    {
+     "q": "Le grand écart antéropostérieur tenu 2 secondes n'est reconnu qu'en valeur A.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas A."
+    },
+    {
+     "q": "L'exigence SM/AP regroupe les éléments de Souplesse, de Maintien ou d'Appui.",
+     "r": "valable",
+     "e": "SM/AP désigne Souplesse, Maintien ou Appui."
+    },
+    {
+     "q": "L'exigence SM/AP ne concerne que les éléments de Souplesse, sans lien avec le Maintien ou l'Appui.",
+     "r": "faute",
+     "e": "SM/AP regroupe Souplesse, Maintien et Appui, pas seulement la Souplesse."
+    },
+    {
+     "q": "Aucune musique n'est obligatoire au sol garçons, contrairement au sol filles.",
+     "r": "valable",
+     "e": "Le règlement n'impose pas de musique au sol garçons."
+    },
+    {
+     "q": "La musique est également obligatoire au sol garçons, comme au sol filles.",
+     "r": "faute",
+     "e": "La musique est obligatoire au sol filles, pas au sol garçons."
+    },
+    {
+     "q": "L'appui costal passager sur un bras, en passant de l'appui facial à l'appui dorsal, est un élément de valeur A.",
+     "r": "valable",
+     "e": "Cet appui costal passager figure en colonne A du code."
+    },
+    {
+     "q": "L'appui costal passager sur un bras n'est reconnu qu'en valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur A, pas D."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS ne peut recevoir aucune valeur en difficulté au sol garçons.",
+     "r": "valable",
+     "e": "Le règlement est clair : un élément non reconnu n'a aucune valeur."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS peut malgré tout recevoir une valeur A par défaut.",
+     "r": "faute",
+     "e": "Un élément non reconnu ne reçoit aucune valeur, même pas A par défaut."
+    },
+    {
+     "q": "Le barème de difficulté au sol garçons va de A = 0,40 pt à D = 1,00 pt, comme sur les autres agrès.",
+     "r": "valable",
+     "e": "Le barème A à D est commun à tous les agrès au sol comme aux autres."
+    },
+    {
+     "q": "Le barème de difficulté au sol garçons est spécifique et va de A = 0,20 pt à D = 0,80 pt.",
+     "r": "faute",
+     "e": "Le barème est identique à tous les agrès : A = 0,40 pt à D = 1,00 pt."
+    },
+    {
+     "q": "Aux fautes spécifiques du sol garçons s'ajoutent les fautes de tenue, de technique et de comportement communes à tous les agrès.",
+     "r": "valable",
+     "e": "Ces fautes générales s'ajoutent toujours aux fautes spécifiques de l'agrès."
+    },
+    {
+     "q": "Le sol garçons est le seul agrès où les fautes de comportement générales ne s'appliquent pas.",
+     "r": "faute",
+     "e": "Les fautes générales de comportement s'appliquent aussi au sol garçons, comme partout ailleurs."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "step-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Juge Step",
+ "entete": "QUIZ NIVEAU 2 · LIVRET JEUNE JUGE STEP UNSS",
+ "sport": "step",
+ "source": "https://polite-vacherin-8cbea4.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Chaque changement de formation est jugé sur 12 points.",
+     "r": "faute",
+     "e": "C'est faux. Seuls les 3 meilleurs changements sont pris en compte : 12 points au total."
+    },
+    {
+     "q": "Chaque changement de formation est jugé sur 4 points.",
+     "r": "valable",
+     "e": "Seuls les 3 meilleurs changements sont pris en compte : 12 points au total."
+    },
+    {
+     "q": "Seuls les 3 meilleurs changements de formation sont pris en compte.",
+     "r": "valable",
+     "e": "Il est possible d'en avoir plus de 3 mais seuls les 3 meilleurs sont jugés."
+    },
+    {
+     "q": "Tous les changements de formation sont pris en compte.",
+     "r": "faute",
+     "e": "C'est faux. Il est possible d'en avoir plus de 3 mais seuls les 3 meilleurs sont jugés."
+    },
+    {
+     "q": "La formation de départ ne compte jamais.",
+     "r": "faute",
+     "e": "C'est faux. La formation de départ compte sauf s'il s'agit d'un porter."
+    },
+    {
+     "q": "La formation de départ compte, sauf s'il s'agit d'un porter.",
+     "r": "valable",
+     "e": "La formation de départ compte sauf s'il s'agit d'un porter."
+    },
+    {
+     "q": "Un V pointe vers les juges puis un V pointe vers le fond comptent pour 1 formation.",
+     "r": "faute",
+     "e": "C'est faux. Même forme dans une autre orientation = 2 formations différentes."
+    },
+    {
+     "q": "Un V pointe vers les juges puis un V pointe vers le fond comptent pour 2 formations.",
+     "r": "valable",
+     "e": "Même forme dans une autre orientation = 2 formations différentes."
+    },
+    {
+     "q": "Une ligne, une colonne et une diagonale sont 3 formations différentes.",
+     "r": "valable",
+     "e": "Elles sont orientées différemment dans l'espace."
+    },
+    {
+     "q": "Une ligne, une colonne et une diagonale sont une seule formation.",
+     "r": "faute",
+     "e": "C'est faux. Elles sont orientées différemment dans l'espace."
+    },
+    {
+     "q": "Deux gymnastes peuvent partager le même Step lors d'une formation.",
+     "r": "valable",
+     "e": "Un pied au moins sur le Step, avec possibilité d'être à deux."
+    },
+    {
+     "q": "Deux gymnastes ne peuvent jamais partager un Step lors d'une formation.",
+     "r": "faute",
+     "e": "C'est faux. Un pied au moins sur le Step, avec possibilité d'être à deux."
+    },
+    {
+     "q": "Un déplacement n'est compté que si tous les gymnastes se déplacent en même temps.",
+     "r": "valable",
+     "e": "Les gymnastes doivent se déplacer en même temps pour être comptabilisés."
+    },
+    {
+     "q": "Un déplacement est compté dès qu'un seul gymnaste se déplace.",
+     "r": "faute",
+     "e": "C'est faux. Les gymnastes doivent se déplacer en même temps pour être comptabilisés."
+    },
+    {
+     "q": "Un aller-retour sur un autre Step compte pour deux déplacements.",
+     "r": "faute",
+     "e": "C'est faux. Un déplacement n'est comptabilisé qu'une fois si les gymnastes reviennent sur leur Step."
+    },
+    {
+     "q": "Un aller-retour sur un autre Step compte pour un seul déplacement.",
+     "r": "valable",
+     "e": "Un déplacement n'est comptabilisé qu'une fois si les gymnastes reviennent sur leur Step."
+    },
+    {
+     "q": "Le passage Step se fait uniquement avec les pieds.",
+     "r": "faute",
+     "e": "C'est faux. Sauf pour les sauts."
+    },
+    {
+     "q": "Le passage Step se fait avec une autre partie du corps que les pieds.",
+     "r": "valable",
+     "e": "Sauf pour les sauts."
+    },
+    {
+     "q": "Une interaction se fait avec un contact au sol ou sur un Step posé au sol.",
+     "r": "valable",
+     "e": "Ne pas confondre une interaction et un porter."
+    },
+    {
+     "q": "Une interaction est identique à un porter.",
+     "r": "faute",
+     "e": "C'est faux. Ne pas confondre une interaction et un porter."
+    },
+    {
+     "q": "Le Step ne doit pas dépasser la hauteur des épaules lors du porter.",
+     "r": "valable",
+     "e": "L'utilisation du Step lors du porter ne peut pas dépasser la hauteur des épaules."
+    },
+    {
+     "q": "Le Step doit être tenu au-dessus de la tête lors du porter.",
+     "r": "faute",
+     "e": "C'est faux. L'utilisation du Step lors du porter ne peut pas dépasser la hauteur des épaules."
+    },
+    {
+     "q": "Si deux porters sont réalisés, on additionne les deux.",
+     "r": "faute",
+     "e": "C'est faux. Le meilleur des deux sera pris en compte."
+    },
+    {
+     "q": "Si deux porters sont réalisés, le meilleur des deux est pris en compte.",
+     "r": "valable",
+     "e": "Le meilleur des deux sera pris en compte."
+    },
+    {
+     "q": "Un porter sans Step rapporte 3 points pour l'utilisation du Step.",
+     "r": "faute",
+     "e": "C'est faux. Sans Step = 0 point ; Step au sol = 1 ; Step levé au moins niveau genou = 3."
+    },
+    {
+     "q": "Un porter avec le Step levé au moins au niveau du genou rapporte 3 points pour l'utilisation du Step.",
+     "r": "valable",
+     "e": "Sans Step = 0 point ; Step au sol = 1 ; Step levé au moins niveau genou = 3."
+    },
+    {
+     "q": "La note de Show ne tient compte que de l'enthousiasme.",
+     "r": "faute",
+     "e": "C'est faux. Les deux critères ont la même importance."
+    },
+    {
+     "q": "La note de Show est la moyenne de l'enthousiasme et de la tonicité.",
+     "r": "valable",
+     "e": "Les deux critères ont la même importance."
+    },
+    {
+     "q": "Un élément interdit coûte 1 point par équipe.",
+     "r": "faute",
+     "e": "C'est faux. Moins 5 points à chaque élément et pour chaque gymnaste."
+    },
+    {
+     "q": "Un élément interdit coûte 5 points, pour chaque gymnaste.",
+     "r": "valable",
+     "e": "Moins 5 points à chaque élément et pour chaque gymnaste."
+    },
+    {
+     "q": "Un élément gymnique mal exécuté coûte 5 points par équipe.",
+     "r": "faute",
+     "e": "C'est faux. Moins 1 point à chaque élément et pour chaque gymnaste."
+    },
+    {
+     "q": "Un élément gymnique mal exécuté coûte 1 point par gymnaste.",
+     "r": "valable",
+     "e": "Moins 1 point à chaque élément et pour chaque gymnaste."
+    },
+    {
+     "q": "Une chute sur le porter coûte 5 points.",
+     "r": "valable",
+     "e": "Moins 5 points : chute sur le porter."
+    },
+    {
+     "q": "Une chute sur le porter coûte 1 point.",
+     "r": "faute",
+     "e": "C'est faux. Moins 5 points : chute sur le porter."
+    },
+    {
+     "q": "Ne pas terminer sur la musique coûte 5 points.",
+     "r": "faute",
+     "e": "C'est faux. Moins 3 points."
+    },
+    {
+     "q": "Ne pas terminer sur la musique coûte 3 points.",
+     "r": "valable",
+     "e": "Moins 3 points."
+    },
+    {
+     "q": "Un gymnaste qui compte ou chante coûte 5 points.",
+     "r": "faute",
+     "e": "C'est faux. Moins 2 points."
+    },
+    {
+     "q": "Un gymnaste qui compte ou chante coûte 2 points.",
+     "r": "valable",
+     "e": "Moins 2 points."
+    },
+    {
+     "q": "Une sortie de plus de 8 temps coûte 3 points.",
+     "r": "valable",
+     "e": "Moins 3 points à chaque fois."
+    },
+    {
+     "q": "Une sortie de plus de 8 temps coûte 1 point.",
+     "r": "faute",
+     "e": "C'est faux. Moins 3 points à chaque fois."
+    },
+    {
+     "q": "Un Step de modèle différent des autres est un manquement au règlement général.",
+     "r": "valable",
+     "e": "Steps différents : moins 5 points."
+    },
+    {
+     "q": "Un Step de modèle différent des autres n'est pas sanctionné.",
+     "r": "faute",
+     "e": "C'est faux. Steps différents : moins 5 points."
+    },
+    {
+     "q": "Une interruption de tout le groupe de plus de 4 temps coûte 5 points.",
+     "r": "valable",
+     "e": "Moins 5 points."
+    },
+    {
+     "q": "Une interruption de tout le groupe de plus de 4 temps coûte 1 point.",
+     "r": "faute",
+     "e": "C'est faux. Moins 5 points."
+    },
+    {
+     "q": "Avec 12 fautes simples de synchronisation, la note est de 12/30.",
+     "r": "faute",
+     "e": "C'est faux. 30 – 12 = 18."
+    },
+    {
+     "q": "Avec 12 fautes simples de synchronisation, la note est de 18/30.",
+     "r": "valable",
+     "e": "30 – 12 = 18."
+    },
+    {
+     "q": "22 Pas réalisés par tous les gymnastes rapportent 20 points.",
+     "r": "faute",
+     "e": "C'est faux. De 22 à 24 Pas : 12 points ; 34 et plus : 20 points."
+    },
+    {
+     "q": "22 Pas réalisés par tous les gymnastes rapportent 12 points.",
+     "r": "valable",
+     "e": "De 22 à 24 Pas : 12 points ; 34 et plus : 20 points."
+    },
+    {
+     "q": "Deux pieds hors de l'aire pour un gymnaste comptent pour deux sorties.",
+     "r": "faute",
+     "e": "C'est faux. On ne compte qu'une seule sortie."
+    },
+    {
+     "q": "Deux pieds hors de l'aire pour un gymnaste comptent pour une seule sortie.",
+     "r": "valable",
+     "e": "On ne compte qu'une seule sortie."
+    }
+   ]
+  }
+ ]
+}

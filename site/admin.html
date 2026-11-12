@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Espace gestion — Formations JA/JJ</title>
+<link rel="stylesheet" href="assets/app.css">
+<link rel="stylesheet" href="assets/admin.css">
+</head>
+<body class="admin">
+<header class="top">
+  <div class="top-in">
+    <a class="marque" href="index.html"><b>Espace gestion</b><span id="a-sous">Formations Jeune Juge / Jeune Arbitre</span></a>
+    <nav class="a-actions">
+      <span id="etat" class="etat" role="status" aria-live="polite"></span>
+      <button class="btn petit" id="b-apercu" title="Voir le site avec les modifications non publiées">Aperçu</button>
+      <button class="btn petit" id="b-qualite">Contrôle qualité</button>
+      <button class="btn petit prim" id="b-publier">Publier</button>
+      <button class="btn petit" id="b-reglages" aria-label="Réglages de publication">⚙</button>
+    </nav>
+  </div>
+</header>
+<div class="a-cadre">
+  <aside class="a-cote" aria-label="Activités">
+    <button class="a-lien" data-vue="general">Réglages généraux</button>
+    <div class="a-cote-titre">Activités <button class="btn petit" id="b-ajout-sport">+ Ajouter</button></div>
+    <ul id="liste-sports"></ul>
+    <div class="a-cote-pied">
+      <button class="btn petit" id="b-export">Télécharger les fichiers (.zip)</button>
+      <label class="btn petit">Importer un data.json<input type="file" id="f-import" accept=".json,application/json" hidden></label>
+    </div>
+  </aside>
+  <main id="ed" class="a-main" tabindex="-1"><p>Chargement…</p></main>
+</div>
+
+<dialog id="dlg" class="a-dlg"><div id="dlg-in"></div></dialog>
+<script src="assets/commun.js"></script>
+<script src="assets/zip.js"></script>
+<script src="assets/admin.js"></script>
+</body>
+</html>

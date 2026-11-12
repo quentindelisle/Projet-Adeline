@@ -1,0 +1,265 @@
+{
+ "id": "circuit-training-2",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Juge Circuit Training",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT CIRCUIT TRAINING UNSS",
+ "sport": "circuit-training",
+ "source": "https://musical-selkie-97bddf.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La catégorie Collège regroupe les élèves nés en 2010, 2009 et 2008.",
+     "r": "faute",
+     "e": "C'est faux. Collège : 2013 – 2012 – 2011."
+    },
+    {
+     "q": "La catégorie Collège regroupe les élèves nés en 2013, 2012 et 2011.",
+     "r": "valable",
+     "e": "Collège : 2013 – 2012 – 2011."
+    },
+    {
+     "q": "Une équipe de collège se compose de 2 garçons et 2 filles, ou d'1 garçon et 3 filles.",
+     "r": "valable",
+     "e": "Composition d'une équipe collège : 2G-2F ou 1G-3F."
+    },
+    {
+     "q": "Une équipe de collège se compose obligatoirement de 4 garçons ou de 3 garçons et 1 fille.",
+     "r": "faute",
+     "e": "C'est faux. Composition d'une équipe collège : 2G-2F ou 1G-3F."
+    },
+    {
+     "q": "Au circuit relais, les binômes de chaque sous-épreuve sont tirés au sort par le jury.",
+     "r": "faute",
+     "e": "C'est faux. La constitution des binômes de chaque sous-épreuve est effectuée par le jeune coach à l'accueil du championnat de France."
+    },
+    {
+     "q": "Au circuit relais, le jeune coach constitue les binômes de chaque sous-épreuve à l'accueil du championnat.",
+     "r": "valable",
+     "e": "La constitution des binômes de chaque sous-épreuve est effectuée par le jeune coach à l'accueil du championnat de France."
+    },
+    {
+     "q": "Chaque sous-épreuve du circuit relais dure 5 minutes.",
+     "r": "valable",
+     "e": "Les trois sous-épreuves du circuit relais durent 5 minutes en binôme."
+    },
+    {
+     "q": "Chaque sous-épreuve du circuit relais dure 3 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Les trois sous-épreuves du circuit relais durent 5 minutes en binôme."
+    },
+    {
+     "q": "À l'épreuve 1 du circuit relais, un tour complet vaut 14 points (10 push-ups + 4 longueurs de shuttle run de 7,5 m).",
+     "r": "valable",
+     "e": "Épreuve 1 : 1 aller + 5 pushups + 1 aller-retour + 5 pushups + 1 retour ; 1 tour = 14 points."
+    },
+    {
+     "q": "À l'épreuve 1 du circuit relais, un tour complet vaut 10 points.",
+     "r": "faute",
+     "e": "C'est faux. Épreuve 1 : 1 aller + 5 pushups + 1 aller-retour + 5 pushups + 1 retour ; 1 tour = 14 points."
+    },
+    {
+     "q": "À l'épreuve 2 du circuit relais, un tour vaut 10 burpees box jump over + 5 butterfly sit-ups.",
+     "r": "faute",
+     "e": "C'est faux. Épreuve 2 : 5 burpees box jump over + 10 butterfly sit-ups ; 1 tour = 15 points."
+    },
+    {
+     "q": "À l'épreuve 2 du circuit relais, un tour vaut 5 burpees box jump over + 10 butterfly sit-ups, soit 15 points.",
+     "r": "valable",
+     "e": "Épreuve 2 : 5 burpees box jump over + 10 butterfly sit-ups ; 1 tour = 15 points."
+    },
+    {
+     "q": "À l'épreuve 3 du circuit relais, un tour (30 single under + 10 répétitions de kettlebell) vaut 40 points.",
+     "r": "valable",
+     "e": "Épreuve 3 : 30 single under + 10 répétitions de kettlebell ; 1 tour = 40 points."
+    },
+    {
+     "q": "À l'épreuve 3 du circuit relais, un tour (30 single under + 10 répétitions de kettlebell) vaut 30 points.",
+     "r": "faute",
+     "e": "C'est faux. Épreuve 3 : 30 single under + 10 répétitions de kettlebell ; 1 tour = 40 points."
+    },
+    {
+     "q": "Au circuit relais, le premier athlète du binôme démarre au signal du jeune arbitre.",
+     "r": "valable",
+     "e": "Le premier athlète du binôme démarre au signal du Jeune Arbitre."
+    },
+    {
+     "q": "Au circuit relais, le premier athlète du binôme démarre au signal du jeune coach.",
+     "r": "faute",
+     "e": "C'est faux. Le premier athlète du binôme démarre au signal du Jeune Arbitre."
+    },
+    {
+     "q": "Au circuit relais, le score d'une équipe est celui de son meilleur binôme.",
+     "r": "faute",
+     "e": "C'est faux. Le classement par équipe est déterminé par l'addition des répétitions des deux binômes."
+    },
+    {
+     "q": "Au circuit relais, le score d'une équipe est le total des répétitions validées par ses deux binômes.",
+     "r": "valable",
+     "e": "Le classement par équipe est déterminé par l'addition des répétitions des deux binômes."
+    },
+    {
+     "q": "Burpees pogo, jumping jacks et side shuffle font partie des 8 mouvements du circuit 6 minutes.",
+     "r": "valable",
+     "e": "Les 8 mouvements du 6 minutes sont sans matériel : Burpees Pogo, Jumping Jacks, Knee to jump, Alternating Lunge, Squat Jumps, Up & Down Planks, Side shuffle, Butterfly sit up."
+    },
+    {
+     "q": "Thruster, wall ball et tire flip font partie des 8 mouvements du circuit 6 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Les 8 mouvements du 6 minutes sont sans matériel : Burpees Pogo, Jumping Jacks, Knee to jump, Alternating Lunge, Squat Jumps, Up & Down Planks, Side shuffle, Butterfly sit up."
+    },
+    {
+     "q": "Les mouvements du circuit 6 minutes sont tirés au sort la veille du début de la compétition, pendant la réunion technique.",
+     "r": "valable",
+     "e": "Le circuit est tiré au sort la veille du début de la compétition, pendant la réunion technique, en présence uniquement des jeunes coachs."
+    },
+    {
+     "q": "Les mouvements du circuit 6 minutes sont tirés au sort au top départ de l'épreuve.",
+     "r": "faute",
+     "e": "C'est faux. Le circuit est tiré au sort la veille du début de la compétition, pendant la réunion technique, en présence uniquement des jeunes coachs."
+    },
+    {
+     "q": "Au circuit 6 minutes, c'est le jeune coach qui attribue un mouvement à chaque athlète de son équipe.",
+     "r": "valable",
+     "e": "Lors de la réunion technique, le jeune coach attribue un mouvement à chaque athlète de son équipe."
+    },
+    {
+     "q": "Au circuit 6 minutes, c'est le jury qui attribue un mouvement à chaque athlète.",
+     "r": "faute",
+     "e": "C'est faux. Lors de la réunion technique, le jeune coach attribue un mouvement à chaque athlète de son équipe."
+    },
+    {
+     "q": "Au circuit 6 minutes, chaque athlète n'a droit qu'à un seul passage sur son atelier.",
+     "r": "valable",
+     "e": "Chaque athlète n'a droit qu'à un seul passage de 1'30 sur son atelier."
+    },
+    {
+     "q": "Au circuit 6 minutes, un athlète peut repasser sur son atelier tant que le temps n'est pas écoulé.",
+     "r": "faute",
+     "e": "C'est faux. Chaque athlète n'a droit qu'à un seul passage de 1'30 sur son atelier."
+    },
+    {
+     "q": "La zone de performance du circuit 6 minutes mesure 4 m sur 4 m.",
+     "r": "valable",
+     "e": "La zone de performance du circuit 6 minutes est un carré de 4 m de côté."
+    },
+    {
+     "q": "La zone de performance du circuit 6 minutes mesure 2 m sur 2 m.",
+     "r": "faute",
+     "e": "C'est faux. La zone de performance du circuit 6 minutes est un carré de 4 m de côté."
+    },
+    {
+     "q": "Les 4 mouvements du circuit chrono sont tirés au sort la veille du championnat de France.",
+     "r": "faute",
+     "e": "C'est faux. Le circuit chrono est tiré au sort au moins un mois approximativement avant le championnat de France."
+    },
+    {
+     "q": "Les 4 mouvements du circuit chrono sont tirés au sort au moins 1 mois avant le championnat de France.",
+     "r": "valable",
+     "e": "Le circuit chrono est tiré au sort au moins un mois approximativement avant le championnat de France."
+    },
+    {
+     "q": "Au circuit chrono, les 4 mouvements sont tirés « sans charge ».",
+     "r": "faute",
+     "e": "C'est faux. Les mouvements sont classés dans 2 « chapeaux » : 2 mouvements sans charge et 2 mouvements avec charge."
+    },
+    {
+     "q": "Au circuit chrono, 2 mouvements sont tirés « sans charge » et 2 « avec charge ».",
+     "r": "valable",
+     "e": "Les mouvements sont classés dans 2 « chapeaux » : 2 mouvements sans charge et 2 mouvements avec charge."
+    },
+    {
+     "q": "Au circuit chrono, l'équipe est classée selon le nombre total de répétitions réalisées en 6 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Le classement du circuit chrono est déterminé par le temps réalisé par l'équipe."
+    },
+    {
+     "q": "Au circuit chrono, l'équipe est classée selon le temps qu'elle a réalisé.",
+     "r": "valable",
+     "e": "Le classement du circuit chrono est déterminé par le temps réalisé par l'équipe."
+    },
+    {
+     "q": "Au circuit chrono, le chronomètre est arrêté quand les 4 athlètes ont franchi la ligne d'arrivée en équipe.",
+     "r": "valable",
+     "e": "À l'atelier n°4, le dernier compétiteur retourne chercher ses partenaires pour franchir la ligne en équipe : le chrono est arrêté sur le dernier."
+    },
+    {
+     "q": "Au circuit chrono, le chronomètre est arrêté dès que le premier athlète franchit la ligne d'arrivée.",
+     "r": "faute",
+     "e": "C'est faux. À l'atelier n°4, le dernier compétiteur retourne chercher ses partenaires pour franchir la ligne en équipe : le chrono est arrêté sur le dernier."
+    },
+    {
+     "q": "Au championnat de France, les circuits relais, 6 minutes et chrono sont jugés par 3 jeunes juges.",
+     "r": "valable",
+     "e": "Au championnat de France, 3 jeunes juges officient : un compte, un signale et comptabilise les no rep, un valide le relais."
+    },
+    {
+     "q": "Au championnat de France, les circuits relais, 6 minutes et chrono sont jugés par un seul jeune juge.",
+     "r": "faute",
+     "e": "C'est faux. Au championnat de France, 3 jeunes juges officient : un compte, un signale et comptabilise les no rep, un valide le relais."
+    },
+    {
+     "q": "À l'épreuve de performance, l'athlète dispose de 1 minute pour réaliser le maximum de répétitions.",
+     "r": "valable",
+     "e": "Développé couché, squat clavicule et pull up & rowing TRX : maximum de répétitions en 1 minute."
+    },
+    {
+     "q": "À l'épreuve de performance, l'athlète dispose de 3 minutes pour réaliser le maximum de répétitions.",
+     "r": "faute",
+     "e": "C'est faux. Développé couché, squat clavicule et pull up & rowing TRX : maximum de répétitions en 1 minute."
+    },
+    {
+     "q": "Au développé couché et au squat clavicule, la charge est imposée par le règlement selon le sexe.",
+     "r": "faute",
+     "e": "C'est faux. La charge est indiquée par le jeune coach à l'accueil du championnat pour le squat clavicule et le développé couché."
+    },
+    {
+     "q": "Au développé couché et au squat clavicule, la charge est indiquée par le jeune coach à l'accueil du championnat.",
+     "r": "valable",
+     "e": "La charge est indiquée par le jeune coach à l'accueil du championnat pour le squat clavicule et le développé couché."
+    },
+    {
+     "q": "Au développé couché, décoller les fesses ou la tête du banc est un motif de non-validation.",
+     "r": "valable",
+     "e": "Motifs de no rep au développé couché : fesses ou tête décollées, mouvement partiel, descente non contrôlée. Pieds sur le banc ou jambes à 90° sont autorisés."
+    },
+    {
+     "q": "Au développé couché, poser les pieds sur le banc est un motif de non-validation.",
+     "r": "faute",
+     "e": "C'est faux. Motifs de no rep au développé couché : fesses ou tête décollées, mouvement partiel, descente non contrôlée. Pieds sur le banc ou jambes à 90° sont autorisés."
+    },
+    {
+     "q": "Au squat clavicule, il suffit de plier légèrement les genoux en phase basse.",
+     "r": "faute",
+     "e": "C'est faux. Si les cuisses ne brisent pas la parallèle en phase basse, la répétition est un no rep."
+    },
+    {
+     "q": "Au squat clavicule, les cuisses doivent briser la parallèle en phase basse.",
+     "r": "valable",
+     "e": "Si les cuisses ne brisent pas la parallèle en phase basse, la répétition est un no rep."
+    },
+    {
+     "q": "Au burpees pogo, le double saut latéral se fait pieds joints au-dessus d'une ligne.",
+     "r": "valable",
+     "e": "Phase haute du burpees pogo : double saut latéral, pieds joints, au-dessus d'une ligne parallèle à l'athlète."
+    },
+    {
+     "q": "Au burpees pogo, le saut se fait vers l'avant, un pied après l'autre.",
+     "r": "faute",
+     "e": "C'est faux. Phase haute du burpees pogo : double saut latéral, pieds joints, au-dessus d'une ligne parallèle à l'athlète."
+    },
+    {
+     "q": "Au box jump over, le step up est autorisé et les mains peuvent s'appuyer sur la box.",
+     "r": "faute",
+     "e": "C'est faux. Au box jump over, le saut se fait avec les 2 pieds ; step up interdit ; les mains ne doivent jamais toucher la box."
+    },
+    {
+     "q": "Au box jump over, le step up est interdit et les mains ne doivent jamais toucher la box.",
+     "r": "valable",
+     "e": "Au box jump over, le saut se fait avec les 2 pieds ; step up interdit ; les mains ne doivent jamais toucher la box."
+    }
+   ]
+  }
+ ]
+}

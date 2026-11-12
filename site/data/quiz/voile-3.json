@@ -1,0 +1,265 @@
+{
+ "id": "voile-3",
+ "titre": "Départ, pénalités et sport partagé",
+ "sousTitre": "Quiz Jeune Arbitre Voile",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT VOILE UNSS",
+ "sport": "voile",
+ "source": "https://profound-meringue-cce8d5.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un rappel général est signalé par une flamme jaune et bleue (1er substitut).",
+     "r": "valable",
+     "e": "Le rappel général est signalé par cette flamme spécifique."
+    },
+    {
+     "q": "Le signal d'avertissement est donné 5 minutes avant le départ.",
+     "r": "valable",
+     "e": "H moins 5 minutes : signal d'avertissement."
+    },
+    {
+     "q": "Pour l'Optimist, la pénalité infligée par le jury est de deux tours.",
+     "r": "valable",
+     "e": "Quand le jury doit intervenir, la pénalité est doublée : deux tours."
+    },
+    {
+     "q": "Avec le pavillon U, un bateau fautif peut toujours réparer comme avec le pavillon I.",
+     "r": "faute",
+     "e": "Attention : avec le pavillon U, il ne peut pas réparer (RCV 30.3)."
+    },
+    {
+     "q": "Pour l'Optimist, la pénalité à l'initiative du coureur est de deux tours.",
+     "r": "faute",
+     "e": "Attention : un seul tour suffit quand c'est le coureur qui répare de sa propre initiative."
+    },
+    {
+     "q": "Le sigle DSQ correspond à une disqualification par le jury pour faute non réparée.",
+     "r": "valable",
+     "e": "DSQ est l'action du jury qui disqualifie pour faute non réparée."
+    },
+    {
+     "q": "En formule relais, le 1er de chaque course marque 1 point entier.",
+     "r": "faute",
+     "e": "Attention : le barème précis donne 0,75 point au premier en formule relais."
+    },
+    {
+     "q": "Avec le pavillon I, aucune réparation n'est possible en cas de faute.",
+     "r": "faute",
+     "e": "Attention : le pavillon I autorise la réparation en contournant les extrémités (RCV 30.1)."
+    },
+    {
+     "q": "En formule relais, l'équipe première est celle qui totalise le plus de points.",
+     "r": "faute",
+     "e": "Attention : comme au golf, moins de points signifie un meilleur classement."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 16/20.",
+     "r": "valable",
+     "e": "16/20 est le seuil minimal pour le niveau national."
+    },
+    {
+     "q": "Un rappel individuel est signalé par le pavillon X.",
+     "r": "valable",
+     "e": "C'est le pavillon X qui signale un rappel individuel."
+    },
+    {
+     "q": "Une embarcation en retard sur la ligne de départ n'a aucune conséquence sur son statut.",
+     "r": "faute",
+     "e": "Attention : elle est déclarée non-partante (DNS) après ce délai."
+    },
+    {
+     "q": "Le sigle RET correspond à un coureur qui signale son abandon après avoir fini.",
+     "r": "valable",
+     "e": "RET signale un abandon ou retrait après avoir fini la course."
+    },
+    {
+     "q": "Le signal d'avertissement est donné 10 minutes avant le départ.",
+     "r": "faute",
+     "e": "Attention : h moins 5 minutes : signal d'avertissement."
+    },
+    {
+     "q": "En sport partagé, le barreur reste toujours le même tout au long de la compétition.",
+     "r": "faute",
+     "e": "Attention : cette alternance est rappelée à toutes les courses en sport partagé."
+    },
+    {
+     "q": "En sport partagé, la mixité n'est jamais une obligation réglementaire.",
+     "r": "faute",
+     "e": "Attention : la mixité est explicitement obligatoire en sport partagé."
+    },
+    {
+     "q": "On n'est « en course » qu'au moment du top départ.",
+     "r": "faute",
+     "e": "Attention : c'est à partir du signal préparatoire (H-4) qu'on est en course."
+    },
+    {
+     "q": "Pour l'Optimist, la pénalité à l'initiative du coureur est un tour (virement + empannage).",
+     "r": "valable",
+     "e": "Un seul tour suffit quand c'est le coureur qui répare de sa propre initiative."
+    },
+    {
+     "q": "Le signal préparatoire est donné 1 minute avant le départ.",
+     "r": "faute",
+     "e": "Attention : h moins 4 minutes : signal préparatoire."
+    },
+    {
+     "q": "Le sigle RET correspond à un coureur qui n'a pas du tout pris le départ.",
+     "r": "faute",
+     "e": "Attention : rET signale un abandon ou retrait après avoir fini la course."
+    },
+    {
+     "q": "Même si le bateau fautif répare seul, l'arbitre intervient systématiquement.",
+     "r": "faute",
+     "e": "Attention : s'il répare seul, il n'y a pas d'intervention supplémentaire de l'arbitre."
+    },
+    {
+     "q": "Pour le catamaran, la pénalité infligée par le jury est aussi de deux tours comme les autres supports.",
+     "r": "faute",
+     "e": "Attention : le catamaran est une exception : un seul tour même en cas d'intervention du jury."
+    },
+    {
+     "q": "En formule équipe contre équipe, une victoire rapporte 3 points.",
+     "r": "valable",
+     "e": "Victoire = 3 points, défaite = 1 point, abandon/non-partant/disqualifié = 0 point."
+    },
+    {
+     "q": "Si le jury voit une faute, il arrête immédiatement toute la course.",
+     "r": "faute",
+     "e": "Attention : le jury hisse le pavillon rouge avec un signal sonore, sans arrêter la course."
+    },
+    {
+     "q": "Le signal préparatoire est donné 4 minutes avant le départ.",
+     "r": "valable",
+     "e": "H moins 4 minutes : signal préparatoire."
+    },
+    {
+     "q": "Avec le pavillon U, un bateau fautif ne peut pas réparer.",
+     "r": "valable",
+     "e": "Avec le pavillon U, il ne peut pas réparer (RCV 30.3)."
+    },
+    {
+     "q": "Si le jury voit une faute, il hisse son pavillon rouge avec un signal sonore.",
+     "r": "valable",
+     "e": "Le jury hisse le pavillon rouge avec un signal sonore, sans arrêter la course."
+    },
+    {
+     "q": "Le sigle DNS signifie que le coureur vient sur la zone mais ne prend pas le départ.",
+     "r": "valable",
+     "e": "DNS signifie bien que le coureur ne prend pas le départ malgré sa présence."
+    },
+    {
+     "q": "La disqualification s'applique si le concurrent ne répare pas sa faute après demande de l'arbitre.",
+     "r": "valable",
+     "e": "La disqualification est prévue en cas de non-réparation après demande de l'arbitre."
+    },
+    {
+     "q": "Le sigle DSQ correspond à un abandon volontaire signalé par le coureur.",
+     "r": "faute",
+     "e": "Attention : dSQ est l'action du jury qui disqualifie pour faute non réparée."
+    },
+    {
+     "q": "En formule relais, l'équipe première est celle qui totalise le moins de points.",
+     "r": "valable",
+     "e": "Comme au golf, moins de points signifie un meilleur classement."
+    },
+    {
+     "q": "En sport partagé, la mixité est obligatoire au sein de l'équipage.",
+     "r": "valable",
+     "e": "La mixité est explicitement obligatoire en sport partagé."
+    },
+    {
+     "q": "L'évaluation pratique peut porter sur 2 rôles différents, chacun noté sur 8 points.",
+     "r": "valable",
+     "e": "Avec 2 rôles, chaque prestation est notée sur 8 points, pour un total de 16."
+    },
+    {
+     "q": "Avec le pavillon Noir, un bateau fautif ne peut ni réparer ni reprendre le départ.",
+     "r": "valable",
+     "e": "Avec le pavillon Noir, aucune réparation ni reprise n'est possible (RCV 30.4)."
+    },
+    {
+     "q": "Avec le pavillon I, un bateau peut réparer en contournant les extrémités de la ligne de départ.",
+     "r": "valable",
+     "e": "Le pavillon I autorise la réparation en contournant les extrémités (RCV 30.1)."
+    },
+    {
+     "q": "Avec le pavillon Noir, un bateau fautif peut reprendre le départ s'il y a un rappel général.",
+     "r": "faute",
+     "e": "Attention : avec le pavillon Noir, aucune réparation ni reprise n'est possible (RCV 30.4)."
+    },
+    {
+     "q": "L'évaluation pratique ne peut porter que sur un seul rôle, noté sur 16 points.",
+     "r": "faute",
+     "e": "Attention : avec 2 rôles, chaque prestation est notée sur 8 points, pour un total de 16."
+    },
+    {
+     "q": "En sport partagé, il y a une règle d'alternance des rôles entre barreur et équipier.",
+     "r": "valable",
+     "e": "Cette alternance est rappelée à toutes les courses en sport partagé."
+    },
+    {
+     "q": "On est « en course » à partir du signal préparatoire.",
+     "r": "valable",
+     "e": "C'est à partir du signal préparatoire (H-4) qu'on est en course."
+    },
+    {
+     "q": "Le sigle DNS signifie que le coureur a terminé la course en dernière position.",
+     "r": "faute",
+     "e": "Attention : dNS signifie bien que le coureur ne prend pas le départ malgré sa présence."
+    },
+    {
+     "q": "Si le bateau fautif répare sa faute de sa propre initiative, l'arbitre n'intervient pas.",
+     "r": "valable",
+     "e": "S'il répare seul, il n'y a pas d'intervention supplémentaire de l'arbitre."
+    },
+    {
+     "q": "Pour le catamaran, la pénalité infligée par le jury reste d'un seul tour.",
+     "r": "valable",
+     "e": "Le catamaran est une exception : un seul tour même en cas d'intervention du jury."
+    },
+    {
+     "q": "La disqualification ne s'applique jamais, seule la pénalité de tours existe.",
+     "r": "faute",
+     "e": "Attention : la disqualification est prévue en cas de non-réparation après demande de l'arbitre."
+    },
+    {
+     "q": "En formule relais, le 1er de chaque course marque 0,75 point.",
+     "r": "valable",
+     "e": "Le barème précis donne 0,75 point au premier en formule relais."
+    },
+    {
+     "q": "Une embarcation n'ayant pas franchi la ligne 4 minutes après le départ est déclarée DNS.",
+     "r": "valable",
+     "e": "Elle est déclarée non-partante (DNS) après ce délai."
+    },
+    {
+     "q": "Un rappel individuel est signalé par une flamme jaune et bleue.",
+     "r": "faute",
+     "e": "Attention : c'est le pavillon X qui signale un rappel individuel."
+    },
+    {
+     "q": "En formule équipe contre équipe, une victoire rapporte 1 point comme une défaite.",
+     "r": "faute",
+     "e": "Attention : victoire = 3 points, défaite = 1 point, abandon/non-partant/disqualifié = 0 point."
+    },
+    {
+     "q": "Un rappel général est signalé par le pavillon X, comme le rappel individuel.",
+     "r": "faute",
+     "e": "Attention : le rappel général est signalé par cette flamme spécifique."
+    },
+    {
+     "q": "Pour l'Optimist, la pénalité infligée par le jury est toujours d'un seul tour.",
+     "r": "faute",
+     "e": "Attention : quand le jury doit intervenir, la pénalité est doublée : deux tours."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 12/20.",
+     "r": "faute",
+     "e": "Attention : 16/20 est le seuil minimal pour le niveau national."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "triathlon-2",
+ "titre": "Départs, parcours, arrivée & sanctions",
+ "sousTitre": "Quiz Jeune Arbitre Triathlon",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT TRIATHLON UNSS",
+ "sport": "triathlon",
+ "source": "https://melodic-treacle-192c7d.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En dessous de 14°C, la partie natation est annulée et l'épreuve devient un duathlon.",
+     "r": "valable",
+     "e": "En dessous de 14°C, la natation est annulée et l'épreuve devient un duathlon."
+    },
+    {
+     "q": "En dessous de 14°C, l'épreuve est purement et simplement annulée.",
+     "r": "faute",
+     "e": "L'épreuve n'est pas annulée : elle devient un duathlon sans natation."
+    },
+    {
+     "q": "Entre 14°C et 16°C, la combinaison néoprène est obligatoire.",
+     "r": "valable",
+     "e": "Entre 14°C et 16°C, la combinaison néoprène est obligatoire."
+    },
+    {
+     "q": "Entre 14°C et 16°C, la combinaison néoprène est interdite.",
+     "r": "faute",
+     "e": "Elle est au contraire obligatoire dans cette tranche de température."
+    },
+    {
+     "q": "Entre 16°C et 20°C, la combinaison néoprène est autorisée mais non obligatoire.",
+     "r": "valable",
+     "e": "Entre 16°C et 20°C, la combinaison est autorisée sans être obligatoire."
+    },
+    {
+     "q": "Entre 16°C et 20°C, la combinaison néoprène est obligatoire.",
+     "r": "faute",
+     "e": "Elle est autorisée dans cette tranche, mais pas obligatoire."
+    },
+    {
+     "q": "Au-dessus de 20°C, la combinaison néoprène est interdite.",
+     "r": "valable",
+     "e": "À partir de 20°C, la combinaison néoprène est interdite."
+    },
+    {
+     "q": "Au-dessus de 20°C, la combinaison néoprène reste autorisée.",
+     "r": "faute",
+     "e": "Au-delà de 20°C, la combinaison est au contraire interdite."
+    },
+    {
+     "q": "Le départ de l'aquathlon est donné au coup de pistolet, en masse.",
+     "r": "valable",
+     "e": "Au coup de pistolet, le départ de l'aquathlon est donné en masse."
+    },
+    {
+     "q": "Le départ de l'aquathlon se fait individuellement, athlète par athlète.",
+     "r": "faute",
+     "e": "Le départ de l'aquathlon est donné en masse, pas individuellement."
+    },
+    {
+     "q": "Le classement de l'aquathlon détermine l'ordre des départs en poursuite pour le triathlon.",
+     "r": "valable",
+     "e": "Le classement de l'aquathlon détermine l'ordre de départ en poursuite du triathlon."
+    },
+    {
+     "q": "Le départ du triathlon est toujours donné en masse, sans tenir compte du classement de l'aquathlon.",
+     "r": "faute",
+     "e": "Le départ du triathlon est échelonné selon le classement de l'aquathlon, pas en masse."
+    },
+    {
+     "q": "La 1ère équipe classée à l'aquathlon part au coup de pistolet, à 0''.",
+     "r": "valable",
+     "e": "La 1ère équipe part au coup de pistolet, sans écart (0'')."
+    },
+    {
+     "q": "La 1ère équipe classée à l'aquathlon part avec 10 secondes d'avance sur les autres.",
+     "r": "faute",
+     "e": "La 1ère équipe part à 0'', ce sont les suivantes qui ont un écart croissant."
+    },
+    {
+     "q": "Les équipes classées du 6ème au 10ème rang partent avec un écart de 50''.",
+     "r": "valable",
+     "e": "Les équipes classées du 6ème au 10ème rang partent avec un écart de 50''."
+    },
+    {
+     "q": "Les équipes classées du 6ème au 10ème rang partent avec un écart de 30''.",
+     "r": "faute",
+     "e": "L'écart réglementaire pour cette tranche est de 50'', pas 30''."
+    },
+    {
+     "q": "Les équipes établissement classées du 26ème au 30ème rang partent avec un écart de 1'30''.",
+     "r": "valable",
+     "e": "C'est l'écart maximum prévu par le tableau, pour cette tranche de classement."
+    },
+    {
+     "q": "Les équipes établissement classées du 26ème au 30ème rang partent avec un écart de 50''.",
+     "r": "faute",
+     "e": "L'écart pour cette tranche est de 1'30'', pas 50''."
+    },
+    {
+     "q": "En natation piscine, le nageur doit rester à droite dans son couloir.",
+     "r": "valable",
+     "e": "Le starter vérifie le respect du nageur à droite dans le couloir."
+    },
+    {
+     "q": "En natation piscine, le nageur peut nager n'importe où dans son couloir.",
+     "r": "faute",
+     "e": "Le nageur doit respecter le côté droit du couloir, pas nager librement."
+    },
+    {
+     "q": "L'entrée dans l'eau en natation piscine doit se faire sans plonger.",
+     "r": "valable",
+     "e": "Le starter vérifie l'entrée dans l'eau sans plonger."
+    },
+    {
+     "q": "Plonger pour entrer dans l'eau est autorisé pour le premier relayeur.",
+     "r": "faute",
+     "e": "Plonger est interdit pour tous les relayeurs, sans exception."
+    },
+    {
+     "q": "En plan d'eau, le passage de témoin doit se faire avec un contact réel.",
+     "r": "valable",
+     "e": "En plan d'eau, le starter vérifie que le passage de témoin se fasse avec un contact réel."
+    },
+    {
+     "q": "En plan d'eau, un simple signe de la main suffit pour valider le passage de témoin.",
+     "r": "faute",
+     "e": "Un contact réel est exigé, un simple signe ne suffit pas."
+    },
+    {
+     "q": "La distance de natation en aquathlon est de 200 mètres.",
+     "r": "valable",
+     "e": "L'aquathlon se compose de 200m natation / 1km course à pied."
+    },
+    {
+     "q": "La distance de natation en aquathlon est de 500 mètres.",
+     "r": "faute",
+     "e": "La distance réglementaire est de 200m, pas 500m."
+    },
+    {
+     "q": "La distance de VTT en triathlon est de 4 kilomètres.",
+     "r": "valable",
+     "e": "Le triathlon se compose de 200m natation / 4km VTT / 1,5km course à pied."
+    },
+    {
+     "q": "La distance de VTT en triathlon est de 2 kilomètres.",
+     "r": "faute",
+     "e": "La distance réglementaire de VTT est de 4km, pas 2km."
+    },
+    {
+     "q": "La distance de course à pied en triathlon est de 1,5 kilomètre.",
+     "r": "valable",
+     "e": "La course à pied du triathlon fait 1,5km, contre 1km pour l'aquathlon."
+    },
+    {
+     "q": "La distance de course à pied en triathlon est de 1 kilomètre, comme en aquathlon.",
+     "r": "faute",
+     "e": "Le triathlon compte 1,5km de course à pied, une distance différente de l'aquathlon."
+    },
+    {
+     "q": "Le dépassement des concurrents sur le circuit est libre.",
+     "r": "valable",
+     "e": "Le dépassement des concurrents est libre, il faut simplement prévenir le concurrent doublé."
+    },
+    {
+     "q": "Le dépassement des concurrents est interdit, sauf en ligne droite.",
+     "r": "faute",
+     "e": "Le dépassement est libre partout sur le circuit, sans restriction de lieu."
+    },
+    {
+     "q": "Le concurrent doublé doit garder sa ligne.",
+     "r": "valable",
+     "e": "Le coureur doublé doit « garder sa ligne »."
+    },
+    {
+     "q": "Le concurrent doublé doit s'arrêter pour laisser passer celui qui le dépasse.",
+     "r": "faute",
+     "e": "Il doit garder sa ligne, pas s'arrêter."
+    },
+    {
+     "q": "En cas de panne mécanique, le concurrent doit ramener son vélo au box, à pied.",
+     "r": "valable",
+     "e": "En cas de problème mécanique, le concurrent finit le tour à pied et ramène le vélo obligatoirement au box."
+    },
+    {
+     "q": "En cas de panne mécanique, le concurrent peut abandonner son vélo sur le circuit.",
+     "r": "faute",
+     "e": "Le vélo doit obligatoirement être ramené au box, jamais abandonné sur le circuit."
+    },
+    {
+     "q": "Le port du casque est interdit en course à pied.",
+     "r": "valable",
+     "e": "Le port du casque est interdit en course à pied."
+    },
+    {
+     "q": "Le port du casque reste obligatoire en course à pied, comme à vélo.",
+     "r": "faute",
+     "e": "Le casque est au contraire interdit une fois en course à pied."
+    },
+    {
+     "q": "Les chaussures à pointes sont autorisées en course à pied.",
+     "r": "valable",
+     "e": "L'utilisation des chaussures à pointes est possible en course à pied."
+    },
+    {
+     "q": "Les chaussures à pointes sont interdites en course à pied.",
+     "r": "faute",
+     "e": "Elles sont au contraire autorisées."
+    },
+    {
+     "q": "En aquathlon, le binôme doit franchir la ligne d'arrivée ensemble.",
+     "r": "valable",
+     "e": "En aquathlon, le binôme franchit la ligne d'arrivée ensemble."
+    },
+    {
+     "q": "En aquathlon, chaque concurrent du binôme franchit la ligne d'arrivée séparément, à son rythme.",
+     "r": "faute",
+     "e": "Le binôme doit franchir la ligne ensemble, pas séparément."
+    },
+    {
+     "q": "En triathlon, le dernier relayeur va directement au couloir d'arrivée, sans repasser par le box.",
+     "r": "valable",
+     "e": "À l'issue de sa dernière épreuve, le dernier relayeur va directement au couloir d'arrivée."
+    },
+    {
+     "q": "En triathlon, le dernier relayeur doit toujours repasser par son box avant l'arrivée.",
+     "r": "faute",
+     "e": "Il va directement au couloir d'arrivée, sans repasser par le box."
+    },
+    {
+     "q": "En cas d'ex-aequo, l'équipe ayant l'athlète le plus jeune est déclarée vainqueur.",
+     "r": "valable",
+     "e": "En cas d'ex-aequo, l'équipe vainqueur est celle qui a l'athlète le plus jeune."
+    },
+    {
+     "q": "En cas d'ex-aequo, un tirage au sort désigne l'équipe vainqueur.",
+     "r": "faute",
+     "e": "Le critère de départage est l'âge du plus jeune athlète, pas un tirage au sort."
+    },
+    {
+     "q": "Toute réclamation doit être déposée dans les 20 minutes après l'arrivée du dernier concurrent.",
+     "r": "valable",
+     "e": "Le délai réglementaire de réclamation est de 20 minutes après l'arrivée du dernier concurrent."
+    },
+    {
+     "q": "Toute réclamation peut être déposée jusqu'au lendemain matin.",
+     "r": "faute",
+     "e": "Le délai est strictement de 20 minutes après l'arrivée du dernier concurrent."
+    },
+    {
+     "q": "Un carton orange peut entraîner une pénalité de 3 minutes ou une disqualification.",
+     "r": "valable",
+     "e": "Une équipe sanctionnée par un carton orange est passible d'une pénalité de 3' ou d'une disqualification."
+    },
+    {
+     "q": "Un carton orange n'entraîne qu'un simple avertissement, sans autre conséquence.",
+     "r": "faute",
+     "e": "Le carton orange entraîne une pénalité de temps ou une disqualification, pas un simple avertissement."
+    }
+   ]
+  }
+ ]
+}

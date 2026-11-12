@@ -1,0 +1,265 @@
+{
+ "id": "aviron-indoor-3",
+ "titre": "Le relais, réclamations et sport partagé",
+ "sousTitre": "Quiz Jeune Juge Aviron Indoor",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT AVIRON INDOOR UNSS",
+ "sport": "aviron-indoor",
+ "source": "https://thunderous-monstera-034253.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En sport partagé, la mixité est obligatoire : au moins 1 fille ou 1 garçon parmi les 4 rameurs.",
+     "r": "valable",
+     "e": "La mixité est une obligation explicite en sport partagé."
+    },
+    {
+     "q": "En cas de chute du témoin, la course est immédiatement arrêtée.",
+     "r": "faute",
+     "e": "Attention : le relayé reprend le témoin tombé pour le transmettre correctement."
+    },
+    {
+     "q": "Les relayeurs suivants se placent dans l'ordre de passage derrière la ligne de transmission.",
+     "r": "valable",
+     "e": "Ils respectent un ordre de passage, derrière la ligne de transmission."
+    },
+    {
+     "q": "Une faute de transmission du témoin (témoin lancé, faute de pieds) peut entraîner un avertissement.",
+     "r": "valable",
+     "e": "Ces fautes sont explicitement citées comme motifs d'avertissement."
+    },
+    {
+     "q": "En sport partagé, l'épreuve de référence est le 500m à 4 rameurs.",
+     "r": "valable",
+     "e": "Le 500m à 4 (2 ESH, 2 valides) est l'épreuve de référence en sport partagé."
+    },
+    {
+     "q": "En sport partagé, le relais peut être remplacé par 3 minutes à 4 si nécessaire.",
+     "r": "valable",
+     "e": "Une alternative de 3 minutes à 4 existe si le relais n'est pas possible (ex. fauteuil)."
+    },
+    {
+     "q": "En cas de temps identiques, un tirage au sort détermine systématiquement l'ordre.",
+     "r": "faute",
+     "e": "Attention : les places suivantes restent vacantes ; les deux équipages marquent le même nombre de points."
+    },
+    {
+     "q": "Le jeune coach est identifié par un tee-shirt vert comme le jeune juge.",
+     "r": "faute",
+     "e": "Attention : le brassard orange identifie le jeune coach, le tee-shirt vert le jeune juge."
+    },
+    {
+     "q": "En sport partagé, l'épreuve de référence est systématiquement le 1000m à 4.",
+     "r": "faute",
+     "e": "Attention : le 500m à 4 (2 ESH, 2 valides) est l'épreuve de référence en sport partagé."
+    },
+    {
+     "q": "La partie théorique de l'évaluation est notée sur 4 points.",
+     "r": "valable",
+     "e": "La théorie est notée sur 4 points, la pratique sur 16 points."
+    },
+    {
+     "q": "Contrairement au jeune juge, le jeune coach peut être compétiteur.",
+     "r": "valable",
+     "e": "Le jeune coach peut être compétiteur, à la différence du jeune juge."
+    },
+    {
+     "q": "En cas de réclamation, l'annonce du résultat est retardée jusqu'à la décision du jury.",
+     "r": "valable",
+     "e": "Le résultat est retardé jusqu'à ce que le jury ait statué."
+    },
+    {
+     "q": "Le Jeune Arbitre UNSS en aviron est considéré comme « Commissaire-Stagiaire ».",
+     "r": "valable",
+     "e": "Il est reconnu comme « Commissaire-Stagiaire », des passerelles étant à l'étude avec la FFA."
+    },
+    {
+     "q": "La réclamation écrite peut être déposée le lendemain sans problème.",
+     "r": "faute",
+     "e": "Attention : le délai de confirmation écrite est de 20 minutes après la fin de la course."
+    },
+    {
+     "q": "La fourchette de distance de transmission est de ± 5 mètres.",
+     "r": "faute",
+     "e": "Attention : la fourchette réglementaire est de ± 30 mètres, à respecter impérativement."
+    },
+    {
+     "q": "Le dernier relayeur reste assis jusqu'à l'arrivée de tous les concurrents.",
+     "r": "valable",
+     "e": "Comme au 1000m à 4, il reste assis jusqu'à l'arrivée de tous."
+    },
+    {
+     "q": "Le jury fait connaître sa décision dans un délai de 60 minutes après la confirmation écrite.",
+     "r": "valable",
+     "e": "Le délai réglementaire est de 60 minutes après la confirmation écrite."
+    },
+    {
+     "q": "Les relayeurs doivent garder les pieds derrière la ligne jusqu'à réception du témoin.",
+     "r": "valable",
+     "e": "Les pieds doivent rester derrière la ligne jusqu'à réception effective du témoin."
+    },
+    {
+     "q": "Le 1er rameur du relais se place derrière la ligne de relais, témoin en main.",
+     "r": "valable",
+     "e": "Il se place derrière la ligne de relais, témoin en main, avant le signal."
+    },
+    {
+     "q": "La réclamation doit être confirmée par écrit dans un délai de 20 minutes.",
+     "r": "valable",
+     "e": "Le délai de confirmation écrite est de 20 minutes après la fin de la course."
+    },
+    {
+     "q": "Le Jeune Arbitre UNSS en aviron n'a aucune équivalence avec la Fédération Française d'Aviron.",
+     "r": "faute",
+     "e": "Attention : il est reconnu comme « Commissaire-Stagiaire », des passerelles étant à l'étude avec la FFA."
+    },
+    {
+     "q": "La fourchette de distance de transmission est de ± 30 mètres.",
+     "r": "valable",
+     "e": "La fourchette réglementaire est de ± 30 mètres, à respecter impérativement."
+    },
+    {
+     "q": "En sport partagé, l'équipage compte 2 élèves valides et 2 élèves en situation de handicap.",
+     "r": "valable",
+     "e": "2 valides et 2 ESH composent l'équipage en sport partagé."
+    },
+    {
+     "q": "En sport partagé, la mixité n'est jamais exigée.",
+     "r": "faute",
+     "e": "Attention : la mixité est une obligation explicite en sport partagé."
+    },
+    {
+     "q": "Le 1er rameur du relais démarre directement sur son ergomètre, sans ligne de relais.",
+     "r": "faute",
+     "e": "Attention : il se place derrière la ligne de relais, témoin en main, avant le signal."
+    },
+    {
+     "q": "Le chef d'équipage fait contrôler le temps affiché et le fait inscrire sur la fiche de course.",
+     "r": "valable",
+     "e": "Il fait contrôler et inscrire le temps, puis signe la fiche."
+    },
+    {
+     "q": "Une réclamation est annoncée verbalement dans les 30 secondes suivant l'arrivée du dernier compétiteur.",
+     "r": "valable",
+     "e": "Le délai réglementaire est de 30 secondes après l'arrivée du dernier compétiteur."
+    },
+    {
+     "q": "Une faute de transmission du témoin n'a jamais d'incidence sur la sanction.",
+     "r": "faute",
+     "e": "Attention : ces fautes sont explicitement citées comme motifs d'avertissement."
+    },
+    {
+     "q": "Le temps affiché n'a besoin d'être ni contrôlé ni inscrit sur une fiche.",
+     "r": "faute",
+     "e": "Attention : il fait contrôler et inscrire le temps, puis signe la fiche."
+    },
+    {
+     "q": "Le témoin peut être lancé d'un rameur à l'autre sans contrainte.",
+     "r": "faute",
+     "e": "Attention : il doit être donné de main à main, jamais lancé."
+    },
+    {
+     "q": "Le jury peut prendre plusieurs jours pour rendre sa décision.",
+     "r": "faute",
+     "e": "Attention : le délai réglementaire est de 60 minutes après la confirmation écrite."
+    },
+    {
+     "q": "Comme le jeune juge, le jeune coach ne peut jamais être compétiteur.",
+     "r": "faute",
+     "e": "Attention : le jeune coach peut être compétiteur, à la différence du jeune juge."
+    },
+    {
+     "q": "Un équipage DNS ou DNF est simplement exclu du classement sans pénalité de points.",
+     "r": "faute",
+     "e": "Attention : il est classé dernier de l'épreuve concernée, ce qui compte dans le score final."
+    },
+    {
+     "q": "La partie théorique de l'évaluation est notée sur 16 points.",
+     "r": "faute",
+     "e": "Attention : la théorie est notée sur 4 points, la pratique sur 16 points."
+    },
+    {
+     "q": "Un équipage DNS ou DNF est classé dernier de l'épreuve.",
+     "r": "valable",
+     "e": "Il est classé dernier de l'épreuve concernée, ce qui compte dans le score final."
+    },
+    {
+     "q": "Les relayeurs peuvent avancer librement avant de recevoir le témoin.",
+     "r": "faute",
+     "e": "Attention : les pieds doivent rester derrière la ligne jusqu'à réception effective du témoin."
+    },
+    {
+     "q": "Le témoin doit être donné de la main du relayé à la main du relayeur, sans être lancé.",
+     "r": "valable",
+     "e": "Il doit être donné de main à main, jamais lancé."
+    },
+    {
+     "q": "Une réclamation peut être annoncée verbalement à tout moment de la journée.",
+     "r": "faute",
+     "e": "Attention : le délai réglementaire est de 30 secondes après l'arrivée du dernier compétiteur."
+    },
+    {
+     "q": "En sport partagé, le relais est toujours obligatoire, sans alternative possible.",
+     "r": "faute",
+     "e": "Attention : une alternative de 3 minutes à 4 existe si le relais n'est pas possible (ex. fauteuil)."
+    },
+    {
+     "q": "En cas de chute du témoin, le relayé doit le reprendre pour le donner au relayeur.",
+     "r": "valable",
+     "e": "Le relayé reprend le témoin tombé pour le transmettre correctement."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 16/20.",
+     "r": "valable",
+     "e": "16/20 est le seuil minimal pour le niveau national."
+    },
+    {
+     "q": "Le jeune coach est identifié par un brassard orange.",
+     "r": "valable",
+     "e": "Le brassard orange identifie le jeune coach, le tee-shirt vert le jeune juge."
+    },
+    {
+     "q": "Le non-respect de la fourchette de transmission entraîne un carton rouge.",
+     "r": "valable",
+     "e": "C'est un motif explicite de carton rouge."
+    },
+    {
+     "q": "Le dernier relayeur peut se lever dès qu'il franchit sa propre ligne d'arrivée.",
+     "r": "faute",
+     "e": "Attention : comme au 1000m à 4, il reste assis jusqu'à l'arrivée de tous."
+    },
+    {
+     "q": "Le non-respect de la fourchette de transmission n'a aucune conséquence.",
+     "r": "faute",
+     "e": "Attention : c'est un motif explicite de carton rouge."
+    },
+    {
+     "q": "La certification nationale exige une note minimale de 12/20.",
+     "r": "faute",
+     "e": "Attention : 16/20 est le seuil minimal pour le niveau national."
+    },
+    {
+     "q": "En sport partagé, l'équipage compte 4 élèves valides uniquement.",
+     "r": "faute",
+     "e": "Attention : 2 valides et 2 ESH composent l'équipage en sport partagé."
+    },
+    {
+     "q": "Les relayeurs suivants peuvent se placer n'importe où, sans ordre particulier.",
+     "r": "faute",
+     "e": "Attention : ils respectent un ordre de passage, derrière la ligne de transmission."
+    },
+    {
+     "q": "En cas de réclamation, le résultat est annoncé immédiatement malgré tout.",
+     "r": "faute",
+     "e": "Attention : le résultat est retardé jusqu'à ce que le jury ait statué."
+    },
+    {
+     "q": "En cas de temps identiques (ex-aequo), les places suivantes du classement sont laissées vacantes.",
+     "r": "valable",
+     "e": "Les places suivantes restent vacantes ; les deux équipages marquent le même nombre de points."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "aviron-indoor-2",
+ "titre": "Le départ et les sanctions",
+ "sousTitre": "Quiz Jeune Juge Aviron Indoor",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT AVIRON INDOOR UNSS",
+ "sport": "aviron-indoor",
+ "source": "https://profound-bienenstitch-3fba8c.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "L'avertissement est effacé dès la fin de la course où il a été donné.",
+     "r": "faute",
+     "e": "Attention : il reste valable jusqu'à l'arrivée de la prochaine course à laquelle participe l'équipage."
+    },
+    {
+     "q": "Si un compétiteur a déjà reçu un avertissement et commet un nouveau faux départ, c'est un carton rouge.",
+     "r": "valable",
+     "e": "Le deuxième avertissement (ici pour faux départ) entraîne le carton rouge."
+    },
+    {
+     "q": "Au signal « Partez », seul le premier rameur voit son chrono se lancer.",
+     "r": "faute",
+     "e": "Attention : le chrono démarre pour tous les rameurs simultanément à « Partez »."
+    },
+    {
+     "q": "Deux cartons blancs entraînent un carton jaune.",
+     "r": "valable",
+     "e": "Le cumul de 2 cartons blancs est un motif de carton jaune."
+    },
+    {
+     "q": "Le président du jury n'a aucun recours possible au-delà de la disqualification.",
+     "r": "faute",
+     "e": "Attention : il peut saisir les instances de l'UNSS en cas de faute grave."
+    },
+    {
+     "q": "Les sanctions s'appliquent pour l'ensemble de la saison sportive.",
+     "r": "faute",
+     "e": "Attention : les sanctions s'appliquent course par course, selon le règlement."
+    },
+    {
+     "q": "Un deuxième avertissement pour faux départ n'a aucune conséquence supplémentaire.",
+     "r": "faute",
+     "e": "Attention : deux avertissements entraînent un carton rouge et l'obligation de quitter les ergomètres."
+    },
+    {
+     "q": "Un faux départ entraîne un avertissement (carton jaune) pour l'équipage.",
+     "r": "valable",
+     "e": "Le faux départ est sanctionné par un avertissement, pas une disqualification directe."
+    },
+    {
+     "q": "L'écran « Attention » dure de 1 à 2 secondes.",
+     "r": "valable",
+     "e": "Cet écran intermédiaire dure 1 à 2 secondes."
+    },
+    {
+     "q": "En cas d'avarie, le compétiteur doit crier le plus fort possible sans autre geste.",
+     "r": "faute",
+     "e": "Attention : lever le bras visiblement est le geste prévu pour alerter le jury."
+    },
+    {
+     "q": "Un compétiteur commet un faux départ seulement s'il tombe de son ergomètre.",
+     "r": "faute",
+     "e": "Attention : le faux départ, c'est commencer à ramer avant le signal de départ."
+    },
+    {
+     "q": "La disqualification interdit la participation à toutes les épreuves engagées dans la compétition.",
+     "r": "valable",
+     "e": "La disqualification s'étend à toutes les épreuves dans lesquelles le compétiteur est engagé."
+    },
+    {
+     "q": "Un équipage recevant un carton rouge est déclassé : classé à la dernière place de l'épreuve.",
+     "r": "valable",
+     "e": "Le carton rouge entraîne le déclassement à la dernière place de l'épreuve concernée."
+    },
+    {
+     "q": "Le décompte de la distance restant à parcourir commence dès que le rameur tire sur la poignée.",
+     "r": "valable",
+     "e": "Le décompte commence précisément au moment où le rameur tire sur la poignée."
+    },
+    {
+     "q": "Un compétiteur commet un faux départ s'il commence à ramer avant que le départ ait été donné.",
+     "r": "valable",
+     "e": "Le faux départ, c'est commencer à ramer avant le signal de départ."
+    },
+    {
+     "q": "Les rameurs doivent commencer à tirer sur la poignée dès l'écran « Prêt ».",
+     "r": "faute",
+     "e": "Attention : ils prennent la poignée sans tirer ; tirer avant « Partez » est un faux départ."
+    },
+    {
+     "q": "Quitter son ergomètre avant l'arrivée de tous les équipages est sanctionné par un carton blanc.",
+     "r": "valable",
+     "e": "C'est l'un des deux motifs spécifiques UNSS du carton blanc."
+    },
+    {
+     "q": "La disqualification ne concerne que l'épreuve en cours, les autres restent accessibles.",
+     "r": "faute",
+     "e": "Attention : la disqualification s'étend à toutes les épreuves dans lesquelles le compétiteur est engagé."
+    },
+    {
+     "q": "Une composition d'équipe non conforme peut entraîner un carton rouge.",
+     "r": "valable",
+     "e": "C'est un motif explicite de carton rouge."
+    },
+    {
+     "q": "Les rameurs prennent la poignée sans tirer pendant l'écran « Prêt ».",
+     "r": "valable",
+     "e": "Ils prennent la poignée sans tirer ; tirer avant « Partez » est un faux départ."
+    },
+    {
+     "q": "Le carton blanc entraîne automatiquement un point de pénalité.",
+     "r": "faute",
+     "e": "Attention : le carton blanc est une remarque verbale, sans incidence directe."
+    },
+    {
+     "q": "Si la demande d'arrêt n'était pas justifiée, aucune sanction n'est prévue.",
+     "r": "faute",
+     "e": "Attention : le jury décide de la sanction à appliquer selon les circonstances."
+    },
+    {
+     "q": "L'écran « Attention » dure 10 secondes.",
+     "r": "faute",
+     "e": "Attention : cet écran intermédiaire dure 1 à 2 secondes."
+    },
+    {
+     "q": "Un faux départ entraîne directement la disqualification de l'équipage.",
+     "r": "faute",
+     "e": "Attention : le faux départ est sanctionné par un avertissement, pas une disqualification directe."
+    },
+    {
+     "q": "L'écran « Prêt » dure toujours exactement 5 secondes.",
+     "r": "faute",
+     "e": "Attention : cette étape peut durer de 1 à 20 secondes selon la procédure."
+    },
+    {
+     "q": "Les sanctions en aviron indoor s'appliquent « par course ».",
+     "r": "valable",
+     "e": "Les sanctions s'appliquent course par course, selon le règlement."
+    },
+    {
+     "q": "Au signal « Partez », le chrono est lancé pour tous les rameurs.",
+     "r": "valable",
+     "e": "Le chrono démarre pour tous les rameurs simultanément à « Partez »."
+    },
+    {
+     "q": "Un deuxième avertissement pour faux départ entraîne un carton rouge.",
+     "r": "valable",
+     "e": "Deux avertissements entraînent un carton rouge et l'obligation de quitter les ergomètres."
+    },
+    {
+     "q": "Une tenue non conforme ou non uniforme peut entraîner un carton jaune.",
+     "r": "valable",
+     "e": "C'est un motif explicite de carton jaune."
+    },
+    {
+     "q": "Trois cartons jaunes sont nécessaires avant un carton rouge.",
+     "r": "faute",
+     "e": "Attention : le cumul de 2 cartons jaunes est un motif de carton rouge."
+    },
+    {
+     "q": "Lâcher la poignée de l'ergomètre est une spécificité UNSS sanctionnée par un carton blanc.",
+     "r": "valable",
+     "e": "C'est explicitement cité parmi les motifs de carton blanc."
+    },
+    {
+     "q": "En cas de faute grave, le président du jury peut saisir les instances de l'UNSS.",
+     "r": "valable",
+     "e": "Il peut saisir les instances de l'UNSS en cas de faute grave."
+    },
+    {
+     "q": "Deux cartons blancs n'ont aucune conséquence cumulée.",
+     "r": "faute",
+     "e": "Attention : le cumul de 2 cartons blancs est un motif de carton jaune."
+    },
+    {
+     "q": "Un équipage recevant un carton rouge continue normalement sans conséquence sur le classement.",
+     "r": "faute",
+     "e": "Attention : le carton rouge entraîne le déclassement à la dernière place de l'épreuve concernée."
+    },
+    {
+     "q": "Le carton blanc est une réprimande sans incidence directe ou financière.",
+     "r": "valable",
+     "e": "Le carton blanc est une remarque verbale, sans incidence directe."
+    },
+    {
+     "q": "Les jeunes juges notent les infractions et les signalent au jury, qui délibère sur la sanction finale.",
+     "r": "valable",
+     "e": "Les jeunes juges signalent, mais c'est le jury qui délibère et décide."
+    },
+    {
+     "q": "Si la demande d'arrêt n'était pas justifiée, le jury peut sanctionner d'un avertissement ou d'une disqualification.",
+     "r": "valable",
+     "e": "Le jury décide de la sanction à appliquer selon les circonstances."
+    },
+    {
+     "q": "L'écran « Prêt » dure de 1 à 20 secondes, poignée prise sans tirer.",
+     "r": "valable",
+     "e": "Cette étape peut durer de 1 à 20 secondes selon la procédure."
+    },
+    {
+     "q": "Deux cartons jaunes entraînent un carton rouge.",
+     "r": "valable",
+     "e": "Le cumul de 2 cartons jaunes est un motif de carton rouge."
+    },
+    {
+     "q": "En cas d'avarie, le compétiteur lève le bras bien visiblement pour alerter le jury.",
+     "r": "valable",
+     "e": "Lever le bras visiblement est le geste prévu pour alerter le jury."
+    },
+    {
+     "q": "Lâcher la poignée de l'ergomètre n'est jamais sanctionné.",
+     "r": "faute",
+     "e": "Attention : c'est explicitement cité parmi les motifs de carton blanc."
+    },
+    {
+     "q": "Un incident matériel dans la période de départ concerne les 20 premières secondes de course.",
+     "r": "valable",
+     "e": "Cette période est précisément définie comme les 20 premières secondes."
+    },
+    {
+     "q": "Quitter son ergomètre avant l'arrivée des autres équipages est totalement autorisé.",
+     "r": "faute",
+     "e": "Attention : c'est l'un des deux motifs spécifiques UNSS du carton blanc."
+    },
+    {
+     "q": "Une tenue non conforme n'a jamais de conséquence sur la sanction.",
+     "r": "faute",
+     "e": "Attention : c'est un motif explicite de carton jaune."
+    },
+    {
+     "q": "Un compétiteur peut accumuler autant de faux départs qu'il veut sans jamais recevoir de carton rouge.",
+     "r": "faute",
+     "e": "Attention : le deuxième avertissement (ici pour faux départ) entraîne le carton rouge."
+    },
+    {
+     "q": "Un incident matériel dans la période de départ concerne toute la durée de la course.",
+     "r": "faute",
+     "e": "Attention : cette période est précisément définie comme les 20 premières secondes."
+    },
+    {
+     "q": "Les jeunes juges décident eux-mêmes de la sanction finale, sans en référer au jury.",
+     "r": "faute",
+     "e": "Attention : les jeunes juges signalent, mais c'est le jury qui délibère et décide."
+    },
+    {
+     "q": "L'avertissement (carton jaune) court jusqu'à l'arrivée de la prochaine course de l'équipage.",
+     "r": "valable",
+     "e": "Il reste valable jusqu'à l'arrivée de la prochaine course à laquelle participe l'équipage."
+    },
+    {
+     "q": "La composition de l'équipe n'a aucune incidence sur les sanctions.",
+     "r": "faute",
+     "e": "Attention : c'est un motif explicite de carton rouge."
+    },
+    {
+     "q": "Le décompte de la distance commence dès l'écran « Prêt », avant tout mouvement.",
+     "r": "faute",
+     "e": "Attention : le décompte commence précisément au moment où le rameur tire sur la poignée."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "escalade-2",
+ "titre": "Bloc",
+ "sousTitre": "Quiz Jeune Juge Escalade",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT ESCALADE UNSS · MIXTE",
+ "sport": "escalade",
+ "source": "https://willowy-entremet-0f944c.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un bloc ne doit pas dépasser 12 prises de main.",
+     "r": "valable",
+     "e": "Le règlement fixe cette limite de 12 prises de main maximum."
+    },
+    {
+     "q": "Un bloc peut compter un nombre illimité de prises de main.",
+     "r": "faute",
+     "e": "Le nombre de prises de main est limité à 12 maximum par bloc."
+    },
+    {
+     "q": "La position de départ d'un bloc est matérialisée par deux prises de main et deux prises de pied.",
+     "r": "valable",
+     "e": "C'est la définition réglementaire de la position légitime de départ."
+    },
+    {
+     "q": "La position de départ d'un bloc n'impose qu'une seule prise de main et aucune prise de pied.",
+     "r": "faute",
+     "e": "La position de départ impose bien 2 prises de main et 2 prises de pied."
+    },
+    {
+     "q": "La prise de TOP est d'une couleur identique à celle des prises de départ.",
+     "r": "valable",
+     "e": "Le règlement prévoit ce marquage identique."
+    },
+    {
+     "q": "La prise de TOP doit toujours être d'une couleur différente des prises de départ.",
+     "r": "faute",
+     "e": "La prise de TOP partage la même couleur que les prises de départ."
+    },
+    {
+     "q": "La validation de la prise de ZONE n'est pas obligatoire pour réussir le bloc.",
+     "r": "valable",
+     "e": "Le règlement précise que la prise de zone n'est pas une condition de réussite."
+    },
+    {
+     "q": "La prise de ZONE doit obligatoirement être validée pour que le bloc soit réussi.",
+     "r": "faute",
+     "e": "La validation de la zone n'est pas une condition obligatoire de réussite."
+    },
+    {
+     "q": "Chaque grimpeur dispose de 5 essais maximum pour réussir un bloc.",
+     "r": "valable",
+     "e": "Le règlement fixe cette limite de 5 essais par bloc."
+    },
+    {
+     "q": "Chaque grimpeur dispose d'un nombre illimité d'essais pour réussir un bloc.",
+     "r": "faute",
+     "e": "Le nombre d'essais est limité à 5 maximum par bloc."
+    },
+    {
+     "q": "Les essais peuvent être réalisés de manière consécutive ou en alternance avec les autres membres de l'équipe.",
+     "r": "valable",
+     "e": "Le règlement autorise ces deux modalités de réalisation des essais."
+    },
+    {
+     "q": "Les essais doivent obligatoirement être réalisés de manière consécutive, sans alternance possible.",
+     "r": "faute",
+     "e": "L'alternance entre coéquipiers est autorisée, en plus de la réalisation consécutive."
+    },
+    {
+     "q": "Seul l'usage de la magnésie liquide est autorisé au bloc.",
+     "r": "valable",
+     "e": "Le règlement limite l'usage de magnésie à la forme liquide."
+    },
+    {
+     "q": "Tous les types de magnésie, liquide ou en poudre libre, sont autorisés sans restriction.",
+     "r": "faute",
+     "e": "Seule la magnésie liquide est autorisée, pas la poudre libre."
+    },
+    {
+     "q": "Tout système de nettoyage personnel des prises est interdit.",
+     "r": "valable",
+     "e": "Le règlement interdit explicitement le nettoyage personnel."
+    },
+    {
+     "q": "Les grimpeurs peuvent utiliser leur propre matériel personnel pour nettoyer les prises.",
+     "r": "faute",
+     "e": "Le nettoyage personnel est interdit ; seul le matériel de l'organisation est autorisé."
+    },
+    {
+     "q": "La tentative débute lorsque le grimpeur quitte la position de départ légitime ou que son corps quitte le sol.",
+     "r": "valable",
+     "e": "Le règlement fixe ce double critère de début de tentative."
+    },
+    {
+     "q": "La tentative ne débute que lorsque le grimpeur touche la première prise après le départ.",
+     "r": "faute",
+     "e": "Le début de tentative est défini par le départ de la position légitime ou le décollage du sol."
+    },
+    {
+     "q": "Un grimpeur qui démarre dans une position irrégulière est arrêté immédiatement et un essai lui est comptabilisé.",
+     "r": "valable",
+     "e": "Le règlement prévoit cet arrêt immédiat avec comptabilisation d'un essai."
+    },
+    {
+     "q": "Une position de départ irrégulière n'entraîne jamais la comptabilisation d'un essai.",
+     "r": "faute",
+     "e": "Une position de départ irrégulière entraîne bien un arrêt et la comptabilisation d'un essai."
+    },
+    {
+     "q": "Le bloc est réussi si la prise TOP est contrôlée à deux mains.",
+     "r": "valable",
+     "e": "Le règlement exige ce contrôle à deux mains pour la réussite."
+    },
+    {
+     "q": "Le bloc est réussi dès qu'une seule main touche la prise TOP.",
+     "r": "faute",
+     "e": "Les deux mains doivent contrôler la prise TOP pour valider la réussite."
+    },
+    {
+     "q": "Le juge annonce « OK » et lève le bras pour valider la réussite du bloc.",
+     "r": "valable",
+     "e": "C'est la procédure réglementaire de validation par le juge."
+    },
+    {
+     "q": "Aucune annonce du juge n'est nécessaire pour valider la réussite d'un bloc.",
+     "r": "faute",
+     "e": "L'annonce « OK » et le lever de bras sont nécessaires pour valider la réussite."
+    },
+    {
+     "q": "Un essai est comptabilisé si le compétiteur touche d'autres prises que celles du départ avant sa tentative.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette comptabilisation en cas de touche prématurée."
+    },
+    {
+     "q": "Toucher d'autres prises que celles du départ avant la tentative n'a aucune conséquence.",
+     "r": "faute",
+     "e": "Toucher d'autres prises avant la tentative entraîne bien la comptabilisation d'un essai."
+    },
+    {
+     "q": "Un essai est comptabilisé si le grimpeur touche le tapis de réception pendant sa tentative.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette comptabilisation en cas de contact avec le tapis."
+    },
+    {
+     "q": "Toucher le tapis de réception en cours de tentative n'entraîne jamais la comptabilisation d'un essai.",
+     "r": "faute",
+     "e": "Le contact avec le tapis pendant la tentative entraîne bien un essai comptabilisé."
+    },
+    {
+     "q": "Après le premier essai, chaque essai supplémentaire entraîne une perte de 10% de la valeur des points du bloc.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette dégressivité après le premier essai."
+    },
+    {
+     "q": "Le nombre d'essais réalisés n'a aucune incidence sur la valeur des points obtenus au bloc.",
+     "r": "faute",
+     "e": "Chaque essai supplémentaire après le premier fait perdre 10% de la valeur des points."
+    },
+    {
+     "q": "La prise de ZONE est comptabilisée si le grimpeur la contrôle d'une main pour stabiliser un mouvement.",
+     "r": "valable",
+     "e": "Le règlement reconnaît ce cas de contrôle d'une seule main."
+    },
+    {
+     "q": "La prise de ZONE n'est jamais prise en compte si elle est contrôlée d'une seule main.",
+     "r": "faute",
+     "e": "Un contrôle d'une seule main pour stabiliser un mouvement suffit à valider la zone."
+    },
+    {
+     "q": "Un essai pour un bloc n'est pas comptabilisé si un incident technique est à l'origine de l'arrêt de la tentative.",
+     "r": "valable",
+     "e": "Le règlement exclut la comptabilisation d'un essai dans ce cas."
+    },
+    {
+     "q": "Un essai est toujours comptabilisé, même en cas d'incident technique confirmé.",
+     "r": "faute",
+     "e": "Un incident technique confirmé évite la comptabilisation de l'essai concerné."
+    },
+    {
+     "q": "La hauteur de chute possible pour la catégorie collège ne doit pas dépasser 3,5 mètres.",
+     "r": "valable",
+     "e": "Le règlement fixe cette limite de 3,5 mètres pour le collège."
+    },
+    {
+     "q": "La hauteur de chute possible pour la catégorie collège n'est soumise à aucune limite réglementaire.",
+     "r": "faute",
+     "e": "La hauteur de chute au collège est bien limitée à 3,5 mètres maximum."
+    },
+    {
+     "q": "Au lycée, le bloc 3 peut atteindre une hauteur de chute possible de 4 mètres.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette possibilité spécifique au bloc 3 du lycée."
+    },
+    {
+     "q": "Au lycée, tous les blocs sont limités à 3,5 mètres de hauteur de chute, sans exception.",
+     "r": "faute",
+     "e": "Le bloc 3 au lycée peut atteindre 4 mètres, contrairement aux blocs 1 et 2."
+    },
+    {
+     "q": "Le chef ouvreur peut ajouter des prises de descente pour faciliter la sortie du bloc.",
+     "r": "valable",
+     "e": "Le règlement autorise cette possibilité pour le chef ouvreur."
+    },
+    {
+     "q": "Aucune prise de descente supplémentaire ne peut jamais être ajoutée à un bloc.",
+     "r": "faute",
+     "e": "Le chef ouvreur peut ajouter des prises de descente si nécessaire."
+    },
+    {
+     "q": "Le juge de bloc doit noter le temps de départ de chaque concurrent en cas d'incident technique.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette notation pour gérer le temps restant à l'équipe."
+    },
+    {
+     "q": "Le temps de départ des concurrents n'a aucune utilité pour le traitement des incidents techniques au bloc.",
+     "r": "faute",
+     "e": "Cette notation permet de connaître le temps restant en cas d'incident avéré."
+    },
+    {
+     "q": "Si l'incident est réparé très rapidement, l'équipe peut choisir de reprendre ses tentatives avec le temps restant jusqu'à la fin de la rotation.",
+     "r": "valable",
+     "e": "Le règlement offre ce choix à l'équipe."
+    },
+    {
+     "q": "Un incident réparé rapidement empêche systématiquement l'équipe de reprendre ses tentatives.",
+     "r": "faute",
+     "e": "L'équipe peut au contraire reprendre ses tentatives avec le temps restant."
+    },
+    {
+     "q": "Au-delà des 5 essais, l'équipe doit quitter l'aire de compétition sans essai supplémentaire.",
+     "r": "valable",
+     "e": "Le règlement impose cette limite stricte de 5 essais."
+    },
+    {
+     "q": "L'équipe peut toujours demander des essais supplémentaires au-delà des 5 essais prévus.",
+     "r": "faute",
+     "e": "Aucun essai supplémentaire n'est accordé au-delà des 5 essais réglementaires."
+    },
+    {
+     "q": "Les compétiteurs ne doivent pas apposer de repères personnels sur la structure.",
+     "r": "valable",
+     "e": "Le règlement interdit explicitement ces repères personnels."
+    },
+    {
+     "q": "Les compétiteurs peuvent librement apposer leurs propres repères sur la structure du bloc.",
+     "r": "faute",
+     "e": "L'apposition de repères personnels sur la structure est interdite."
+    },
+    {
+     "q": "Le juge de bloc peut demander à un ouvreur de nettoyer les prises hors de portée du grimpeur, si celui-ci le demande.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette possibilité au niveau académique et national."
+    },
+    {
+     "q": "Seul le grimpeur lui-même peut nettoyer les prises, sans aucune aide extérieure possible.",
+     "r": "faute",
+     "e": "Un ouvreur peut nettoyer les prises hors de portée à la demande du grimpeur."
+    }
+   ]
+  }
+ ]
+}

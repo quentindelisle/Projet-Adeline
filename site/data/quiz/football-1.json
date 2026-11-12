@@ -1,0 +1,265 @@
+{
+ "id": "football-1",
+ "titre": "Cartons et lois du jeu",
+ "sousTitre": "Quiz Jeune Arbitre Football",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT FOOTBALL UNSS",
+ "sport": "football",
+ "source": "https://gleaming-bublanina-99ddb6.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le carton blanc entraîne une exclusion temporaire.",
+     "r": "valable",
+     "e": "Le carton blanc entraîne une exclusion temporaire."
+    },
+    {
+     "q": "En match simple, l'exclusion temporaire dure 10 minutes en collège.",
+     "r": "faute",
+     "e": "Attention : collèges : 5' en match simple."
+    },
+    {
+     "q": "Le carton est notifié lors d'un arrêt de jeu, ou au premier arrêt naturel si l'avantage est appliqué.",
+     "r": "valable",
+     "e": "Notifié à l'arrêt de jeu ; en cas d'avantage, au premier arrêt de jeu naturel."
+    },
+    {
+     "q": "Un but peut être marqué directement sur un coup d'envoi.",
+     "r": "valable",
+     "e": "Il est possible de marquer directement sur un coup d'envoi."
+    },
+    {
+     "q": "Un corner tiré directement dans le but adverse est but.",
+     "r": "valable",
+     "e": "Un but peut être marqué directement sur un corner (dans le but adverse)."
+    },
+    {
+     "q": "Sur une balle à terre, le ballon est en jeu dès qu'il a touché le sol.",
+     "r": "valable",
+     "e": "Il est en jeu dès qu'il a touché le sol."
+    },
+    {
+     "q": "Il existe seulement deux fautes passibles d'exclusion par carton rouge.",
+     "r": "faute",
+     "e": "Attention : la liste comprend 7 fautes passibles d'exclusion."
+    },
+    {
+     "q": "Le carton blanc est donné pour une faute grossière.",
+     "r": "faute",
+     "e": "Attention : le carton blanc sanctionne une première faute passible d'avertissement."
+    },
+    {
+     "q": "Le carton blanc est notifié à un joueur pour sa première faute passible d'un avertissement.",
+     "r": "valable",
+     "e": "Le carton blanc sanctionne une première faute passible d'avertissement."
+    },
+    {
+     "q": "L'arbitre peut revenir sur sa décision s'il est persuadé de son erreur et que le jeu n'a pas repris.",
+     "r": "valable",
+     "e": "Il peut revenir sur sa décision tant que le jeu n'a pas été repris."
+    },
+    {
+     "q": "Si le match se termine pendant une exclusion temporaire, la sanction est considérée comme purgée.",
+     "r": "valable",
+     "e": "Elle est considérée comme purgée ; le joueur ne participe pas aux tirs au but."
+    },
+    {
+     "q": "En tournoi, l'exclusion temporaire dure 7 minutes en collège.",
+     "r": "faute",
+     "e": "Attention : collèges en tournoi : 3'."
+    },
+    {
+     "q": "Le carton blanc remplace définitivement l'avertissement et l'exclusion.",
+     "r": "faute",
+     "e": "Attention : il a un objectif préventif et éducatif ; il ne remplace ni l'avertissement ni l'exclusion."
+    },
+    {
+     "q": "Le carton jaune est mentionné sur la feuille de match et entraîne un point de pénalité.",
+     "r": "valable",
+     "e": "Le carton jaune est mentionné sur la feuille et donne un point de pénalité."
+    },
+    {
+     "q": "Le décompte de l'exclusion temporaire est à la charge de la table de marque, de l'organisation ou des responsables d'équipes.",
+     "r": "valable",
+     "e": "Le décompte est à la charge de la table de marque, de l'organisation ou des responsables d'équipes."
+    },
+    {
+     "q": "Un but ne peut jamais être marqué directement sur un coup d'envoi.",
+     "r": "faute",
+     "e": "Attention : il est possible de marquer directement sur un coup d'envoi."
+    },
+    {
+     "q": "Sur une balle à terre, le ballon est en jeu dès qu'il a quitté les mains de l'arbitre.",
+     "r": "faute",
+     "e": "Attention : il est en jeu dès qu'il a touché le sol."
+    },
+    {
+     "q": "Un corner tiré directement dans le but adverse est refusé.",
+     "r": "faute",
+     "e": "Attention : un but peut être marqué directement sur un corner (dans le but adverse)."
+    },
+    {
+     "q": "Le gardien qui tient le ballon plus de huit secondes concède un corner à l'adversaire.",
+     "r": "valable",
+     "e": "Plus de huit secondes : corner pour l'adversaire."
+    },
+    {
+     "q": "Retarder la reprise du jeu n'est jamais sanctionné.",
+     "r": "faute",
+     "e": "Attention : c'est l'une des six fautes passibles d'avertissement."
+    },
+    {
+     "q": "Le joueur exclu temporairement est remplacé immédiatement par un remplaçant.",
+     "r": "faute",
+     "e": "Attention : il ne peut pas être remplacé durant la sanction."
+    },
+    {
+     "q": "Au second carton jaune, l'arbitre délivre un carton rouge.",
+     "r": "valable",
+     "e": "Au second carton jaune, c'est un carton rouge : exclusion définitive."
+    },
+    {
+     "q": "Le carton jaune est notifié à un joueur ayant déjà reçu un carton blanc.",
+     "r": "valable",
+     "e": "Il n'y a pas de carton jaune direct : il suit un carton blanc."
+    },
+    {
+     "q": "Retarder la reprise du jeu est une faute passible d'avertissement.",
+     "r": "valable",
+     "e": "C'est l'une des six fautes passibles d'avertissement."
+    },
+    {
+     "q": "En match simple, l'exclusion temporaire dure 5 minutes en collège.",
+     "r": "valable",
+     "e": "Collèges : 5' en match simple."
+    },
+    {
+     "q": "Le carton blanc n'entraîne aucune exclusion temporaire.",
+     "r": "faute",
+     "e": "Attention : le carton blanc entraîne une exclusion temporaire."
+    },
+    {
+     "q": "En match simple, l'exclusion temporaire dure 7 minutes au lycée.",
+     "r": "valable",
+     "e": "Lycées : 7' en match simple."
+    },
+    {
+     "q": "Le carton blanc n'est pas mentionné sur la feuille de match et n'entraîne aucune suspension.",
+     "r": "valable",
+     "e": "Le carton blanc n'est pas mentionné sur la feuille et n'entraîne ni suspension ni point de pénalité."
+    },
+    {
+     "q": "Le carton blanc peut être donné plusieurs fois au même joueur dans un match.",
+     "r": "faute",
+     "e": "Attention : une seule fois par joueur et par match."
+    },
+    {
+     "q": "Le joueur exclu temporairement ne peut pas être remplacé pendant la durée de la sanction.",
+     "r": "valable",
+     "e": "Il ne peut pas être remplacé durant la sanction."
+    },
+    {
+     "q": "En tournoi, l'exclusion temporaire dure 5 minutes au lycée.",
+     "r": "valable",
+     "e": "Lycées en tournoi : 5'."
+    },
+    {
+     "q": "Le carton jaune peut être donné directement, sans carton blanc préalable.",
+     "r": "faute",
+     "e": "Attention : il n'y a pas de carton jaune direct : il suit un carton blanc."
+    },
+    {
+     "q": "Un joueur peut recevoir trois cartons jaunes avant le carton rouge.",
+     "r": "faute",
+     "e": "Attention : au second carton jaune, c'est un carton rouge : exclusion définitive."
+    },
+    {
+     "q": "En match simple, l'exclusion temporaire dure 3 minutes au lycée.",
+     "r": "faute",
+     "e": "Attention : lycées : 7' en match simple."
+    },
+    {
+     "q": "L'arbitre ne peut jamais revenir sur une décision, même immédiatement.",
+     "r": "faute",
+     "e": "Attention : il peut revenir sur sa décision tant que le jeu n'a pas été repris."
+    },
+    {
+     "q": "Un joueur ne peut pas être hors-jeu sur une rentrée de touche.",
+     "r": "valable",
+     "e": "Pas de hors-jeu sur coup de pied de but, rentrée de touche ou corner."
+    },
+    {
+     "q": "Si le match se termine pendant une exclusion temporaire, elle est reportée au match suivant.",
+     "r": "faute",
+     "e": "Attention : elle est considérée comme purgée ; le joueur ne participe pas aux tirs au but."
+    },
+    {
+     "q": "En tournoi, l'exclusion temporaire dure 3 minutes en collège.",
+     "r": "valable",
+     "e": "Collèges en tournoi : 3'."
+    },
+    {
+     "q": "Le décompte de l'exclusion temporaire est fait par le joueur exclu lui-même.",
+     "r": "faute",
+     "e": "Attention : le décompte est à la charge de la table de marque, de l'organisation ou des responsables d'équipes."
+    },
+    {
+     "q": "Cracher sur un adversaire est passible d'exclusion.",
+     "r": "valable",
+     "e": "Cracher sur un adversaire est passible d'exclusion (carton rouge)."
+    },
+    {
+     "q": "Le carton est toujours donné immédiatement, même si l'avantage est en cours.",
+     "r": "faute",
+     "e": "Attention : notifié à l'arrêt de jeu ; en cas d'avantage, au premier arrêt de jeu naturel."
+    },
+    {
+     "q": "Le carton jaune n'entraîne aucun point de pénalité pour l'équipe.",
+     "r": "faute",
+     "e": "Attention : le carton jaune est mentionné sur la feuille et donne un point de pénalité."
+    },
+    {
+     "q": "Le gardien qui tient le ballon plus de huit secondes concède un penalty.",
+     "r": "faute",
+     "e": "Attention : plus de huit secondes : corner pour l'adversaire."
+    },
+    {
+     "q": "Le carton blanc est mentionné sur la feuille de match et entraîne une suspension.",
+     "r": "faute",
+     "e": "Attention : le carton blanc n'est pas mentionné sur la feuille et n'entraîne ni suspension ni point de pénalité."
+    },
+    {
+     "q": "Il existe sept fautes passibles d'exclusion par carton rouge.",
+     "r": "valable",
+     "e": "La liste comprend 7 fautes passibles d'exclusion."
+    },
+    {
+     "q": "Le carton blanc a un objectif uniquement préventif et éducatif.",
+     "r": "valable",
+     "e": "Il a un objectif préventif et éducatif ; il ne remplace ni l'avertissement ni l'exclusion."
+    },
+    {
+     "q": "Un joueur peut être hors-jeu sur une rentrée de touche.",
+     "r": "faute",
+     "e": "Attention : pas de hors-jeu sur coup de pied de but, rentrée de touche ou corner."
+    },
+    {
+     "q": "Cracher sur un adversaire est passible d'un simple carton blanc.",
+     "r": "faute",
+     "e": "Attention : cracher sur un adversaire est passible d'exclusion (carton rouge)."
+    },
+    {
+     "q": "Le carton blanc ne peut être signifié qu'une seule fois au même joueur durant le match.",
+     "r": "valable",
+     "e": "Une seule fois par joueur et par match."
+    },
+    {
+     "q": "En tournoi, l'exclusion temporaire dure 3 minutes au lycée.",
+     "r": "faute",
+     "e": "Attention : lycées en tournoi : 5'."
+    }
+   ]
+  }
+ ]
+}

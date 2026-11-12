@@ -1,0 +1,265 @@
+{
+ "id": "golf-3",
+ "titre": "Sanctions, sport partagé & pratiquants",
+ "sousTitre": "Quiz Jeune Arbitre Golf",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT GOLF UNSS",
+ "sport": "golf",
+ "source": "https://creative-lily-1565f9.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "L'échelle de sanction commence par un avertissement oral.",
+     "r": "valable",
+     "e": "Dans l'ordre : 1. Avertissement oral."
+    },
+    {
+     "q": "L'échelle de sanction commence directement par une disqualification.",
+     "r": "faute",
+     "e": "La sanction la plus légère, l'avertissement oral, vient en premier ; la disqualification est la dernière étape."
+    },
+    {
+     "q": "La 2ème sanction de l'échelle est une pénalité d'un coup.",
+     "r": "valable",
+     "e": "Dans l'ordre : 2. Pénalité d'un coup."
+    },
+    {
+     "q": "L'échelle de sanction est remise à zéro à chaque nouveau trou joué.",
+     "r": "faute",
+     "e": "Elle est au contraire cumulative sur l'ensemble du championnat, pas remise à zéro à chaque trou."
+    },
+    {
+     "q": "La 3ème sanction de l'échelle est un trou perdu.",
+     "r": "valable",
+     "e": "Dans l'ordre : 3. Trou perdu."
+    },
+    {
+     "q": "N'importe quel spectateur peut donner une sanction à un joueur.",
+     "r": "faute",
+     "e": "Seul un membre du comité d'épreuve peut donner une sanction."
+    },
+    {
+     "q": "La 4ème sanction de l'échelle est un match perdu.",
+     "r": "valable",
+     "e": "Dans l'ordre : 4. Match perdu."
+    },
+    {
+     "q": "Au cours du jeu, une réclamation peut être déposée n'importe quand après la fin de la compétition.",
+     "r": "faute",
+     "e": "La réclamation doit être faite au moment de l'action, pas après la fin de la compétition."
+    },
+    {
+     "q": "La 5ème et dernière sanction est la disqualification de la compétition.",
+     "r": "valable",
+     "e": "Dans l'ordre : 5. Disqualification de la compétition."
+    },
+    {
+     "q": "À l'affichage des résultats, le délai de réclamation est de 2 heures.",
+     "r": "faute",
+     "e": "Le délai réglementaire est de 30 minutes, pas 2 heures."
+    },
+    {
+     "q": "L'échelle de sanction est cumulative et valable tout au long du championnat.",
+     "r": "valable",
+     "e": "L'échelle de sanction est donnée dans l'ordre et de façon cumulative, valable tout au long du championnat."
+    },
+    {
+     "q": "Une équipe classée C1 en sport partagé bénéficie d'une compensation de 6 coups jokers.",
+     "r": "faute",
+     "e": "La classe C1 ne bénéficie d'aucune compensation, contrairement aux classes C2 à C5."
+    },
+    {
+     "q": "La sanction est donnée par un membre du comité d'épreuve.",
+     "r": "valable",
+     "e": "La sanction est donnée par un membre du comité d'épreuve."
+    },
+    {
+     "q": "Le coup joker permet d'annuler et de rejouer un coup, y compris sur le green.",
+     "r": "faute",
+     "e": "Le coup joker permet de rejouer un coup à n'importe quel moment sauf sur le green."
+    },
+    {
+     "q": "Le comité de l'épreuve comprend le directeur du golf ou son représentant.",
+     "r": "valable",
+     "e": "Le comité de l'épreuve est composé du directeur du golf ou son représentant, entre autres membres."
+    },
+    {
+     "q": "Le décompte en score max autorise à relever sa balle dès le 3e coup, sans limite précise.",
+     "r": "faute",
+     "e": "La limite précise est de 8 coups, pas 3."
+    },
+    {
+     "q": "Le comité de l'épreuve comprend un membre de la CMN côté UNSS et un membre côté FFG.",
+     "r": "valable",
+     "e": "Le comité comprend 1 membre de la CMN côté UNSS et 1 membre de la CMN côté FFG."
+    },
+    {
+     "q": "Une équipe peut être composée de 4 garçons sans aucune fille.",
+     "r": "faute",
+     "e": "L'équipe est mixte avec 2 garçons maximum, donc au moins 2 filles sont nécessaires."
+    },
+    {
+     "q": "Le comité de l'épreuve comprend un Jeune Arbitre.",
+     "r": "valable",
+     "e": "Le comité de l'épreuve comprend un Jeune Arbitre parmi ses membres."
+    },
+    {
+     "q": "Une équipe dont les index ne sont pas valides peut tout de même participer sans conséquence.",
+     "r": "faute",
+     "e": "Une équipe qui ne serait pas en règle se verrait disqualifiée et ne pourrait pas participer."
+    },
+    {
+     "q": "Au cours du jeu, toute réclamation doit être effectuée par le jeune coach au moment de l'action.",
+     "r": "valable",
+     "e": "Au cours du jeu, toute réclamation doit être effectuée par le jeune coach au moment de l'action, à l'arbitre."
+    },
+    {
+     "q": "Les élèves classés dans un pays étranger n'ont aucune démarche particulière à effectuer.",
+     "r": "faute",
+     "e": "Ils doivent se rapprocher de la FFgolf pour faire valoir une assimilation de classement, à présenter à l'accueil du championnat."
+    },
+    {
+     "q": "À l'affichage des résultats, la réclamation doit être faite dans les 30 minutes.",
+     "r": "valable",
+     "e": "À l'affichage des résultats, toute réclamation doit être effectuée par le jeune coach dans les 30 minutes."
+    },
+    {
+     "q": "L'échelle de sanction peut être appliquée par n'importe quel joueur adverse.",
+     "r": "faute",
+     "e": "Seul un membre du comité d'épreuve peut donner une sanction, pas un joueur adverse."
+    },
+    {
+     "q": "Les adultes accompagnateurs peuvent donner des conseils uniquement entre les trous.",
+     "r": "valable",
+     "e": "Possibilité de donner des conseils uniquement entre les trous et sans faire ralentir le jeu."
+    },
+    {
+     "q": "Une réclamation peut être déposée sans limite de temps après l'affichage des résultats.",
+     "r": "faute",
+     "e": "Le délai réglementaire de réclamation après affichage est de 30 minutes, pas illimité."
+    },
+    {
+     "q": "En sport partagé, les accompagnateurs peuvent donner des conseils tout le temps, même pendant le trou si nécessaire.",
+     "r": "valable",
+     "e": "En sport partagé, possibilité de donner des conseils tout le temps, même pendant le trou si la situation l'oblige."
+    },
+    {
+     "q": "Les accompagnateurs peuvent donner des conseils à tout moment en catégorie établissement, comme en sport partagé.",
+     "r": "faute",
+     "e": "En établissement, les conseils ne sont possibles qu'entre les trous ; le « tout le temps » est réservé au sport partagé."
+    },
+    {
+     "q": "La classe C1 en sport partagé ne bénéficie d'aucune compensation.",
+     "r": "valable",
+     "e": "Selon le tableau des compensations, la classe C1 correspond à « pas de compensation »."
+    },
+    {
+     "q": "La classe C3 offre la même compensation que la classe C5.",
+     "r": "faute",
+     "e": "La classe C3 offre 1 joker sur 2 trous, tandis que la classe C5 en offre sur 6 trous : ce ne sont pas les mêmes compensations."
+    },
+    {
+     "q": "La classe C2 bénéficie d'1 coup joker dans un match en 6 trous.",
+     "r": "valable",
+     "e": "La classe C2 permet 1 coup joker dans un match en 6 trous."
+    },
+    {
+     "q": "Le coup joker peut être utilisé sur le green comme n'importe où ailleurs.",
+     "r": "faute",
+     "e": "Le coup joker peut être utilisé n'importe où sauf sur le green."
+    },
+    {
+     "q": "Pour les déficients visuels de classe C2, le rôle de guide peut être attribué.",
+     "r": "valable",
+     "e": "Pour les déficients visuels (DV) de classe C2, le rôle de guide peut être attribué, en tant que partenaire ou personne en plus dans l'équipe."
+    },
+    {
+     "q": "En championnat excellence, la formule de jeu est le greensome comme en établissement.",
+     "r": "faute",
+     "e": "En excellence, la formule est le foursome, pas le greensome (réservé à l'établissement)."
+    },
+    {
+     "q": "La classe C3 permet 1 coup joker à utiliser sur deux trous différents.",
+     "r": "valable",
+     "e": "La classe C3 permet 1 coup joker à utiliser pour deux trous différents dans un match en 6 trous."
+    },
+    {
+     "q": "Le score max au-delà de 8 coups n'a aucune règle particulière, le joueur continue de compter.",
+     "r": "faute",
+     "e": "Au-delà de 8 coups non terminés, le joueur relève sa balle, note 9 et passe au trou suivant."
+    },
+    {
+     "q": "La classe C4 permet 1 coup joker à utiliser sur quatre trous différents.",
+     "r": "valable",
+     "e": "La classe C4 permet 1 coup joker à utiliser pour quatre trous différents."
+    },
+    {
+     "q": "En Matchplay, le nombre total de coups sur la partie détermine le vainqueur, comme en Stroke Play.",
+     "r": "faute",
+     "e": "En Matchplay, c'est le nombre de trous remportés qui compte, pas le total des coups comme en Stroke Play."
+    },
+    {
+     "q": "La classe C5 permet 1 coup joker à utiliser sur six trous différents.",
+     "r": "valable",
+     "e": "La classe C5 permet 1 coup joker à utiliser pour six trous différents, soit sur l'ensemble du match."
+    },
+    {
+     "q": "Une équipe peut être composée de 3 garçons et 1 fille sans problème.",
+     "r": "faute",
+     "e": "Le règlement impose 2 garçons maximum dans l'équipe de 4 joueurs, donc 3 garçons ne sont pas autorisés."
+    },
+    {
+     "q": "Le coup rejoué grâce au coup joker est obligatoirement conservé.",
+     "r": "valable",
+     "e": "Le coup rejoué sera obligatoirement conservé."
+    },
+    {
+     "q": "La vérification des index par la ligue FFG est optionnelle, à la discrétion de l'organisateur.",
+     "r": "faute",
+     "e": "Le service UNSS organisateur prend obligatoirement contact avec la ligue FFG pour cette vérification."
+    },
+    {
+     "q": "Le jeune coach annonce au jeune arbitre l'utilisation du coup joker.",
+     "r": "valable",
+     "e": "Le jeune coach de l'équipe annonce au jeune arbitre l'utilisation du coup joker."
+    },
+    {
+     "q": "Les élèves classés à l'étranger n'ont besoin d'aucun document à présenter à l'accueil.",
+     "r": "faute",
+     "e": "Ils doivent présenter à l'accueil du championnat une assimilation de classement validée par la FFgolf."
+    },
+    {
+     "q": "C'est le jeune arbitre qui décompte et annonce le nombre de coups jokers restants.",
+     "r": "valable",
+     "e": "Chaque coup joker est décompté par le jeune arbitre qui annonce le nombre de coups jokers restants."
+    },
+    {
+     "q": "Le playoff en cas d'égalité se joue systématiquement sur 3 trous complets.",
+     "r": "faute",
+     "e": "Le playoff se joue sur un seul trou, pas sur 3 trous complets."
+    },
+    {
+     "q": "Le guide en sport partagé peut aider le joueur à s'aligner, même au putting.",
+     "r": "valable",
+     "e": "Le guide peut aider le joueur à s'aligner et à aligner la face de club sur tous les coups, même au putting."
+    },
+    {
+     "q": "Le comité de l'épreuve n'a aucune latitude pour les faits non prévus par le règlement.",
+     "r": "faute",
+     "e": "Le comité de l'épreuve a au contraire toute latitude pour ces situations non inscrites au règlement."
+    },
+    {
+     "q": "Les responsables d'équipe doivent informer l'organisateur en cas de besoin de matériel spécifique.",
+     "r": "valable",
+     "e": "Il incombe aux responsables d'équipes d'informer l'organisateur et la CMN Golf en cas de nécessité de matériel spécifique."
+    },
+    {
+     "q": "Le sport partagé n'implique aucune classification particulière des élèves.",
+     "r": "faute",
+     "e": "Une classification de C1 à C5 est justement définie pour ces élèves en situation de handicap."
+    }
+   ]
+  }
+ ]
+}

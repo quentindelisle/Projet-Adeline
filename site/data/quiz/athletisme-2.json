@@ -1,0 +1,320 @@
+{
+ "id": "athletisme-2",
+ "titre": "Le Carnet du Juge",
+ "sousTitre": "Questionnaire n°2",
+ "entete": "Fiche d'entraînement — officiels d'athlétisme · Série 2",
+ "sport": "athletisme",
+ "source": "https://stunning-jalebi-e6dda2.netlify.app/",
+ "themes": [
+  {
+   "nom": "Courses — Juges des départs",
+   "questions": [
+    {
+     "q": "Jusqu'à 400 m inclus, les dossards se portent dans le dos ; au-delà, sur la poitrine.",
+     "r": "valable",
+     "e": "C'est le contrôle effectué par les aide-starters : port du dossard dans le dos jusqu'à 400 m inclus, sur la poitrine au-delà."
+    },
+    {
+     "q": "Les aide-starters rassemblent les athlètes à environ 3 mètres derrière la ligne de départ.",
+     "r": "valable",
+     "e": "C'est la distance de rassemblement indiquée avant le placement dans les blocs."
+    },
+    {
+     "q": "Les starting-blocks sont obligatoires pour tous les athlètes jusqu'à 400 m inclus, sans exception.",
+     "r": "faute",
+     "e": "Seuls les benjamins peuvent choisir de partir sans starting-blocks, en gardant toutefois les appuis qu'ils auraient avec des blocks."
+    },
+    {
+     "q": "Si le mouvement d'un athlète avant le coup de feu ne provoque pas de perte de contact avec le sol ou les blocks, ce n'est pas un faux départ.",
+     "r": "valable",
+     "e": "C'est la nuance du règlement : seule une perte de contact (mains ou pieds) caractérise le faux départ, un simple mouvement n'y suffit pas forcément."
+    },
+    {
+     "q": "Le carton vert peut être présenté à un seul athlète en particulier, comme le carton rouge.",
+     "r": "faute",
+     "e": "Le carton vert est toujours présenté de façon collective, contrairement au rouge ou au jaune qui visent un ou plusieurs athlètes désignés."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Commissaires de courses",
+   "questions": [
+    {
+     "q": "En steeple, la hauteur des barrières est la même pour les hommes et pour les féminines.",
+     "r": "faute",
+     "e": "La hauteur varie : 0,91 m pour les hommes, 0,84 m pour les cadets et 0,76 m pour les féminines."
+    },
+    {
+     "q": "Le non-franchissement d'une rivière en steeple entraîne la disqualification.",
+     "r": "valable",
+     "e": "Le passage au-dessus ou dans l'eau est obligatoire ; ne pas la franchir entraîne la disqualification."
+    },
+    {
+     "q": "Dans les courses en virage, un athlète peut poser un pied dans le couloir situé à sa gauche.",
+     "r": "faute",
+     "e": "C'est interdit : les athlètes ne doivent pas mettre les pieds sur la ligne ni dans le couloir à leur gauche."
+    },
+    {
+     "q": "À partir du 3000 m et pour la marche, un tableau de marche est mis en place avec un pointeur pour 3 à 4 athlètes.",
+     "r": "valable",
+     "e": "C'est le dispositif prévu pour ces épreuves, en lien avec le compteur de tours."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Chronométrie électrique",
+   "questions": [
+    {
+     "q": "En cas de record, le point zéro ainsi que l'image d'arrivée sont demandés par le juge arbitre pour le dossier.",
+     "r": "valable",
+     "e": "Ces éléments doivent être conservés et fournis pour l'homologation d'un record."
+    },
+    {
+     "q": "Le chronométreur électrique déclenche sa capture uniquement après le passage de tous les athlètes sur la ligne.",
+     "r": "faute",
+     "e": "Il appuie sur le déclencheur vidéo (la « poire ») juste avant le franchissement des athlètes, et continue jusqu'après."
+    },
+    {
+     "q": "Sur le lecteur de film, l'identification des athlètes peut se faire par couloir ou par dossard.",
+     "r": "valable",
+     "e": "L'opérateur choisit le type d'identification puis saisit le numéro correspondant dans la fenêtre du logiciel."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Chronométrie manuelle",
+   "questions": [
+    {
+     "q": "Les chronométreurs doivent être placés dans le prolongement de la ligne d'arrivée, à au moins 5 mètres du couloir extérieur.",
+     "r": "valable",
+     "e": "C'est le positionnement requis pour les chronométreurs manuels."
+    },
+    {
+     "q": "Quand deux temps identiques sortent sur les trois temps pris, ce temps devient automatiquement le temps de référence.",
+     "r": "valable",
+     "e": "C'est la règle : par exemple 11''09, 11''12, 11''09 donne 11''09 comme référence, converti en 11''1."
+    },
+    {
+     "q": "Pour l'épreuve de l'heure, aucune synchronisation particulière n'est nécessaire entre le chronométreur et le starter.",
+     "r": "faute",
+     "e": "Au contraire, une synchronisation parfaite est indispensable : le chronométreur indique la 59e minute au starter avant le coup de feu final."
+    },
+    {
+     "q": "Le temps du 1er de la course doit obligatoirement être enregistré par trois chronométreurs.",
+     "r": "valable",
+     "e": "C'est une exigence explicite du règlement, quel que soit le nombre total de chronométreurs disponibles."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Juges aux arrivées & compteurs de tours",
+   "questions": [
+    {
+     "q": "Pour le demi-fond, 2 à 3 binômes de juges se placent juste après la ligne d'arrivée, l'un criant le dossard et l'autre l'inscrivant.",
+     "r": "valable",
+     "e": "C'est l'organisation prévue pour classer les concurrents en demi-fond."
+    },
+    {
+     "q": "Pour les courses en couloirs, le rôle des juges aux arrivées reste toujours prioritaire, même quand le chronométrage électrique est en place.",
+     "r": "faute",
+     "e": "Dans ce cas, leur rôle devient secondaire puisque la lecture des arrivées est effectuée par le chronométrage électrique."
+    },
+    {
+     "q": "Le tableau affichant le nombre de tours restants est mis en place dès le 800 m.",
+     "r": "valable",
+     "e": "C'est à partir de cette distance que le compteur de tours entre en action, près de la ligne d'arrivée."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut en hauteur",
+   "questions": [
+    {
+     "q": "Les poteaux doivent être placés à 10 cm devant le tapis de réception.",
+     "r": "valable",
+     "e": "C'est une vérification du chef de concours avant le début des sauts."
+    },
+    {
+     "q": "La craie et le feutre sont autorisés pour que les athlètes marquent leur repère d'élan.",
+     "r": "faute",
+     "e": "Ces marques sont interdites ; seules des traces non indélébiles sont tolérées."
+    },
+    {
+     "q": "Quand il ne reste qu'un seul athlète en championnat individuel, il peut demander la hauteur de barre qu'il désire tenter.",
+     "r": "valable",
+     "e": "C'est un droit spécifique au dernier athlète en lice, uniquement en championnat individuel."
+    },
+    {
+     "q": "En cas de barrage pour la première place, la barre est élevée ou abaissée de 5 cm à chaque tentative.",
+     "r": "faute",
+     "e": "En hauteur, le pas de barrage est de 2 cm (à la perche, en revanche, il est de 5 cm)."
+    },
+    {
+     "q": "Un essai différé permet au maximum 3 essais différés par hauteur de barre.",
+     "r": "valable",
+     "e": "C'est la limite fixée : un essai différé par tour, donc jusqu'à 3 par hauteur."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut à la perche",
+   "questions": [
+    {
+     "q": "En perche, le temps de concentration passe à 5 minutes lorsqu'il ne reste plus qu'un seul athlète.",
+     "r": "valable",
+     "e": "C'est le temps maximal accordé au dernier athlète restant, contre 1' au premier saut et 2' à 2-3 athlètes restants."
+    },
+    {
+     "q": "Le zéro de référence pour la position des montants correspond au prolongement du bord arrière du haut du bac d'appel.",
+     "r": "valable",
+     "e": "C'est la définition exacte du point zéro utilisé pour régler la position des montants."
+    },
+    {
+     "q": "Un athlète qui fait tomber la barre en la stabilisant ou en la replaçant pendant le saut ne commet pas de faute.",
+     "r": "faute",
+     "e": "Stabiliser ou replacer la barre pendant le saut est explicitement listé comme une faute."
+    },
+    {
+     "q": "Entre deux essais consécutifs à la perche, le temps accordé est de 3 minutes.",
+     "r": "valable",
+     "e": "C'est le délai de récupération prévu entre deux tentatives, contre 2 minutes en hauteur."
+    },
+    {
+     "q": "Toucher le tapis de réception après un saut réussi, sans en retirer un avantage, est automatiquement considéré comme un échec.",
+     "r": "faute",
+     "e": "Au contraire, ce contact n'est pas considéré comme un échec tant que le concurrent n'en retire aucun avantage."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut en longueur & triple saut",
+   "questions": [
+    {
+     "q": "L'anémomètre doit être placé à 20 m de la ligne d'appel.",
+     "r": "valable",
+     "e": "C'est la position réglementaire de l'anémomètre, qui se déclenche pendant 5 secondes au passage de l'athlète."
+    },
+    {
+     "q": "Un concurrent peut laisser une marque à la craie sur la piste d'élan pour repérer son point de départ.",
+     "r": "faute",
+     "e": "Aucune marque n'est autorisée sur la piste d'élan ; seules des traces non indélébiles sur le côté de la piste sont tolérées."
+    },
+    {
+     "q": "La mesure d'un saut réussi se fait toujours depuis la marque la plus proche dans le sable jusqu'à la ligne d'appel.",
+     "r": "valable",
+     "e": "C'est le principe général de mesure des sauts horizontaux."
+    },
+    {
+     "q": "En championnat FFA, quand il y a 8 athlètes ou moins, chacun n'a droit qu'à 3 essais.",
+     "r": "faute",
+     "e": "Avec 8 athlètes ou moins, chacun a droit à 6 essais en FFA (3 puis 3 supplémentaires seulement au-delà de 8 concurrents)."
+    },
+    {
+     "q": "Le drapeau blanc du chef de concours enclenche la mesure du saut.",
+     "r": "valable",
+     "e": "C'est le signal utilisé pour indiquer qu'un saut est valide et doit être mesuré."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de poids",
+   "questions": [
+    {
+     "q": "En FFA, avec plus de 8 concurrents, chacun a droit à 3 essais puis les 8 meilleurs ont 3 essais supplémentaires.",
+     "r": "valable",
+     "e": "C'est la règle appliquée au-delà de 8 concurrents en championnat FFA."
+    },
+    {
+     "q": "Le concurrent peut commencer son lancer en mouvement, sans être obligé de partir d'une position stationnaire.",
+     "r": "faute",
+     "e": "Le lancer doit obligatoirement débuter dans une position stationnaire à l'intérieur du cercle."
+    },
+    {
+     "q": "En quittant le cercle, le premier contact doit se faire complètement derrière la bande blanche qui passe par le centre du cercle ou son prolongement.",
+     "r": "valable",
+     "e": "C'est la condition de sortie valide du cercle après un lancer."
+    },
+    {
+     "q": "Le diamètre intérieur du cercle de lancer du poids est de 2,50 m.",
+     "r": "faute",
+     "e": "Le cercle du poids mesure 2,135 m de diamètre intérieur ; 2,50 m correspond au cercle du disque."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de disque",
+   "questions": [
+    {
+     "q": "Le concurrent est autorisé à toucher la bordure intérieure du cercle pendant le lancer.",
+     "r": "valable",
+     "e": "C'est un contact explicitement autorisé, comme pour le poids et le marteau."
+    },
+    {
+     "q": "Le secteur de chute du disque forme un angle de 34,92°, comme pour le poids et le marteau.",
+     "r": "valable",
+     "e": "Ce même angle de secteur est utilisé pour les trois lancers circulaires."
+    },
+    {
+     "q": "Si le disque touche la cage côté opposé au bras lanceur et retombe dans le secteur, l'essai est validé.",
+     "r": "faute",
+     "e": "Dans ce cas précis, l'essai est invalidé ; c'est l'inverse (contact côté bras lanceur, chute en avant de la cage) qui valide l'essai."
+    },
+    {
+     "q": "Le diamètre du cercle de lancer du disque est de 2,135 m, identique à celui du poids.",
+     "r": "faute",
+     "e": "Le cercle du disque mesure 2,50 m de diamètre, contre 2,135 m pour le poids et le marteau."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de javelot",
+   "questions": [
+    {
+     "q": "Le javelot doit être tenu par la corde de prise.",
+     "r": "valable",
+     "e": "C'est la prise en main réglementaire du javelot avant le lancer."
+    },
+    {
+     "q": "Un concurrent peut interrompre un essai déjà commencé, poser son engin par terre et recommencer, dans le délai d'1 minute.",
+     "r": "valable",
+     "e": "C'est une possibilité explicitement offerte par le règlement, tant que le délai global n'est pas dépassé."
+    },
+    {
+     "q": "Les lignes délimitant le secteur de chute du javelot font partie du secteur valide.",
+     "r": "faute",
+     "e": "Au contraire, ces lignes ne font pas partie du secteur : une chute sur la ligne n'est pas valable."
+    },
+    {
+     "q": "Le concurrent peut quitter la piste d'élan avant que le javelot ait touché le sol, sans que ce soit une faute.",
+     "r": "faute",
+     "e": "C'est une faute : il doit rester sur la piste d'élan tant que le javelot n'a pas touché le sol."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de marteau",
+   "questions": [
+    {
+     "q": "En quittant le cercle, le premier contact ne doit pas se faire en avant de la ligne qui passe par le centre.",
+     "r": "valable",
+     "e": "C'est la condition de sortie valide, comme pour les autres lancers circulaires."
+    },
+    {
+     "q": "Si le marteau touche la cage côté bras lanceur et retombe en avant de la cage dans le secteur, l'essai est validé.",
+     "r": "valable",
+     "e": "C'est le cas favorable explicitement mentionné, à l'inverse d'un contact côté opposé qui invalide l'essai."
+    },
+    {
+     "q": "Les volets mobiles de la cage doivent être fermés perpendiculairement à la ligne de secteur, du côté adapté selon que le lanceur est droitier ou gaucher.",
+     "r": "valable",
+     "e": "C'est une vérification spécifique au marteau : volet de gauche fermé pour les droitiers, et inversement pour les gauchers."
+    },
+    {
+     "q": "En UNSS, les athlètes disposent de 6 lancers, comme en championnat FFA avec 8 athlètes ou moins.",
+     "r": "faute",
+     "e": "En UNSS, les athlètes n'ont droit qu'à 4 lancers, quel que soit le nombre de concurrents."
+    }
+   ]
+  }
+ ]
+}

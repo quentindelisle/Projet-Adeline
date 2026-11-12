@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-9",
+ "titre": "Sol filles",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Excellence",
+ "entete": "QUIZ 3 / 7 · RÈGLEMENT GYMNASTIQUE EXCELLENCE UNSS · GAF",
+ "sport": "gymnastique-artistique",
+ "source": "https://mellifluous-cucurucho-903a40.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La durée maximale de l'enchaînement au sol filles est de 1 minute 30 en Excellence.",
+     "r": "valable",
+     "e": "Le règlement Excellence porte la durée à 1mn30, contre 1 minute en Équipe Établissement."
+    },
+    {
+     "q": "La durée maximale au sol filles reste de 1 minute en Excellence, comme en Équipe Établissement.",
+     "r": "faute",
+     "e": "La durée passe à 1mn30 en Excellence, un allongement par rapport à l'Équipe Établissement."
+    },
+    {
+     "q": "La musique est obligatoire pour l'ensemble de l'enchaînement au sol filles Excellence.",
+     "r": "valable",
+     "e": "Cette obligation reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "La musique devient optionnelle au sol filles en Excellence.",
+     "r": "faute",
+     "e": "La musique reste obligatoire, sans changement par rapport à l'Équipe Établissement."
+    },
+    {
+     "q": "Terminer avant ou après la musique est pénalisé de 0,10 point au sol filles Excellence.",
+     "r": "valable",
+     "e": "Cette pénalité est réduite par rapport aux 0,30 point de l'Équipe Établissement."
+    },
+    {
+     "q": "Terminer avant ou après la musique est pénalisé de 0,30 point, comme en Équipe Établissement.",
+     "r": "faute",
+     "e": "La pénalité passe à 0,10 point en Excellence, contre 0,30 point en Équipe Établissement."
+    },
+    {
+     "q": "L'exigence SA1 impose une série acrobatique avant avec envol, incluant un salto arrière.",
+     "r": "valable",
+     "e": "SA1 désigne précisément cette série acrobatique spécifique à l'Excellence."
+    },
+    {
+     "q": "L'exigence SA1 impose un simple élément de souplesse sans envol.",
+     "r": "faute",
+     "e": "SA1 impose une série acrobatique avec envol et salto arrière, une exigence propre à l'Excellence."
+    },
+    {
+     "q": "L'exigence SA2 impose une série acrobatique avant avec envol, incluant un salto avant.",
+     "r": "valable",
+     "e": "SA2 désigne précisément cette série acrobatique spécifique à l'Excellence."
+    },
+    {
+     "q": "L'exigence SA2 impose une liaison de 2 sauts sans salto.",
+     "r": "faute",
+     "e": "SA2 impose une série avec salto avant, différente de la liaison gymnique LG."
+    },
+    {
+     "q": "Les exigences de composition au sol filles Excellence sont SM ou T, LG, SA1 et SA2.",
+     "r": "valable",
+     "e": "Ces 4 exigences remplacent celles de l'Équipe Établissement (ATR, SM, LG, AC)."
+    },
+    {
+     "q": "Les exigences restent ATR, SM, LG et AC en Excellence, comme en Équipe Établissement.",
+     "r": "faute",
+     "e": "Les exigences ont été restructurées en Excellence : SM ou T, LG, SA1, SA2."
+    },
+    {
+     "q": "Le barème de difficulté au sol filles Excellence va de C = 0,40 pt à F = 1,00 pt.",
+     "r": "valable",
+     "e": "Le règlement Excellence utilise les lettres C à F."
+    },
+    {
+     "q": "Le barème au sol filles reste A = 0,40 pt à D = 1,00 pt en Excellence.",
+     "r": "faute",
+     "e": "Le barème Excellence utilise C à F, pas A à D."
+    },
+    {
+     "q": "Les 2 sauts d'une liaison gymnique peuvent être liés directement ou indirectement (pas courus, pas chassés).",
+     "r": "valable",
+     "e": "Cette souplesse de liaison est prévue par le règlement Excellence."
+    },
+    {
+     "q": "Les 2 sauts doivent obligatoirement être liés directement, sans aucun pas intermédiaire toléré.",
+     "r": "faute",
+     "e": "Une liaison indirecte avec pas courus ou chassés reste autorisée en Excellence."
+    },
+    {
+     "q": "Un mouvement sans musique ou avec musique à paroles non autorisée est pénalisé jusqu'à 1,00 point.",
+     "r": "valable",
+     "e": "Cette pénalité maximale reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute n'est plus pénalisée en Excellence, contrairement à l'Équipe Établissement.",
+     "r": "faute",
+     "e": "La pénalité maximale de 1,00 point reste appliquée en Excellence."
+    },
+    {
+     "q": "Une réception d'une main ou d'un pied hors des lignes est pénalisée de 0,10 point au sol filles Excellence.",
+     "r": "valable",
+     "e": "Cette pénalité légère reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Une réception hors des lignes est pénalisée de 0,50 point en Excellence.",
+     "r": "faute",
+     "e": "La pénalité reste de 0,10 point, pas 0,50 point."
+    },
+    {
+     "q": "Une touche des mains, des pieds ou du corps hors des lignes est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette pénalité plus lourde reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute de sortie de praticable n'existe plus en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point reste appliquée pour cette faute."
+    },
+    {
+     "q": "Une réception d'un élément directement à l'extérieur des lignes est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Une réception directement hors des lignes n'entraîne aucune pénalité en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point reste appliquée en Excellence."
+    },
+    {
+     "q": "Le chronomètre au sol filles démarre au premier mouvement de la gymnaste, indépendamment de la musique.",
+     "r": "valable",
+     "e": "Ce principe de chronométrage reste identique à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "Le chronomètre démarre au premier accord musical, pas au premier mouvement.",
+     "r": "faute",
+     "e": "Le chronomètre démarre bien au premier mouvement, indépendamment de la musique."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins au sol filles Excellence est pénalisé de 2 points.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins n'entraîne aucune pénalité en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 2 points reste appliquée pour un exercice trop court."
+    },
+    {
+     "q": "Un passage proche du sol où le bassin ne touche pas est pénalisé de 0,30 point au sol filles Excellence.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute n'est plus pénalisée en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point reste appliquée en Excellence."
+    },
+    {
+     "q": "L'exigence LG au sol filles Excellence impose une liaison gymnique de 2 sauts différents.",
+     "r": "valable",
+     "e": "Cette exigence reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence LG impose une série acrobatique avec salto en Excellence.",
+     "r": "faute",
+     "e": "LG désigne une liaison de 2 sauts différents, pas une série acrobatique."
+    },
+    {
+     "q": "La note de composition maximale au sol filles Excellence est de 2 points.",
+     "r": "valable",
+     "e": "Cette note maximale reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "La note de composition maximale au sol filles Excellence est de 1,5 point.",
+     "r": "faute",
+     "e": "La note de composition reste plafonnée à 2 points en Excellence."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS ne reçoit aucune valeur au sol filles Excellence.",
+     "r": "valable",
+     "e": "Cette règle générale reste applicable en Excellence."
+    },
+    {
+     "q": "Un élément non reconnu reçoit automatiquement la valeur C en Excellence.",
+     "r": "faute",
+     "e": "Un élément non reconnu ne reçoit aucune valeur, sans exception."
+    },
+    {
+     "q": "La note finale au sol filles Excellence est égale à (Note D + Note E) moins les pénalités.",
+     "r": "valable",
+     "e": "Ce mode de calcul reste identique à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "La note finale au sol filles Excellence est égale uniquement à la Note E.",
+     "r": "faute",
+     "e": "La note finale combine bien Note D et Note E, moins les pénalités."
+    },
+    {
+     "q": "Aux fautes spécifiques du sol filles s'ajoutent les fautes de tenue, de technique et de comportement.",
+     "r": "valable",
+     "e": "Ces fautes générales s'appliquent en plus des fautes spécifiques en Excellence."
+    },
+    {
+     "q": "Seules les fautes spécifiques au sol comptent en Excellence, sans les fautes générales.",
+     "r": "faute",
+     "e": "Les fautes générales s'ajoutent bien aux fautes spécifiques du sol filles."
+    },
+    {
+     "q": "Un élément identique réalisé deux fois au sol filles Excellence n'est comptabilisé qu'une seule fois.",
+     "r": "valable",
+     "e": "Cette règle de comptage reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Un élément identique répété deux fois est comptabilisé deux fois en Excellence.",
+     "r": "faute",
+     "e": "L'élément identique n'est comptabilisé qu'une seule fois, sans changement."
+    },
+    {
+     "q": "Un élément peut être déclassé à une valeur inférieure s'il n'est pas techniquement conforme au sol filles.",
+     "r": "valable",
+     "e": "Cette règle de déclassement reste applicable en Excellence."
+    },
+    {
+     "q": "Le déclassement n'existe pas au sol filles en Excellence, seule la suppression totale est prévue.",
+     "r": "faute",
+     "e": "Le déclassement à une valeur inférieure reste possible en Excellence."
+    },
+    {
+     "q": "Chaque exigence de composition au sol filles Excellence vaut 0,5 point.",
+     "r": "valable",
+     "e": "Cette valeur par exigence reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Chaque exigence de composition au sol filles Excellence vaut 0,25 point.",
+     "r": "faute",
+     "e": "Chaque exigence vaut bien 0,5 point, pas 0,25 point."
+    },
+    {
+     "q": "Les séries acrobatiques SA1 et SA2 exigent chacune au moins 2 éléments avec envol.",
+     "r": "valable",
+     "e": "Le règlement Excellence précise ce minimum de 2 éléments avec envol pour ces séries."
+    },
+    {
+     "q": "Les séries SA1 et SA2 n'exigent qu'un seul élément chacune, sans envol nécessaire.",
+     "r": "faute",
+     "e": "Un minimum de 2 éléments avec envol est exigé pour valider SA1 ou SA2."
+    },
+    {
+     "q": "La devise « simple et correct vaut mieux que difficile et incorrect » reste valable au sol filles Excellence.",
+     "r": "valable",
+     "e": "Cette philosophie du jugement UNSS s'applique à toutes les catégories."
+    },
+    {
+     "q": "Cette devise ne s'applique plus en Excellence, seule la difficulté compte pour le classement.",
+     "r": "faute",
+     "e": "La devise reste un principe directeur du jugement, y compris au sol filles Excellence."
+    }
+   ]
+  }
+ ]
+}

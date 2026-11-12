@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-2",
+ "titre": "Poutre",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Artistique",
+ "entete": "QUIZ 2 / 7 · RÈGLEMENT GYMNASTIQUE ARTISTIQUE UNSS · GAF",
+ "sport": "gymnastique-artistique",
+ "source": "https://graceful-frangollo-ccc956.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Un seul tremplin simple est autorisé pour l'entrée sur la poutre.",
+     "r": "valable",
+     "e": "Le règlement autorise un tremplin simple pour l'entrée à la poutre."
+    },
+    {
+     "q": "Deux tremplins peuvent être utilisés pour l'entrée sur la poutre.",
+     "r": "faute",
+     "e": "Un seul tremplin simple est autorisé, pas deux."
+    },
+    {
+     "q": "La durée maximale de l'enchaînement à la poutre est de 1 minute 10.",
+     "r": "valable",
+     "e": "La durée réglementaire à la poutre est de 1mn10 maximum."
+    },
+    {
+     "q": "La durée maximale de l'enchaînement à la poutre est de 1 minute, comme au sol filles.",
+     "r": "faute",
+     "e": "La durée à la poutre est de 1mn10, pas 1 minute comme au sol."
+    },
+    {
+     "q": "Un dépassement du temps réglementaire à la poutre est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Le dépassement de 1mn10 coûte 0,30 point sur la note finale."
+    },
+    {
+     "q": "Un dépassement du temps réglementaire à la poutre n'entraîne aucune pénalité.",
+     "r": "faute",
+     "e": "Le dépassement du temps est au contraire pénalisé de 0,30 point."
+    },
+    {
+     "q": "Le chronomètre à la poutre démarre lorsque les pieds quittent le sol et s'arrête à la réception sur le tapis.",
+     "r": "valable",
+     "e": "Le règlement précise ce point de départ et d'arrêt du chronométrage."
+    },
+    {
+     "q": "Le chronomètre à la poutre démarre au premier salut du jury, avant tout mouvement.",
+     "r": "faute",
+     "e": "Le chronomètre démarre au premier envol, pas au salut."
+    },
+    {
+     "q": "Un « ° » sous la figurine du code symbolise un maintien à tenir 2 secondes.",
+     "r": "valable",
+     "e": "Ce symbole signale un maintien de 2 secondes dans le code."
+    },
+    {
+     "q": "Un « ° » sous la figurine du code signale un élément interdit en catégorie Équipe Établissement.",
+     "r": "faute",
+     "e": "Ce symbole désigne un maintien de 2 secondes, pas un élément interdit."
+    },
+    {
+     "q": "Les 4 exigences de composition à la poutre sont SM, T, LG et AC.",
+     "r": "valable",
+     "e": "Ce sont bien les 4 exigences prévues à la poutre."
+    },
+    {
+     "q": "Les 4 exigences de composition à la poutre sont ATR, SM, LG et AC, comme au sol filles.",
+     "r": "faute",
+     "e": "L'exigence ATR concerne le sol filles ; à la poutre, la 2e exigence est T (un Tour)."
+    },
+    {
+     "q": "L'exigence LG à la poutre impose une liaison gymnique de 2 sauts différents.",
+     "r": "valable",
+     "e": "LG désigne une liaison de 2 sauts différents."
+    },
+    {
+     "q": "L'exigence LG à la poutre impose une liaison de 2 éléments acrobatiques identiques.",
+     "r": "faute",
+     "e": "LG impose 2 sauts différents, pas des éléments acrobatiques identiques."
+    },
+    {
+     "q": "Dans une liaison gymnique, les éléments doivent être enchaînés sans arrêt et sans pas intermédiaire.",
+     "r": "valable",
+     "e": "Le règlement impose un enchaînement continu, sans arrêt ni pas intermédiaire."
+    },
+    {
+     "q": "Dans une liaison gymnique, un pas intermédiaire entre les deux éléments est toléré sans pénalité.",
+     "r": "faute",
+     "e": "Un pas intermédiaire n'est pas toléré dans une liaison gymnique."
+    },
+    {
+     "q": "S'accrocher à la poutre pour éviter la chute est pénalisé de 0,50 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique à la poutre coûte 0,50 point."
+    },
+    {
+     "q": "S'accrocher à la poutre pour éviter la chute est pénalisé de 0,10 point seulement.",
+     "r": "faute",
+     "e": "Cette faute vaut 0,50 point, pas 0,10 point."
+    },
+    {
+     "q": "Une utilisation insuffisante de l'espace de la poutre est pénalisée de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique coûte 0,30 point."
+    },
+    {
+     "q": "L'utilisation de l'espace de la poutre n'est soumise à aucune pénalité spécifique.",
+     "r": "faute",
+     "e": "L'utilisation insuffisante de l'espace est au contraire pénalisée de 0,30 point."
+    },
+    {
+     "q": "Un passage proche de la poutre où le bassin ne touche pas est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Cette faute spécifique vaut 0,30 point."
+    },
+    {
+     "q": "Un passage proche de la poutre est toujours valable, quelle que soit la position du bassin.",
+     "r": "faute",
+     "e": "Si le bassin ne touche pas la poutre, une pénalité de 0,30 point s'applique."
+    },
+    {
+     "q": "L'élément de maintien sur 1 pied jambe d'appui tendue (attitude ou arabesque) est de valeur A si tenu 2 secondes.",
+     "r": "valable",
+     "e": "Cet élément de maintien figure en colonne A du code."
+    },
+    {
+     "q": "L'élément de maintien sur 1 pied tenu 2 secondes n'est reconnu qu'en valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur A, pas D."
+    },
+    {
+     "q": "La chandelle mains sous la poutre tenue 2 secondes est un élément de valeur B.",
+     "r": "valable",
+     "e": "La chandelle tenue 2 secondes figure en colonne B du code."
+    },
+    {
+     "q": "La chandelle mains sous la poutre tenue 2 secondes est un élément de valeur D.",
+     "r": "faute",
+     "e": "Cet élément est de valeur B, pas D."
+    },
+    {
+     "q": "La planche faciale jambe d'appui tendue est un élément de valeur C, sauf si les jambes sont sous l'horizontale (alors élément A3).",
+     "r": "valable",
+     "e": "Le code prévoit ce déclassement en A3 si la jambe libre est sous l'horizontale."
+    },
+    {
+     "q": "La planche faciale garde toujours sa valeur C, même jambes sous l'horizontale.",
+     "r": "faute",
+     "e": "L'élément est déclassé en A3 si la jambe libre est sous l'horizontale."
+    },
+    {
+     "q": "Le saut grand jeté au grand écart (180°) est un élément de valeur D.",
+     "r": "valable",
+     "e": "Le grand jeté au grand écart figure en colonne D."
+    },
+    {
+     "q": "Le saut grand jeté au grand écart n'est reconnu qu'en valeur B.",
+     "r": "faute",
+     "e": "Cet élément est de valeur D, pas B."
+    },
+    {
+     "q": "Un écart de jambes inférieur à 135° sur un grand jeté rend l'élément non comptabilisé.",
+     "r": "valable",
+     "e": "Le code précise ce seuil de 135° minimum."
+    },
+    {
+     "q": "L'écart de jambes n'a aucune incidence sur la comptabilisation d'un grand jeté.",
+     "r": "faute",
+     "e": "En dessous de 135° d'écart, l'élément n'est pas comptabilisé."
+    },
+    {
+     "q": "La roue est un élément acrobatique de valeur D à la poutre.",
+     "r": "valable",
+     "e": "La roue figure en colonne D du code à la poutre."
+    },
+    {
+     "q": "La roue à la poutre n'est reconnue qu'en valeur B.",
+     "r": "faute",
+     "e": "La roue est un élément de valeur D, pas B."
+    },
+    {
+     "q": "Le salto avant groupé en sortie de poutre, appel 2 pieds, est un élément de valeur D.",
+     "r": "valable",
+     "e": "Cette sortie figure en colonne D du code."
+    },
+    {
+     "q": "Le salto avant groupé en sortie de poutre n'est reconnu qu'en valeur C.",
+     "r": "faute",
+     "e": "Cette sortie est de valeur D, pas C."
+    },
+    {
+     "q": "Si un élément de maintien n'est pas tenu 2 secondes lorsque cela est exigé, il n'est pas comptabilisé.",
+     "r": "valable",
+     "e": "Le code est explicite : sans les 2 secondes, l'élément n'est pas comptabilisé."
+    },
+    {
+     "q": "Un élément de maintien non tenu 2 secondes reste comptabilisé, avec seulement une petite pénalité.",
+     "r": "faute",
+     "e": "L'élément non tenu 2 secondes n'est tout simplement pas comptabilisé."
+    },
+    {
+     "q": "La roue et la rondade sont considérées comme des éléments de rotation latérale.",
+     "r": "valable",
+     "e": "Le règlement classe explicitement roue et rondade en rotation latérale."
+    },
+    {
+     "q": "La roue et la rondade sont classées comme éléments de souplesse, pas de rotation.",
+     "r": "faute",
+     "e": "Roue et rondade sont des éléments de rotation latérale, pas de souplesse."
+    },
+    {
+     "q": "Un sursaut suivi d'un arrêt avant la sortie rondade fait requalifier l'élément en valeur B10.",
+     "r": "valable",
+     "e": "Le code prévoit cette requalification en cas d'arrêt après sursaut."
+    },
+    {
+     "q": "Un sursaut avant la sortie rondade n'a aucune incidence sur la valeur de l'élément.",
+     "r": "faute",
+     "e": "Un arrêt après le sursaut requalifie l'élément en B10."
+    },
+    {
+     "q": "Le tour sur 1 pied non terminé à la poutre est requalifié à une valeur inférieure.",
+     "r": "valable",
+     "e": "Un tour non terminé est déclassé à une valeur inférieure dans le code."
+    },
+    {
+     "q": "Un tour sur 1 pied non terminé conserve sa valeur maximale initiale.",
+     "r": "faute",
+     "e": "Un tour non terminé est requalifié à une valeur inférieure, pas maintenu."
+    },
+    {
+     "q": "L'exigence T à la poutre impose la réalisation d'un tour.",
+     "r": "valable",
+     "e": "T désigne l'exigence d'un tour."
+    },
+    {
+     "q": "L'exigence T à la poutre impose un temps de suspension d'au moins 2 secondes.",
+     "r": "faute",
+     "e": "T signifie un Tour, pas un temps de suspension."
+    },
+    {
+     "q": "Un appui tendu renversé (ATR) suivi d'une chute sans retour sur la poutre rend l'élément non comptabilisé.",
+     "r": "valable",
+     "e": "Le code précise que la chute sans retour invalide l'élément."
+    },
+    {
+     "q": "Un ATR suivi d'une chute reste comptabilisé tant que le départ était correct.",
+     "r": "faute",
+     "e": "La chute sans retour sur la poutre rend l'élément non comptabilisé."
+    },
+    {
+     "q": "Aux fautes spécifiques de la poutre s'ajoutent les fautes de tenue, de technique et de comportement communes à tous les agrès.",
+     "r": "valable",
+     "e": "Ces fautes générales s'ajoutent toujours aux fautes spécifiques de l'agrès."
+    },
+    {
+     "q": "Les fautes de tenue et de comportement générales ne concernent pas la poutre, agrès jugé à part.",
+     "r": "faute",
+     "e": "Les fautes générales s'appliquent aussi à la poutre, en plus des fautes spécifiques."
+    }
+   ]
+  }
+ ]
+}

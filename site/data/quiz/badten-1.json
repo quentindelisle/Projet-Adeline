@@ -1,0 +1,265 @@
+{
+ "id": "badten-1",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre Badten",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT BADTEN UNSS",
+ "sport": "badten",
+ "source": "https://delightful-smakager-131176.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Au badminton, en simple, le serveur sert à droite quand son score est impair.",
+     "r": "faute",
+     "e": "C'est faux. En simple, à droite pour un score pair et à gauche pour un score impair."
+    },
+    {
+     "q": "Au badminton, en simple, le serveur sert à droite quand son score est pair.",
+     "r": "valable",
+     "e": "En simple, à droite pour un score pair et à gauche pour un score impair."
+    },
+    {
+     "q": "Au badminton en double, on ne tient pas compte du score pair ou impair.",
+     "r": "valable",
+     "e": "En double, on ne tient pas compte du score du serveur."
+    },
+    {
+     "q": "Au badminton en double, on tient compte du score pair ou impair comme en simple.",
+     "r": "faute",
+     "e": "C'est faux. En double, on ne tient pas compte du score du serveur."
+    },
+    {
+     "q": "En double, chaque équipe dispose d'un seul service avant de le céder.",
+     "r": "faute",
+     "e": "C'est faux. Chaque équipe dispose de 2 services consécutifs exécutés par les 2 joueurs."
+    },
+    {
+     "q": "En double, chaque équipe dispose de 2 services consécutifs.",
+     "r": "valable",
+     "e": "Chaque équipe dispose de 2 services consécutifs exécutés par les 2 joueurs."
+    },
+    {
+     "q": "En double, le premier serveur est celui placé à gauche.",
+     "r": "faute",
+     "e": "C'est faux. Le premier serveur est obligatoirement celui placé à droite, porteur du brassard."
+    },
+    {
+     "q": "En double, le premier serveur est celui placé à droite.",
+     "r": "valable",
+     "e": "Le premier serveur est obligatoirement celui placé à droite, porteur du brassard."
+    },
+    {
+     "q": "La rotation des services se fait dans le sens des aiguilles d'une montre.",
+     "r": "valable",
+     "e": "La rotation se fait toujours dans le sens des aiguilles d'une montre."
+    },
+    {
+     "q": "La rotation des services se fait dans le sens inverse des aiguilles d'une montre.",
+     "r": "faute",
+     "e": "C'est faux. La rotation se fait toujours dans le sens des aiguilles d'une montre."
+    },
+    {
+     "q": "En double, les joueurs restent à la même place pendant le set.",
+     "r": "valable",
+     "e": "Les services se font en diagonale, les joueurs restant toujours à la même place."
+    },
+    {
+     "q": "En double, les joueurs changent de place après chaque point.",
+     "r": "faute",
+     "e": "C'est faux. Les services se font en diagonale, les joueurs restant toujours à la même place."
+    },
+    {
+     "q": "Au service au badminton, une partie des deux pieds doit rester en contact avec le sol.",
+     "r": "valable",
+     "e": "Une partie des 2 pieds doit rester en contact avec le sol."
+    },
+    {
+     "q": "Au service au badminton, le serveur peut sauter pour frapper le volant.",
+     "r": "faute",
+     "e": "C'est faux. Une partie des 2 pieds doit rester en contact avec le sol."
+    },
+    {
+     "q": "À la frappe du service au badminton, la tête de la raquette est orientée vers le haut.",
+     "r": "faute",
+     "e": "C'est faux. À l'instant de la frappe, la tête de la raquette doit être orientée vers le bas."
+    },
+    {
+     "q": "À la frappe du service au badminton, la tête de la raquette est orientée vers le bas.",
+     "r": "valable",
+     "e": "À l'instant de la frappe, la tête de la raquette doit être orientée vers le bas."
+    },
+    {
+     "q": "Au tennis de table, la balle est lancée verticalement à 5 cm minimum.",
+     "r": "faute",
+     "e": "C'est faux. La balle est lancée verticalement à 16 cm minimum."
+    },
+    {
+     "q": "Au tennis de table, la balle est lancée verticalement à 16 cm minimum.",
+     "r": "valable",
+     "e": "La balle est lancée verticalement à 16 cm minimum."
+    },
+    {
+     "q": "Au tennis de table, la balle est touchée dans sa phase descendante.",
+     "r": "valable",
+     "e": "La balle est touchée dans sa phase descendante."
+    },
+    {
+     "q": "Au tennis de table, la balle est touchée dans sa phase montante.",
+     "r": "faute",
+     "e": "C'est faux. La balle est touchée dans sa phase descendante."
+    },
+    {
+     "q": "Au tennis de table, le service en diagonale est obligatoire en double.",
+     "r": "valable",
+     "e": "Diagonale obligatoire pour le double mais pas obligatoirement pour le simple."
+    },
+    {
+     "q": "Au tennis de table, le service en diagonale est obligatoire en simple comme en double.",
+     "r": "faute",
+     "e": "C'est faux. Diagonale obligatoire pour le double mais pas obligatoirement pour le simple."
+    },
+    {
+     "q": "Au tennis de table, le service se fait poing fermé.",
+     "r": "faute",
+     "e": "C'est faux. Main à plat, pouce écarté, pour éviter les effets de balle."
+    },
+    {
+     "q": "Au tennis de table, le service se fait main à plat, pouce écarté.",
+     "r": "valable",
+     "e": "Main à plat, pouce écarté, pour éviter les effets de balle."
+    },
+    {
+     "q": "La prolongation commence par 4 points en badminton, puis 4 points en tennis de table.",
+     "r": "faute",
+     "e": "C'est faux. Prolongation du double mixte : tennis de table d'abord, badminton ensuite."
+    },
+    {
+     "q": "La prolongation commence par 4 points en tennis de table, puis 4 points en badminton.",
+     "r": "valable",
+     "e": "Prolongation du double mixte : tennis de table d'abord, badminton ensuite."
+    },
+    {
+     "q": "Si l'égalité persiste après la prolongation, la rencontre est déclarée nulle.",
+     "r": "faute",
+     "e": "C'est faux. Si l'égalité persiste : le point décisif."
+    },
+    {
+     "q": "Si l'égalité persiste après la prolongation, on joue un point décisif.",
+     "r": "valable",
+     "e": "Si l'égalité persiste : le point décisif."
+    },
+    {
+     "q": "Entre deux équipes à égalité en poule, on tire au sort pour les départager.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe ayant remporté la rencontre les opposant sera classée devant."
+    },
+    {
+     "q": "Entre deux équipes à égalité en poule, celle qui a remporté leur rencontre est classée devant.",
+     "r": "valable",
+     "e": "L'équipe ayant remporté la rencontre les opposant sera classée devant."
+    },
+    {
+     "q": "Entre trois équipes à égalité, on regarde d'abord le nombre de sets gagnés.",
+     "r": "faute",
+     "e": "C'est faux. D'abord le point-average, puis le plus grand nombre de sets gagnés."
+    },
+    {
+     "q": "Entre trois équipes à égalité, on regarde d'abord le point-average.",
+     "r": "valable",
+     "e": "D'abord le point-average, puis le plus grand nombre de sets gagnés."
+    },
+    {
+     "q": "Le responsable d'équipe n'a pas le droit de se trouver sur l'aire de jeu.",
+     "r": "valable",
+     "e": "Il va se placer dans les tribunes et ne peut ni intervenir ni donner de conseils."
+    },
+    {
+     "q": "Le responsable d'équipe peut rester sur l'aire de jeu s'il ne dit rien.",
+     "r": "faute",
+     "e": "C'est faux. Il va se placer dans les tribunes et ne peut ni intervenir ni donner de conseils."
+    },
+    {
+     "q": "Le Jeune Coach peut conseiller pendant les échanges.",
+     "r": "faute",
+     "e": "C'est faux. Les 15 dernières secondes de la pause sont annoncées par l'arbitre."
+    },
+    {
+     "q": "Le Jeune Coach conseille lors de la pause de 45 secondes au changement de côté.",
+     "r": "valable",
+     "e": "Les 15 dernières secondes de la pause sont annoncées par l'arbitre."
+    },
+    {
+     "q": "Un joueur blessé est remplacé immédiatement par un remplaçant.",
+     "r": "faute",
+     "e": "C'est faux. Il pourra seulement être remplacé lors des rencontres suivantes."
+    },
+    {
+     "q": "Un joueur blessé ne peut pas être remplacé pendant la rencontre.",
+     "r": "valable",
+     "e": "Il pourra seulement être remplacé lors des rencontres suivantes."
+    },
+    {
+     "q": "Un set non jouable à cause d'une blessure est perdu 15/0 par l'équipe du blessé.",
+     "r": "valable",
+     "e": "Les sets ne pouvant être joués seront perdus 15/0 par l'équipe du blessé."
+    },
+    {
+     "q": "Un set non jouable à cause d'une blessure est rejoué en fin de journée.",
+     "r": "faute",
+     "e": "C'est faux. Les sets ne pouvant être joués seront perdus 15/0 par l'équipe du blessé."
+    },
+    {
+     "q": "Le 3e incident antisportif d'un joueur entraîne un carton rouge.",
+     "r": "valable",
+     "e": "1er = avertissement verbal, 2e = carton jaune, 3e = carton rouge."
+    },
+    {
+     "q": "Le 2e incident antisportif d'un joueur entraîne un carton rouge.",
+     "r": "faute",
+     "e": "C'est faux. 1er = avertissement verbal, 2e = carton jaune, 3e = carton rouge."
+    },
+    {
+     "q": "Un responsable d'équipe peut recevoir un carton rouge et être exclu de la salle.",
+     "r": "valable",
+     "e": "Le responsable est sanctionné de la même façon : verbal, jaune, puis rouge avec exclusion de la salle."
+    },
+    {
+     "q": "Seuls les joueurs peuvent être sanctionnés ; le responsable ne l'est pas.",
+     "r": "faute",
+     "e": "C'est faux. Le responsable est sanctionné de la même façon : verbal, jaune, puis rouge avec exclusion de la salle."
+    },
+    {
+     "q": "Le responsable de l'équipe adverse décide si une tenue est correcte.",
+     "r": "faute",
+     "e": "C'est faux. Sanction : changement de tenue, sinon match perdu par forfait."
+    },
+    {
+     "q": "Seul le juge arbitre peut décider si une tenue est correcte.",
+     "r": "valable",
+     "e": "Sanction : changement de tenue, sinon match perdu par forfait."
+    },
+    {
+     "q": "L'arbitre adjoint n'a jamais le droit d'annoncer « OUT » ou « IN ».",
+     "r": "faute",
+     "e": "C'est faux. Il annonce OUT ou IN avec le geste approprié si le volant est dehors ou dedans."
+    },
+    {
+     "q": "L'arbitre adjoint annonce « OUT » ou « IN » en cas de litige.",
+     "r": "valable",
+     "e": "Il annonce OUT ou IN avec le geste approprié si le volant est dehors ou dedans."
+    },
+    {
+     "q": "Si une balle ou un volant traverse l'aire de jeu, l'échange continue.",
+     "r": "faute",
+     "e": "C'est faux. Il interrompt l'échange : volant ou balle à remettre."
+    },
+    {
+     "q": "Si une balle ou un volant traverse l'aire de jeu, l'arbitre lève la main au-dessus de la tête.",
+     "r": "valable",
+     "e": "Il interrompt l'échange : volant ou balle à remettre."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "bike-and-run-3",
+ "titre": "Zone dépose vélos, arrivée & sanctions",
+ "sousTitre": "Quiz Jeune Arbitre Run & Bike",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT RUN & BIKE UNSS",
+ "sport": "bike-and-run",
+ "source": "https://eloquent-gingersnap-a8631b.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La dépose des VTT en dehors des zones prévues est interdite.",
+     "r": "valable",
+     "e": "La dépose des VTT en dehors des zones d'échange imposées est interdite."
+    },
+    {
+     "q": "La dépose des VTT est libre n'importe où sur le parcours.",
+     "r": "faute",
+     "e": "La dépose est au contraire limitée aux zones d'échange prévues."
+    },
+    {
+     "q": "Le vélo doit être suspendu par la selle en zone de dépose.",
+     "r": "valable",
+     "e": "Le vélo doit être suspendu par la SELLE, avec la plaque de cadre visible."
+    },
+    {
+     "q": "Le vélo peut être posé au sol de n'importe quelle façon en zone de dépose.",
+     "r": "faute",
+     "e": "Le vélo doit être suspendu par la selle, pas posé librement au sol."
+    },
+    {
+     "q": "La plaque de cadre doit être parfaitement visible en zone de dépose.",
+     "r": "valable",
+     "e": "La plaque de cadre frontale doit être parfaitement visible par celui qui viendra récupérer le vélo."
+    },
+    {
+     "q": "La plaque de cadre n'a pas besoin d'être visible en zone de dépose.",
+     "r": "faute",
+     "e": "La plaque doit au contraire être parfaitement visible."
+    },
+    {
+     "q": "Le juge de zone dépose vélos vérifie la concordance entre la chasuble et la plaque du vélo.",
+     "r": "valable",
+     "e": "Je vérifie la concordance entre le numéro de chasuble du coureur et la plaque du vélo déposé."
+    },
+    {
+     "q": "Le juge de zone dépose vélos ne contrôle jamais la concordance des numéros.",
+     "r": "faute",
+     "e": "Le contrôle de concordance chasuble/plaque est justement sa mission principale."
+    },
+    {
+     "q": "Il existe 2 types d'échange de vélo : mains à mains, ou zones « gagne-terrain » imposées.",
+     "r": "valable",
+     "e": "L'échange peut se faire librement de mains à mains, ou en zones parking imposées type triparc."
+    },
+    {
+     "q": "Il n'existe qu'un seul type d'échange de vélo autorisé en Run & Bike.",
+     "r": "faute",
+     "e": "Deux types d'échange coexistent : mains à mains et zones imposées."
+    },
+    {
+     "q": "En cas de panne mécanique, le concurrent doit ramener son vélo au box, à pied.",
+     "r": "valable",
+     "e": "En cas de problème mécanique, le concurrent finit le tour à pied et ramène obligatoirement le vélo au box."
+    },
+    {
+     "q": "En cas de panne mécanique, le concurrent peut abandonner son vélo sur le circuit.",
+     "r": "faute",
+     "e": "Le vélo doit obligatoirement être ramené au box, jamais abandonné sur le circuit."
+    },
+    {
+     "q": "Sur le circuit, l'entraide entre les 2 coéquipiers d'un binôme est autorisée.",
+     "r": "valable",
+     "e": "Sur le circuit, l'entraide entre les 2 coéquipiers est autorisée."
+    },
+    {
+     "q": "Les coéquipiers d'un binôme doivent rester groupés en permanence sur le circuit.",
+     "r": "faute",
+     "e": "Ils peuvent être séparés sur l'ensemble du circuit, sauf à l'entrée du parc."
+    },
+    {
+     "q": "L'entrée du parc est le seul endroit où les coéquipiers doivent être regroupés.",
+     "r": "valable",
+     "e": "L'entrée du parc est le seul point du circuit où le regroupement est obligatoire."
+    },
+    {
+     "q": "Les coéquipiers doivent être regroupés partout sauf à l'entrée du parc.",
+     "r": "faute",
+     "e": "C'est l'inverse : ils sont libres partout, sauf à l'entrée du parc où ils doivent être groupés."
+    },
+    {
+     "q": "En Run & Bike, les 2 dernières concurrentes empruntent directement le couloir d'arrivée.",
+     "r": "valable",
+     "e": "À l'issue du dernier tour, les 2 concurrentes du binôme final empruntent directement le couloir d'arrivée."
+    },
+    {
+     "q": "En Run & Bike, toutes les concurrentes repassent systématiquement par leur box avant l'arrivée.",
+     "r": "faute",
+     "e": "Seul le dernier binôme va directement au couloir d'arrivée, sans repasser par le box."
+    },
+    {
+     "q": "Les concurrentes du dernier binôme doivent franchir la ligne d'arrivée ensemble.",
+     "r": "valable",
+     "e": "Elles doivent franchir la ligne ensemble, à pied côte à côte ou vététiste et coureuse côte à côte."
+    },
+    {
+     "q": "Chaque concurrente du dernier binôme franchit la ligne séparément, à son rythme.",
+     "r": "faute",
+     "e": "Elles doivent franchir la ligne ensemble, pas séparément."
+    },
+    {
+     "q": "Si une concurrente est en avance, elle doit attendre sa partenaire avant la ligne.",
+     "r": "valable",
+     "e": "La concurrente en avance doit attendre sa partenaire avant de franchir la ligne."
+    },
+    {
+     "q": "Si une concurrente est en avance, elle franchit seule la ligne d'arrivée.",
+     "r": "faute",
+     "e": "Elle doit au contraire attendre sa partenaire avant la ligne."
+    },
+    {
+     "q": "Si elles sont séparées à l'arrivée, c'est le buste de la dernière concurrente qui fait référence.",
+     "r": "valable",
+     "e": "En cas de franchissement séparé, c'est le buste de la dernière concurrente qui fait référence au classement."
+    },
+    {
+     "q": "Si elles sont séparées à l'arrivée, c'est toujours le buste de la première qui fait référence.",
+     "r": "faute",
+     "e": "C'est le buste de la dernière qui fait référence lorsqu'elles sont séparées."
+    },
+    {
+     "q": "Si elles arrivent ensemble, c'est le buste de la première concurrente qui fait référence.",
+     "r": "valable",
+     "e": "Lorsqu'elles franchissent la ligne ensemble, c'est le buste de la première qui fait référence."
+    },
+    {
+     "q": "Si elles arrivent ensemble, c'est le buste de la dernière concurrente qui fait référence.",
+     "r": "faute",
+     "e": "C'est le buste de la première qui fait référence lorsqu'elles arrivent ensemble."
+    },
+    {
+     "q": "En cas d'ex-aequo, l'équipe ayant l'athlète le plus jeune est déclarée vainqueur.",
+     "r": "valable",
+     "e": "En cas d'ex-aequo, l'équipe vainqueur est celle qui a l'athlète le plus jeune."
+    },
+    {
+     "q": "En cas d'ex-aequo, un tirage au sort désigne l'équipe vainqueur.",
+     "r": "faute",
+     "e": "Le critère de départage est l'âge du plus jeune athlète, pas un tirage au sort."
+    },
+    {
+     "q": "Pour une arrivée à 4, la zone d'attente doit être rejointe 2 minutes avant le chrono final.",
+     "r": "valable",
+     "e": "Les coéquipiers en attente rejoignent la zone d'attente 2 minutes avant le chrono final de leur équipe."
+    },
+    {
+     "q": "Pour une arrivée à 4, aucune zone d'attente n'est prévue par le règlement.",
+     "r": "faute",
+     "e": "Une zone d'attente est bien matérialisée en début de couloir pour ce cas précis."
+    },
+    {
+     "q": "L'arbitre affecté à la zone d'attente autorise l'engagement dans le couloir d'arrivée.",
+     "r": "valable",
+     "e": "L'arbitre affecté à cette zone autorise ou non l'engagement selon les circonstances de course."
+    },
+    {
+     "q": "N'importe quel spectateur peut autoriser l'engagement dans le couloir d'arrivée.",
+     "r": "faute",
+     "e": "Seul l'arbitre affecté à cette zone peut autoriser cet engagement."
+    },
+    {
+     "q": "L'aiguilleur final oriente les relayeurs intermédiaires vers le parc.",
+     "r": "valable",
+     "e": "L'aiguilleur final indique aux relayeurs intermédiaires le retour vers le parc."
+    },
+    {
+     "q": "L'aiguilleur final oriente tous les relayeurs vers l'arrivée, sans exception.",
+     "r": "faute",
+     "e": "Seul le dernier binôme est orienté vers l'arrivée, les autres retournent au parc."
+    },
+    {
+     "q": "Seul le dernier binôme est dirigé vers le couloir d'arrivée.",
+     "r": "valable",
+     "e": "Seules les 2 dernières concurrentes, à l'issue du dernier tour, sont dirigées vers le couloir d'arrivée."
+    },
+    {
+     "q": "Tous les binômes sont dirigés vers le couloir d'arrivée à chaque tour.",
+     "r": "faute",
+     "e": "Seul le dernier binôme est dirigé vers l'arrivée ; les autres reviennent au parc à chaque tour."
+    },
+    {
+     "q": "Un carton jaune « stop & go » permet une remise en conformité, avec décompte de temps.",
+     "r": "valable",
+     "e": "Le carton jaune stop & go permet une remise en conformité de la faute, avec décompte de temps."
+    },
+    {
+     "q": "Un carton jaune n'a aucune conséquence sur le temps de course.",
+     "r": "faute",
+     "e": "Le carton jaune stop & go entraîne un décompte de temps, contrairement à un simple avertissement."
+    },
+    {
+     "q": "Un carton orange peut entraîner une pénalité de 3 minutes ou une disqualification.",
+     "r": "valable",
+     "e": "Une équipe sanctionnée par un carton orange est passible d'une pénalité de 3' ou d'une disqualification."
+    },
+    {
+     "q": "Un carton orange n'entraîne qu'un simple avertissement, sans autre conséquence.",
+     "r": "faute",
+     "e": "Le carton orange entraîne une pénalité de temps ou une disqualification, pas un simple avertissement."
+    },
+    {
+     "q": "Un concurrent peut être disqualifié sans avertissement préalable si la faute le justifie.",
+     "r": "valable",
+     "e": "Un concurrent peut être disqualifié directement, sans avertissement préalable, si la faute le justifie."
+    },
+    {
+     "q": "Un avertissement est toujours obligatoire avant toute disqualification.",
+     "r": "faute",
+     "e": "Une disqualification directe est possible sans avertissement préalable, si la faute le justifie."
+    },
+    {
+     "q": "Seuls les Jeunes Arbitres et les adultes chargés de l'arbitrage peuvent appliquer les sanctions.",
+     "r": "valable",
+     "e": "Seuls les JA et les arbitres adultes (arbitre principal, arbitres assesseurs) peuvent appliquer ces sanctions."
+    },
+    {
+     "q": "N'importe quel spectateur peut appliquer une sanction à un concurrent.",
+     "r": "faute",
+     "e": "Seuls les Jeunes Arbitres et les arbitres adultes sont habilités à sanctionner."
+    },
+    {
+     "q": "Toute réclamation doit être déposée dans les 20 minutes après l'arrivée du dernier concurrent.",
+     "r": "valable",
+     "e": "Le délai réglementaire de réclamation est de 20 minutes après l'arrivée du dernier concurrent."
+    },
+    {
+     "q": "Une réclamation peut être déposée jusqu'au lendemain matin.",
+     "r": "faute",
+     "e": "Le délai est strictement de 20 minutes après l'arrivée du dernier concurrent."
+    },
+    {
+     "q": "Une équipe sport partagé tandem est composée de 4 élèves en situation de handicap et 4 valides.",
+     "r": "valable",
+     "e": "L'équipe sport partagé tandem compte 8 compétiteurs : 4 ESH et 4 valides, répartis en binômes tandem."
+    },
+    {
+     "q": "Une équipe sport partagé tandem est composée uniquement d'élèves valides.",
+     "r": "faute",
+     "e": "L'équipe tandem associe obligatoirement des élèves en situation de handicap et des élèves valides."
+    },
+    {
+     "q": "La composition de l'équipe est annoncée à l'organisateur la veille de l'épreuve, au secrétariat.",
+     "r": "valable",
+     "e": "La composition de l'équipe et l'ordre de passage sont annoncés la veille, au secrétariat."
+    },
+    {
+     "q": "La composition de l'équipe peut être modifiée à tout moment pendant la course.",
+     "r": "faute",
+     "e": "La composition est fixée la veille de l'épreuve, pas modifiable pendant la course."
+    }
+   ]
+  }
+ ]
+}

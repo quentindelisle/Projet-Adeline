@@ -1,0 +1,265 @@
+{
+ "id": "surf-1",
+ "titre": "Organisation & sécurité",
+ "sousTitre": "Quiz Jeune Officiel Surf",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT SURF UNSS",
+ "sport": "surf",
+ "source": "https://elaborate-sfogliatella-2c201a.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Une compétition de surf UNSS se déroule sous forme de relais appelé tag-team.",
+     "r": "valable",
+     "e": "Cette formule en relais, appelée tag-team, caractérise la compétition de surf UNSS."
+    },
+    {
+     "q": "Une compétition de surf UNSS se déroule uniquement en individuel.",
+     "r": "faute",
+     "e": "La compétition se déroule en équipe, sous forme de relais (tag-team), pas en individuel."
+    },
+    {
+     "q": "Une équipe est composée de 4 compétiteurs dont un jeune coach.",
+     "r": "valable",
+     "e": "Les équipes sont composées de 4 compétiteurs dont un jeune coach, accompagnés d'un jeune juge non-compétiteur."
+    },
+    {
+     "q": "Une équipe est composée de 6 compétiteurs sans coach.",
+     "r": "faute",
+     "e": "L'équipe compte 4 compétiteurs dont un jeune coach, pas 6 sans coach."
+    },
+    {
+     "q": "L'équipe doit être mixte, avec 2 garçons maximum.",
+     "r": "valable",
+     "e": "Cette équipe est obligatoirement mixte (2 garçons maximum)."
+    },
+    {
+     "q": "L'équipe peut être composée uniquement de garçons.",
+     "r": "faute",
+     "e": "L'équipe doit être mixte, elle ne peut pas être composée uniquement de garçons."
+    },
+    {
+     "q": "Toute équipe incomplète au départ de la série ne peut pas participer.",
+     "r": "valable",
+     "e": "Toute équipe incomplète au départ de la série ne peut pas participer."
+    },
+    {
+     "q": "Une équipe incomplète peut participer si elle prévient à l'avance.",
+     "r": "faute",
+     "e": "Aucune exception n'est prévue : l'équipe incomplète ne peut pas participer."
+    },
+    {
+     "q": "Le port du lycra de compétition est obligatoire à l'eau.",
+     "r": "valable",
+     "e": "Le port du lycra de compétition est obligatoire à l'eau."
+    },
+    {
+     "q": "Le port du lycra est facultatif.",
+     "r": "faute",
+     "e": "Le lycra est au contraire obligatoire à l'eau."
+    },
+    {
+     "q": "Le jeune coach porte un brassard orange pour être identifié.",
+     "r": "valable",
+     "e": "Pour identifier le coach en tant que tel, celui-ci porte un brassard orange."
+    },
+    {
+     "q": "Le jeune coach porte un brassard vert.",
+     "r": "faute",
+     "e": "Le brassard du coach est orange, pas vert (le vert identifie le Jeune Arbitre/Jeune Juge)."
+    },
+    {
+     "q": "Le Jeune Arbitre / Jeune Juge est identifié par un polo de couleur verte.",
+     "r": "valable",
+     "e": "Le Jeune Arbitre / Jeune Juge est identifié par un polo de couleur verte."
+    },
+    {
+     "q": "Le Jeune Arbitre est identifié par un polo rouge.",
+     "r": "faute",
+     "e": "Le polo d'identification est vert, pas rouge."
+    },
+    {
+     "q": "La durée de la série est au minimum de 40 minutes.",
+     "r": "valable",
+     "e": "La durée de la série est au minimum de 40 minutes."
+    },
+    {
+     "q": "La durée de la série est au minimum de 10 minutes.",
+     "r": "faute",
+     "e": "Le minimum réglementaire est de 40 minutes, pas 10."
+    },
+    {
+     "q": "La durée de la série peut être modifiée d'un tour à l'autre.",
+     "r": "valable",
+     "e": "Cette durée est susceptible d'être modifiée d'un tour à l'autre."
+    },
+    {
+     "q": "La durée de la série est toujours fixe, jamais modifiée.",
+     "r": "faute",
+     "e": "La durée peut au contraire être modifiée d'un tour à l'autre."
+    },
+    {
+     "q": "Au moins 2 shortboards doivent être présents dans l'équipe.",
+     "r": "valable",
+     "e": "Il doit y avoir au moins 2 shortboards dans l'équipe."
+    },
+    {
+     "q": "Aucun shortboard n'est obligatoire dans l'équipe.",
+     "r": "faute",
+     "e": "Au moins 2 shortboards sont obligatoires dans l'équipe."
+    },
+    {
+     "q": "Le support ne peut pas être changé en cours de série, sauf bris de matériel.",
+     "r": "valable",
+     "e": "Le support ne peut pas être changé au cours de la série, sauf bris de matériel."
+    },
+    {
+     "q": "Le support peut être changé librement à tout moment.",
+     "r": "faute",
+     "e": "Le changement de support n'est autorisé qu'en cas de bris de matériel."
+    },
+    {
+     "q": "Le longboard autorisé doit faire moins de 9 pieds.",
+     "r": "valable",
+     "e": "Les longboards autorisés doivent faire moins de 9 pieds."
+    },
+    {
+     "q": "Le longboard autorisé n'a aucune limite de taille.",
+     "r": "faute",
+     "e": "Le longboard doit faire moins de 9 pieds, une limite existe bien."
+    },
+    {
+     "q": "La zone de compétition est délimitée par 2 fanions ou des repères fixes.",
+     "r": "valable",
+     "e": "La zone de compétition est délimitée par des repères rapportés (drapeaux/fanions) ou fixes."
+    },
+    {
+     "q": "La zone de compétition n'est jamais délimitée.",
+     "r": "faute",
+     "e": "La zone de compétition est toujours délimitée, par des fanions ou repères fixes."
+    },
+    {
+     "q": "Le surfeur doit commencer sa vague dans la zone de compétition.",
+     "r": "valable",
+     "e": "Pour être jugé, le surfeur doit avoir commencé sa vague dans la zone de compétition."
+    },
+    {
+     "q": "Le surfeur peut commencer sa vague n'importe où, y compris hors zone.",
+     "r": "faute",
+     "e": "Les vagues dont le point de départ est hors zone ne sont pas comptabilisées."
+    },
+    {
+     "q": "Le surfeur peut finir sa vague hors de la zone de compétition.",
+     "r": "valable",
+     "e": "Le surfeur peut finir sa vague hors de la zone, tant qu'il l'a commencée dans la zone."
+    },
+    {
+     "q": "Le surfeur doit rester dans la zone toute la vague, sans exception.",
+     "r": "faute",
+     "e": "Il peut finir sa vague hors de la zone de compétition."
+    },
+    {
+     "q": "Un panneau vert + 1 coup de trompe signale le début de série.",
+     "r": "valable",
+     "e": "Le début de série (déclenchement du chronomètre) est signalé par un panneau vert et 1 coup de trompe."
+    },
+    {
+     "q": "Un panneau rouge + 1 coup de trompe signale le début de série.",
+     "r": "faute",
+     "e": "Le début de série est signalé par un panneau vert, pas rouge."
+    },
+    {
+     "q": "Un panneau jaune ou orange signale les 5 dernières minutes.",
+     "r": "valable",
+     "e": "Les 5 dernières minutes sont signalées par un panneau jaune ou orange."
+    },
+    {
+     "q": "Un panneau bleu signale les 5 dernières minutes.",
+     "r": "faute",
+     "e": "Ce sont un panneau jaune ou orange qui signalent les 5 dernières minutes, pas le bleu."
+    },
+    {
+     "q": "La fin de série est signalée par un panneau effacé et 2 coups de trompe brefs.",
+     "r": "valable",
+     "e": "La fin de série est signalée par un panneau effacé et 2 coups de trompe brefs."
+    },
+    {
+     "q": "La fin de série est signalée par un seul coup de trompe long.",
+     "r": "faute",
+     "e": "La fin de série se signale par 2 coups de trompe brefs, pas un seul coup long."
+    },
+    {
+     "q": "Un drapeau rouge hissé et 3 coups de trompe imposent la sortie de l'eau obligatoire.",
+     "r": "valable",
+     "e": "Le drapeau rouge hissé (ou disque rouge) et 3 coups de trompe imposent la sortie de l'eau."
+    },
+    {
+     "q": "Un drapeau blanc signale la sortie de l'eau obligatoire.",
+     "r": "faute",
+     "e": "C'est le drapeau rouge qui signale la sortie de l'eau obligatoire ; le drapeau blanc sert à signaler une interférence."
+    },
+    {
+     "q": "Le free surf doit se dérouler en dehors des zones de compétition.",
+     "r": "valable",
+     "e": "Le surf libre doit se dérouler obligatoirement et intégralement en dehors des zones de compétition."
+    },
+    {
+     "q": "Le free surf peut se dérouler dans la zone de compétition.",
+     "r": "faute",
+     "e": "Le surf libre doit au contraire se dérouler en dehors des zones de compétition."
+    },
+    {
+     "q": "Un surfeur qui entre en zone de compétition pendant le surf libre disqualifie son équipe.",
+     "r": "valable",
+     "e": "Tout surfeur qui rentre dans la zone de compétition en surf libre disqualifie son équipe du championnat."
+    },
+    {
+     "q": "Un surfeur en surf libre peut entrer dans la zone de compétition sans conséquence.",
+     "r": "faute",
+     "e": "Cela entraîne au contraire la disqualification de son équipe."
+    },
+    {
+     "q": "Chaque compétiteur doit avoir sa propre planche et une combinaison.",
+     "r": "valable",
+     "e": "Chaque compétiteur doit avoir à sa disposition sa propre planche et une combinaison."
+    },
+    {
+     "q": "Le matériel peut être partagé entre compétiteurs pendant la série.",
+     "r": "faute",
+     "e": "Chaque compétiteur doit disposer de sa propre planche, pas de matériel partagé."
+    },
+    {
+     "q": "Une paire de palmes est nécessaire pour l'usage d'un bodyboard.",
+     "r": "valable",
+     "e": "Une paire de palmes est nécessaire pour l'usage d'un bodyboard."
+    },
+    {
+     "q": "Les palmes sont interdites en bodyboard.",
+     "r": "faute",
+     "e": "Les palmes sont au contraire nécessaires pour l'usage d'un bodyboard."
+    },
+    {
+     "q": "7 filières existent, dont excellence, établissement, lycées professionnels et sport partagé.",
+     "r": "valable",
+     "e": "7 filières existent : excellence collèges/lycées, établissement collèges/lycées, lycées professionnels, sport partagé collège/lycée."
+    },
+    {
+     "q": "Il n'existe qu'une seule filière pour toutes les équipes.",
+     "r": "faute",
+     "e": "Il existe 7 filières distinctes, pas une seule."
+    },
+    {
+     "q": "La présence des accompagnateurs est interdite au cours de la série.",
+     "r": "valable",
+     "e": "La présence des accompagnateurs est interdite au cours de la série."
+    },
+    {
+     "q": "Les accompagnateurs peuvent se tenir dans la zone de compétition pendant la série.",
+     "r": "faute",
+     "e": "Les accompagnateurs doivent se situer au-delà de la zone de compétition délimitée par la rubalise."
+    }
+   ]
+  }
+ ]
+}

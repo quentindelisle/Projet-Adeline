@@ -1,0 +1,265 @@
+{
+ "id": "vtt-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre VTT",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT VTT UNSS",
+ "sport": "vtt",
+ "source": "https://imaginative-squirrel-b976b6.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le non-port du casque donne 1 point de pénalité.",
+     "r": "faute",
+     "e": "C'est faux. Le non-port du casque par les compétiteurs ou accompagnateurs : 5 points de pénalité à chaque constatation."
+    },
+    {
+     "q": "Le non-port du casque donne 5 points de pénalité.",
+     "r": "valable",
+     "e": "Le non-port du casque par les compétiteurs ou accompagnateurs : 5 points de pénalité à chaque constatation."
+    },
+    {
+     "q": "Le matériel non conforme entraîne 5 points de pénalité seulement.",
+     "r": "faute",
+     "e": "C'est faux. Barème : matériel non conforme = départ interdit."
+    },
+    {
+     "q": "Le matériel non conforme entraîne un départ interdit.",
+     "r": "valable",
+     "e": "Barème : matériel non conforme = départ interdit."
+    },
+    {
+     "q": "Un geste antisportif entraîne la disqualification de l'épreuve et le retrait de l'équipe du classement général.",
+     "r": "valable",
+     "e": "Même sanction pour la tricherie et le manquement grave aux règles de sécurité."
+    },
+    {
+     "q": "Un geste antisportif entraîne un simple avertissement.",
+     "r": "faute",
+     "e": "C'est faux. Même sanction pour la tricherie et le manquement grave aux règles de sécurité."
+    },
+    {
+     "q": "Une équipe incomplète est déclassée, sauf en cas d'abandon en cours d'épreuve.",
+     "r": "valable",
+     "e": "Barème : équipe incomplète = déclassement."
+    },
+    {
+     "q": "Une équipe incomplète est toujours classée normalement.",
+     "r": "faute",
+     "e": "C'est faux. Barème : équipe incomplète = déclassement."
+    },
+    {
+     "q": "Le changement de vélo en cours d'épreuve est autorisé en cas de bris de matériel, sur accord de la CMN.",
+     "r": "valable",
+     "e": "Le VTT de remplacement doit être de même type et/ou de même gamme."
+    },
+    {
+     "q": "Le changement de vélo en cours d'épreuve est toujours interdit, même en cas de bris de matériel.",
+     "r": "faute",
+     "e": "C'est faux. Le VTT de remplacement doit être de même type et/ou de même gamme."
+    },
+    {
+     "q": "La reconnaissance du trial se fait à pied, à l'intérieur des zones, une heure avant l'épreuve.",
+     "r": "valable",
+     "e": "Il est strictement interdit de toucher aux obstacles sous peine de disqualification."
+    },
+    {
+     "q": "La reconnaissance du trial se fait à VTT la veille.",
+     "r": "faute",
+     "e": "C'est faux. Il est strictement interdit de toucher aux obstacles sous peine de disqualification."
+    },
+    {
+     "q": "Toucher aux obstacles lors de la reconnaissance du trial est puni de 5 points de pénalité.",
+     "r": "faute",
+     "e": "C'est faux. La reconnaissance est réservée aux seuls concurrents."
+    },
+    {
+     "q": "Toucher aux obstacles lors de la reconnaissance du trial est puni de disqualification.",
+     "r": "valable",
+     "e": "La reconnaissance est réservée aux seuls concurrents."
+    },
+    {
+     "q": "Au trial, la rubalise est placée à environ 20 cm de hauteur.",
+     "r": "valable",
+     "e": "Tolérance de plus ou moins 5 cm."
+    },
+    {
+     "q": "Au trial, la rubalise est placée à environ 1,50 m de hauteur.",
+     "r": "faute",
+     "e": "C'est faux. Tolérance de plus ou moins 5 cm."
+    },
+    {
+     "q": "Au trial, une partie du corps au-dessus de la rubalise n'est pas sanctionnée.",
+     "r": "valable",
+     "e": "La rubalise délimite un chemin de progression suffisamment large."
+    },
+    {
+     "q": "Au trial, une partie du vélo au-dessus de la rubalise est sanctionnée.",
+     "r": "faute",
+     "e": "C'est faux. La rubalise délimite un chemin de progression suffisamment large."
+    },
+    {
+     "q": "Au trial, les segments à 3 points des deux premières zones doivent pouvoir se faire en enroulé.",
+     "r": "valable",
+     "e": "Pour les trois zones suivantes, cette obligation n'existe pas."
+    },
+    {
+     "q": "Au trial, tous les segments à 3 points doivent pouvoir se faire en enroulé.",
+     "r": "faute",
+     "e": "C'est faux. Pour les trois zones suivantes, cette obligation n'existe pas."
+    },
+    {
+     "q": "Au trial, un segment à 5 points de la zone C est équivalent à un segment à 5 points de la zone E.",
+     "r": "valable",
+     "e": "Il doit y avoir équivalence de difficulté."
+    },
+    {
+     "q": "Au trial, un segment à 5 points de la zone C est plus facile que celui de la zone E.",
+     "r": "faute",
+     "e": "C'est faux. Il doit y avoir équivalence de difficulté."
+    },
+    {
+     "q": "Au trial, un concurrent peut faire 3 passages sur une même zone sur les deux jours.",
+     "r": "valable",
+     "e": "Il peut donc « tripler » une zone déjà faite."
+    },
+    {
+     "q": "Au trial, un concurrent peut faire 10 passages sur une même zone.",
+     "r": "faute",
+     "e": "C'est faux. Il peut donc « tripler » une zone déjà faite."
+    },
+    {
+     "q": "Au trial, le marqueur de la CMN tient la fiche de suivi de chaque équipe.",
+     "r": "faute",
+     "e": "C'est faux. La fiche doit être signée par le responsable de zone."
+    },
+    {
+     "q": "Au trial, le jeune coach contrôle le nombre de passages et tient la fiche de suivi.",
+     "r": "valable",
+     "e": "La fiche doit être signée par le responsable de zone."
+    },
+    {
+     "q": "Pour un championnat de France à 3 jours, les points de trial de l'équipe additionnent 24 zones.",
+     "r": "valable",
+     "e": "Les points de l'équipe correspondent à l'addition de tous les points des 24 zones des 4 concurrents."
+    },
+    {
+     "q": "Pour un championnat de France à 3 jours, les points de trial de l'équipe additionnent 5 zones.",
+     "r": "faute",
+     "e": "C'est faux. Les points de l'équipe correspondent à l'addition de tous les points des 24 zones des 4 concurrents."
+    },
+    {
+     "q": "Après une casse dans un segment, un concurrent qui en sort sans poser le pied marque les points du segment.",
+     "r": "valable",
+     "e": "S'il pose le pied dans le segment, il marque 0 point."
+    },
+    {
+     "q": "Après une casse dans un segment, un concurrent qui en sort marque toujours 0 point.",
+     "r": "faute",
+     "e": "C'est faux. S'il pose le pied dans le segment, il marque 0 point."
+    },
+    {
+     "q": "Le trial reprend, après réparation, dans le segment où le pied a été posé, au moment choisi par le jeune arbitre.",
+     "r": "valable",
+     "e": "Le concurrent perd les points du segment où il s'est arrêté mais conserve les précédents."
+    },
+    {
+     "q": "Le trial reprend, après réparation, au début de la zone.",
+     "r": "faute",
+     "e": "C'est faux. Le concurrent perd les points du segment où il s'est arrêté mais conserve les précédents."
+    },
+    {
+     "q": "Au rallye enduro, un repérage à pied sur le parcours n'est jamais autorisé.",
+     "r": "valable",
+     "e": "Un repérage à pied en dehors du parcours est possible si l'organisateur met en place un parcours en dehors de la trace."
+    },
+    {
+     "q": "Au rallye enduro, la reconnaissance des spéciales se fait à pied.",
+     "r": "faute",
+     "e": "C'est faux. Un repérage à pied en dehors du parcours est possible si l'organisateur met en place un parcours en dehors de la trace."
+    },
+    {
+     "q": "Au rallye enduro, l'accompagnateur doit avoir un téléphone chargé et une trousse de premiers secours.",
+     "r": "valable",
+     "e": "Il porte aussi un nécessaire de réparation minimum et est casqué."
+    },
+    {
+     "q": "Au rallye enduro, l'accompagnateur n'a pas besoin de matériel.",
+     "r": "faute",
+     "e": "C'est faux. Il porte aussi un nécessaire de réparation minimum et est casqué."
+    },
+    {
+     "q": "Au rallye enduro, toutes les équipes s'élancent en même temps.",
+     "r": "faute",
+     "e": "C'est faux. À l'appréciation de l'organisateur."
+    },
+    {
+     "q": "Au rallye enduro, les équipes s'élancent toutes les 1'30 à 2'00.",
+     "r": "valable",
+     "e": "À l'appréciation de l'organisateur."
+    },
+    {
+     "q": "Au rallye enduro, la spéciale dure entre 10 et 15 minutes pour les meilleurs.",
+     "r": "faute",
+     "e": "C'est faux. Les spéciales doivent privilégier le pilotage."
+    },
+    {
+     "q": "Au rallye enduro, la spéciale dure entre 50'' et 1' pour les meilleurs.",
+     "r": "valable",
+     "e": "Les spéciales doivent privilégier le pilotage."
+    },
+    {
+     "q": "Au rallye enduro, l'équipe doit arriver avec 4 concurrents et son accompagnateur pour être classée.",
+     "r": "valable",
+     "e": "Une équipe arrivée hors délais subit une pénalité de temps."
+    },
+    {
+     "q": "Au rallye enduro, l'équipe peut arriver sans l'accompagnateur.",
+     "r": "faute",
+     "e": "C'est faux. Une équipe arrivée hors délais subit une pénalité de temps."
+    },
+    {
+     "q": "Au rallye enduro, un concurrent qui casse peut terminer son épreuve en poussant son VTT.",
+     "r": "valable",
+     "e": "L'équipe doit rentrer dans les temps limites."
+    },
+    {
+     "q": "Au rallye enduro, un concurrent qui casse doit abandonner.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe doit rentrer dans les temps limites."
+    },
+    {
+     "q": "Au cross-relais, le dénivelé positif maximal est de 80 m en collège et 100 m en lycée.",
+     "r": "valable",
+     "e": "Le parcours mesure environ 2 à 2,5 km."
+    },
+    {
+     "q": "Au cross-relais, le dénivelé positif maximal est de 500 m en collège.",
+     "r": "faute",
+     "e": "C'est faux. Le parcours mesure environ 2 à 2,5 km."
+    },
+    {
+     "q": "Au relais, la zone ZEBRA mesure environ 10 m sur 5 m.",
+     "r": "valable",
+     "e": "Le pilote descend du vélo, les deux pieds au sol, avant l'entrée de la zone de relais."
+    },
+    {
+     "q": "Au relais, la zone ZEBRA mesure environ 100 m sur 50 m.",
+     "r": "faute",
+     "e": "C'est faux. Le pilote descend du vélo, les deux pieds au sol, avant l'entrée de la zone de relais."
+    },
+    {
+     "q": "Au relais en tandem (sport partagé), il y a 5 tours par équipe.",
+     "r": "valable",
+     "e": "Chaque équipage doit réaliser au moins 2 tours ; en autonome : 8 tours, 2 par compétiteur."
+    },
+    {
+     "q": "Au relais en tandem (sport partagé), il y a 10 tours par équipe.",
+     "r": "faute",
+     "e": "C'est faux. Chaque équipage doit réaliser au moins 2 tours ; en autonome : 8 tours, 2 par compétiteur."
+    }
+   ]
+  }
+ ]
+}

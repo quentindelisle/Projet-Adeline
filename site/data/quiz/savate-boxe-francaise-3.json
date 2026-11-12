@@ -1,0 +1,265 @@
+{
+ "id": "savate-boxe-francaise-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre/Juge Savate Boxe Française",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT SAVATE BOXE FRANÇAISE UNSS",
+ "sport": "savate-boxe-francaise",
+ "source": "https://incomparable-cucurucho-8df811.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Dans le classement par poule, la victoire rapporte 3 points.",
+     "r": "valable",
+     "e": "La victoire rapporte 3 points."
+    },
+    {
+     "q": "Dans le classement par poule, la victoire rapporte 5 points.",
+     "r": "faute",
+     "e": "La victoire rapporte 3 points, pas 5."
+    },
+    {
+     "q": "Dans le classement par poule, la défaite rapporte 1 point.",
+     "r": "valable",
+     "e": "La défaite 1 point."
+    },
+    {
+     "q": "Dans le classement par poule, la défaite rapporte 0 point.",
+     "r": "faute",
+     "e": "La défaite rapporte 1 point ; c'est le forfait ou la disqualification qui rapportent 0 point."
+    },
+    {
+     "q": "Le forfait ou la disqualification rapportent 0 point dans le classement par poule.",
+     "r": "valable",
+     "e": "Le forfait ou disqualification 0 point."
+    },
+    {
+     "q": "Le forfait ou la disqualification rapportent 1 point, comme une défaite.",
+     "r": "faute",
+     "e": "Le forfait ou la disqualification rapportent 0 point, pas 1 point comme une défaite."
+    },
+    {
+     "q": "En cas d'égalité entre deux tireurs d'une même poule, le premier critère est le résultat de leur rencontre directe.",
+     "r": "valable",
+     "e": "En cas d'égalité obtenue entre deux tireurs d'une même poule : 1- le résultat des rencontres qui ont opposés les tireurs."
+    },
+    {
+     "q": "En cas d'égalité entre deux tireurs, seul le tireur le plus jeune est départagé, sans autre critère.",
+     "r": "faute",
+     "e": "Le premier critère est le résultat de la rencontre directe, l'âge n'intervient qu'en 3ème critère."
+    },
+    {
+     "q": "Pour une poule de 5 tireurs, les points de classement par équipe sont 5-4-3-2-1.",
+     "r": "valable",
+     "e": "Poule de 5 : 5 – 4 – 3 – 2 – 1."
+    },
+    {
+     "q": "Pour une poule de 5 tireurs, les points de classement par équipe sont 5-3-2-1-0.",
+     "r": "faute",
+     "e": "Le barème pour une poule de 5 est 5-4-3-2-1, pas 5-3-2-1-0."
+    },
+    {
+     "q": "Pour une poule de 4 tireurs, les points de classement par équipe sont 5-3-2-1.",
+     "r": "valable",
+     "e": "Poule de 4 : 5 – 3 – 2 – 1."
+    },
+    {
+     "q": "Pour une poule de 4 tireurs, les points de classement par équipe sont 4-3-2-1.",
+     "r": "faute",
+     "e": "Le barème pour une poule de 4 est 5-3-2-1, pas 4-3-2-1."
+    },
+    {
+     "q": "Pour une poule de 3 tireurs, les points de classement par équipe sont 5-3-2.",
+     "r": "valable",
+     "e": "Poule de 3 : 5 – 3 – 2."
+    },
+    {
+     "q": "Pour une poule de 3 tireurs, les points de classement par équipe sont 3-2-1.",
+     "r": "faute",
+     "e": "Le barème pour une poule de 3 est 5-3-2, pas 3-2-1."
+    },
+    {
+     "q": "Un tireur sans adversaire dans sa poule rapporte 3 points à son équipe.",
+     "r": "valable",
+     "e": "Sans adversaire : 3."
+    },
+    {
+     "q": "Un tireur sans adversaire dans sa poule rapporte 0 point à son équipe.",
+     "r": "faute",
+     "e": "Un tireur sans adversaire rapporte 3 points, pas 0."
+    },
+    {
+     "q": "En cas d'égalité entre équipes, le premier critère de départage est le nombre de 1ères places.",
+     "r": "valable",
+     "e": "En cas d'égalité obtenue entre les équipes : nombre de 1ère place en premier critère."
+    },
+    {
+     "q": "En cas d'égalité entre équipes, le premier critère est le nombre de filles dans l'équipe.",
+     "r": "faute",
+     "e": "Le premier critère est le nombre de 1ères places ; le nombre de filles n'intervient qu'ensuite."
+    },
+    {
+     "q": "La commission des litiges est représentée par 2 membres de la CMN.",
+     "r": "valable",
+     "e": "La commission sera représentée par 2 membres de la CMN."
+    },
+    {
+     "q": "La commission des litiges est représentée par 5 membres de la CMN.",
+     "r": "faute",
+     "e": "La commission des litiges compte 2 membres de la CMN, pas 5."
+    },
+    {
+     "q": "Le délai de réclamation court jusqu'à la fin de l'assaut suivant.",
+     "r": "valable",
+     "e": "Le délai de réclamation avant la fin de l'assaut suivant."
+    },
+    {
+     "q": "Le délai de réclamation court jusqu'à la fin de la journée de compétition.",
+     "r": "faute",
+     "e": "Le délai de réclamation est limité à la fin de l'assaut suivant, pas toute la journée."
+    },
+    {
+     "q": "Au Championnat de France collèges Établissement, seuls les tireurs de niveau gant bleu ou vert sont autorisés.",
+     "r": "valable",
+     "e": "4 tireurs mixtes (2 garçons au maximum) justifiant un niveau gant bleu ou vert. Etablissement : uniquement gant bleu / vert."
+    },
+    {
+     "q": "Au Championnat de France collèges Établissement, seuls les tireurs de niveau gant rouge sont autorisés.",
+     "r": "faute",
+     "e": "L'Établissement est réservé aux niveaux gant bleu ou vert ; un tireur de niveau rouge entraîne le déclassement de l'équipe."
+    },
+    {
+     "q": "Au Championnat de France collèges Excellence, l'équipe doit justifier au moins un tireur de niveau gant rouge.",
+     "r": "valable",
+     "e": "4 tireurs mixtes (2 garçons au maximum) justifiant au moins un des tireurs de niveau gant rouge."
+    },
+    {
+     "q": "Au Championnat de France collèges Excellence, aucun tireur de niveau gant rouge n'est autorisé.",
+     "r": "faute",
+     "e": "L'Excellence exige au contraire qu'au moins un tireur soit de niveau gant rouge."
+    },
+    {
+     "q": "L'équipe Établissement et l'équipe Excellence comptent chacune 4 tireurs mixtes, avec 2 garçons maximum.",
+     "r": "valable",
+     "e": "4 tireurs mixtes (2 garçons au maximum) pour les deux championnats collèges."
+    },
+    {
+     "q": "L'équipe Établissement compte 6 tireurs, dont 3 garçons maximum.",
+     "r": "faute",
+     "e": "Les deux formules (Établissement et Excellence) comptent 4 tireurs mixtes, pas 6."
+    },
+    {
+     "q": "Au Championnat de France, la rencontre Établissement dure 3 reprises d'1'15 entrecoupées d'1 minute de récupération.",
+     "r": "valable",
+     "e": "Chaque rencontre dure 3 reprises d'1 minute et 15 secondes entrecoupées d'1 minute de récupération (Établissement)."
+    },
+    {
+     "q": "Au Championnat de France, la rencontre Établissement dure 3 reprises de 2 minutes.",
+     "r": "faute",
+     "e": "La durée réglementaire Établissement au CF est de 3 x 1'15, pas 3 x 2 minutes."
+    },
+    {
+     "q": "Au Championnat de France, la rencontre Excellence dure 3 reprises d'1'30 entrecoupées d'1 minute de récupération.",
+     "r": "valable",
+     "e": "Chaque rencontre dure 3 reprises d'1minute et 30 secondes entrecoupées d'1minute de récupération (Excellence)."
+    },
+    {
+     "q": "Au Championnat de France, la rencontre Excellence dure 2 reprises de 3 minutes.",
+     "r": "faute",
+     "e": "La durée réglementaire Excellence au CF est de 3 x 1'30, pas 2 x 3 minutes."
+    },
+    {
+     "q": "Pour les équipes Établissement, le short et le pantacourt sont interdits.",
+     "r": "valable",
+     "e": "Les shorts et pantacourts sont interdits (équipes établissement)."
+    },
+    {
+     "q": "Pour les équipes Établissement, le short est la tenue obligatoire.",
+     "r": "faute",
+     "e": "Le short et le pantacourt sont explicitement interdits pour les équipes Établissement."
+    },
+    {
+     "q": "Pour les équipes Excellence, la tenue est une combinaison intégrale ou en deux parties type lycra.",
+     "r": "valable",
+     "e": "Combinaison intégrale ou en deux parties (près du corps, le teeshirt rentré dans le collant) type lycra, aux couleurs de l'AS (équipes excellence)."
+    },
+    {
+     "q": "Pour les équipes Excellence, la tenue est identique à celle des équipes Établissement.",
+     "r": "faute",
+     "e": "La tenue Excellence (combinaison type lycra) est spécifique et différente de celle de l'Établissement."
+    },
+    {
+     "q": "Au Championnat « Sport Partagé », les touches au visage ne sont autorisées que si les deux tireurs donnent leur accord.",
+     "r": "valable",
+     "e": "Les touches au visage ne sont autorisées que si les 2 tireurs donnent leur accord."
+    },
+    {
+     "q": "Au Championnat « Sport Partagé », les touches au visage sont interdites pour tous les tireurs, sans exception.",
+     "r": "faute",
+     "e": "Les touches au visage sont possibles, mais uniquement si les deux tireurs sont d'accord au préalable."
+    },
+    {
+     "q": "Au Championnat « Sport Partagé », le jugement s'effectue à l'aide d'une double notation : touche et attitude.",
+     "r": "valable",
+     "e": "Le jugement s'effectue à l'aide d'une double notation. Une note de touche et une note sur l'attitude des tireurs."
+    },
+    {
+     "q": "Au Championnat « Sport Partagé », seule la note de touche est prise en compte.",
+     "r": "faute",
+     "e": "Le jugement Sport Partagé combine une note de touche et une note d'attitude, pas seulement la touche."
+    },
+    {
+     "q": "Au Championnat « Sport Partagé », une tolérance est accordée aux trajectoires interdites selon l'intention du tireur.",
+     "r": "valable",
+     "e": "Une tolérance sera accordée aux trajectoires interdites et aux touches hors distance. Il appartient au jeune arbitre de déterminer si la faute est commise sciemment ou sans intention délibérée."
+    },
+    {
+     "q": "Au Championnat « Sport Partagé », toute trajectoire interdite est sanctionnée automatiquement, sans appréciation de l'intention.",
+     "r": "faute",
+     "e": "Une tolérance existe précisément selon que la faute est commise sciemment ou non."
+    },
+    {
+     "q": "Le challenge carton fair-play est attribué après un échange entre les tireurs, leurs coaches et le délégué officiel.",
+     "r": "valable",
+     "e": "A la fin de chaque assaut les deux tireurs avec leurs coaches viennent à la table avec le délégué officiel afin d'échanger sur l'attitude lors de l'assaut."
+    },
+    {
+     "q": "Le challenge carton fair-play est attribué automatiquement à l'équipe qui gagne l'assaut.",
+     "r": "faute",
+     "e": "Le carton fair-play dépend de l'attitude durant l'assaut, évaluée lors d'un échange avec le délégué officiel, pas du résultat."
+    },
+    {
+     "q": "Les Jeunes Juges/Jeunes Arbitres « lycée » déjà certifiés de niveau national peuvent assister le délégué officiel.",
+     "r": "valable",
+     "e": "Les JJ/JA « lycée » déjà certifiés de niveau national pourront assister le DO dans ses fonctions à la demande de la CMN."
+    },
+    {
+     "q": "Aucun Jeune Juge/Jeune Arbitre ne peut jamais assister le délégué officiel, quel que soit son niveau.",
+     "r": "faute",
+     "e": "Les JJ/JA lycée de niveau national peuvent justement assister le délégué officiel, à la demande de la CMN."
+    },
+    {
+     "q": "Un délégué officiel ne peut jamais remettre en cause la décision des juges.",
+     "r": "valable",
+     "e": "Quel que soit le niveau de compétition, un délégué officiel ne peut remettre en cause la décision des juges."
+    },
+    {
+     "q": "Un délégué officiel peut annuler la décision des juges s'il n'est pas d'accord.",
+     "r": "faute",
+     "e": "Le règlement précise explicitement que le délégué officiel ne peut jamais remettre en cause la décision des juges."
+    },
+    {
+     "q": "La formule de compétition nationale se joue sous forme de poules, prioritairement de 4 tireurs.",
+     "r": "valable",
+     "e": "Compétition sous forme de poules pour les rencontres nationales. Les poules seront prioritairement constituées de 4 tireurs."
+    },
+    {
+     "q": "La formule de compétition nationale se joue exclusivement en élimination directe, sans poules.",
+     "r": "faute",
+     "e": "La compétition nationale se joue sous forme de poules de 4 tireurs prioritairement, pas en élimination directe."
+    }
+   ]
+  }
+ ]
+}

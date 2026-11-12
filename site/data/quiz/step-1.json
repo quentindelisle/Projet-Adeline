@@ -1,0 +1,265 @@
+{
+ "id": "step-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Juge Step",
+ "entete": "QUIZ NIVEAU 1 · LIVRET JEUNE JUGE STEP UNSS",
+ "sport": "step",
+ "source": "https://merry-rolypoly-78a8e7.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le Step est rattaché à la Fédération française de danse.",
+     "r": "faute",
+     "e": "C'est faux. Le Step est l'une des trois disciplines de la Gymnastique Aérobic, au sein de la FFG."
+    },
+    {
+     "q": "Le Step est rattaché à la Fédération française de gymnastique.",
+     "r": "valable",
+     "e": "Le Step est l'une des trois disciplines de la Gymnastique Aérobic, au sein de la FFG."
+    },
+    {
+     "q": "Le Step a été créé aux États-Unis en 1986.",
+     "r": "valable",
+     "e": "Créé aux États-Unis en 1986, le Step est aujourd'hui très populaire."
+    },
+    {
+     "q": "Le Step a été créé en France en 1995.",
+     "r": "faute",
+     "e": "C'est faux. Créé aux États-Unis en 1986, le Step est aujourd'hui très populaire."
+    },
+    {
+     "q": "Le Jeune Coach porte un brassard orange dans les compétitions nationales.",
+     "r": "valable",
+     "e": "Il est reconnaissable par un brassard de couleur orange."
+    },
+    {
+     "q": "Le Jeune Coach porte un brassard vert dans les compétitions nationales.",
+     "r": "faute",
+     "e": "C'est faux. Il est reconnaissable par un brassard de couleur orange."
+    },
+    {
+     "q": "Le Jeune Coach peut aussi être Jeune Juge.",
+     "r": "faute",
+     "e": "C'est faux. Le Jeune Coach ne peut pas être Jeune Juge ou Jeune Reporter."
+    },
+    {
+     "q": "Le Jeune Coach ne peut pas être Jeune Juge.",
+     "r": "valable",
+     "e": "Le Jeune Coach ne peut pas être Jeune Juge ou Jeune Reporter."
+    },
+    {
+     "q": "Le Jeune Juge peut favoriser son équipe.",
+     "r": "faute",
+     "e": "C'est faux. Il juge chaque équipe avec un œil objectif, sans préférence ni amitié."
+    },
+    {
+     "q": "Le Jeune Juge doit être impartial.",
+     "r": "valable",
+     "e": "Il juge chaque équipe avec un œil objectif, sans préférence ni amitié."
+    },
+    {
+     "q": "La Création artistique est notée sur 30 points.",
+     "r": "faute",
+     "e": "C'est faux. Création artistique : 60 points."
+    },
+    {
+     "q": "La Création artistique est notée sur 60 points.",
+     "r": "valable",
+     "e": "Création artistique : 60 points."
+    },
+    {
+     "q": "La Synchronisation est notée sur 30 points.",
+     "r": "valable",
+     "e": "Synchronisation : 30 points."
+    },
+    {
+     "q": "La Synchronisation est notée sur 50 points.",
+     "r": "faute",
+     "e": "C'est faux. Synchronisation : 30 points."
+    },
+    {
+     "q": "La Technique des Pas est notée sur 50 points.",
+     "r": "valable",
+     "e": "Technique des Pas : 50 points."
+    },
+    {
+     "q": "La Technique des Pas est notée sur 20 points.",
+     "r": "faute",
+     "e": "C'est faux. Technique des Pas : 50 points."
+    },
+    {
+     "q": "La Technique des Bras est notée sur 60 points.",
+     "r": "faute",
+     "e": "C'est faux. Technique des Bras : 20 points."
+    },
+    {
+     "q": "La Technique des Bras est notée sur 20 points.",
+     "r": "valable",
+     "e": "Technique des Bras : 20 points."
+    },
+    {
+     "q": "Le juge de Synchronisation part de 30 points et déduit les fautes.",
+     "r": "valable",
+     "e": "L'équipe part avec 30 points et le juge déduit les fautes."
+    },
+    {
+     "q": "Le juge de Synchronisation part de 0 et ajoute des points.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe part avec 30 points et le juge déduit les fautes."
+    },
+    {
+     "q": "Une faute de synchronisation d'un gymnaste coûte 1 point.",
+     "r": "valable",
+     "e": "À chaque faute d'un des gymnastes : moins 1 point."
+    },
+    {
+     "q": "Une faute de synchronisation d'un gymnaste coûte 5 points.",
+     "r": "faute",
+     "e": "C'est faux. À chaque faute d'un des gymnastes : moins 1 point."
+    },
+    {
+     "q": "Un trou de mémoire coûte 1 point.",
+     "r": "faute",
+     "e": "C'est faux. Trou de mémoire / arrêt de 4 temps d'un gymnaste : moins 5 points."
+    },
+    {
+     "q": "Un trou de mémoire coûte 5 points.",
+     "r": "valable",
+     "e": "Trou de mémoire / arrêt de 4 temps d'un gymnaste : moins 5 points."
+    },
+    {
+     "q": "La musique libre dure 1'30 plus ou moins 5 secondes.",
+     "r": "valable",
+     "e": "Si la durée n'est pas réglementaire : moins 5 points."
+    },
+    {
+     "q": "La musique libre dure 3 minutes.",
+     "r": "faute",
+     "e": "C'est faux. Si la durée n'est pas réglementaire : moins 5 points."
+    },
+    {
+     "q": "Le Jeune Juge de lignes déclenche son chrono au bip sonore.",
+     "r": "faute",
+     "e": "C'est faux. Il le déclenche au début de la musique, après le bip."
+    },
+    {
+     "q": "Le Jeune Juge de lignes déclenche son chrono après le bip sonore.",
+     "r": "valable",
+     "e": "Il le déclenche au début de la musique, après le bip."
+    },
+    {
+     "q": "Chaque formation validée rapporte 3 points.",
+     "r": "faute",
+     "e": "C'est faux. Il faut 4 formations différentes minimum pour obtenir 4 points."
+    },
+    {
+     "q": "Chaque formation validée rapporte 1 point.",
+     "r": "valable",
+     "e": "Il faut 4 formations différentes minimum pour obtenir 4 points."
+    },
+    {
+     "q": "Il existe six orientations possibles des Steps.",
+     "r": "faute",
+     "e": "C'est faux. Horizontale, verticale et diagonale."
+    },
+    {
+     "q": "Il existe trois orientations possibles des Steps.",
+     "r": "valable",
+     "e": "Horizontale, verticale et diagonale."
+    },
+    {
+     "q": "Une équipe peut réaliser deux porters au maximum.",
+     "r": "valable",
+     "e": "Un porter supplémentaire (plus de 2) coûte 5 points."
+    },
+    {
+     "q": "Une équipe peut réaliser autant de porters qu'elle veut.",
+     "r": "faute",
+     "e": "C'est faux. Un porter supplémentaire (plus de 2) coûte 5 points."
+    },
+    {
+     "q": "Le Show est noté sur 11 points.",
+     "r": "valable",
+     "e": "Enthousiasme et tonicité, noté à la fin de l'enchaînement."
+    },
+    {
+     "q": "Le Show est noté sur 4 points.",
+     "r": "faute",
+     "e": "C'est faux. Enthousiasme et tonicité, noté à la fin de l'enchaînement."
+    },
+    {
+     "q": "Le Show est noté au début de l'enchaînement.",
+     "r": "faute",
+     "e": "C'est faux. Cette note ne peut être attribuée qu'à la fin."
+    },
+    {
+     "q": "Le Show est noté à la fin de l'enchaînement.",
+     "r": "valable",
+     "e": "Cette note ne peut être attribuée qu'à la fin."
+    },
+    {
+     "q": "Un cheval de 8 temps compte pour 2 Pas.",
+     "r": "valable",
+     "e": "Les Pas sont décomptés tous les 4 temps musicaux."
+    },
+    {
+     "q": "Un cheval de 8 temps compte pour 8 Pas.",
+     "r": "faute",
+     "e": "C'est faux. Les Pas sont décomptés tous les 4 temps musicaux."
+    },
+    {
+     "q": "Seuls les Pas réalisés en même temps par tous les gymnastes sont comptés.",
+     "r": "valable",
+     "e": "Seuls les pas exécutés en même temps par tous les membres de l'équipe comptent."
+    },
+    {
+     "q": "Les Pas d'un seul gymnaste sont comptés.",
+     "r": "faute",
+     "e": "C'est faux. Seuls les pas exécutés en même temps par tous les membres de l'équipe comptent."
+    },
+    {
+     "q": "Les marches simples sont des Pas complexes.",
+     "r": "faute",
+     "e": "C'est faux. Complexités retenues : contretemps et rotations."
+    },
+    {
+     "q": "Les contretemps et les rotations sont des Pas complexes.",
+     "r": "valable",
+     "e": "Complexités retenues : contretemps et rotations."
+    },
+    {
+     "q": "Des Bras asymétriques sont des Bras complexes.",
+     "r": "valable",
+     "e": "Complexes : asymétriques, ou symétriques avec rotation."
+    },
+    {
+     "q": "Des Bras qui font la même chose en même temps sans rotation sont complexes.",
+     "r": "faute",
+     "e": "C'est faux. Complexes : asymétriques, ou symétriques avec rotation."
+    },
+    {
+     "q": "En jury, le téléphone portable est interdit.",
+     "r": "valable",
+     "e": "Lorsque je suis en place dans le jury, l'utilisation du téléphone est interdite."
+    },
+    {
+     "q": "En jury, le téléphone portable est autorisé entre deux passages.",
+     "r": "faute",
+     "e": "C'est faux. Lorsque je suis en place dans le jury, l'utilisation du téléphone est interdite."
+    },
+    {
+     "q": "Il faut 16/20 pour obtenir le niveau départemental.",
+     "r": "faute",
+     "e": "C'est faux. Départemental 12/20, académique 14/20, national 16/20."
+    },
+    {
+     "q": "Il faut 12/20 pour obtenir le niveau départemental.",
+     "r": "valable",
+     "e": "Départemental 12/20, académique 14/20, national 16/20."
+    }
+   ]
+  }
+ ]
+}

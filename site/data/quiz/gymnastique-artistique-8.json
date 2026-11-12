@@ -1,0 +1,265 @@
+{
+ "id": "gymnastique-artistique-8",
+ "titre": "Poutre",
+ "sousTitre": "Quiz Jeune Juge Gymnastique Excellence",
+ "entete": "QUIZ 2 / 7 · RÈGLEMENT GYMNASTIQUE EXCELLENCE UNSS · GAF",
+ "sport": "gymnastique-artistique",
+ "source": "https://dashing-stardust-f6bd0a.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La durée maximale de l'enchaînement à la poutre est de 1 minute 30 en Excellence.",
+     "r": "valable",
+     "e": "Le règlement Excellence porte la durée à 1mn30, contre 1mn10 en Équipe Établissement."
+    },
+    {
+     "q": "La durée maximale à la poutre reste de 1 minute 10 en Excellence, comme en Équipe Établissement.",
+     "r": "faute",
+     "e": "La durée passe à 1mn30 en Excellence, un allongement par rapport à l'Équipe Établissement."
+    },
+    {
+     "q": "Le chronométreur prévient la gymnaste à 1mn20 en Excellence.",
+     "r": "valable",
+     "e": "Cette alerte à 1mn20 est spécifique au règlement Excellence."
+    },
+    {
+     "q": "Aucune alerte n'est prévue avant la fin du temps imparti en Excellence.",
+     "r": "faute",
+     "e": "Le chronométreur prévient bien la gymnaste à 1mn20, avant la limite de 1mn30."
+    },
+    {
+     "q": "Un seul tremplin simple est autorisé pour l'entrée sur la poutre en Excellence.",
+     "r": "valable",
+     "e": "Cette règle reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Deux tremplins sont autorisés pour l'entrée sur la poutre en Excellence.",
+     "r": "faute",
+     "e": "Seul un tremplin simple reste autorisé, sans changement par rapport à l'Équipe Établissement."
+    },
+    {
+     "q": "Le barème de difficulté à la poutre va de C = 0,40 pt à F = 1,00 pt en Excellence.",
+     "r": "valable",
+     "e": "Le règlement Excellence utilise les lettres C à F pour son barème."
+    },
+    {
+     "q": "Le barème à la poutre reste A = 0,40 pt à D = 1,00 pt en Excellence.",
+     "r": "faute",
+     "e": "Le barème Excellence utilise C à F, pas A à D."
+    },
+    {
+     "q": "L'exigence SM/T combine souplesse, maintien et tour en une seule exigence en Excellence.",
+     "r": "valable",
+     "e": "Contrairement à l'Équipe Établissement qui sépare SM et T, l'Excellence les combine."
+    },
+    {
+     "q": "Les exigences SM et T restent séparées en Excellence, comme en Équipe Établissement.",
+     "r": "faute",
+     "e": "L'Excellence combine SM et T en une seule exigence, contrairement à l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence S à la poutre Excellence impose une sortie de valeur E minimum.",
+     "r": "valable",
+     "e": "Cette exigence de sortie minimale E est spécifique à l'Excellence."
+    },
+    {
+     "q": "Aucune exigence de sortie minimale n'existe à la poutre en Excellence.",
+     "r": "faute",
+     "e": "L'exigence S impose bien une sortie de valeur E minimum, absente en Équipe Établissement."
+    },
+    {
+     "q": "L'exigence LG à la poutre impose une liaison gymnique de 2 sauts différents.",
+     "r": "valable",
+     "e": "Cette exigence reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence LG impose une liaison de 2 éléments acrobatiques en Excellence.",
+     "r": "faute",
+     "e": "LG impose bien 2 sauts différents, pas des éléments acrobatiques."
+    },
+    {
+     "q": "Un « ° » sous la figurine du code signale un maintien à tenir 2 secondes en Excellence.",
+     "r": "valable",
+     "e": "Ce symbole conserve la même signification qu'en Équipe Établissement."
+    },
+    {
+     "q": "Le symbole « ° » signale un élément interdit en Excellence.",
+     "r": "faute",
+     "e": "Ce symbole désigne un maintien de 2 secondes, sans changement de signification."
+    },
+    {
+     "q": "S'accrocher à la poutre pour éviter la chute est pénalisé de 0,50 point en Excellence.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "S'accrocher à la poutre pour éviter la chute est pénalisé de 0,10 point en Excellence.",
+     "r": "faute",
+     "e": "La pénalité reste de 0,50 point, pas 0,10 point."
+    },
+    {
+     "q": "Un passage proche de la poutre où le bassin ne touche pas est pénalisé de 0,30 point.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Cette faute n'est plus pénalisée en Excellence, contrairement à l'Équipe Établissement.",
+     "r": "faute",
+     "e": "La pénalité de 0,30 point reste appliquée en Excellence."
+    },
+    {
+     "q": "Un dépassement de la durée de 1mn30 est pénalisé de 0,30 point sur la note finale.",
+     "r": "valable",
+     "e": "Cette pénalité de dépassement de temps est prévue par le règlement Excellence."
+    },
+    {
+     "q": "Aucune pénalité n'est prévue en cas de dépassement du temps en Excellence.",
+     "r": "faute",
+     "e": "Le dépassement de la durée maximale entraîne bien une pénalité de 0,30 point."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins à la poutre est pénalisé de 2 points en Excellence.",
+     "r": "valable",
+     "e": "Cette pénalité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Un exercice de 5 éléments ou moins n'entraîne aucune pénalité en Excellence.",
+     "r": "faute",
+     "e": "La pénalité de 2 points reste appliquée pour un exercice trop court."
+    },
+    {
+     "q": "Dans une liaison gymnique à la poutre, les éléments doivent être enchaînés sans arrêt ni pas intermédiaire.",
+     "r": "valable",
+     "e": "Cette règle reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "Un pas intermédiaire est toléré dans une liaison gymnique en Excellence.",
+     "r": "faute",
+     "e": "L'enchaînement sans arrêt ni pas intermédiaire reste exigé en Excellence."
+    },
+    {
+     "q": "La jambe libre peut devenir jambe d'appui dans une liaison gymnique à la poutre.",
+     "r": "valable",
+     "e": "Cette souplesse d'exécution reste autorisée en Excellence."
+    },
+    {
+     "q": "La jambe libre ne peut jamais devenir jambe d'appui dans une liaison gymnique en Excellence.",
+     "r": "faute",
+     "e": "Cette règle de continuité reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence AC à la poutre Excellence impose un élément acrobatique.",
+     "r": "valable",
+     "e": "Cette exigence reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "L'exigence AC impose un élément de souplesse en Excellence.",
+     "r": "faute",
+     "e": "AC désigne un élément acrobatique, pas un élément de souplesse."
+    },
+    {
+     "q": "Un élément non reconnu par le code UNSS ne peut recevoir aucune valeur en difficulté à la poutre Excellence.",
+     "r": "valable",
+     "e": "Cette règle générale reste applicable à tous les agrès, dont la poutre en Excellence."
+    },
+    {
+     "q": "Un élément non reconnu reçoit automatiquement la valeur C en Excellence.",
+     "r": "faute",
+     "e": "Un élément non reconnu ne reçoit aucune valeur, quelle que soit la catégorie."
+    },
+    {
+     "q": "La note de composition maximale à la poutre Excellence est de 2 points.",
+     "r": "valable",
+     "e": "Cette note maximale reste identique à celle de l'Équipe Établissement."
+    },
+    {
+     "q": "La note de composition maximale à la poutre Excellence est de 3 points.",
+     "r": "faute",
+     "e": "La note de composition reste plafonnée à 2 points, comme en Équipe Établissement."
+    },
+    {
+     "q": "Aux fautes spécifiques de la poutre s'ajoutent les fautes de tenue, de technique et de comportement.",
+     "r": "valable",
+     "e": "Ces fautes générales s'appliquent en plus des fautes spécifiques en Excellence."
+    },
+    {
+     "q": "Seules les fautes spécifiques à la poutre comptent en Excellence, sans les fautes générales.",
+     "r": "faute",
+     "e": "Les fautes générales s'ajoutent bien aux fautes spécifiques de la poutre."
+    },
+    {
+     "q": "Le chronomètre à la poutre démarre lorsque les pieds quittent le sol et s'arrête à la réception.",
+     "r": "valable",
+     "e": "Ce principe de chronométrage reste identique à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "Le chronomètre démarre au salut du jury en Excellence, pas au premier envol.",
+     "r": "faute",
+     "e": "Le chronomètre démarre bien au premier envol des pieds, sans changement de règle."
+    },
+    {
+     "q": "Le chronométrage s'arrête à chaque chute et redémarre lorsque la gymnaste reprend son mouvement.",
+     "r": "valable",
+     "e": "Cette règle de gestion des chutes reste identique en Excellence."
+    },
+    {
+     "q": "Le chronomètre continue de tourner sans interruption en cas de chute en Excellence.",
+     "r": "faute",
+     "e": "Le chronométrage s'arrête bien à chaque chute, comme en Équipe Établissement."
+    },
+    {
+     "q": "Le barème de valeur d'un élément F à la poutre Excellence est de 1,00 point.",
+     "r": "valable",
+     "e": "F correspond à la valeur maximale du barème Excellence, à 1,00 point."
+    },
+    {
+     "q": "Le barème de valeur d'un élément F à la poutre Excellence est de 0,80 point.",
+     "r": "faute",
+     "e": "F vaut 1,00 point, la valeur maximale, pas 0,80 point (qui correspond à E)."
+    },
+    {
+     "q": "Le barème de valeur d'un élément C à la poutre Excellence est de 0,40 point.",
+     "r": "valable",
+     "e": "C correspond à la valeur minimale du barème Excellence, à 0,40 point."
+    },
+    {
+     "q": "Le barème de valeur d'un élément C à la poutre Excellence est de 0,60 point.",
+     "r": "faute",
+     "e": "C vaut 0,40 point, la valeur minimale, pas 0,60 point (qui correspond à D)."
+    },
+    {
+     "q": "L'addition des 8 meilleurs éléments détermine la note D à la poutre en Excellence.",
+     "r": "valable",
+     "e": "Ce principe de calcul reste identique à celui de l'Équipe Établissement."
+    },
+    {
+     "q": "L'addition de tous les éléments réalisés, sans limite, détermine la note D en Excellence.",
+     "r": "faute",
+     "e": "Seuls les 8 meilleurs éléments sont retenus, pas la totalité des éléments réalisés."
+    },
+    {
+     "q": "Un élément non réalisé ou réalisé avec aide entraîne la suppression de sa valeur à la poutre Excellence.",
+     "r": "valable",
+     "e": "Cette règle générale reste applicable en Excellence."
+    },
+    {
+     "q": "Un élément réalisé avec aide conserve sa pleine valeur en Excellence.",
+     "r": "faute",
+     "e": "L'aide entraîne bien la suppression de la valeur de l'élément concerné."
+    },
+    {
+     "q": "La devise « simple et correct vaut mieux que difficile et incorrect » guide le jugement à la poutre Excellence.",
+     "r": "valable",
+     "e": "Cette philosophie du jugement reste valable pour toutes les catégories UNSS."
+    },
+    {
+     "q": "Cette devise ne s'applique plus en Excellence, seule la difficulté compte.",
+     "r": "faute",
+     "e": "La devise reste un principe directeur du jugement, y compris en Excellence."
+    }
+   ]
+  }
+ ]
+}

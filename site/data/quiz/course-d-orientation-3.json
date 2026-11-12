@@ -1,0 +1,265 @@
+{
+ "id": "course-d-orientation-3",
+ "titre": "Certification, pré-balisage et sport partagé",
+ "sousTitre": "Quiz Jeune Juge Course d'orientation",
+ "entete": "QUIZ 3 / 3 · RÈGLEMENT COURSE D'ORIENTATION UNSS",
+ "sport": "course-d-orientation",
+ "source": "https://prismatic-parfait-6966a1.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La classe C5 applique un coefficient de 1,30 au temps de course.",
+     "r": "faute",
+     "e": "Attention : c5 : coefficient 0,30."
+    },
+    {
+     "q": "En sport partagé, l'élève ESH court seul sans accompagnement aux relais 1 et 2.",
+     "r": "faute",
+     "e": "Attention : il est accompagné d'un jeune juge équipé d'un doigt SI."
+    },
+    {
+     "q": "Lors du pré-balisage, le poseur pose les postes sans rien annoncer.",
+     "r": "faute",
+     "e": "Attention : il verbalise sa construction d'itinéraire."
+    },
+    {
+     "q": "Le niveau national ne demande aucune certification préalable.",
+     "r": "faute",
+     "e": "Attention : prérequis : certification académique."
+    },
+    {
+     "q": "Le VMF est une épreuve pratique évaluée sur 30 points.",
+     "r": "valable",
+     "e": "Épreuve pratique VMF sur 30 points."
+    },
+    {
+     "q": "Le contrôleur valide ou corrige la pose du poseur.",
+     "r": "valable",
+     "e": "Il valide la pose ou la corrige en cas d'erreur."
+    },
+    {
+     "q": "Le niveau académique exige une note minimale de 14/20.",
+     "r": "valable",
+     "e": "14/20 pour l'académique."
+    },
+    {
+     "q": "La grille de terrain à l'atelier est notée sur 10 points.",
+     "r": "valable",
+     "e": "Note sur 10 points."
+    },
+    {
+     "q": "En sport partagé, l'élève ESH est accompagné d'un jeune juge aux relais 1 et 2.",
+     "r": "valable",
+     "e": "Il est accompagné d'un jeune juge équipé d'un doigt SI."
+    },
+    {
+     "q": "Une équipe est Excellence à partir de 500 points en collège.",
+     "r": "faute",
+     "e": "Attention : 5000 points en collège, 13000 en lycée."
+    },
+    {
+     "q": "Officier sur un championnat de France n'engendre pas systématiquement la certification nationale.",
+     "r": "valable",
+     "e": "La certification n'est pas automatique."
+    },
+    {
+     "q": "Le jeune juge intervient auprès du coureur ESH en cas de grosse erreur d'orientation.",
+     "r": "valable",
+     "e": "Il intervient en cas d'erreur pouvant impacter sa sécurité."
+    },
+    {
+     "q": "La grille de terrain à l'atelier est notée sur 100 points.",
+     "r": "faute",
+     "e": "Attention : note sur 10 points."
+    },
+    {
+     "q": "VMF signifie Vitesse-Marche-Fondamentaux.",
+     "r": "faute",
+     "e": "Attention : vrai-Manquant-Faux."
+    },
+    {
+     "q": "Le contrôleur n'a pas le droit de corriger la pose.",
+     "r": "faute",
+     "e": "Attention : il valide la pose ou la corrige en cas d'erreur."
+    },
+    {
+     "q": "Pour 2 jeunes officiels, le circuit de pré-balisage fait environ 10 km.",
+     "r": "faute",
+     "e": "Attention : environ 1000 m, 4 balises, 2 chacun."
+    },
+    {
+     "q": "La certification académique donne la balise jaune FFCO.",
+     "r": "faute",
+     "e": "Attention : académique : balise bleue."
+    },
+    {
+     "q": "La certification nationale donne la balise jaune FFCO.",
+     "r": "valable",
+     "e": "National : balise jaune."
+    },
+    {
+     "q": "En sport partagé collège, aucun élève ne doit dépasser 25000 points au CN FFCO.",
+     "r": "faute",
+     "e": "Attention : collège SP : pas plus de 2500 points au CN FFCO au 31/12/2025."
+    },
+    {
+     "q": "La classe C1 n'a pas de compensation (coefficient 1).",
+     "r": "valable",
+     "e": "C1 : coefficient 1."
+    },
+    {
+     "q": "Le niveau national demande d'avoir la certification académique.",
+     "r": "valable",
+     "e": "Prérequis : certification académique."
+    },
+    {
+     "q": "La note globale additionne 4 points de théorie et 16 points de pratique.",
+     "r": "valable",
+     "e": "Théorie sur 4 points, pratique sur 16 points."
+    },
+    {
+     "q": "Le niveau national exige une note minimale de 16/20.",
+     "r": "valable",
+     "e": "16/20 pour le national."
+    },
+    {
+     "q": "La classe C5 applique un coefficient de 0,30 au temps de course.",
+     "r": "valable",
+     "e": "C5 : coefficient 0,30."
+    },
+    {
+     "q": "Le niveau académique exige une note minimale de 10/20.",
+     "r": "faute",
+     "e": "Attention : 14/20 pour l'académique."
+    },
+    {
+     "q": "L'épreuve de pré-balisage concerne le niveau national.",
+     "r": "valable",
+     "e": "Pas d'épreuve de pré-balisage aux niveaux départemental et académique."
+    },
+    {
+     "q": "Lors du pré-balisage, le poseur annonce points d'appui, point d'attaque et ligne d'arrêt.",
+     "r": "valable",
+     "e": "Il verbalise sa construction d'itinéraire."
+    },
+    {
+     "q": "La grille n'évalue jamais la ponctualité.",
+     "r": "faute",
+     "e": "Attention : ponctualité – matériel fait partie des critères."
+    },
+    {
+     "q": "Le pré-balisage se fait sur des postes de niveau noir.",
+     "r": "faute",
+     "e": "Attention : postes de niveau jaune pour collèges et lycées."
+    },
+    {
+     "q": "Une équipe est Excellence à partir de 5000 points en collège et 13000 en lycée.",
+     "r": "valable",
+     "e": "5000 points en collège, 13000 en lycée."
+    },
+    {
+     "q": "Le niveau national exige une note minimale de 12/20.",
+     "r": "faute",
+     "e": "Attention : 16/20 pour le national."
+    },
+    {
+     "q": "VMF signifie Vrai-Manquant-Faux.",
+     "r": "valable",
+     "e": "Vrai-Manquant-Faux."
+    },
+    {
+     "q": "Le niveau départemental exige une note minimale de 18/20.",
+     "r": "faute",
+     "e": "Attention : 12/20 pour le niveau départemental."
+    },
+    {
+     "q": "L'épreuve de pré-balisage concerne le niveau départemental.",
+     "r": "faute",
+     "e": "Attention : pas d'épreuve de pré-balisage aux niveaux départemental et académique."
+    },
+    {
+     "q": "Officier sur un championnat de France donne automatiquement la certification nationale.",
+     "r": "faute",
+     "e": "Attention : la certification n'est pas automatique."
+    },
+    {
+     "q": "Le niveau départemental exige une note minimale de 12/20.",
+     "r": "valable",
+     "e": "12/20 pour le niveau départemental."
+    },
+    {
+     "q": "Le niveau académique ne demande aucune certification préalable.",
+     "r": "faute",
+     "e": "Attention : prérequis : certification départementale."
+    },
+    {
+     "q": "Le jeune juge n'intervient jamais auprès du coureur ESH.",
+     "r": "faute",
+     "e": "Attention : il intervient en cas d'erreur pouvant impacter sa sécurité."
+    },
+    {
+     "q": "L'épreuve de pré-balisage est notée sur 10 points.",
+     "r": "faute",
+     "e": "Attention : note sur 30."
+    },
+    {
+     "q": "La note globale additionne 16 points de théorie et 4 points de pratique.",
+     "r": "faute",
+     "e": "Attention : théorie sur 4 points, pratique sur 16 points."
+    },
+    {
+     "q": "L'épreuve de pré-balisage est notée sur 30 points.",
+     "r": "valable",
+     "e": "Note sur 30."
+    },
+    {
+     "q": "Le pré-balisage se fait sur des postes de niveau jaune.",
+     "r": "valable",
+     "e": "Postes de niveau jaune pour collèges et lycées."
+    },
+    {
+     "q": "La certification académique donne la balise bleue FFCO.",
+     "r": "valable",
+     "e": "Académique : balise bleue."
+    },
+    {
+     "q": "En sport partagé collège, aucun élève ne doit dépasser 2500 points au CN FFCO.",
+     "r": "valable",
+     "e": "Collège SP : pas plus de 2500 points au CN FFCO au 31/12/2025."
+    },
+    {
+     "q": "La grille évalue la ponctualité et le matériel (tee-shirt, pointeur).",
+     "r": "valable",
+     "e": "Ponctualité – matériel fait partie des critères."
+    },
+    {
+     "q": "Pour 2 jeunes officiels, le circuit de pré-balisage fait environ 1000 m avec 4 balises.",
+     "r": "valable",
+     "e": "Environ 1000 m, 4 balises, 2 chacun."
+    },
+    {
+     "q": "Le niveau académique demande d'avoir la certification départementale.",
+     "r": "valable",
+     "e": "Prérequis : certification départementale."
+    },
+    {
+     "q": "Le VMF est une épreuve théorique évaluée sur 5 points.",
+     "r": "faute",
+     "e": "Attention : épreuve pratique VMF sur 30 points."
+    },
+    {
+     "q": "La classe C1 a un coefficient de 0,30.",
+     "r": "faute",
+     "e": "Attention : c1 : coefficient 1."
+    },
+    {
+     "q": "La certification nationale donne la balise bleue FFCO.",
+     "r": "faute",
+     "e": "Attention : national : balise jaune."
+    }
+   ]
+  }
+ ]
+}

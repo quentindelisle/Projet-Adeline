@@ -1,0 +1,265 @@
+{
+ "id": "boxe-assaut-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre/Juge Boxe Assaut",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT BOXE ASSAUT UNSS",
+ "sport": "boxe-assaut",
+ "source": "https://eclectic-rolypoly-5f29fc.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En cas d'écart trop important entre le jugement des jeunes juges et le jugement de référence, la décision peut être modifiée.",
+     "r": "valable",
+     "e": "En cas d'écart trop important entre le jugement des jeunes juges et le jugement de référence, la décision peut être modifiée."
+    },
+    {
+     "q": "La décision des jeunes juges ne peut jamais être modifiée, quel que soit l'écart constaté.",
+     "r": "faute",
+     "e": "La décision peut être modifiée en cas d'écart trop important entre les deux jugements."
+    },
+    {
+     "q": "La décision est modifiée si, sur le bulletin de référence, les touches valides d'un boxeur sont au moins 1,5 fois supérieures à celles de son adversaire, alors qu'il est donné perdant par les juges.",
+     "r": "valable",
+     "e": "Si sur ce pointage de référence, le nombre de touches valides d'un boxeur est au moins 1,5 fois supérieur à celles de son adversaire mais qu'il est donné perdant par les juges, alors les bulletins de ces juges sont modifiés."
+    },
+    {
+     "q": "La décision est modifiée dès que les deux bulletins de juges diffèrent d'un seul point.",
+     "r": "faute",
+     "e": "Le seuil précis est un écart de 1,5 fois supérieur sur le bulletin de référence, pas un simple point d'écart."
+    },
+    {
+     "q": "Si la décision est modifiée, les bulletins des juges concernés s'alignent sur celui du responsable de ring.",
+     "r": "valable",
+     "e": "Alors les bulletins de ces juges sont modifiés et s'alignent sur celui du responsable de ring."
+    },
+    {
+     "q": "Si la décision est modifiée, c'est le bulletin du responsable de ring qui s'aligne sur celui des juges.",
+     "r": "faute",
+     "e": "Ce sont les bulletins des juges qui s'alignent sur le bulletin de référence, pas l'inverse."
+    },
+    {
+     "q": "Un juge ou un arbitre ne peut être en fonction si l'un des deux boxeurs est de son établissement.",
+     "r": "valable",
+     "e": "En aucun cas un juge ou un arbitre doit être en fonction si un des deux boxeurs est de son établissement."
+    },
+    {
+     "q": "Un juge peut officier sans restriction même si un boxeur est de son propre établissement.",
+     "r": "faute",
+     "e": "Le règlement interdit explicitement à un juge ou arbitre d'officier si un boxeur est de son établissement."
+    },
+    {
+     "q": "Si cette règle est enfreinte, le boxeur est disqualifié pour l'assaut, mais il est possible de revenir sur la décision post-combat.",
+     "r": "valable",
+     "e": "Si ce n'est pas le cas, le boxeur (la boxeuse) est disqualifié(e) pour l'assaut. Il est possible de revenir sur la décision post-combat."
+    },
+    {
+     "q": "Si cette règle est enfreinte, la disqualification est définitive et ne peut jamais être révisée.",
+     "r": "faute",
+     "e": "La disqualification peut être révisée après le combat, elle n'est pas nécessairement définitive."
+    },
+    {
+     "q": "En cas d'égalité au nombre de juges, le premier critère de départage est le boxeur ayant eu le moins de points de pénalité.",
+     "r": "valable",
+     "e": "1/ le boxeur ayant eu le moins de points de pénalité."
+    },
+    {
+     "q": "En cas d'égalité au nombre de juges, le premier critère de départage est le boxeur le plus âgé.",
+     "r": "faute",
+     "e": "Le premier critère est le moins de points de pénalité, pas l'âge le plus élevé."
+    },
+    {
+     "q": "Le deuxième critère de départage en cas d'égalité est le boxeur qui n'a pas été le premier sanctionné.",
+     "r": "valable",
+     "e": "2/ le boxeur qui n'a pas été le premier sanctionné."
+    },
+    {
+     "q": "Le deuxième critère de départage est le nombre total de touches portées.",
+     "r": "faute",
+     "e": "Le deuxième critère est de ne pas avoir été le premier sanctionné, pas le nombre de touches."
+    },
+    {
+     "q": "Le troisième critère de départage en cas d'égalité est le boxeur le plus jeune.",
+     "r": "valable",
+     "e": "3/ le boxeur le plus jeune."
+    },
+    {
+     "q": "Le troisième critère de départage est le boxeur le plus lourd.",
+     "r": "faute",
+     "e": "Le troisième critère est l'âge (le plus jeune), pas le poids."
+    },
+    {
+     "q": "Les points attribués sont : 2 pour une victoire, 1 pour un abandon ou une défaite, 0 pour une disqualification ou un forfait.",
+     "r": "valable",
+     "e": "Gagnant : 2 points. Abandon (pendant l'assaut) ou perdant : 1 point. Disqualifié : 0 point. Forfait (avant l'assaut) : 0 point."
+    },
+    {
+     "q": "Les points attribués sont : 3 pour une victoire, 2 pour une défaite, 1 pour une disqualification.",
+     "r": "faute",
+     "e": "Le barème exact est 2 points pour une victoire, 1 pour un abandon/défaite, 0 pour disqualification/forfait."
+    },
+    {
+     "q": "Dans une poule de 4 boxeurs, le vainqueur de la poule obtient 5 points de classement.",
+     "r": "valable",
+     "e": "Poule de 4 : vainqueur de la poule 5 points."
+    },
+    {
+     "q": "Dans une poule de 4 boxeurs, le vainqueur de la poule obtient 3 points de classement.",
+     "r": "faute",
+     "e": "Le vainqueur d'une poule de 4 obtient 5 points, pas 3."
+    },
+    {
+     "q": "Dans une poule de 3 boxeurs, le 2ème de la poule obtient 3 points de classement.",
+     "r": "valable",
+     "e": "Poule de 3 : 2ème de la poule 3 points."
+    },
+    {
+     "q": "Dans une poule de 3 boxeurs, le 2ème de la poule obtient 5 points de classement.",
+     "r": "faute",
+     "e": "Le 2ème d'une poule de 3 obtient 3 points ; 5 points est réservé au vainqueur."
+    },
+    {
+     "q": "Un boxeur sans adversaire dans sa poule obtient 2 points de classement.",
+     "r": "valable",
+     "e": "Pas d'adversaire : 2 points."
+    },
+    {
+     "q": "Un boxeur sans adversaire dans sa poule obtient 5 points de classement, comme un vainqueur.",
+     "r": "faute",
+     "e": "Sans adversaire, le boxeur obtient 2 points, pas 5 comme un vainqueur classique."
+    },
+    {
+     "q": "À partir du premier appel, un boxeur dispose de 3 minutes pour se présenter sur le ring, sinon il est déclaré forfait.",
+     "r": "valable",
+     "e": "A partir du premier appel du responsable du ring, le boxeur dispose de 3 minutes pour se présenter sur le ring. Au-delà il sera déclaré « forfait »."
+    },
+    {
+     "q": "Un boxeur dispose d'un temps illimité pour se présenter sur le ring après l'appel.",
+     "r": "faute",
+     "e": "Le délai réglementaire est de 3 minutes après le premier appel, pas un temps illimité."
+    },
+    {
+     "q": "En cas d'égalité entre boxeurs à la fin d'une poule, le premier critère est le résultat de la rencontre qui les a opposés.",
+     "r": "valable",
+     "e": "1/ prendre en compte le résultat de la rencontre les ayant opposés."
+    },
+    {
+     "q": "En cas d'égalité entre boxeurs à la fin d'une poule, le premier critère est directement le nombre d'avertissements.",
+     "r": "faute",
+     "e": "Le tout premier critère est le résultat de la rencontre directe entre les deux boxeurs concernés."
+    },
+    {
+     "q": "En cas d'égalité entre boxeurs à la fin d'une poule, le deuxième critère est le nombre d'avertissements.",
+     "r": "valable",
+     "e": "2/ les avertissements."
+    },
+    {
+     "q": "En cas d'égalité entre boxeurs à la fin d'une poule, le deuxième critère est directement l'âge du boxeur.",
+     "r": "faute",
+     "e": "Le deuxième critère est le nombre d'avertissements, l'âge n'intervient qu'en dernier critère."
+    },
+    {
+     "q": "Dans une poule de 2 boxeurs à égalité de victoires, un troisième assaut permet de les départager.",
+     "r": "valable",
+     "e": "CAS PARTICULIER de la poule de 2 : si les deux boxeurs sont à égalité de victoires, un troisième assaut permettra de les départager."
+    },
+    {
+     "q": "Dans une poule de 2 boxeurs à égalité, le boxeur le plus jeune est automatiquement déclaré vainqueur, sans nouvel assaut.",
+     "r": "faute",
+     "e": "Un troisième assaut est organisé pour départager les deux boxeurs à égalité, pas une désignation automatique par l'âge."
+    },
+    {
+     "q": "En cas d'égalité entre équipes, le premier critère de départage est le nombre de 1ères places de poule par équipe.",
+     "r": "valable",
+     "e": "Nombre de 1ère place de poule par équipe."
+    },
+    {
+     "q": "En cas d'égalité entre équipes, le premier critère de départage est directement l'équipe la plus jeune.",
+     "r": "faute",
+     "e": "Le premier critère est le nombre de 1ères places, l'âge de l'équipe n'intervient qu'ensuite."
+    },
+    {
+     "q": "Les litiges liés au jugement sont traités par la CMN, et le support vidéo n'est pas accepté.",
+     "r": "valable",
+     "e": "Ils seront traités par la CMN. Le support vidéo n'est pas accepté pour un litige lié au jugement."
+    },
+    {
+     "q": "Les litiges peuvent être tranchés à l'aide d'un support vidéo si l'équipe le demande.",
+     "r": "faute",
+     "e": "Le support vidéo n'est explicitement pas accepté pour les litiges liés au jugement."
+    },
+    {
+     "q": "La réclamation pour un litige est acceptée jusqu'à 2 assauts après l'assaut concerné.",
+     "r": "valable",
+     "e": "La réclamation sera acceptée jusqu'à 2 assauts après l'assaut concerné."
+    },
+    {
+     "q": "La réclamation pour un litige doit être faite immédiatement, sans aucun délai possible.",
+     "r": "faute",
+     "e": "Un délai de 2 assauts après l'assaut concerné est accordé pour la réclamation."
+    },
+    {
+     "q": "Si le litige concerne les deux derniers assauts d'une demi-journée, la réclamation doit se faire avant 30 minutes.",
+     "r": "valable",
+     "e": "Si le litige est lié aux deux derniers assauts par demi-journée, la réclamation doit se faire avant 30 minutes."
+    },
+    {
+     "q": "Si le litige concerne les deux derniers assauts d'une demi-journée, il n'y a aucun délai limite.",
+     "r": "faute",
+     "e": "Un délai strict de 30 minutes s'applique dans ce cas précis."
+    },
+    {
+     "q": "Les poules sont constituées après la pesée, en fonction du poids réel des boxeurs.",
+     "r": "valable",
+     "e": "Dans ce type de compétition les poules ne sont pas définies à l'avance mais en fonction du poids réel des boxeurs lors de la pesée."
+    },
+    {
+     "q": "Les poules sont définies à l'avance, avant la pesée, selon la catégorie d'âge uniquement.",
+     "r": "faute",
+     "e": "Les poules sont constituées après la pesée, selon le poids réel, pas définies à l'avance."
+    },
+    {
+     "q": "Dans la mesure du possible, les boxeurs du même établissement ne sont pas placés dans la même poule.",
+     "r": "valable",
+     "e": "Dans la mesure du possible ne pas placer les boxeurs ou boxeuses du même établissement dans la même poule."
+    },
+    {
+     "q": "Les boxeurs du même établissement sont systématiquement regroupés dans la même poule.",
+     "r": "faute",
+     "e": "Le règlement recommande au contraire d'éviter de regrouper les boxeurs d'un même établissement."
+    },
+    {
+     "q": "Au Championnat de France Sport Partagé Boxe Assaut, l'équipe compte 4 boxeurs dont 2 valides et 2 en situation de handicap.",
+     "r": "valable",
+     "e": "COMPOSITION DES EQUIPES : 4 boxeurs / 2 VALIDES et SITUATION DE HANDICAP."
+    },
+    {
+     "q": "Au Championnat de France Sport Partagé Boxe Assaut, l'équipe compte uniquement des boxeurs valides.",
+     "r": "faute",
+     "e": "L'équipe compte 4 boxeurs, avec 2 valides et 2 en situation de handicap, pas uniquement des valides."
+    },
+    {
+     "q": "Chaque élève, quel que soit son handicap, doit savoir chuter pour participer à la compétition Sport Partagé.",
+     "r": "valable",
+     "e": "Pour des raisons de sécurité quel que soit le handicap de l'élève celui-ci devra « savoir chuter » pour participer à la compétition."
+    },
+    {
+     "q": "Savoir chuter n'est jamais une exigence pour participer à la compétition Sport Partagé.",
+     "r": "faute",
+     "e": "C'est une exigence de sécurité explicite pour tous les élèves, quel que soit leur handicap."
+    },
+    {
+     "q": "Le coefficient de compensation donne à l'élève en situation de handicap un score de départ en sa faveur.",
+     "r": "valable",
+     "e": "À la vue de son handicap chaque élève se verra attribué un coefficient de compensation et commencera son combat avec un score en sa faveur."
+    },
+    {
+     "q": "Le coefficient de compensation ne modifie jamais le score de départ du combat.",
+     "r": "faute",
+     "e": "Le coefficient de compensation donne bien un score de départ favorable, en fonction du handicap."
+    }
+   ]
+  }
+ ]
+}

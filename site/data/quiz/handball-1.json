@@ -1,0 +1,265 @@
+{
+ "id": "handball-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Arbitre Handball",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT HANDBALL UNSS",
+ "sport": "handball",
+ "source": "https://zesty-sawine-3141ff.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le terrain de handball mesure 40 mètres de long sur 20 mètres de large.",
+     "r": "valable",
+     "e": "Les dimensions réglementaires du terrain de handball sont 40 m x 20 m."
+    },
+    {
+     "q": "Le terrain de handball mesure 20 mètres de long sur 10 mètres de large.",
+     "r": "faute",
+     "e": "Le terrain de handball mesure 40 m sur 20 m, pas 20 m sur 10 m."
+    },
+    {
+     "q": "Sur l'aire de jeu, une équipe ne peut pas avoir plus de 7 joueurs en même temps, gardien compris.",
+     "r": "valable",
+     "e": "Sur l'aire de jeu, ne peuvent se trouver en même temps que 7 joueurs ; les autres sont remplaçants."
+    },
+    {
+     "q": "Sur l'aire de jeu, une équipe peut avoir jusqu'à 10 joueurs en même temps.",
+     "r": "faute",
+     "e": "Le maximum est de 7 joueurs sur l'aire de jeu en même temps, pas 10."
+    },
+    {
+     "q": "Une équipe peut compter jusqu'à 12 joueurs au total.",
+     "r": "valable",
+     "e": "L'équipe comprend jusqu'à 12 joueurs au total, titulaires et remplaçants confondus."
+    },
+    {
+     "q": "Une équipe ne peut pas dépasser 8 joueurs au total.",
+     "r": "faute",
+     "e": "Le règlement autorise jusqu'à 12 joueurs par équipe, pas seulement 8."
+    },
+    {
+     "q": "Il est interdit de toucher le ballon avec le pied ou la jambe en dessous du genou.",
+     "r": "valable",
+     "e": "Il est interdit de toucher le ballon avec le pied ou la jambe en dessous du genou."
+    },
+    {
+     "q": "Toucher le ballon avec le pied est autorisé à tout moment du jeu.",
+     "r": "faute",
+     "e": "Le règlement interdit explicitement de toucher le ballon avec le pied ou la jambe sous le genou."
+    },
+    {
+     "q": "Seul le gardien de but a le droit de pénétrer sur la surface de but.",
+     "r": "valable",
+     "e": "La surface de but est réservée au gardien : seul lui a le droit d'y pénétrer."
+    },
+    {
+     "q": "N'importe quel joueur peut pénétrer librement sur la surface de but.",
+     "r": "faute",
+     "e": "Seul le gardien peut pénétrer sur la surface de but, pas les autres joueurs."
+    },
+    {
+     "q": "Un but est marqué lorsque le ballon tout entier franchit toute la largeur de la ligne de but.",
+     "r": "valable",
+     "e": "Un but est marqué lorsque le ballon tout entier franchit toute la largeur de la ligne de but."
+    },
+    {
+     "q": "Un but est marqué dès que le ballon touche partiellement la ligne de but.",
+     "r": "faute",
+     "e": "Il faut que le ballon franchisse entièrement la ligne de but, pas un simple contact partiel."
+    },
+    {
+     "q": "Le carton jaune est un avertissement.",
+     "r": "valable",
+     "e": "Le carton jaune correspond à un avertissement dans la gestuelle officielle."
+    },
+    {
+     "q": "Le carton jaune entraîne une exclusion définitive du joueur.",
+     "r": "faute",
+     "e": "C'est le carton rouge (disqualification) qui entraîne une exclusion définitive, pas le jaune."
+    },
+    {
+     "q": "L'exclusion temporaire dure 2 minutes.",
+     "r": "valable",
+     "e": "Le temps d'exclusion est de 2 minutes, quelle que soit la durée du match."
+    },
+    {
+     "q": "L'exclusion temporaire dure 5 minutes.",
+     "r": "faute",
+     "e": "L'exclusion temporaire dure 2 minutes, pas 5."
+    },
+    {
+     "q": "La disqualification est signalée par un carton rouge.",
+     "r": "valable",
+     "e": "La disqualification correspond au carton rouge dans la gestuelle officielle."
+    },
+    {
+     "q": "La disqualification est signalée par un carton bleu.",
+     "r": "faute",
+     "e": "Le carton bleu n'existe pas à l'UNSS ; la disqualification est signalée par un carton rouge."
+    },
+    {
+     "q": "Le carton bleu n'existe pas à l'UNSS.",
+     "r": "valable",
+     "e": "Pas de carton bleu à l'UNSS, contrairement à certaines règles fédérales."
+    },
+    {
+     "q": "Le carton bleu est utilisé à l'UNSS comme au niveau fédéral.",
+     "r": "faute",
+     "e": "Le carton bleu n'est pas appliqué à l'UNSS ; en cas de disqualification, une observation est renseignée sur la feuille de match."
+    },
+    {
+     "q": "Le Jeune Arbitre est identifié par un tee-shirt de couleur verte au niveau national.",
+     "r": "valable",
+     "e": "Au niveau des organisations nationales et championnats de France, le Jeune Arbitre est identifié par un tee-shirt de couleur verte."
+    },
+    {
+     "q": "Le Jeune Arbitre est identifié par un tee-shirt de couleur rouge au niveau national.",
+     "r": "faute",
+     "e": "C'est un tee-shirt vert qui identifie le Jeune Arbitre, pas rouge."
+    },
+    {
+     "q": "Le jet de 7 mètres sanctionne une Occasion Manifeste de But déjouée irrégulièrement.",
+     "r": "valable",
+     "e": "Le jet de 7 mètres est accordé lorsqu'une Occasion Manifeste de But (OMB) est déjouée irrégulièrement."
+    },
+    {
+     "q": "Le jet de 7 mètres est accordé automatiquement à chaque irrégularité, quelle qu'elle soit.",
+     "r": "faute",
+     "e": "Le jet de 7 mètres est réservé aux occasions manifestes de but déjouées irrégulièrement, pas à toute irrégularité."
+    },
+    {
+     "q": "La remise en jeu s'exécute sans coup de sifflet des arbitres.",
+     "r": "valable",
+     "e": "La remise en jeu est exécutée sans coup de sifflet, depuis l'endroit où le ballon est sorti."
+    },
+    {
+     "q": "La remise en jeu nécessite toujours un coup de sifflet préalable des arbitres.",
+     "r": "faute",
+     "e": "La remise en jeu s'exécute sans coup de sifflet, ce n'est pas nécessaire."
+    },
+    {
+     "q": "Un temps mort de 2 minutes par équipe et par mi-temps peut être accordé.",
+     "r": "valable",
+     "e": "Le règlement spécifique UNSS prévoit un temps mort de 2 minutes par équipe et par mi-temps."
+    },
+    {
+     "q": "Un temps mort de 5 minutes par équipe et par match peut être accordé.",
+     "r": "faute",
+     "e": "Le temps mort réglementaire est de 2 minutes par équipe et par mi-temps, pas 5 minutes par match."
+    },
+    {
+     "q": "Le renvoi est exécuté par le gardien de but, sans coup de sifflet des arbitres.",
+     "r": "valable",
+     "e": "Le renvoi est à exécuter par le gardien de but, sans coup de sifflet des arbitres."
+    },
+    {
+     "q": "Le renvoi est exécuté par un joueur de champ, après un coup de sifflet des arbitres.",
+     "r": "faute",
+     "e": "Le renvoi est exécuté par le gardien, sans coup de sifflet, pas par un joueur de champ."
+    },
+    {
+     "q": "Les gardiens de but doivent porter des maillots de couleur différente de leurs partenaires et de leurs adversaires.",
+     "r": "valable",
+     "e": "Les gardiens de but doivent avoir des maillots de couleurs différentes de leurs partenaires et des adversaires."
+    },
+    {
+     "q": "Les gardiens de but peuvent porter le même maillot que leurs partenaires de champ.",
+     "r": "faute",
+     "e": "Les gardiens doivent porter un maillot distinct de leurs partenaires ET de leurs adversaires."
+    },
+    {
+     "q": "Les maillots de club sont interdits ; seuls les maillots de l'AS sont autorisés.",
+     "r": "valable",
+     "e": "L'équipement prévoit 2 jeux de maillots de l'AS de couleurs différentes ; les maillots de clubs sont interdits."
+    },
+    {
+     "q": "Les joueurs peuvent porter leurs maillots de club personnels durant les rencontres UNSS.",
+     "r": "faute",
+     "e": "Seuls les maillots de l'AS sont autorisés ; les maillots de club sont explicitement interdits."
+    },
+    {
+     "q": "De la publicité est possible sur les maillots, à condition que son logo soit plus petit que celui de l'AS.",
+     "r": "valable",
+     "e": "Publicité possible sur les maillots, à condition que le logo de la publicité soit plus petit que celui de l'AS."
+    },
+    {
+     "q": "Toute publicité est interdite sur les maillots, quelle que soit sa taille.",
+     "r": "faute",
+     "e": "La publicité est autorisée si son logo reste plus petit que celui de l'AS, elle n'est pas totalement interdite."
+    },
+    {
+     "q": "Les lunettes souples spécial sport sont autorisées pour tous jusqu'au niveau inter-académique.",
+     "r": "valable",
+     "e": "Le port des lunettes souples avec élastique de maintien est autorisé pour tous jusqu'au niveau inter-académique."
+    },
+    {
+     "q": "Les lunettes souples spécial sport sont interdites à tous les niveaux de compétition.",
+     "r": "faute",
+     "e": "Les lunettes souples sont au contraire autorisées, et même recommandées à tous les niveaux."
+    },
+    {
+     "q": "Le jeu passif est sanctionné par un avertissement, puis un jet franc si aucun tir n'a lieu après 4 passes maximum.",
+     "r": "valable",
+     "e": "Les arbitres effectuent le geste d'avertissement du jeu passif, puis un jet franc est accordé après 4 passes maximum sans tir."
+    },
+    {
+     "q": "Le jeu passif n'est jamais sanctionné en handball.",
+     "r": "faute",
+     "e": "Le jeu passif est bien sanctionné, par un avertissement puis un jet franc adverse."
+    },
+    {
+     "q": "Les adversaires doivent se tenir au moins à 3 mètres du lanceur sur une remise en jeu.",
+     "r": "valable",
+     "e": "Les adversaires doivent se tenir au moins à 3 mètres du lanceur lors d'une remise en jeu."
+    },
+    {
+     "q": "Les adversaires peuvent se placer à 1 mètre du lanceur sur une remise en jeu.",
+     "r": "faute",
+     "e": "La distance réglementaire sur une remise en jeu est de 3 mètres, pas 1 mètre."
+    },
+    {
+     "q": "Le porteur du ballon doit garder au moins un pied sur la ligne de touche jusqu'à ce que le ballon quitte sa main.",
+     "r": "valable",
+     "e": "Le porteur du ballon doit garder au moins un pied sur la ligne de touche jusqu'à ce que le ballon ait quitté sa main."
+    },
+    {
+     "q": "Le porteur du ballon peut lever les deux pieds de la ligne de touche avant de lancer.",
+     "r": "faute",
+     "e": "Il doit garder un pied sur la ligne jusqu'à ce que le ballon ait quitté sa main."
+    },
+    {
+     "q": "Le nombre d'officiels est limité à 3 maximum par équipe : 1 Jeune Coach et 2 accompagnateurs maximum.",
+     "r": "valable",
+     "e": "Les officiels sont au nombre de 3 maximum : 1 Jeune coach + 2 accompagnateurs maximum."
+    },
+    {
+     "q": "Une équipe peut avoir autant d'officiels qu'elle le souhaite sur le banc.",
+     "r": "faute",
+     "e": "Le nombre d'officiels est limité à 3 maximum par équipe, pas illimité."
+    },
+    {
+     "q": "Lors d'un jet franc, les arbitres doivent veiller à la continuité du match sans interrompre le jeu prématurément.",
+     "r": "valable",
+     "e": "Les arbitres doivent veiller à la continuité du match en s'abstenant d'interrompre le jeu prématurément par une décision de jet franc."
+    },
+    {
+     "q": "Les arbitres doivent systématiquement interrompre le jeu à la moindre irrégularité.",
+     "r": "faute",
+     "e": "Les arbitres doivent au contraire veiller à la continuité du jeu, sans interrompre prématurément."
+    },
+    {
+     "q": "Un but accordé ne peut plus être annulé une fois que l'arbitre a sifflé l'engagement suivant.",
+     "r": "valable",
+     "e": "Un but accordé ne peut plus être annulé une fois que l'arbitre a sifflé l'engagement."
+    },
+    {
+     "q": "Un but accordé peut être annulé à tout moment, même après l'engagement suivant.",
+     "r": "faute",
+     "e": "Une fois l'engagement suivant sifflé, le but ne peut plus être annulé."
+    }
+   ]
+  }
+ ]
+}

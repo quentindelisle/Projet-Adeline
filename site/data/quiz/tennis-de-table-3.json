@@ -1,0 +1,265 @@
+{
+ "id": "tennis-de-table-3",
+ "titre": "Le double, l'accélération et le sport partagé",
+ "sousTitre": "Quiz Jeune Arbitre Tennis de Table",
+ "entete": "",
+ "sport": "tennis-de-table",
+ "source": "https://benevolent-cactus-b343e7.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En sport partagé, la règle de l'alternance s'applique exactement comme en valide.",
+     "r": "faute",
+     "e": "Attention : l'alternance ne s'applique pas ; chaque joueur reste de son côté."
+    },
+    {
+     "q": "En cas d'égalité entre 3 équipes, on regarde d'abord les résultats des rencontres entre elles.",
+     "r": "valable",
+     "e": "On regarde en premier les résultats directs entre les équipes à égalité."
+    },
+    {
+     "q": "En double, le service peut se faire de n'importe quel côté de la table.",
+     "r": "faute",
+     "e": "Attention : le service en double se fait toujours de la droite, en diagonale."
+    },
+    {
+     "q": "En double, le service va dans le demi-camp droit du relanceur.",
+     "r": "valable",
+     "e": "Il va précisément dans le demi-camp droit du relanceur."
+    },
+    {
+     "q": "Un joueur jamais licencié à la FFTT se voit attribuer 0 point de classement.",
+     "r": "faute",
+     "e": "Attention : ce joueur reçoit 500 points par défaut, selon le règlement Excellence."
+    },
+    {
+     "q": "En sport partagé, le service ne peut pas être court, rétro ou sortant.",
+     "r": "valable",
+     "e": "Ces trois types de service entraînent une balle à remettre en sport partagé."
+    },
+    {
+     "q": "En double, le service peut aller dans n'importe quel demi-camp.",
+     "r": "faute",
+     "e": "Attention : il va précisément dans le demi-camp droit du relanceur."
+    },
+    {
+     "q": "En cas d'égalité entre 3 équipes, un tirage au sort départage immédiatement.",
+     "r": "faute",
+     "e": "Attention : on regarde en premier les résultats directs entre les équipes à égalité."
+    },
+    {
+     "q": "Chaque élève en sport partagé doit obligatoirement jouer les 5 parties.",
+     "r": "faute",
+     "e": "Attention : la règle impose entre 1 et 2 parties par élève, pas plus."
+    },
+    {
+     "q": "S'il y a une erreur dans l'ordre du service, l'arbitre doit annuler tous les points marqués.",
+     "r": "faute",
+     "e": "Attention : le score n'est pas changé ; on redonne simplement la balle au bon serveur."
+    },
+    {
+     "q": "Pour le sport partagé, la formule prévoit un double homme en premier (Valide + SH).",
+     "r": "valable",
+     "e": "Le double homme (Valide + SH) est bien la première partie de la formule sport partagé."
+    },
+    {
+     "q": "Si l'égalité persiste, l'équipe la plus âgée est systématiquement déclarée vainqueur.",
+     "r": "faute",
+     "e": "Attention : c'est l'équipe la plus jeune qui l'emporte en tout dernier recours."
+    },
+    {
+     "q": "En double, l'arbitrage se fait debout pour bien observer le service.",
+     "r": "valable",
+     "e": "L'arbitre se tient debout en double, pour mieux juger le service."
+    },
+    {
+     "q": "En sport partagé, la règle de l'alternance des côtés ne s'applique pas.",
+     "r": "valable",
+     "e": "L'alternance ne s'applique pas ; chaque joueur reste de son côté."
+    },
+    {
+     "q": "En double, le serveur est toujours désigné par l'arbitre à chaque manche.",
+     "r": "faute",
+     "e": "Attention : c'est la paire qui sert qui choisit son serveur à chaque manche."
+    },
+    {
+     "q": "La feuille de rencontre n'est disponible qu'en version papier, sur demande.",
+     "r": "faute",
+     "e": "Attention : elle est téléchargeable directement sur le site de l'UNSS."
+    },
+    {
+     "q": "La règle d'accélération s'applique dès le début de chaque manche, systématiquement.",
+     "r": "faute",
+     "e": "Attention : elle s'applique après 10 minutes de jeu effectif."
+    },
+    {
+     "q": "Chaque élève en sport partagé joue au minimum 1 partie et au maximum 2 parties.",
+     "r": "valable",
+     "e": "La règle impose entre 1 et 2 parties par élève, pas plus."
+    },
+    {
+     "q": "Un joueur qui abandonne ne peut plus participer à une autre partie de la même rencontre.",
+     "r": "valable",
+     "e": "Il ne peut plus participer à une autre partie de cette même rencontre."
+    },
+    {
+     "q": "Dans la manche décisive (la belle), les équipes changent de côté à 5 points.",
+     "r": "valable",
+     "e": "Le changement de côté a lieu précisément à 5 points dans la belle."
+    },
+    {
+     "q": "Avec la règle d'accélération, on sert chacun son tour.",
+     "r": "valable",
+     "e": "On sert chacun son tour pendant la règle d'accélération."
+    },
+    {
+     "q": "Pour le sport partagé, la formule commence toujours par un simple.",
+     "r": "faute",
+     "e": "Attention : le double homme (Valide + SH) est bien la première partie de la formule sport partagé."
+    },
+    {
+     "q": "S'il y a une erreur dans l'ordre du service, l'arbitre ne change pas le score.",
+     "r": "valable",
+     "e": "Le score n'est pas changé ; on redonne simplement la balle au bon serveur."
+    },
+    {
+     "q": "Le carré magique sert à calculer le score final de la partie.",
+     "r": "faute",
+     "e": "Attention : c'est un outil mnémotechnique pour l'ordre des services en double."
+    },
+    {
+     "q": "Si l'égalité persiste entre 3 équipes, on regarde le nombre de victoires dans ces rencontres.",
+     "r": "valable",
+     "e": "C'est bien le nombre de victoires qui est regardé en second critère."
+    },
+    {
+     "q": "Le compteur de renvoi est obligatoirement le même que l'arbitre principal.",
+     "r": "faute",
+     "e": "Attention : ce rôle peut être assuré par un officiel distinct de l'arbitre adjoint."
+    },
+    {
+     "q": "Le carré magique aide à se souvenir qui sert sur qui en double.",
+     "r": "valable",
+     "e": "C'est un outil mnémotechnique pour l'ordre des services en double."
+    },
+    {
+     "q": "Avec la règle d'accélération, le même joueur sert pendant toute la manche.",
+     "r": "faute",
+     "e": "Attention : on sert chacun son tour pendant la règle d'accélération."
+    },
+    {
+     "q": "La feuille de rencontre est téléchargeable sur www.unss.org.",
+     "r": "valable",
+     "e": "Elle est téléchargeable directement sur le site de l'UNSS."
+    },
+    {
+     "q": "Le compteur de renvoi peut être un officiel distinct de l'arbitre adjoint.",
+     "r": "valable",
+     "e": "Ce rôle peut être assuré par un officiel distinct de l'arbitre adjoint."
+    },
+    {
+     "q": "L'ordre des parties en phase de poule est totalement libre.",
+     "r": "faute",
+     "e": "Attention : cet ordre précis est fixé par le règlement pour la phase de poule."
+    },
+    {
+     "q": "Si l'égalité persiste malgré tous les critères, l'équipe la plus jeune est déclarée vainqueur.",
+     "r": "valable",
+     "e": "C'est l'équipe la plus jeune qui l'emporte en tout dernier recours."
+    },
+    {
+     "q": "En cas de blessure, la rencontre entière est annulée.",
+     "r": "faute",
+     "e": "Attention : on applique le 0-11 à la partie n'ayant pu se dérouler, la rencontre continue."
+    },
+    {
+     "q": "En cas de blessure d'un joueur, la partie continue avec un score de 0-11 pour la partie non disputée.",
+     "r": "valable",
+     "e": "On applique le 0-11 à la partie n'ayant pu se dérouler, la rencontre continue."
+    },
+    {
+     "q": "En double, à chaque manche, la paire qui sert a le choix du serveur.",
+     "r": "valable",
+     "e": "C'est la paire qui sert qui choisit son serveur à chaque manche."
+    },
+    {
+     "q": "En sport partagé, une personne en fauteuil ne peut pas poser le pied au sol.",
+     "r": "valable",
+     "e": "Elle n'a pas le droit de poser le pied (ou le repose-pieds) au sol."
+    },
+    {
+     "q": "Dans la belle, l'ordre des relanceurs change mais pas celui des serveurs.",
+     "r": "valable",
+     "e": "C'est l'ordre des relanceurs qui change, pas celui des serveurs."
+    },
+    {
+     "q": "En double, le service se fait toujours de la droite, en diagonale.",
+     "r": "valable",
+     "e": "Le service en double se fait toujours de la droite, en diagonale."
+    },
+    {
+     "q": "En sport partagé, tous les types de service sont autorisés sans restriction.",
+     "r": "faute",
+     "e": "Attention : ces trois types de service entraînent une balle à remettre en sport partagé."
+    },
+    {
+     "q": "La règle d'accélération s'applique quel que soit le nombre de points déjà marqués.",
+     "r": "faute",
+     "e": "Attention : elle ne s'applique pas si 18 points sont déjà atteints, même après 10 minutes."
+    },
+    {
+     "q": "En double, l'arbitre reste systématiquement assis comme en simple.",
+     "r": "faute",
+     "e": "Attention : l'arbitre se tient debout en double, pour mieux juger le service."
+    },
+    {
+     "q": "Dans la belle, l'ordre des serveurs change mais pas celui des relanceurs.",
+     "r": "faute",
+     "e": "Attention : c'est l'ordre des relanceurs qui change, pas celui des serveurs."
+    },
+    {
+     "q": "En sport partagé, une personne en fauteuil peut poser librement le pied au sol.",
+     "r": "faute",
+     "e": "Attention : elle n'a pas le droit de poser le pied (ou le repose-pieds) au sol."
+    },
+    {
+     "q": "Un joueur jamais licencié à la FFTT se voit attribuer 500 points de classement.",
+     "r": "valable",
+     "e": "Ce joueur reçoit 500 points par défaut, selon le règlement Excellence."
+    },
+    {
+     "q": "Un joueur qui abandonne peut immédiatement disputer une autre partie.",
+     "r": "faute",
+     "e": "Attention : il ne peut plus participer à une autre partie de cette même rencontre."
+    },
+    {
+     "q": "Dans la belle, les équipes ne changent jamais de côté.",
+     "r": "faute",
+     "e": "Attention : le changement de côté a lieu précisément à 5 points dans la belle."
+    },
+    {
+     "q": "L'ordre des parties en phase de poule est SH – DD – DH – SD – DM.",
+     "r": "valable",
+     "e": "Cet ordre précis est fixé par le règlement pour la phase de poule."
+    },
+    {
+     "q": "La règle d'accélération s'applique si une manche dure plus de 10 minutes de jeu effectif.",
+     "r": "valable",
+     "e": "Elle s'applique après 10 minutes de jeu effectif."
+    },
+    {
+     "q": "La règle d'accélération ne s'applique pas si 18 points ont déjà été marqués.",
+     "r": "valable",
+     "e": "Elle ne s'applique pas si 18 points sont déjà atteints, même après 10 minutes."
+    },
+    {
+     "q": "Si l'égalité persiste, on ignore totalement les rencontres entre elles.",
+     "r": "faute",
+     "e": "Attention : c'est bien le nombre de victoires qui est regardé en second critère."
+    }
+   ]
+  }
+ ]
+}

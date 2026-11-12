@@ -1,0 +1,265 @@
+{
+ "id": "ultimate-1",
+ "titre": "Le jeu, l'esprit du jeu & l'équipement",
+ "sousTitre": "Quiz Jeune Superviseur Ultimate",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT ULTIMATE UNSS",
+ "sport": "ultimate",
+ "source": "https://regal-sunflower-4b8eb1.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "L'ultimate est un sport collectif sans contact et auto-arbitré.",
+     "r": "valable",
+     "e": "L'ultimate est un sport collectif sans contact et auto-arbitré ; tous les joueurs sont responsables du fair-play."
+    },
+    {
+     "q": "L'ultimate est arbitré par un arbitre officiel présent sur le terrain.",
+     "r": "faute",
+     "e": "Il n'y a pas d'arbitre en ultimate ; chaque joueur est responsable du respect des règles."
+    },
+    {
+     "q": "Le porteur du disque peut effectuer une passe dans toutes les directions grâce à un pied de pivot.",
+     "r": "valable",
+     "e": "Il peut effectuer une passe dans toutes les directions à n'importe quel coéquipier en effectuant un pied de pivot."
+    },
+    {
+     "q": "Le porteur du disque peut se déplacer librement tant qu'il n'a pas encore lancé.",
+     "r": "faute",
+     "e": "Le porteur de disque ne peut pas se déplacer, il peut seulement effectuer un pied de pivot."
+    },
+    {
+     "q": "Aucun contact n'est autorisé entre joueurs.",
+     "r": "valable",
+     "e": "Aucun contact n'est autorisé en ultimate."
+    },
+    {
+     "q": "Le contact est autorisé si le joueur fait une action de jeu sur le disque.",
+     "r": "faute",
+     "e": "« Faire action de jeu sur le disque » n'est pas une excuse valable pour créer un contact."
+    },
+    {
+     "q": "Être fair-play, c'est être honnête, loyal, maître de soi, respectueux et digne dans la victoire comme dans la défaite.",
+     "r": "valable",
+     "e": "C'est la définition exacte du fair-play donnée dans le règlement."
+    },
+    {
+     "q": "Un joueur doit appeler un manquement même s'il n'a aucun impact sur le résultat de l'action.",
+     "r": "faute",
+     "e": "On appelle un manquement uniquement s'il est assez significatif pour changer le résultat d'une action."
+    },
+    {
+     "q": "Les joueurs doivent laisser à l'adversaire l'opportunité de parler lors d'un appel.",
+     "r": "valable",
+     "e": "Laisser aux adversaires l'opportunité de parler fait partie des principes de l'esprit du jeu."
+    },
+    {
+     "q": "La célébration exagérée d'un point marqué est encouragée pour motiver l'équipe.",
+     "r": "faute",
+     "e": "La célébration irrespectueuse ou exagérée d'un point marqué est contraire à l'esprit du jeu."
+    },
+    {
+     "q": "Se rétracter après un appel dont on réalise qu'il était inutile est un bon comportement.",
+     "r": "valable",
+     "e": "Se rétracter après un appel de manquement dont on se rend compte qu'il n'était pas nécessaire est un exemple de bon esprit du jeu."
+    },
+    {
+     "q": "Un joueur sur la ligne de touche peut intervenir verbalement sur le jeu en cours.",
+     "r": "faute",
+     "e": "Intervenir verbalement sur le jeu lorsqu'on est sur la ligne de touche est contraire à l'esprit du jeu."
+    },
+    {
+     "q": "Complimenter un adversaire pour une belle action fait partie du bon esprit du jeu.",
+     "r": "valable",
+     "e": "Complimenter un adversaire pour une belle action ou un bon esprit est cité comme exemple de bon EDJ."
+    },
+    {
+     "q": "Si les joueurs ne trouvent pas d'accord après discussion, le disque reste où il est.",
+     "r": "faute",
+     "e": "Si les joueurs ne trouvent pas d'accord, le disque est retourné à la dernière possession établie avant l'appel."
+    },
+    {
+     "q": "Appeler une infraction en réponse à l'appel d'un adversaire est contraire à l'esprit du jeu.",
+     "r": "valable",
+     "e": "L'appel d'infractions en réponse à l'appel d'un adversaire est cité comme contraire à l'EDJ."
+    },
+    {
+     "q": "La note d'esprit du jeu n'a pas besoin d'être signée sur la feuille de match.",
+     "r": "faute",
+     "e": "Les capitaines viennent noter l'EDJ sur la feuille de match et signent."
+    },
+    {
+     "q": "L'interprétation des règles se fait uniquement par les joueurs directement impliqués dans l'action.",
+     "r": "valable",
+     "e": "L'interprétation des règles se fait uniquement par les joueurs directement impliqués dans l'action."
+    },
+    {
+     "q": "Le jeune coach n'a pas besoin d'assister à la pré-ronde ni à la ronde.",
+     "r": "faute",
+     "e": "Le jeune coach doit assister à la pré-ronde et à la ronde."
+    },
+    {
+     "q": "En cas de doute, les joueurs impliqués peuvent prendre l'avis de non-joueurs pour clarifier les règles.",
+     "r": "valable",
+     "e": "En cas de doute, ils peuvent prendre l'avis de non-joueurs pour clarifier les règles et prendre la décision adéquate."
+    },
+    {
+     "q": "Une équipe peut jouer à 3 garçons et 1 fille sur le terrain.",
+     "r": "faute",
+     "e": "La composition impose 2 garçons et 2 filles en permanence sur le terrain, pas 3 et 1."
+    },
+    {
+     "q": "Chaque équipe dispose de 5 minutes pour faire son pré-cercle et effectuer l'EDJ.",
+     "r": "valable",
+     "e": "Chaque équipe dispose de 5 minutes pour faire son pré-cercle et effectuer l'EDJ."
+    },
+    {
+     "q": "Lors d'un temps mort, le chronomètre du temps de jeu continue de tourner.",
+     "r": "faute",
+     "e": "Lors du temps mort, le chronomètre du temps de jeu est arrêté."
+    },
+    {
+     "q": "Les capitaines donnent la note d'esprit du jeu à voix haute à l'équipe adverse.",
+     "r": "valable",
+     "e": "Ils devront donner à haute voix la note à toute l'équipe adverse."
+    },
+    {
+     "q": "Les crampons vissés sont autorisés sur les chaussures.",
+     "r": "faute",
+     "e": "Les chaussures à crampons sont autorisées, mais les crampons vissés ne sont pas autorisés."
+    },
+    {
+     "q": "En fin de ronde, les joueurs et joueuses se saluent.",
+     "r": "valable",
+     "e": "En fin de ronde, les joueurs et joueuses se saluent."
+    },
+    {
+     "q": "Un maillot de club fédéral est autorisé s'il est plus visible que le flocage de l'AS.",
+     "r": "faute",
+     "e": "Le maillot de club est interdit ; le nom/logo de l'AS doit être plus visible que toute autre publicité."
+    },
+    {
+     "q": "Le format de jeu au collège et au lycée est 4 contre 4, avec 2 garçons et 2 filles en permanence.",
+     "r": "valable",
+     "e": "Jeu à 4 contre 4 : 2 garçons et 2 filles en permanence sur le terrain."
+    },
+    {
+     "q": "Les déguisements sont autorisés lors des compétitions.",
+     "r": "faute",
+     "e": "Les déguisements sont explicitement interdits."
+    },
+    {
+     "q": "La durée totale de jeu dans la même journée pour un joueur est de 125 minutes maximum.",
+     "r": "valable",
+     "e": "Durée totale de jeu dans la même journée pour un joueur : 125 minutes maximum, collège comme lycée."
+    },
+    {
+     "q": "Le capitaine qui gagne le tirage au sort choisit uniquement l'en-but à défendre.",
+     "r": "faute",
+     "e": "Il a le choix entre attaquer/défendre ET choisir l'en-but à défendre ; l'autre capitaine a le choix restant."
+    },
+    {
+     "q": "En phase de poule établissement collège, un match se joue en 9 points ou 20 minutes.",
+     "r": "valable",
+     "e": "En phase de poule (collège établissement) : match en 9 points ou 20 minutes."
+    },
+    {
+     "q": "Quand le temps réglementaire est écoulé, le match s'arrête immédiatement, même en plein point.",
+     "r": "faute",
+     "e": "Le match continue jusqu'au prochain point marqué une fois le temps réglementaire écoulé."
+    },
+    {
+     "q": "Chaque équipe dispose d'un temps mort de 2 minutes par match.",
+     "r": "valable",
+     "e": "1 temps mort par équipe, d'une durée de 2'00''."
+    },
+    {
+     "q": "Le référent adulte peut intervenir librement auprès des joueurs sur le terrain à tout moment.",
+     "r": "faute",
+     "e": "Le référent adulte n'a pas le droit d'intervenir auprès des joueurs sur le terrain."
+    },
+    {
+     "q": "En phase de classement et phase finale, le Cap+1 est systématique.",
+     "r": "valable",
+     "e": "En phase de classement et phase finale : Cap+1 systématique."
+    },
+    {
+     "q": "La table de marque est positionnée du même côté que les jeunes coachs.",
+     "r": "faute",
+     "e": "La table de marque est à l'opposé de la zone des jeunes coachs, des remplaçants et enseignants."
+    },
+    {
+     "q": "Le terrain sport partagé mesure 40m par 20m.",
+     "r": "valable",
+     "e": "Terrain de 40m/20m pour le sport partagé."
+    },
+    {
+     "q": "Les lignes de touche et les lignes de fond font partie de l'aire de jeu.",
+     "r": "faute",
+     "e": "Les lignes de touche et les lignes de fond ne font pas partie de l'aire de jeu."
+    },
+    {
+     "q": "Les disques recommandés pèsent 175 grammes.",
+     "r": "valable",
+     "e": "Les disques blancs ou jaunes (pour le beach) de 175 grammes approuvés par l'UNSS et la FFFD sont recommandés."
+    },
+    {
+     "q": "La haute compétition est encouragée, même au détriment du respect mutuel entre joueurs.",
+     "r": "faute",
+     "e": "La haute compétition est encouragée mais jamais au détriment du respect mutuel, de l'adhésion aux règles et du plaisir de jouer."
+    },
+    {
+     "q": "Les shorts et/ou jupes-shorts sont obligatoires, un legging pouvant être porté dessous.",
+     "r": "valable",
+     "e": "Les shorts et/ou jupes shorts sont obligatoires (legging possible sous le short)."
+    },
+    {
+     "q": "Un joueur peut demander la passe d'un joueur de l'équipe adverse.",
+     "r": "faute",
+     "e": "Demander la passe d'un joueur adverse est cité comme contraire à l'esprit du jeu."
+    },
+    {
+     "q": "Les maillots sont numérotés de 0 à 99 et le nom de l'établissement doit y figurer.",
+     "r": "valable",
+     "e": "Les maillots des joueurs sont numérotés de 0 à 99 et le nom de l'établissement doit y figurer."
+    },
+    {
+     "q": "La provocation et l'intimidation sont des attitudes tolérées si elles restent verbales.",
+     "r": "faute",
+     "e": "La provocation et l'intimidation sont explicitement citées comme contraires à l'esprit du jeu."
+    },
+    {
+     "q": "Le port de bijoux, colliers ou bracelets est interdit pour des raisons de sécurité.",
+     "r": "valable",
+     "e": "Le port de vêtements ou d'équipement pouvant nuire est interdit, notamment colliers, bracelets et autres bijoux."
+    },
+    {
+     "q": "Le jeu dangereux est toléré tant qu'aucun contact réel n'a lieu.",
+     "r": "faute",
+     "e": "Le jeu dangereux et les comportements agressifs sont contraires à l'esprit du jeu, indépendamment du contact réel."
+    },
+    {
+     "q": "Pour commencer un match, un tirage au sort a lieu entre les deux équipes.",
+     "r": "valable",
+     "e": "Commencer un match : tirage au sort entre les deux équipes."
+    },
+    {
+     "q": "Les joueurs expérimentés n'ont pas à se soucier d'expliquer les règles aux débutants.",
+     "r": "faute",
+     "e": "Les joueurs expérimentés se doivent d'expliquer aux débutants leurs manquements commis par ignorance des règles."
+    },
+    {
+     "q": "Les infractions aux règles commises intentionnellement sont contraires à l'esprit du jeu.",
+     "r": "valable",
+     "e": "Les infractions aux règles de manière intentionnelle sont explicitement citées comme contraires à l'EDJ."
+    },
+    {
+     "q": "Le protocole EDJ peut être ignoré si les deux équipes sont pressées de partir.",
+     "r": "faute",
+     "e": "Le protocole de pré-cercle et de cercle est une étape obligatoire après chaque match, quelle que soit la contrainte de temps."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "id": "course-d-orientation-2",
+ "titre": "Rôles et ateliers du jeune juge",
+ "sousTitre": "Quiz Jeune Juge Course d'orientation",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT COURSE D'ORIENTATION UNSS",
+ "sport": "course-d-orientation",
+ "source": "https://melodious-sorbet-bf42dc.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "À l'atelier d'ouverture des circuits, le jeune juge n'a pas à vérifier les bases.",
+     "r": "faute",
+     "e": "Attention : il vérifie le bon fonctionnement des bases en bipant le boîtier."
+    },
+    {
+     "q": "Le jeune juge n'est jamais autorisé à apporter des vêtements aux coureurs.",
+     "r": "faute",
+     "e": "Attention : il apporte des vêtements aux coureurs en attente."
+    },
+    {
+     "q": "La vérification des bases n'est jamais confirmée à la GEC.",
+     "r": "faute",
+     "e": "Attention : le jeune juge vient faire la vérification à la GEC."
+    },
+    {
+     "q": "Le donneur garde sa carte après son parcours.",
+     "r": "faute",
+     "e": "Attention : le jeune juge s'assure de la dépose de la carte du donneur dans le bac."
+    },
+    {
+     "q": "Les coureurs ne doivent pas ressortir de la zone d'échauffement.",
+     "r": "valable",
+     "e": "Le jeune juge vérifie que les coureurs ne ressortent pas."
+    },
+    {
+     "q": "À l'atelier d'accrochage, les cartes sont posées en vrac.",
+     "r": "faute",
+     "e": "Attention : les cartes sont accrochées par catégorie et par numéro d'équipe."
+    },
+    {
+     "q": "Le jeune juge peut apporter des vêtements aux coureurs en attente.",
+     "r": "valable",
+     "e": "Il apporte des vêtements aux coureurs en attente."
+    },
+    {
+     "q": "Le premier jour, le jeune juge n'a aucune épreuve à passer.",
+     "r": "faute",
+     "e": "Attention : questionnaire théorique et épreuve VMF le premier jour."
+    },
+    {
+     "q": "Au box d'attente, un concurrent peut repartir poinçonner une balise oubliée.",
+     "r": "valable",
+     "e": "Il peut repartir poinçonner une balise oubliée."
+    },
+    {
+     "q": "Au niveau national, l'enseignant référent n'est présent qu'en cas de litige.",
+     "r": "valable",
+     "e": "L'enseignant n'intervient qu'en cas de litige."
+    },
+    {
+     "q": "Le jeune juge n'a aucun lien avec le tableau d'affichage.",
+     "r": "faute",
+     "e": "Attention : il renseigne le tableau d'affichage."
+    },
+    {
+     "q": "Le jeune juge fait la navette entre la GEC et le tableau d'affichage.",
+     "r": "valable",
+     "e": "Il renseigne le tableau d'affichage."
+    },
+    {
+     "q": "À la restitution, on rend cartes, licences et surligneurs à chaque équipe.",
+     "r": "valable",
+     "e": "On redonne cartes, licences et surligneurs."
+    },
+    {
+     "q": "Le jeune juge autorise les concurrents à regarder les cartes avant le signal.",
+     "r": "faute",
+     "e": "Attention : personne ne retourne les cartes avant le signal."
+    },
+    {
+     "q": "Les coureurs peuvent sortir librement de la zone d'échauffement.",
+     "r": "faute",
+     "e": "Attention : le jeune juge vérifie que les coureurs ne ressortent pas."
+    },
+    {
+     "q": "À l'atelier d'accrochage, les cartes sont classées par catégorie et par numéro d'équipe.",
+     "r": "valable",
+     "e": "Les cartes sont accrochées par catégorie et par numéro d'équipe."
+    },
+    {
+     "q": "La vérification des bases est confirmée auprès de la GEC.",
+     "r": "valable",
+     "e": "Le jeune juge vient faire la vérification à la GEC."
+    },
+    {
+     "q": "La gestion des arrivées se fait par un seul jeune juge sans secrétaire.",
+     "r": "faute",
+     "e": "Attention : un lecteur et un secrétaire."
+    },
+    {
+     "q": "La gestion des arrivées se fait avec un lecteur et un secrétaire.",
+     "r": "valable",
+     "e": "Un lecteur et un secrétaire."
+    },
+    {
+     "q": "Le jeune juge remet la carte directement dans la main du coureur avant l'arrivée.",
+     "r": "faute",
+     "e": "Attention : il indique l'emplacement de la carte avec son bras."
+    },
+    {
+     "q": "À l'arrivée, on annonce et on note le numéro d'équipe dans l'ordre de franchissement de la ligne.",
+     "r": "valable",
+     "e": "Le numéro d'équipe est annoncé dans l'ordre d'arrivée."
+    },
+    {
+     "q": "Le jeune juge indique au coureur l'emplacement de sa carte avec son bras.",
+     "r": "valable",
+     "e": "Il indique l'emplacement de la carte avec son bras."
+    },
+    {
+     "q": "En cas de carte manquante, le jeune juge décide seul de la remplacer.",
+     "r": "faute",
+     "e": "Attention : il réagit et prévient le professeur responsable."
+    },
+    {
+     "q": "Au box d'attente, l'équipe n'est libérée que lorsque les 4 concurrents sont présents.",
+     "r": "valable",
+     "e": "Les 4 concurrents doivent être présents."
+    },
+    {
+     "q": "En répartition, 3 cartes sont placées par planche, face vers le sol.",
+     "r": "valable",
+     "e": "Les cartes sont retournées vers le sol."
+    },
+    {
+     "q": "La carte du coureur n°4 est gardée par le coureur.",
+     "r": "faute",
+     "e": "Attention : le jeune juge récupère la carte n°4 pour le poste TRI DES CARTES."
+    },
+    {
+     "q": "Au niveau national, l'enseignant référent est toujours présent à l'atelier.",
+     "r": "faute",
+     "e": "Attention : l'enseignant n'intervient qu'en cas de litige."
+    },
+    {
+     "q": "À l'entrée de la zone d'échauffement, la puce n'est jamais contrôlée.",
+     "r": "faute",
+     "e": "Attention : chaque coureur efface et contrôle sa puce."
+    },
+    {
+     "q": "L'ordre des coureurs est choisi au hasard le jour de la course.",
+     "r": "faute",
+     "e": "Attention : il s'assure du bon ordre des coureurs selon l'ordre enregistré."
+    },
+    {
+     "q": "Le jeune juge arrive avant 16h00 à l'accueil le premier jour.",
+     "r": "valable",
+     "e": "Arrivée impérative avant 16h00."
+    },
+    {
+     "q": "Le premier jour, le jeune juge passe un questionnaire théorique et une épreuve en Vrai-Manquant-Faux.",
+     "r": "valable",
+     "e": "Questionnaire théorique et épreuve VMF le premier jour."
+    },
+    {
+     "q": "À la vérification des licences, le jeune juge contrôle aussi le numéro de dossard.",
+     "r": "valable",
+     "e": "Il vérifie l'identité du coureur et le numéro de dossard."
+    },
+    {
+     "q": "Au box d'attente, l'équipe est libérée dès que 2 coureurs sont présents.",
+     "r": "faute",
+     "e": "Attention : les 4 concurrents doivent être présents."
+    },
+    {
+     "q": "À la restitution, les cartes sont conservées par l'organisation.",
+     "r": "faute",
+     "e": "Attention : on redonne cartes, licences et surligneurs."
+    },
+    {
+     "q": "À la vérification des licences, seul le nom est contrôlé.",
+     "r": "faute",
+     "e": "Attention : il vérifie l'identité du coureur et le numéro de dossard."
+    },
+    {
+     "q": "À l'atelier d'ouverture des circuits, le jeune juge vérifie les bases en bipant le boîtier.",
+     "r": "valable",
+     "e": "Il vérifie le bon fonctionnement des bases en bipant le boîtier."
+    },
+    {
+     "q": "Le jeune juge veille à ce que les concurrents ne retournent pas les cartes avant le signal.",
+     "r": "valable",
+     "e": "Personne ne retourne les cartes avant le signal."
+    },
+    {
+     "q": "Le jeune juge est identifié par un tee-shirt vert.",
+     "r": "valable",
+     "e": "Tee-shirt de couleur verte."
+    },
+    {
+     "q": "Le jeune juge peut arriver après 20h00 à l'accueil le premier jour.",
+     "r": "faute",
+     "e": "Attention : arrivée impérative avant 16h00."
+    },
+    {
+     "q": "Le donneur dépose sa carte dans le bac lors du passage de relais.",
+     "r": "valable",
+     "e": "Le jeune juge s'assure de la dépose de la carte du donneur dans le bac."
+    },
+    {
+     "q": "La carte du coureur n°4 est donnée au poste de tri des cartes.",
+     "r": "valable",
+     "e": "Le jeune juge récupère la carte n°4 pour le poste TRI DES CARTES."
+    },
+    {
+     "q": "En cas de carte manquante, le jeune juge prévient le professeur responsable.",
+     "r": "valable",
+     "e": "Il réagit et prévient le professeur responsable."
+    },
+    {
+     "q": "À l'entrée de la zone d'échauffement, chaque coureur efface et contrôle sa puce.",
+     "r": "valable",
+     "e": "Chaque coureur efface et contrôle sa puce."
+    },
+    {
+     "q": "Au passage de relais, le jeune juge vérifie le numéro d'équipe donneur et receveur.",
+     "r": "valable",
+     "e": "Il vérifie le numéro d'équipe donneur / receveur."
+    },
+    {
+     "q": "Le jeune juge est identifié par un tee-shirt rouge.",
+     "r": "faute",
+     "e": "Attention : tee-shirt de couleur verte."
+    },
+    {
+     "q": "En répartition, les cartes sont posées face visible.",
+     "r": "faute",
+     "e": "Attention : les cartes sont retournées vers le sol."
+    },
+    {
+     "q": "L'ordre des coureurs est vérifié selon l'ordre enregistré dans le fichier informatique.",
+     "r": "valable",
+     "e": "Il s'assure du bon ordre des coureurs selon l'ordre enregistré."
+    },
+    {
+     "q": "Au passage de relais, le jeune juge ne contrôle pas les numéros d'équipe.",
+     "r": "faute",
+     "e": "Attention : il vérifie le numéro d'équipe donneur / receveur."
+    },
+    {
+     "q": "Au box d'attente, un concurrent ne peut jamais repartir chercher une balise.",
+     "r": "faute",
+     "e": "Attention : il peut repartir poinçonner une balise oubliée."
+    },
+    {
+     "q": "À l'arrivée, on note les équipes dans l'ordre d'ouverture des postes.",
+     "r": "faute",
+     "e": "Attention : le numéro d'équipe est annoncé dans l'ordre d'arrivée."
+    }
+   ]
+  }
+ ]
+}

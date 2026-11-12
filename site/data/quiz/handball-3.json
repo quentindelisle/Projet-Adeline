@@ -1,0 +1,265 @@
+{
+ "id": "handball-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Arbitre Handball",
+ "entete": "QUIZ NIVEAU 3 · RÈGLEMENT HANDBALL UNSS",
+ "sport": "handball",
+ "source": "https://magenta-souffle-428ef9.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Lors de la mort subite, l'engagement est donné en priorité à l'équipe qui a reçu le moins de points de pénalité.",
+     "r": "valable",
+     "e": "L'engagement est donné à l'équipe qui a reçu le moins de points de pénalités, en premier critère."
+    },
+    {
+     "q": "Lors de la mort subite, l'engagement est toujours donné par tirage au sort en premier critère.",
+     "r": "faute",
+     "e": "Le premier critère est le moins de points de pénalité, le tirage au sort n'intervient qu'en dernier recours."
+    },
+    {
+     "q": "Si l'égalité de points de pénalité persiste, c'est ensuite le moins de cartons rouges directs qui détermine l'engagement.",
+     "r": "valable",
+     "e": "Puis le moins de carton rouge direct est le deuxième critère de départage pour l'engagement en mort subite."
+    },
+    {
+     "q": "Le deuxième critère de départage est le nombre de buts marqués en première période.",
+     "r": "faute",
+     "e": "Le deuxième critère est le moins de cartons rouges directs, pas le nombre de buts en première période."
+    },
+    {
+     "q": "Si l'égalité persiste après les deux premiers critères, c'est le moins de 2 minutes d'exclusion qui départage les équipes.",
+     "r": "valable",
+     "e": "Puis le moins de 2 minutes d'exclusion est le troisième critère de départage."
+    },
+    {
+     "q": "Le troisième critère de départage est le nombre de temps morts utilisés.",
+     "r": "faute",
+     "e": "Le troisième critère est le moins de 2 minutes d'exclusion, pas le nombre de temps morts."
+    },
+    {
+     "q": "Si l'égalité persiste malgré tous les critères, on procède à un tirage au sort.",
+     "r": "valable",
+     "e": "Sinon tirage au sort, en dernier recours si tous les critères précédents sont à égalité."
+    },
+    {
+     "q": "Si l'égalité persiste malgré tous les critères, le match est déclaré nul.",
+     "r": "faute",
+     "e": "C'est un tirage au sort qui départage en dernier recours, le match n'est pas déclaré nul."
+    },
+    {
+     "q": "La règle des 30 dernières secondes s'applique pendant toute la durée de la mort subite.",
+     "r": "valable",
+     "e": "La règle des 30 dernières secondes s'applique pendant toute la durée de la mort-subite."
+    },
+    {
+     "q": "La règle des 30 dernières secondes ne s'applique jamais pendant la mort subite à l'UNSS.",
+     "r": "faute",
+     "e": "Cette règle s'applique bien pendant toute la mort subite à l'UNSS, contrairement au niveau fédéral en prolongation."
+    },
+    {
+     "q": "Pour les compétitions lycées garçons, le ballon taille 3 avec résine pèse entre 425 et 475 g.",
+     "r": "valable",
+     "e": "Taille 3 avec résine : 58 à 60 cm et 425 à 475 g pour les compétitions lycées garçons."
+    },
+    {
+     "q": "Pour les compétitions lycées garçons, le ballon taille 3 avec résine pèse entre 200 et 250 g.",
+     "r": "faute",
+     "e": "Le poids réglementaire du ballon taille 3 avec résine est de 425 à 475 g, pas 200 à 250 g."
+    },
+    {
+     "q": "Le ballon taille 2 avec résine (54 à 56 cm) est utilisé pour les compétitions collèges garçons et lycées filles.",
+     "r": "valable",
+     "e": "Taille 2 avec résine : 54 à 56 cm et 325 à 375 g pour les compétitions collèges garçons et lycées filles."
+    },
+    {
+     "q": "Le ballon taille 2 avec résine est réservé exclusivement aux compétitions collèges filles.",
+     "r": "faute",
+     "e": "La taille 2 est utilisée pour collèges garçons ET lycées filles, pas exclusivement collèges filles."
+    },
+    {
+     "q": "Le ballon taille 1 avec résine (50 à 52 cm) est utilisé pour les compétitions collèges filles.",
+     "r": "valable",
+     "e": "Taille 1 avec résine : 50 à 52 cm et 290 à 330 g pour les compétitions collèges filles."
+    },
+    {
+     "q": "Le ballon taille 1 avec résine est utilisé pour les compétitions lycées garçons.",
+     "r": "faute",
+     "e": "La taille 1 est réservée aux compétitions collèges filles, la taille 3 est pour lycées garçons."
+    },
+    {
+     "q": "Le ballon taille 3 sans résine pèse entre 400 et 425 g pour les compétitions lycées garçons.",
+     "r": "valable",
+     "e": "Taille 3 sans résine : 55,5 à 57,5 cm et 400 à 425 g pour les compétitions lycées garçons."
+    },
+    {
+     "q": "Le ballon taille 3 sans résine pèse entre 425 et 475 g, comme la version avec résine.",
+     "r": "faute",
+     "e": "La version sans résine pèse 400 à 425 g, une plage légèrement différente de la version avec résine (425-475 g)."
+    },
+    {
+     "q": "Le ballon taille 1 sans résine pèse entre 290 et 315 g pour les compétitions collèges filles.",
+     "r": "valable",
+     "e": "Taille 1 sans résine : 49 à 51 cm et 290 à 315 g pour les compétitions collèges filles."
+    },
+    {
+     "q": "Le ballon taille 1 sans résine pèse entre 400 et 425 g pour les compétitions collèges filles.",
+     "r": "faute",
+     "e": "Le poids réglementaire de la taille 1 sans résine est de 290 à 315 g, pas 400 à 425 g."
+    },
+    {
+     "q": "Après un maximum de 4 passes sans tentative de tir reconnaissable, un jet franc est accordé pour jeu passif.",
+     "r": "valable",
+     "e": "Si l'équipe attaquante n'a effectué aucun tir après un maximum de 4 passes, un jet franc est accordé à l'équipe adverse."
+    },
+    {
+     "q": "Après un maximum de 8 passes sans tir, un jet franc est accordé pour jeu passif.",
+     "r": "faute",
+     "e": "Le seuil réglementaire est de 4 passes maximum, pas 8."
+    },
+    {
+     "q": "Le geste d'avertissement du jeu passif précède l'éventuel jet franc accordé à l'adversaire.",
+     "r": "valable",
+     "e": "Les arbitres effectuent le geste d'avertissement du jeu passif avant, le cas échéant, d'accorder un jet franc."
+    },
+    {
+     "q": "Le jet franc pour jeu passif est toujours accordé sans avertissement préalable.",
+     "r": "faute",
+     "e": "Un avertissement du jeu passif précède l'éventuel jet franc, ce n'est pas immédiat."
+    },
+    {
+     "q": "Si un joueur touche le ballon en même temps qu'une partie de son corps touche le sol à l'extérieur du terrain, un jet franc est accordé aux adversaires.",
+     "r": "valable",
+     "e": "Il est interdit de toucher le ballon en même temps qu'une partie du corps touche le sol à l'extérieur du terrain (jet franc pour les adversaires)."
+    },
+    {
+     "q": "Toucher le ballon en ayant un pied hors du terrain n'entraîne aucune sanction.",
+     "r": "faute",
+     "e": "Cette action est sanctionnée par un jet franc accordé à l'équipe adverse."
+    },
+    {
+     "q": "Le renvoi est accordé si un joueur adverse pénètre sur la surface de but ou touche un ballon en contact avec elle.",
+     "r": "valable",
+     "e": "Le renvoi est accordé lorsqu'un joueur de l'équipe adverse a pénétré sur la surface de but ou a touché le ballon en contact avec elle."
+    },
+    {
+     "q": "Le renvoi n'est jamais accordé si un adversaire pénètre sur la surface de but.",
+     "r": "faute",
+     "e": "C'est justement l'un des cas prévus pour l'attribution d'un renvoi."
+    },
+    {
+     "q": "Le renvoi est accordé si le gardien de but a contrôlé le ballon sur la surface de but.",
+     "r": "valable",
+     "e": "Le renvoi est accordé lorsque le gardien de but a contrôlé le ballon sur la surface de but."
+    },
+    {
+     "q": "Le renvoi n'est jamais accordé quand le gardien contrôle le ballon sur sa surface.",
+     "r": "faute",
+     "e": "C'est au contraire l'un des trois cas prévus pour l'attribution du renvoi."
+    },
+    {
+     "q": "Le renvoi est accordé si le ballon franchit la ligne de sortie de but après avoir été touché par le gardien ou un adversaire.",
+     "r": "valable",
+     "e": "Le renvoi est accordé lorsque le ballon franchit la ligne de sortie de but après avoir été touché par le gardien ou un joueur de l'équipe adverse."
+    },
+    {
+     "q": "Dans ce cas, c'est toujours un corner qui est accordé, jamais un renvoi.",
+     "r": "faute",
+     "e": "Le règlement du handball prévoit un renvoi dans ce cas, pas un corner (qui n'existe pas en handball)."
+    },
+    {
+     "q": "La remise en jeu est accordée si un défenseur dévie le ballon derrière sa propre ligne de sortie de but.",
+     "r": "valable",
+     "e": "Elle est accordée lorsque le ballon a franchi la ligne de touche, ou qu'un joueur de champ de l'équipe qui défend dévie le ballon derrière la ligne de sortie de but de son équipe."
+    },
+    {
+     "q": "Dans ce cas précis, c'est toujours un renvoi qui est accordé au gardien adverse.",
+     "r": "faute",
+     "e": "C'est une remise en jeu qui est accordée à l'équipe adverse dans ce cas, pas un renvoi."
+    },
+    {
+     "q": "La remise en jeu s'exécute au point de corner le plus proche si le ballon est sorti derrière la ligne de sortie de but.",
+     "r": "valable",
+     "e": "Elle est exécutée depuis l'endroit où le ballon est sorti, ou bien au point de corner le plus proche si le ballon est sorti derrière la ligne de sortie de but."
+    },
+    {
+     "q": "Elle s'exécute toujours depuis le centre du terrain, quel que soit l'endroit de sortie.",
+     "r": "faute",
+     "e": "Elle s'exécute au point de corner le plus proche dans ce cas précis, pas depuis le centre du terrain."
+    },
+    {
+     "q": "Un jet de 7 mètres peut être accordé n'importe où sur l'aire de jeu, indépendamment du lieu de la faute.",
+     "r": "valable",
+     "e": "Il est accordé lorsqu'une Occasion Manifeste de But est déjouée irrégulièrement, et ce à n'importe quel endroit de l'aire de jeu."
+    },
+    {
+     "q": "Un jet de 7 mètres ne peut être accordé que si la faute a lieu dans la surface de but.",
+     "r": "faute",
+     "e": "Le jet de 7 mètres peut être accordé quel que soit l'endroit de l'aire de jeu où la faute a eu lieu."
+    },
+    {
+     "q": "Les 4 critères de décision d'une sanction sont la position du joueur, la partie du corps touchée, l'intensité et la répercussion.",
+     "r": "valable",
+     "e": "Les 4 critères sont la position du joueur, la partie du corps touchée, l'intensité de l'irrégularité, et la répercussion de l'irrégularité."
+    },
+    {
+     "q": "Les critères de décision se limitent uniquement à l'intensité du contact.",
+     "r": "faute",
+     "e": "Quatre critères sont pris en compte, pas uniquement l'intensité."
+    },
+    {
+     "q": "Maintenir fortement l'adversaire ou le projeter au sol est un exemple d'action sanctionnée d'une exclusion de 2 minutes.",
+     "r": "valable",
+     "e": "Maintenir fortement l'adversaire sur un laps de temps assez long ou le projeter au sol fait partie des actions à sanctionner de 2 minutes."
+    },
+    {
+     "q": "Maintenir fortement l'adversaire n'est jamais sanctionné en handball.",
+     "r": "faute",
+     "e": "Cette action est explicitement listée parmi celles sanctionnées par une exclusion de 2 minutes."
+    },
+    {
+     "q": "Propulser le ballon au loin clairement et volontairement après une décision de l'arbitre est un exemple de disqualification.",
+     "r": "valable",
+     "e": "Propulser le ballon au loin clairement et volontairement, après une décision de l'arbitre, est un exemple de comportement sanctionné par une disqualification."
+    },
+    {
+     "q": "Propulser le ballon au loin après une décision de l'arbitre n'entraîne qu'un simple avertissement.",
+     "r": "faute",
+     "e": "Ce comportement est explicitement listé comme motif de disqualification, pas de simple avertissement."
+    },
+    {
+     "q": "Prendre sa revanche après avoir subi une faute est un exemple de comportement sanctionné par une disqualification.",
+     "r": "valable",
+     "e": "Prendre sa revanche après avoir subi une faute fait partie des comportements antisportifs sanctionnés par une disqualification."
+    },
+    {
+     "q": "Prendre sa revanche après avoir subi une faute est toléré s'il n'y a pas eu de sanction pour la faute initiale.",
+     "r": "faute",
+     "e": "Ce comportement est sanctionné par une disqualification, sans condition liée à la faute initiale."
+    },
+    {
+     "q": "Les nouvelles règles FFHB 2025-2026 applicables à l'UNSS concernent l'engagement, le tir dans la tête du gardien, la zone de coaching et la règle du marcher.",
+     "r": "valable",
+     "e": "Nouvelles règles FFHB 2025-2026 applicables à l'UNSS : engagement, zone d'engagement, rond central ; tir dans la tête du gardien ; zone de coaching ; règle du marcher."
+    },
+    {
+     "q": "Les nouvelles règles FFHB 2025-2026 ne concernent que la taille du ballon.",
+     "r": "faute",
+     "e": "Ces nouvelles règles couvrent l'engagement, le tir à la tête du gardien, la zone de coaching et le marcher, pas seulement le ballon."
+    },
+    {
+     "q": "Le port de tout signe ou tenue traduisant une appartenance religieuse est interdit pour toute personne participant à une rencontre UNSS.",
+     "r": "valable",
+     "e": "Le port de tous signes ou tenues traduisant une quelconque appartenance religieuse est interdit lors des rencontres UNSS pour toute personne y participant."
+    },
+    {
+     "q": "Seuls les joueurs sont concernés par l'interdiction du port de signes religieux, pas les autres participants.",
+     "r": "faute",
+     "e": "L'interdiction concerne toute personne participant à la rencontre (élèves, enseignants, accompagnateurs, intervenants, organisateurs)."
+    }
+   ]
+  }
+ ]
+}

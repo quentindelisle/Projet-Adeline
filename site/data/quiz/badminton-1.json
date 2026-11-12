@@ -1,0 +1,265 @@
+{
+ "id": "badminton-1",
+ "titre": "Terrain, matériel et officiels",
+ "sousTitre": "Quiz Jeune Arbitre Badminton",
+ "entete": "QUIZ 1 / 3 · NIVEAU 1 — FACILE · RÈGLEMENT BADMINTON UNSS",
+ "sport": "badminton",
+ "source": "https://incandescent-tapioca-6df0a8.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "En simple, le terrain mesure 5,18 m de largeur pour 13,40 m de longueur.",
+     "r": "valable",
+     "e": "Les dimensions réglementaires en simple sont 5,18 m de largeur et 13,40 m de longueur."
+    },
+    {
+     "q": "En simple, le terrain mesure 6,10 m de largeur pour 13,40 m de longueur.",
+     "r": "faute",
+     "e": "6,10 m de largeur est la dimension du terrain de double, pas du simple."
+    },
+    {
+     "q": "En double, le terrain mesure 6,10 m de largeur pour 13,40 m de longueur.",
+     "r": "valable",
+     "e": "Les dimensions réglementaires en double sont 6,10 m de largeur et 13,40 m de longueur."
+    },
+    {
+     "q": "En double, la longueur du terrain est différente de celle du simple.",
+     "r": "faute",
+     "e": "La longueur (13,40 m) est identique en simple et en double ; seule la largeur change."
+    },
+    {
+     "q": "La hauteur du filet au niveau des poteaux est de 1 m 55.",
+     "r": "valable",
+     "e": "Le filet mesure 1 m 55 au niveau des poteaux, sur la ligne de double."
+    },
+    {
+     "q": "La hauteur du filet au niveau des poteaux est de 2 mètres.",
+     "r": "faute",
+     "e": "La hauteur réglementaire au niveau des poteaux est de 1 m 55, pas 2 mètres."
+    },
+    {
+     "q": "Au centre du terrain, le filet mesure 1 m 524.",
+     "r": "valable",
+     "e": "Au centre, le filet redescend légèrement à 1 m 524, contre 1 m 55 aux poteaux."
+    },
+    {
+     "q": "Au centre du terrain, le filet est plus haut qu'aux poteaux.",
+     "r": "faute",
+     "e": "C'est l'inverse : le filet est plus bas au centre (1 m 524) qu'aux poteaux (1 m 55)."
+    },
+    {
+     "q": "Le poids réglementaire d'un volant est compris entre 4,74 g et 5,50 g.",
+     "r": "valable",
+     "e": "Le poids du volant doit être compris entre 4,74 g et 5,50 g."
+    },
+    {
+     "q": "Le poids réglementaire d'un volant est compris entre 10 g et 15 g.",
+     "r": "faute",
+     "e": "Un volant pèse entre 4,74 g et 5,50 g, bien moins que 10 à 15 g."
+    },
+    {
+     "q": "Il existe deux types de volants autorisés : le volant synthétique et le volant plume.",
+     "r": "valable",
+     "e": "Le livret présente le volant synthétique et le volant plume comme les deux types utilisés."
+    },
+    {
+     "q": "Seul le volant plume est autorisé en compétition UNSS.",
+     "r": "faute",
+     "e": "Le volant synthétique est également présenté et utilisé en compétition."
+    },
+    {
+     "q": "La base du volant plume est en liège.",
+     "r": "valable",
+     "e": "La base du volant plume, à laquelle est fixée la jupe de plumes, est en liège."
+    },
+    {
+     "q": "La base du volant plume est en caoutchouc.",
+     "r": "faute",
+     "e": "La base du volant plume est en liège, pas en caoutchouc."
+    },
+    {
+     "q": "Le scoreur doit savoir se servir du matériel et être attentif à l'arbitre.",
+     "r": "valable",
+     "e": "Le scoreur sait se servir du matériel et sait être attentif et écouter l'arbitre."
+    },
+    {
+     "q": "Le scoreur n'a besoin d'aucune compétence particulière, il ne fait qu'observer.",
+     "r": "faute",
+     "e": "Le scoreur doit savoir utiliser le matériel et rester attentif à l'arbitre."
+    },
+    {
+     "q": "Le juge de ligne doit savoir se placer sur le terrain et connaître les gestes des annonces.",
+     "r": "valable",
+     "e": "Le juge de ligne sait se placer sur le terrain et connaît les gestes correspondant à ses annonces."
+    },
+    {
+     "q": "Le juge de ligne peut juger plusieurs lignes à la fois s'il le souhaite.",
+     "r": "faute",
+     "e": "Le juge de ligne ne juge jamais qu'une seule ligne, jamais plusieurs à la fois."
+    },
+    {
+     "q": "Le juge de service doit connaître les fautes de service et savoir les signaler par des gestes.",
+     "r": "valable",
+     "e": "Le juge de service connaît les fautes de service et sait les signaler par les gestes appropriés."
+    },
+    {
+     "q": "Le juge de service se contente de compter les points sans surveiller le service.",
+     "r": "faute",
+     "e": "Le juge de service surveille spécifiquement les fautes de service, pas le comptage des points."
+    },
+    {
+     "q": "L'arbitre doit connaître les règles, savoir remplir une feuille de score et la terminologie officielle.",
+     "r": "valable",
+     "e": "L'arbitre connaît les règles, sait utiliser une feuille de score et connaît la terminologie officielle."
+    },
+    {
+     "q": "L'arbitre n'a pas besoin de connaître la terminologie officielle du badminton.",
+     "r": "faute",
+     "e": "L'arbitre doit au contraire connaître la terminologie officielle pour diriger le match."
+    },
+    {
+     "q": "Sur le schéma du terrain, dix positions de juges de ligne sont numérotées de 1 à 10.",
+     "r": "valable",
+     "e": "Le schéma du terrain indique dix juges de ligne, numérotés de 1 à 10."
+    },
+    {
+     "q": "Sur le schéma du terrain, seuls quatre juges de ligne sont prévus.",
+     "r": "faute",
+     "e": "Le schéma prévoit dix juges de ligne, numérotés de 1 à 10, pas seulement quatre."
+    },
+    {
+     "q": "Devenir jeune officiel, c'est notamment apprendre à faire des choix et à s'y tenir.",
+     "r": "valable",
+     "e": "Le préambule du livret indique qu'être jeune officiel, c'est apprendre à faire des choix et s'y tenir."
+    },
+    {
+     "q": "Devenir jeune officiel ne demande aucune prise de responsabilité particulière.",
+     "r": "faute",
+     "e": "Le préambule insiste au contraire sur la prise de responsabilités du jeune officiel."
+    },
+    {
+     "q": "Le serment du jeune arbitre UNSS engage à remplir ses fonctions en toute impartialité.",
+     "r": "valable",
+     "e": "Le serment prévoit de remplir ses fonctions en toute impartialité, en respectant les règles."
+    },
+    {
+     "q": "Le serment du jeune arbitre UNSS n'évoque pas l'impartialité.",
+     "r": "faute",
+     "e": "L'impartialité est justement au cœur du serment prêté par les jeunes officiels."
+    },
+    {
+     "q": "Pour remplir sa mission, le jeune arbitre doit disposer de sa licence UNSS et du règlement de l'activité.",
+     "r": "valable",
+     "e": "Le jeune arbitre doit disposer de l'ensemble des documents nécessaires : licence UNSS, règlement, etc."
+    },
+    {
+     "q": "Le jeune arbitre n'a besoin d'aucun document particulier pour officier.",
+     "r": "faute",
+     "e": "Il doit au contraire disposer de sa licence UNSS et du règlement de l'activité."
+    },
+    {
+     "q": "Le badminton revendique être le premier sport scolaire au sein de l'UNSS.",
+     "r": "valable",
+     "e": "Le mot de l'ambassadrice UNSS souligne la fierté du badminton d'être le premier sport scolaire."
+    },
+    {
+     "q": "Le badminton se présente comme un sport marginal au sein de l'UNSS.",
+     "r": "faute",
+     "e": "Le badminton revendique au contraire d'être le premier sport scolaire de l'UNSS."
+    },
+    {
+     "q": "Pour tester un volant, le joueur effectue un dégagement en frappe basse depuis la ligne de fond.",
+     "r": "valable",
+     "e": "La zone de test des volants prévoit un dégagement en frappe basse, contact au-dessus de la ligne de fond."
+    },
+    {
+     "q": "Pour tester un volant, le joueur doit le frapper au filet, en frappe haute.",
+     "r": "faute",
+     "e": "Le test se fait par un dégagement en frappe basse depuis la ligne de fond, pas au filet."
+    },
+    {
+     "q": "Un volant de vitesse réglementaire doit tomber entre 530 mm et 990 mm de l'autre ligne de fond.",
+     "r": "valable",
+     "e": "Le schéma de test précise une zone de chute réglementaire entre 530 mm et 990 mm."
+    },
+    {
+     "q": "Un volant de vitesse réglementaire peut tomber n'importe où sur le terrain.",
+     "r": "faute",
+     "e": "Il doit tomber dans une zone précise, entre 530 mm et 990 mm de l'autre ligne de fond."
+    },
+    {
+     "q": "Le jeune arbitre doit être objectif et impartial dans l'exercice de sa fonction.",
+     "r": "valable",
+     "e": "La charte du jeune officiel exige d'être objectif et impartial."
+    },
+    {
+     "q": "Le jeune arbitre peut favoriser l'équipe de son propre établissement.",
+     "r": "faute",
+     "e": "L'objectivité et l'impartialité sont au contraire exigées, quel que soit l'établissement."
+    },
+    {
+     "q": "Le jeune officiel doit connaître les différentes tâches liées à sa mission.",
+     "r": "valable",
+     "e": "La charte précise que le jeune officiel doit connaître les tâches liées à sa mission."
+    },
+    {
+     "q": "Le jeune officiel n'a pas besoin de connaître les tâches des autres postes.",
+     "r": "faute",
+     "e": "Il doit au contraire connaître les différentes tâches liées à sa mission."
+    },
+    {
+     "q": "Sur le schéma, le poste du scoreur est situé sur le côté du terrain, près du filet.",
+     "r": "valable",
+     "e": "Le schéma place le scoreur sur le côté, à hauteur du filet, à l'opposé de l'arbitre."
+    },
+    {
+     "q": "Sur le schéma, le poste du scoreur se trouve derrière la ligne de fond.",
+     "r": "faute",
+     "e": "Le scoreur est positionné sur le côté du terrain, près du filet, pas derrière la ligne de fond."
+    },
+    {
+     "q": "Sur le schéma, le juge de service est positionné près du filet, du côté opposé à l'arbitre.",
+     "r": "valable",
+     "e": "Le juge de service est placé près du filet, en face de l'arbitre, de l'autre côté du terrain."
+    },
+    {
+     "q": "Sur le schéma, le juge de service est positionné loin du filet, en fond de terrain.",
+     "r": "faute",
+     "e": "Le juge de service est au contraire positionné près du filet, pas en fond de terrain."
+    },
+    {
+     "q": "La jupe d'un volant plume est composée de 16 plumes.",
+     "r": "valable",
+     "e": "Le schéma du volant plume indique une jupe composée de 16 plumes."
+    },
+    {
+     "q": "La jupe d'un volant plume est composée de 8 plumes.",
+     "r": "faute",
+     "e": "La jupe du volant plume compte 16 plumes, pas 8."
+    },
+    {
+     "q": "Le juge de ligne doit garder les genoux serrés et les mains posées sur les genoux.",
+     "r": "valable",
+     "e": "La position correcte du juge de ligne prévoit genoux serrés et mains posées sur les genoux."
+    },
+    {
+     "q": "Le juge de ligne peut croiser les bras et bouger librement pendant le match.",
+     "r": "faute",
+     "e": "Il doit au contraire garder une position fixe : genoux serrés, mains posées sur les genoux."
+    },
+    {
+     "q": "Être responsable, pour un jeune officiel, c'est respecter les règles, les autres et soi-même.",
+     "r": "valable",
+     "e": "Le livret définit la responsabilité comme le respect des règles, des autres et de soi-même."
+    },
+    {
+     "q": "Être responsable ne concerne que le respect des horaires de la compétition.",
+     "r": "faute",
+     "e": "La responsabilité couvre le respect des règles, des autres et de soi-même, pas que les horaires."
+    }
+   ]
+  }
+ ]
+}

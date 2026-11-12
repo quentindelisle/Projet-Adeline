@@ -1,0 +1,265 @@
+{
+ "id": "laser-run-2",
+ "titre": "Les rôles au tir",
+ "sousTitre": "Quiz Jeune Arbitre Laser Run",
+ "entete": "QUIZ 1 / 3 · RÈGLEMENT LASER RUN UNSS",
+ "sport": "laser-run",
+ "source": "https://scintillating-meringue-4fec7e.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Les cibles sont préréglées sur un temps maximal de 50 secondes.",
+     "r": "valable",
+     "e": "Le temps maximal réglé sur les cibles est de 50 secondes."
+    },
+    {
+     "q": "Les caméras et moyens de communication externes sont interdits pendant la compétition.",
+     "r": "valable",
+     "e": "Ils sont explicitement interdits par le règlement."
+    },
+    {
+     "q": "Le relayeur 1 porte une chasuble rouge.",
+     "r": "faute",
+     "e": "Attention : relayeur 1 : vert."
+    },
+    {
+     "q": "Le relayeur 4 porte une chasuble bleue.",
+     "r": "faute",
+     "e": "Attention : relayeur 4 : rouge."
+    },
+    {
+     "q": "Le directeur du tir peut arrêter l'échauffement ou la compétition à tout moment pour la sécurité.",
+     "r": "valable",
+     "e": "Le directeur du tir peut à tout moment stopper pour un motif de sécurité."
+    },
+    {
+     "q": "En cas de récidive, l'arbitre de contrôle sanctionne lui-même directement.",
+     "r": "faute",
+     "e": "Attention : il avertit l'arbitre du poste, qui applique la sanction."
+    },
+    {
+     "q": "Les armes peuvent rester sorties à tout moment, même hors du poste de tir.",
+     "r": "faute",
+     "e": "Attention : en dehors du poste de tir, les armes doivent toujours être dans leur boîte."
+    },
+    {
+     "q": "L'arbitre chronométreur déclenche son chronomètre au premier tir, réussi ou non.",
+     "r": "valable",
+     "e": "Il déclenche au premier tir, qu'il soit réussi ou non."
+    },
+    {
+     "q": "La distance de tir au Laser Run est de 10 mètres.",
+     "r": "faute",
+     "e": "Attention : la distance de tir réglementaire est de 7 mètres."
+    },
+    {
+     "q": "Un seul arbitre de tir suffit pour l'ensemble des postes.",
+     "r": "faute",
+     "e": "Attention : un arbitre de tir est prévu par poste."
+    },
+    {
+     "q": "Les caméras et moyens de communication externes sont autorisés sans restriction.",
+     "r": "faute",
+     "e": "Attention : ils sont explicitement interdits par le règlement."
+    },
+    {
+     "q": "Les pistolets utilisés doivent être homologués UIPM.",
+     "r": "valable",
+     "e": "Les pistolets doivent être homologués UIPM."
+    },
+    {
+     "q": "La tenue de l'équipe doit être identique, aux couleurs et au nom de l'établissement.",
+     "r": "valable",
+     "e": "La tenue doit être identique pour toute l'équipe, aux couleurs de l'établissement."
+    },
+    {
+     "q": "Le centre des cibles est situé à 100 cm du sol, sans tolérance.",
+     "r": "faute",
+     "e": "Attention : 140 cm du sol, avec une tolérance de ± 5 cm."
+    },
+    {
+     "q": "Le centre des cibles est situé à 140 cm du sol (± 5 cm).",
+     "r": "valable",
+     "e": "140 cm du sol, avec une tolérance de ± 5 cm."
+    },
+    {
+     "q": "Le relayeur 1 porte une chasuble verte.",
+     "r": "valable",
+     "e": "Relayeur 1 : vert."
+    },
+    {
+     "q": "N'importe quel objet personnel peut être posé sur la table de tir.",
+     "r": "faute",
+     "e": "Attention : seuls pistolet et tapis protecteur (épaisseur maximale 3 cm) sont autorisés sur la table."
+    },
+    {
+     "q": "La fiche de composition d'équipe est remise par chaque athlète individuellement.",
+     "r": "faute",
+     "e": "Attention : c'est le jeune coach qui remet la fiche de composition d'équipe."
+    },
+    {
+     "q": "L'arbitre de chambre d'appel vérifie l'ordre de passage des concurrents.",
+     "r": "valable",
+     "e": "Il vérifie l'ordre de passage des concurrents."
+    },
+    {
+     "q": "Le relayeur 4 porte une chasuble rouge.",
+     "r": "valable",
+     "e": "Relayeur 4 : rouge."
+    },
+    {
+     "q": "Le tir peut toujours se faire à deux mains, sans restriction.",
+     "r": "faute",
+     "e": "Attention : le tir est à une seule main, sauf aménagement spécifique pour les ESH."
+    },
+    {
+     "q": "L'arbitre chronométreur déclenche son chronomètre uniquement si le premier tir est réussi.",
+     "r": "faute",
+     "e": "Attention : il déclenche au premier tir, qu'il soit réussi ou non."
+    },
+    {
+     "q": "L'arbitre de contrôle ne s'occupe jamais de la ligne de tir au sol.",
+     "r": "faute",
+     "e": "Attention : il vérifie qu'aucun athlète ne franchit cette ligne."
+    },
+    {
+     "q": "En cas de récidive, l'arbitre de contrôle avertit l'arbitre du poste concerné.",
+     "r": "valable",
+     "e": "Il avertit l'arbitre du poste, qui applique la sanction."
+    },
+    {
+     "q": "L'ordre de passage n'est jamais vérifié par l'arbitre de chambre d'appel.",
+     "r": "faute",
+     "e": "Attention : il vérifie l'ordre de passage des concurrents."
+    },
+    {
+     "q": "Chaque athlète peut porter une tenue différente selon ses préférences.",
+     "r": "faute",
+     "e": "Attention : la tenue doit être identique pour toute l'équipe, aux couleurs de l'établissement."
+    },
+    {
+     "q": "N'importe quel pistolet laser, homologué ou non, peut être utilisé.",
+     "r": "faute",
+     "e": "Attention : les pistolets doivent être homologués UIPM."
+    },
+    {
+     "q": "L'arbitre chronométreur garde le même chronomètre sans jamais le réinitialiser.",
+     "r": "faute",
+     "e": "Attention : il pense à réinitialiser son chronomètre après le départ de l'athlète."
+    },
+    {
+     "q": "Il y a un arbitre de tir par poste de tir.",
+     "r": "valable",
+     "e": "Un arbitre de tir est prévu par poste."
+    },
+    {
+     "q": "Le tir se fait obligatoirement à une seule main, sauf aménagement pour les élèves en situation de handicap.",
+     "r": "valable",
+     "e": "Le tir est à une seule main, sauf aménagement spécifique pour les ESH."
+    },
+    {
+     "q": "En sport partagé, le relayeur 1 « handi » porte une chasuble bleue.",
+     "r": "valable",
+     "e": "Relayeur 1 « handi » : bleu ; relayeur 2 « valide » : rouge."
+    },
+    {
+     "q": "Hors du poste de tir, les armes doivent toujours être rangées dans leur boîte.",
+     "r": "valable",
+     "e": "En dehors du poste de tir, les armes doivent toujours être dans leur boîte."
+    },
+    {
+     "q": "L'arbitre de tir ne se laisse pas influencer par les personnes extérieures.",
+     "r": "valable",
+     "e": "Il ne se laisse pas influencer par les personnes extérieures."
+    },
+    {
+     "q": "Le poste de tir attribué correspond au numéro de dossard.",
+     "r": "valable",
+     "e": "Le plus petit numéro de dossard va au poste 1, et ainsi de suite."
+    },
+    {
+     "q": "En sport partagé, le relayeur 1 « handi » porte une chasuble verte.",
+     "r": "faute",
+     "e": "Attention : relayeur 1 « handi » : bleu ; relayeur 2 « valide » : rouge."
+    },
+    {
+     "q": "La distance de tir au Laser Run est de 7 mètres.",
+     "r": "valable",
+     "e": "La distance de tir réglementaire est de 7 mètres."
+    },
+    {
+     "q": "L'arbitre de chambre d'appel ne s'occupe jamais du matériel des athlètes.",
+     "r": "faute",
+     "e": "Attention : il contrôle le matériel : pistolets et tenues de course."
+    },
+    {
+     "q": "L'arbitre chronométreur annonce « 10 secondes » dès le début de la séquence de tir.",
+     "r": "faute",
+     "e": "Attention : l'annonce des 10 secondes a lieu précisément à 40 secondes."
+    },
+    {
+     "q": "L'arbitre de chambre d'appel contrôle les pistolets et les tenues de course.",
+     "r": "valable",
+     "e": "Il contrôle le matériel : pistolets et tenues de course."
+    },
+    {
+     "q": "L'épaisseur maximale du tapis de tir est de 3 centimètres.",
+     "r": "valable",
+     "e": "Le tapis doit avoir une épaisseur inférieure à 3 cm."
+    },
+    {
+     "q": "L'épaisseur du tapis de tir n'est soumise à aucune limite.",
+     "r": "faute",
+     "e": "Attention : le tapis doit avoir une épaisseur inférieure à 3 cm."
+    },
+    {
+     "q": "Les cibles sont préréglées sur un temps maximal de 2 minutes.",
+     "r": "faute",
+     "e": "Attention : le temps maximal réglé sur les cibles est de 50 secondes."
+    },
+    {
+     "q": "Le poste de tir est attribué au hasard, sans lien avec le dossard.",
+     "r": "faute",
+     "e": "Attention : le plus petit numéro de dossard va au poste 1, et ainsi de suite."
+    },
+    {
+     "q": "L'arbitre chronométreur réinitialise son chronomètre après le départ de l'athlète.",
+     "r": "valable",
+     "e": "Il pense à réinitialiser son chronomètre après le départ de l'athlète."
+    },
+    {
+     "q": "Seuls le pistolet et un tapis protecteur peuvent se trouver sur la table.",
+     "r": "valable",
+     "e": "Seuls pistolet et tapis protecteur (épaisseur maximale 3 cm) sont autorisés sur la table."
+    },
+    {
+     "q": "Seul le jury sportif peut arrêter la compétition, jamais le directeur du tir.",
+     "r": "faute",
+     "e": "Attention : le directeur du tir peut à tout moment stopper pour un motif de sécurité."
+    },
+    {
+     "q": "La fiche de composition d'équipe est remise par le jeune coach.",
+     "r": "valable",
+     "e": "C'est le jeune coach qui remet la fiche de composition d'équipe."
+    },
+    {
+     "q": "L'arbitre chronométreur annonce « 10 secondes » au bout de 40 secondes de la séquence de tir.",
+     "r": "valable",
+     "e": "L'annonce des 10 secondes a lieu précisément à 40 secondes."
+    },
+    {
+     "q": "L'arbitre de tir peut suivre les indications des personnes extérieures en cas de doute.",
+     "r": "faute",
+     "e": "Attention : il ne se laisse pas influencer par les personnes extérieures."
+    },
+    {
+     "q": "L'arbitre de contrôle vérifie qu'aucun athlète ne franchit la ligne de tir au sol.",
+     "r": "valable",
+     "e": "Il vérifie qu'aucun athlète ne franchit cette ligne."
+    }
+   ]
+  }
+ ]
+}

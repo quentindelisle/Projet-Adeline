@@ -1,0 +1,265 @@
+{
+ "id": "natation-1",
+ "titre": "Niveau 1 (Facile)",
+ "sousTitre": "Quiz Jeune Juge Natation",
+ "entete": "QUIZ NIVEAU 1 · RÈGLEMENT NATATION UNSS",
+ "sport": "natation",
+ "source": "https://stellular-biscuit-9b6a26.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le juge arbitre est le chef de la compétition.",
+     "r": "valable",
+     "e": "Juge arbitre : Il est le chef de la compétition, il a plein contrôle et autorité sur tous les officiels."
+    },
+    {
+     "q": "Le juge arbitre est un simple observateur sans autorité particulière.",
+     "r": "faute",
+     "e": "Le juge arbitre est le chef de la compétition, avec plein contrôle et autorité sur les officiels."
+    },
+    {
+     "q": "Le juge arbitre a autorité sur tous les officiels de la compétition.",
+     "r": "valable",
+     "e": "Il a plein contrôle et autorité sur tous les officiels de la compétition."
+    },
+    {
+     "q": "Chaque officiel est totalement indépendant du juge arbitre.",
+     "r": "faute",
+     "e": "Le juge arbitre a autorité sur l'ensemble des officiels, ils ne sont pas indépendants."
+    },
+    {
+     "q": "Le starter donne le départ quand tous les nageurs sont immobiles.",
+     "r": "valable",
+     "e": "Le starter donne le départ quand tous les nageurs sont immobiles."
+    },
+    {
+     "q": "Le starter donne le départ dès que le premier nageur est prêt, sans attendre les autres.",
+     "r": "faute",
+     "e": "Le starter attend que tous les nageurs soient immobiles avant de donner le départ."
+    },
+    {
+     "q": "Le commandement du starter est « À VOS MARQUES », puis le départ une fois les nageurs immobiles.",
+     "r": "valable",
+     "e": "L'ordre de départ est : « A VOS MARQUES », puis lorsque les nageurs sont immobiles, coup de sifflet."
+    },
+    {
+     "q": "Le commandement du starter est directement « PARTEZ » sans étape préalable.",
+     "r": "faute",
+     "e": "Le commandement commence par « À VOS MARQUES », avant le signal de départ."
+    },
+    {
+     "q": "En nage libre, brasse, papillon et 4 nages, le départ s'effectue par un plongeon.",
+     "r": "valable",
+     "e": "En nage libre, brasse, papillon et 4 nages, le départ s'effectue par un plongeon."
+    },
+    {
+     "q": "En nage libre, brasse, papillon et 4 nages, le départ se fait toujours dans l'eau.",
+     "r": "faute",
+     "e": "Le départ par plongeon concerne la nage libre, la brasse, le papillon et le 4 nages."
+    },
+    {
+     "q": "En dos et relais 4 nages, le départ se fait dans l'eau.",
+     "r": "valable",
+     "e": "En dos et relais 4 nages, le départ se fait dans l'eau."
+    },
+    {
+     "q": "En dos et relais 4 nages, le départ s'effectue toujours par un plongeon.",
+     "r": "faute",
+     "e": "Le départ dans l'eau concerne le dos et le relais 4 nages, pas un plongeon."
+    },
+    {
+     "q": "Le chronométreur déclenche son chronomètre au coup de sifflet du starter.",
+     "r": "valable",
+     "e": "Ils déclenchent leur chrono au coup de sifflet du starter."
+    },
+    {
+     "q": "Le chronométreur déclenche son chronomètre quand le premier nageur touche l'eau.",
+     "r": "faute",
+     "e": "Le chronomètre est déclenché au coup de sifflet du starter, pas au premier contact avec l'eau."
+    },
+    {
+     "q": "Le chronométreur arrête son chronomètre dès que le nageur touche le mur d'arrivée.",
+     "r": "valable",
+     "e": "Ils arrêtent leur chrono dès que le nageur touche le mur d'arrivée."
+    },
+    {
+     "q": "Le chronométreur arrête son chronomètre selon son appréciation personnelle du moment.",
+     "r": "faute",
+     "e": "Le chronomètre est arrêté précisément au moment où le nageur touche le mur."
+    },
+    {
+     "q": "Le chronométreur ne doit rien dire aux nageurs pendant la course.",
+     "r": "valable",
+     "e": "Ils ne doivent rien dire aux nageurs ni annoncer de temps ni encourager ni rappeler un nageur."
+    },
+    {
+     "q": "Le chronométreur peut encourager les nageurs et annoncer les temps intermédiaires.",
+     "r": "faute",
+     "e": "Le chronométreur doit rester silencieux, sans annoncer de temps ni encourager."
+    },
+    {
+     "q": "Le juge à l'arrivée détermine l'ordre d'arrivée des nageurs.",
+     "r": "valable",
+     "e": "Juge à l'arrivée : Détermine l'ordre d'arrivée des nageurs."
+    },
+    {
+     "q": "Le juge à l'arrivée se contente de vérifier les chronomètres.",
+     "r": "faute",
+     "e": "Le juge à l'arrivée détermine lui-même l'ordre d'arrivée, ce n'est pas son seul rôle."
+    },
+    {
+     "q": "Le classement du juge à l'arrivée prévaut sur celui des chronométreurs.",
+     "r": "valable",
+     "e": "Son classement prévaut sur celui des chronométreurs."
+    },
+    {
+     "q": "Le classement des chronométreurs prévaut toujours sur celui du juge à l'arrivée.",
+     "r": "faute",
+     "e": "C'est le classement du juge à l'arrivée qui prévaut, pas celui des chronométreurs."
+    },
+    {
+     "q": "Le juge de nage se situe de chaque côté du bassin.",
+     "r": "valable",
+     "e": "Juge de nage : Se situe de chaque côté du bassin."
+    },
+    {
+     "q": "Le juge de nage se situe uniquement à l'arrivée du bassin.",
+     "r": "faute",
+     "e": "Le juge de nage se situe de chaque côté du bassin, pas seulement à l'arrivée."
+    },
+    {
+     "q": "Le juge de virages observe si les prises de relais sont conformes.",
+     "r": "valable",
+     "e": "Juge de virages : Observe si les prises de relais sont conformes."
+    },
+    {
+     "q": "Le juge de virages ne s'occupe jamais des prises de relais.",
+     "r": "faute",
+     "e": "Le juge de virages observe bien la conformité des prises de relais."
+    },
+    {
+     "q": "Le Jeune Juge est identifié par un tee-shirt de couleur verte.",
+     "r": "valable",
+     "e": "Le Jeune Juge est identifié par un tee-shirt de couleur verte."
+    },
+    {
+     "q": "Le Jeune Juge est identifié par un tee-shirt de couleur rouge.",
+     "r": "faute",
+     "e": "C'est un tee-shirt vert qui identifie le Jeune Juge, pas rouge."
+    },
+    {
+     "q": "Le mannequin est immergé à 15 mètres du plot de départ.",
+     "r": "valable",
+     "e": "Les nageurs doivent rejoindre et remorquer le plus vite possible un mannequin immergé à 15 mètres du plot de départ."
+    },
+    {
+     "q": "Le mannequin est immergé à 5 mètres du plot de départ.",
+     "r": "faute",
+     "e": "Le mannequin est immergé à 15 mètres du plot, pas à 5 mètres."
+    },
+    {
+     "q": "Il existe une zone des 5 mètres balisée pour la remontée du mannequin.",
+     "r": "valable",
+     "e": "Dans la zone des 5 mètres balisés (plots, planches, bouée, etc.), le nageur récupère et place son mannequin."
+    },
+    {
+     "q": "Il n'existe aucune zone balisée pour la remontée du mannequin.",
+     "r": "faute",
+     "e": "Une zone des 5 mètres balisée existe bien pour la remontée du mannequin."
+    },
+    {
+     "q": "Saisir le mannequin à la gorge est une mauvaise prise.",
+     "r": "valable",
+     "e": "Les nageurs ne doivent pas (mauvaises prises) : Saisir le mannequin à la gorge."
+    },
+    {
+     "q": "Saisir le mannequin à la gorge est une prise parfaitement autorisée.",
+     "r": "faute",
+     "e": "Saisir le mannequin à la gorge est explicitement listé comme une mauvaise prise."
+    },
+    {
+     "q": "Saisir le mannequin à la bouche est une mauvaise prise.",
+     "r": "valable",
+     "e": "Les nageurs ne doivent pas (mauvaises prises) : Saisir le mannequin à la bouche."
+    },
+    {
+     "q": "Saisir le mannequin à la bouche est la prise recommandée par le règlement.",
+     "r": "faute",
+     "e": "Saisir le mannequin à la bouche est explicitement listé comme une mauvaise prise."
+    },
+    {
+     "q": "Pousser le mannequin devant soi est une mauvaise prise.",
+     "r": "valable",
+     "e": "Les nageurs ne doivent pas (mauvaises prises) : Pousser le mannequin devant soi."
+    },
+    {
+     "q": "Pousser le mannequin devant soi est la technique recommandée pour remorquer.",
+     "r": "faute",
+     "e": "Pousser le mannequin devant soi est explicitement listé comme une mauvaise prise."
+    },
+    {
+     "q": "Immerger totalement le mannequin est une mauvaise prise.",
+     "r": "valable",
+     "e": "Les nageurs ne doivent pas (mauvaises prises) : Immerger totalement le mannequin."
+    },
+    {
+     "q": "Immerger totalement le mannequin est autorisé sans conséquence.",
+     "r": "faute",
+     "e": "Immerger totalement le mannequin est explicitement listé comme une mauvaise prise."
+    },
+    {
+     "q": "Le 2ème faux départ en nage ou en relais est pénalisé de -20 points.",
+     "r": "valable",
+     "e": "Le deuxième faux-départ en nage et en relais est pénalisé de -20 points."
+    },
+    {
+     "q": "Le 2ème faux départ en nage ou en relais est pénalisé de -5 points.",
+     "r": "faute",
+     "e": "La pénalité pour un 2ème faux départ en nage ou relais est de -20 points, pas -5."
+    },
+    {
+     "q": "Le 1er faux départ en épreuve de mannequin est pénalisé de -20 points.",
+     "r": "valable",
+     "e": "Le premier faux-départ en mannequin est pénalisé de -20 points."
+    },
+    {
+     "q": "Le 1er faux départ en épreuve de mannequin n'entraîne aucune pénalité.",
+     "r": "faute",
+     "e": "Le 1er faux départ en mannequin est pénalisé de -20 points, contrairement aux autres épreuves."
+    },
+    {
+     "q": "Une faute réglementaire à l'arrivée, en nage, au virage ou dans l'ordre des relais est pénalisée de -10 points.",
+     "r": "valable",
+     "e": "Les fautes réglementaires suivantes : Arrivée, Nages, Virages, Ordre des nageurs en relais sont pénalisées de -10 points."
+    },
+    {
+     "q": "Une faute réglementaire de ce type est pénalisée de -30 points.",
+     "r": "faute",
+     "e": "La pénalité pour ces fautes réglementaires est de -10 points, pas -30."
+    },
+    {
+     "q": "Le niveau national de compétence est acquis à partir d'une note de 16/20.",
+     "r": "valable",
+     "e": "Un Jeune Juge acquiert le niveau 5 (national) de la compétence à partir d'une note de 16/20 lors de son évaluation."
+    },
+    {
+     "q": "Le niveau national est acquis à partir d'une note de 10/20.",
+     "r": "faute",
+     "e": "Le seuil pour le niveau national est de 16/20, pas 10/20."
+    },
+    {
+     "q": "Un seul maillot de bain est autorisé, et le maillot string est interdit.",
+     "r": "valable",
+     "e": "1 seul maillot de bain autorisé qui couvre les fesses. (Maillot string interdit)."
+    },
+    {
+     "q": "Plusieurs maillots superposés sont autorisés, y compris le maillot string.",
+     "r": "faute",
+     "e": "Un seul maillot est autorisé, couvrant les fesses, et le maillot string est explicitement interdit."
+    }
+   ]
+  }
+ ]
+}

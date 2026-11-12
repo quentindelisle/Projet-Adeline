@@ -1,0 +1,265 @@
+{
+ "id": "step-3",
+ "titre": "Niveau 3 (Difficile)",
+ "sousTitre": "Quiz Jeune Juge Step",
+ "entete": "QUIZ NIVEAU 3 · LIVRET JEUNE JUGE STEP UNSS",
+ "sport": "step",
+ "source": "https://snazzy-heliotrope-cf447d.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Le niveau départemental demande 12/20 : 4 points de théorie et 16 de pratique.",
+     "r": "valable",
+     "e": "Théorie notée sur 4 points, pratique vidéo notée sur 16 points."
+    },
+    {
+     "q": "Le niveau départemental demande 12/20 : 10 points de théorie et 10 de pratique.",
+     "r": "faute",
+     "e": "C'est faux. Théorie notée sur 4 points, pratique vidéo notée sur 16 points."
+    },
+    {
+     "q": "Le QCM théorique compte 4 questions d'un point chacune.",
+     "r": "faute",
+     "e": "C'est faux. La note sur 20 est ensuite rapportée sur 4 points."
+    },
+    {
+     "q": "Le QCM théorique compte 20 questions d'un point chacune.",
+     "r": "valable",
+     "e": "La note sur 20 est ensuite rapportée sur 4 points."
+    },
+    {
+     "q": "La note de pratique est la meilleure note des 4 secteurs.",
+     "r": "faute",
+     "e": "C'est faux. Chaque secteur est noté sur 16."
+    },
+    {
+     "q": "La note de pratique est la moyenne des notes des 4 secteurs.",
+     "r": "valable",
+     "e": "Chaque secteur est noté sur 16."
+    },
+    {
+     "q": "Il est conseillé de noter 1 seul enchaînement par secteur.",
+     "r": "faute",
+     "e": "C'est faux. Chaque enchaînement est noté sur 4 selon l'écart avec le Juge Arbitre Référent."
+    },
+    {
+     "q": "Il est conseillé de noter 3 enchaînements par secteur à l'examen vidéo.",
+     "r": "valable",
+     "e": "Chaque enchaînement est noté sur 4 selon l'écart avec le Juge Arbitre Référent."
+    },
+    {
+     "q": "Un écart de 3,5 points avec le référent donne 3/4.",
+     "r": "valable",
+     "e": "Écart supérieur à 3 jusqu'à 4 inclus : 3/4."
+    },
+    {
+     "q": "Un écart de 3,5 points avec le référent donne 4/4.",
+     "r": "faute",
+     "e": "C'est faux. Écart supérieur à 3 jusqu'à 4 inclus : 3/4."
+    },
+    {
+     "q": "Un écart supérieur à 9 points avec le référent donne 0/4.",
+     "r": "valable",
+     "e": "Au-delà de 9 points d'écart : 0/4."
+    },
+    {
+     "q": "Un écart supérieur à 9 points avec le référent donne 2/4.",
+     "r": "faute",
+     "e": "C'est faux. Au-delà de 9 points d'écart : 0/4."
+    },
+    {
+     "q": "Trois notes de 3/4 donnent 12/16 en pratique.",
+     "r": "valable",
+     "e": "9/12 ramené sur 16 = 12/16."
+    },
+    {
+     "q": "Trois notes de 3/4 donnent 9/16 en pratique.",
+     "r": "faute",
+     "e": "C'est faux. 9/12 ramené sur 16 = 12/16."
+    },
+    {
+     "q": "Pratique 8,9/16 plus théorie 2/4 valide le niveau départemental.",
+     "r": "faute",
+     "e": "C'est faux. 10,6 + 3 = 13,6/20 (validé, il faut 12) ; 8,9 + 2 = 10,9/20 (non validé)."
+    },
+    {
+     "q": "Pratique 10,6/16 plus théorie 3/4 valide le niveau départemental.",
+     "r": "valable",
+     "e": "10,6 + 3 = 13,6/20 (validé, il faut 12) ; 8,9 + 2 = 10,9/20 (non validé)."
+    },
+    {
+     "q": "Pratique 11/16 plus théorie 3/4 valide le niveau académique.",
+     "r": "valable",
+     "e": "11 + 3 = 14/20 (validé, il faut 14) ; 9,7 + 2 = 11,7/20 (non validé)."
+    },
+    {
+     "q": "Pratique 9,7/16 plus théorie 2/4 valide le niveau académique.",
+     "r": "faute",
+     "e": "C'est faux. 11 + 3 = 14/20 (validé, il faut 14) ; 9,7 + 2 = 11,7/20 (non validé)."
+    },
+    {
+     "q": "Le niveau national demande au moins 14/20.",
+     "r": "faute",
+     "e": "C'est faux. Départemental 12/20, académique 14/20, national 16/20."
+    },
+    {
+     "q": "Le niveau national demande au moins 16/20.",
+     "r": "valable",
+     "e": "Départemental 12/20, académique 14/20, national 16/20."
+    },
+    {
+     "q": "Pour le niveau national, la pratique est uniquement vidéo.",
+     "r": "faute",
+     "e": "C'est faux. Pratique vidéo + pratique réelle, sur 16 points."
+    },
+    {
+     "q": "Pour le niveau national, la pratique inclut une pratique réelle au championnat de France.",
+     "r": "valable",
+     "e": "Pratique vidéo + pratique réelle, sur 16 points."
+    },
+    {
+     "q": "Officier au championnat de France donne automatiquement le niveau national.",
+     "r": "faute",
+     "e": "C'est faux. La certification porte sur la prestation tout au long de la compétition."
+    },
+    {
+     "q": "Officier au championnat de France ne donne pas automatiquement le niveau national.",
+     "r": "valable",
+     "e": "La certification porte sur la prestation tout au long de la compétition."
+    },
+    {
+     "q": "Les niveaux sont à repasser chaque année.",
+     "r": "faute",
+     "e": "C'est faux. Un recyclage annuel reste fortement conseillé."
+    },
+    {
+     "q": "Les niveaux sont conservés d'une année sur l'autre tant que le règlement est identique.",
+     "r": "valable",
+     "e": "Un recyclage annuel reste fortement conseillé."
+    },
+    {
+     "q": "Un élève qui change d'établissement perd son niveau de certification.",
+     "r": "faute",
+     "e": "C'est faux. Même en cas de changement d'établissement ou de passage en lycée."
+    },
+    {
+     "q": "Un élève qui change d'établissement conserve son niveau de certification.",
+     "r": "valable",
+     "e": "Même en cas de changement d'établissement ou de passage en lycée."
+    },
+    {
+     "q": "Il existe une passerelle automatique UNSS-FFG pour le Step.",
+     "r": "faute",
+     "e": "C'est faux. À ce jour, il n'y a pas de passerelle."
+    },
+    {
+     "q": "Il n'y a pas de passerelle UNSS-FFG pour le Step.",
+     "r": "valable",
+     "e": "À ce jour, il n'y a pas de passerelle."
+    },
+    {
+     "q": "La théorie à l'oral est interdite.",
+     "r": "faute",
+     "e": "C'est faux. Il ne faut pas éliminer un élève repéré comme performant."
+    },
+    {
+     "q": "La théorie peut être passée à l'oral par un élève en difficulté.",
+     "r": "valable",
+     "e": "Il ne faut pas éliminer un élève repéré comme performant."
+    },
+    {
+     "q": "Le Jeune Coach peut appartenir à une autre AS.",
+     "r": "faute",
+     "e": "C'est faux. Il ne peut pas être d'une autre association sportive."
+    },
+    {
+     "q": "Le Jeune Coach fait partie de l'équipe et appartient à la même AS.",
+     "r": "valable",
+     "e": "Il ne peut pas être d'une autre association sportive."
+    },
+    {
+     "q": "Le Jeune Coach passe un examen théorique au championnat de France.",
+     "r": "valable",
+     "e": "Examen théorique lors du Championnat de France."
+    },
+    {
+     "q": "Le Jeune Coach passe un examen pratique vidéo au championnat de France.",
+     "r": "faute",
+     "e": "C'est faux. Examen théorique lors du Championnat de France."
+    },
+    {
+     "q": "Le Jeune Juge de lignes donne sa fiche directement aux gymnastes.",
+     "r": "faute",
+     "e": "C'est faux. La navette l'apporte au Juge de Création Artistique."
+    },
+    {
+     "q": "Le Jeune Juge de lignes remet sa fiche à une navette.",
+     "r": "valable",
+     "e": "La navette l'apporte au Juge de Création Artistique."
+    },
+    {
+     "q": "Le décompte de la durée de la musique démarre au début de la musique, pas au bip.",
+     "r": "valable",
+     "e": "La musique libre dure 1'30 ± 5 secondes."
+    },
+    {
+     "q": "Le décompte de la durée de la musique démarre au bip sonore.",
+     "r": "faute",
+     "e": "C'est faux. La musique libre dure 1'30 ± 5 secondes."
+    },
+    {
+     "q": "Trois gymnastes qui sortent en même temps font trois sorties.",
+     "r": "valable",
+     "e": "On compte une sortie par gymnaste."
+    },
+    {
+     "q": "Trois gymnastes qui sortent en même temps ne font qu'une sortie.",
+     "r": "faute",
+     "e": "C'est faux. On compte une sortie par gymnaste."
+    },
+    {
+     "q": "Une musique de 1'38 est réglementaire.",
+     "r": "faute",
+     "e": "C'est faux. La durée réglementaire va de 1'25 à 1'35."
+    },
+    {
+     "q": "Une musique de 1'33 est réglementaire.",
+     "r": "valable",
+     "e": "La durée réglementaire va de 1'25 à 1'35."
+    },
+    {
+     "q": "Trois mouvements asymétriques identiques en aller-retour comptent pour trois Bras complexes.",
+     "r": "faute",
+     "e": "C'est faux. La répétition d'un même mouvement asymétrique à la suite ne compte qu'une fois."
+    },
+    {
+     "q": "Trois mouvements asymétriques identiques en aller-retour comptent pour un seul Bras complexe.",
+     "r": "valable",
+     "e": "La répétition d'un même mouvement asymétrique à la suite ne compte qu'une fois."
+    },
+    {
+     "q": "Une équipe avec 35 fautes de synchronisation obtient – 5 points.",
+     "r": "faute",
+     "e": "C'est faux. La note part de 30 et ne descend pas en dessous de 0."
+    },
+    {
+     "q": "Une équipe avec 35 fautes de synchronisation obtient 0 point.",
+     "r": "valable",
+     "e": "La note part de 30 et ne descend pas en dessous de 0."
+    },
+    {
+     "q": "8 fautes simples, 1 fouillis, 1 trou de mémoire et 1 chute donnent 9/30.",
+     "r": "valable",
+     "e": "30 – 8 – 3 – 5 – 5 = 9."
+    },
+    {
+     "q": "8 fautes simples, 1 fouillis, 1 trou de mémoire et 1 chute donnent 21/30.",
+     "r": "faute",
+     "e": "C'est faux. 30 – 8 – 3 – 5 – 5 = 9."
+    }
+   ]
+  }
+ ]
+}

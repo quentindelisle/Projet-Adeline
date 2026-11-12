@@ -1,0 +1,265 @@
+{
+ "id": "volley-ball-1",
+ "titre": "Niveau 2 (Intermédiaire)",
+ "sousTitre": "Quiz Jeune Arbitre Volleyball",
+ "entete": "QUIZ NIVEAU 2 · RÈGLEMENT VOLLEYBALL UNSS",
+ "sport": "volley-ball",
+ "source": "https://creative-cheesecake-4d8fc1.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "Au 6x6, les trois joueurs avants occupent les positions 4, 3 et 2 le long du filet.",
+     "r": "valable",
+     "e": "Les avants : position 4 (avant gauche), 3 (avant centre) et 2 (avant droit)."
+    },
+    {
+     "q": "Au 6x6, les trois joueurs avants occupent les positions 1, 5 et 6.",
+     "r": "faute",
+     "e": "C'est faux. Les avants : position 4 (avant gauche), 3 (avant centre) et 2 (avant droit)."
+    },
+    {
+     "q": "Après une frappe d'attaque, la balle doit traverser entièrement le plan du filet ou être touchée par un adversaire pour que la frappe soit effective.",
+     "r": "valable",
+     "e": "La frappe d'attaque est effective dès que la balle traverse entièrement le plan vertical du filet ou qu'elle est touchée par un adversaire."
+    },
+    {
+     "q": "La frappe d'attaque est effective dès que la balle quitte la main du joueur.",
+     "r": "faute",
+     "e": "C'est faux. La frappe d'attaque est effective dès que la balle traverse entièrement le plan vertical du filet ou qu'elle est touchée par un adversaire."
+    },
+    {
+     "q": "Le contact d'un contre n'est pas comptabilisé comme une touche d'équipe.",
+     "r": "valable",
+     "e": "Après un contre, l'équipe a droit à trois touches pour renvoyer le ballon."
+    },
+    {
+     "q": "Le contact d'un contre compte comme la première touche d'équipe.",
+     "r": "faute",
+     "e": "C'est faux. Après un contre, l'équipe a droit à trois touches pour renvoyer le ballon."
+    },
+    {
+     "q": "Après un contre, le joueur qui a contré ne peut pas jouer la touche suivante.",
+     "r": "faute",
+     "e": "C'est faux. La 1re touche d'équipe après le contre peut être faite par n'importe quel joueur, y compris celui qui a contré."
+    },
+    {
+     "q": "Après un contre, le joueur qui a contré peut jouer la première touche de l'équipe.",
+     "r": "valable",
+     "e": "La 1re touche d'équipe après le contre peut être faite par n'importe quel joueur, y compris celui qui a contré."
+    },
+    {
+     "q": "Un joueur arrière peut attaquer en écrasant la ligne d'attaque à l'impulsion.",
+     "r": "faute",
+     "e": "C'est faux. Lors de son impulsion, ses pieds ne doivent avoir ni touché ni franchi la ligne d'attaque."
+    },
+    {
+     "q": "Un joueur arrière peut attaquer depuis la zone arrière sans toucher la ligne d'attaque à l'impulsion.",
+     "r": "valable",
+     "e": "Lors de son impulsion, ses pieds ne doivent avoir ni touché ni franchi la ligne d'attaque."
+    },
+    {
+     "q": "Un joueur arrière peut attaquer en zone avant à n'importe quelle hauteur.",
+     "r": "faute",
+     "e": "C'est faux. La balle ne doit pas être entièrement au-dessus du bord supérieur du filet au moment du contact."
+    },
+    {
+     "q": "Un joueur arrière peut attaquer en zone avant si la balle n'est pas entièrement au-dessus du bord supérieur du filet.",
+     "r": "valable",
+     "e": "La balle ne doit pas être entièrement au-dessus du bord supérieur du filet au moment du contact."
+    },
+    {
+     "q": "Le libéro peut servir et contrer comme les autres joueurs.",
+     "r": "faute",
+     "e": "C'est faux. Le libéro ne peut jouer que comme joueur arrière (6x6 uniquement)."
+    },
+    {
+     "q": "Le libéro ne peut ni servir, ni contrer, ni tenter de contrer.",
+     "r": "valable",
+     "e": "Le libéro ne peut jouer que comme joueur arrière (6x6 uniquement)."
+    },
+    {
+     "q": "Au 6x6, un seul libéro peut se trouver sur le terrain à un moment donné.",
+     "r": "valable",
+     "e": "Une équipe peut désigner jusqu'à deux libéros, mais un seul est sur le terrain à tout moment."
+    },
+    {
+     "q": "Au 6x6, deux libéros peuvent se trouver ensemble sur le terrain.",
+     "r": "faute",
+     "e": "C'est faux. Une équipe peut désigner jusqu'à deux libéros, mais un seul est sur le terrain à tout moment."
+    },
+    {
+     "q": "Le libéro porte une tenue de couleur dominante différente du reste de l'équipe.",
+     "r": "valable",
+     "e": "La tenue doit contraster nettement avec les maillots du reste de l'équipe."
+    },
+    {
+     "q": "Le libéro porte la même tenue que ses équipiers.",
+     "r": "faute",
+     "e": "C'est faux. La tenue doit contraster nettement avec les maillots du reste de l'équipe."
+    },
+    {
+     "q": "Au 6x6, les remplacements sont illimités.",
+     "r": "faute",
+     "e": "C'est faux. Un remplacement est irrégulier s'il dépasse les limitations prévues."
+    },
+    {
+     "q": "Au 6x6, 5 remplacements au maximum sont autorisés par équipe et par set.",
+     "r": "valable",
+     "e": "Un remplacement est irrégulier s'il dépasse les limitations prévues."
+    },
+    {
+     "q": "Un remplacement irrégulier fait perdre l'échange de jeu à l'équipe fautive.",
+     "r": "valable",
+     "e": "L'équipe perd l'échange de jeu, le remplacement est corrigé et ses points marqués sont annulés."
+    },
+    {
+     "q": "Un remplacement irrégulier est simplement ignoré, sans sanction.",
+     "r": "faute",
+     "e": "C'est faux. L'équipe perd l'échange de jeu, le remplacement est corrigé et ses points marqués sont annulés."
+    },
+    {
+     "q": "Le changement joueur / libéro est comptabilisé comme un remplacement.",
+     "r": "faute",
+     "e": "C'est faux. Le nombre de changements joueur / libéro est illimité, avec au moins un échange de jeu entre chacun."
+    },
+    {
+     "q": "Le changement joueur / libéro n'est pas comptabilisé comme un remplacement.",
+     "r": "valable",
+     "e": "Le nombre de changements joueur / libéro est illimité, avec au moins un échange de jeu entre chacun."
+    },
+    {
+     "q": "Au 4x4, l'équipe dispose de 4 remplacements au maximum par set.",
+     "r": "valable",
+     "e": "Au 4x4 : 4 remplacements au maximum par équipe et par set, libres et indépendants des postes."
+    },
+    {
+     "q": "Au 4x4, l'équipe dispose de 10 remplacements par set.",
+     "r": "faute",
+     "e": "C'est faux. Au 4x4 : 4 remplacements au maximum par équipe et par set, libres et indépendants des postes."
+    },
+    {
+     "q": "Au 4x4, il y a toujours un libéro.",
+     "r": "faute",
+     "e": "C'est faux. Le libéro n'existe qu'en 6x6."
+    },
+    {
+     "q": "Au 4x4, il n'y a pas de libéro.",
+     "r": "valable",
+     "e": "Le libéro n'existe qu'en 6x6."
+    },
+    {
+     "q": "Au 4x4, chaque équipe a 5 temps morts de 3 minutes par set.",
+     "r": "faute",
+     "e": "C'est faux. Le règlement M13 accorde 2 temps morts de 30 secondes dans tous les sets à chaque équipe."
+    },
+    {
+     "q": "Au 4x4, chaque équipe a 2 temps morts de 30 secondes par set.",
+     "r": "valable",
+     "e": "Le règlement M13 accorde 2 temps morts de 30 secondes dans tous les sets à chaque équipe."
+    },
+    {
+     "q": "Au 4x4 M13, le terrain mesure 9 m sur 18 m.",
+     "r": "faute",
+     "e": "C'est faux. Le terrain a une dimension de 7 m × 14 m avec une ligne arrière à 3 m du filet."
+    },
+    {
+     "q": "Au 4x4 M13, le terrain mesure 7 m sur 14 m.",
+     "r": "valable",
+     "e": "Le terrain a une dimension de 7 m × 14 m avec une ligne arrière à 3 m du filet."
+    },
+    {
+     "q": "Au 4x4, un joueur remplacé ne peut rentrer qu'après au moins un échange de jeu.",
+     "r": "valable",
+     "e": "Un joueur remplacé et sorti de l'aire de jeu ne rentre qu'après au moins un échange de jeu."
+    },
+    {
+     "q": "Au 4x4, un joueur remplacé peut rentrer immédiatement.",
+     "r": "faute",
+     "e": "C'est faux. Un joueur remplacé et sorti de l'aire de jeu ne rentre qu'après au moins un échange de jeu."
+    },
+    {
+     "q": "La première fois qu'un retard de jeu est constaté, le carton jaune est présenté sur montre.",
+     "r": "valable",
+     "e": "Le carton jaune est présenté sans conséquence ; la 2e fois, le carton rouge donne la perte de l'échange."
+    },
+    {
+     "q": "La première fois qu'un retard de jeu est constaté, un carton rouge est présenté.",
+     "r": "faute",
+     "e": "C'est faux. Le carton jaune est présenté sans conséquence ; la 2e fois, le carton rouge donne la perte de l'échange."
+    },
+    {
+     "q": "Un carton rouge pour conduite grossière (1re fois) donne un point et le service à l'adversaire.",
+     "r": "valable",
+     "e": "C'est la pénalité : un point et le service pour l'adversaire."
+    },
+    {
+     "q": "Un carton rouge pour conduite grossière (1re fois) n'a aucune conséquence sur le score.",
+     "r": "faute",
+     "e": "C'est faux. C'est la pénalité : un point et le service pour l'adversaire."
+    },
+    {
+     "q": "Le premier arbitre commence par un avertissement verbal via le capitaine, qui n'est pas enregistré.",
+     "r": "valable",
+     "e": "Étape 1 : avertissement verbal, non enregistré ; étape 2 : carton jaune."
+    },
+    {
+     "q": "Le premier arbitre commence toujours par un carton rouge.",
+     "r": "faute",
+     "e": "C'est faux. Étape 1 : avertissement verbal, non enregistré ; étape 2 : carton jaune."
+    },
+    {
+     "q": "Le second arbitre peut remplacer le premier arbitre si celui-ci devient incapable d'assumer sa tâche.",
+     "r": "valable",
+     "e": "Le second arbitre est l'assistant du premier arbitre et peut le remplacer."
+    },
+    {
+     "q": "Le marqueur remplace automatiquement le premier arbitre en cas de problème.",
+     "r": "faute",
+     "e": "C'est faux. Le second arbitre est l'assistant du premier arbitre et peut le remplacer."
+    },
+    {
+     "q": "Le second arbitre siffle toutes les fautes sans distinction.",
+     "r": "faute",
+     "e": "C'est faux. Il ne doit pas insister auprès du premier arbitre."
+    },
+    {
+     "q": "Le second arbitre signale sans siffler les fautes hors de sa compétence, sans insister.",
+     "r": "valable",
+     "e": "Il ne doit pas insister auprès du premier arbitre."
+    },
+    {
+     "q": "Le marqueur annonce le 8e et le 16e point des sets 1 à 4 pour les temps morts techniques.",
+     "r": "valable",
+     "e": "Il annonce aussi le 8e point du set décisif."
+    },
+    {
+     "q": "Le marqueur annonce le 10e et le 20e point des sets pour les temps morts techniques.",
+     "r": "faute",
+     "e": "C'est faux. Il annonce aussi le 8e point du set décisif."
+    },
+    {
+     "q": "Le jeune coach est l'interlocuteur du marqueur uniquement.",
+     "r": "faute",
+     "e": "C'est faux. Il dirige son équipe depuis l'extérieur du terrain et décide de la formation, des remplacements et des temps morts."
+    },
+    {
+     "q": "Le jeune coach est l'interlocuteur du second arbitre.",
+     "r": "valable",
+     "e": "Il dirige son équipe depuis l'extérieur du terrain et décide de la formation, des remplacements et des temps morts."
+    },
+    {
+     "q": "L'adulte référent ne peut pas donner de consignes techniques ou tactiques aux joueurs sur le terrain.",
+     "r": "valable",
+     "e": "Il peut parler au jeune coach et encourager l'équipe ; il y en a 2 au maximum sur le banc."
+    },
+    {
+     "q": "L'adulte référent peut donner toutes les consignes tactiques depuis le banc.",
+     "r": "faute",
+     "e": "C'est faux. Il peut parler au jeune coach et encourager l'équipe ; il y en a 2 au maximum sur le banc."
+    }
+   ]
+  }
+ ]
+}

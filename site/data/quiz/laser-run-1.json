@@ -1,0 +1,265 @@
+{
+ "id": "laser-run-1",
+ "titre": "Les rôles sur la course",
+ "sousTitre": "Quiz Jeune Arbitre Laser Run",
+ "entete": "QUIZ 2 / 3 · RÈGLEMENT LASER RUN UNSS",
+ "sport": "laser-run",
+ "source": "https://friendly-bavarois-172e30.netlify.app/",
+ "themes": [
+  {
+   "nom": "",
+   "questions": [
+    {
+     "q": "La séquence individuelle débute par une course de 40 à 60 mètres vers la zone de tir.",
+     "r": "valable",
+     "e": "Elle débute par une course de 40 à 60 m qui mène à la zone de tir."
+    },
+    {
+     "q": "L'arrivée est franchie par le dernier concurrent de l'équipe, chrono arrêté aux épaules.",
+     "r": "valable",
+     "e": "Seul le dernier concurrent franchit l'arrivée, chrono arrêté au niveau des épaules."
+    },
+    {
+     "q": "Les deux concurrents doivent être intégralement à l'intérieur de la zone de relais pour que le relais soit validé.",
+     "r": "valable",
+     "e": "Les deux concurrents doivent être entièrement dans la zone."
+    },
+    {
+     "q": "En sport partagé, l'ordre d'alternance est libre, sans règle précise.",
+     "r": "faute",
+     "e": "Attention : l'ordre réglementaire est ESH-Valide-ESH-Valide."
+    },
+    {
+     "q": "Le contact entre relayeurs peut être main-main ou dos-main.",
+     "r": "valable",
+     "e": "Le contact peut être main-main ou dos-main."
+    },
+    {
+     "q": "L'arbitre de parcours assure le relais de secours en cas de chute.",
+     "r": "valable",
+     "e": "Il assure le relais de secours en cas de chute et sait donner l'alerte."
+    },
+    {
+     "q": "Un relais effectué sur la ligne de début de zone est toujours parfaitement valide.",
+     "r": "faute",
+     "e": "Attention : c'est justement un cas qui peut entraîner une élimination."
+    },
+    {
+     "q": "La distance des courses au Laser Run est de 400 m pour tous.",
+     "r": "valable",
+     "e": "400 m pour tous, selon le règlement en vigueur."
+    },
+    {
+     "q": "La réunion des jeunes officiels dure toute une journée.",
+     "r": "faute",
+     "e": "Attention : elle dure environ 30 minutes, pouvant être rallongée selon les questions."
+    },
+    {
+     "q": "Les armes peuvent être sorties n'importe où sur le site de compétition.",
+     "r": "faute",
+     "e": "Attention : interdiction stricte, sauf demande du jury pour un contrôle."
+    },
+    {
+     "q": "Le site de compétition est accessible dès l'aube, sans limite horaire précise.",
+     "r": "faute",
+     "e": "Attention : accessible 30 minutes avant le premier départ."
+    },
+    {
+     "q": "La zone de transmission s'étend sur 50 m avant et après la ligne.",
+     "r": "faute",
+     "e": "Attention : la zone s'étend sur 20 m au total : 10 m avant et 10 m après la ligne."
+    },
+    {
+     "q": "L'arbitre de relais n'a aucun moyen d'intervenir en cas de faute.",
+     "r": "faute",
+     "e": "Attention : il intervient avec un coup de sifflet en cas d'irrégularité."
+    },
+    {
+     "q": "Il est strictement interdit de sortir les armes en dehors des espaces prévus à cet effet.",
+     "r": "valable",
+     "e": "Interdiction stricte, sauf demande du jury pour un contrôle."
+    },
+    {
+     "q": "L'arbitre de parcours se place à un point stratégique prévu par l'organisateur.",
+     "r": "valable",
+     "e": "Il se positionne à un point stratégique prévu par l'organisateur."
+    },
+    {
+     "q": "La réunion technique a lieu le jour même, sans présence requise du jeune coach.",
+     "r": "faute",
+     "e": "Attention : elle a lieu la veille, avec présence obligatoire du jeune coach et du professeur."
+    },
+    {
+     "q": "La réunion des jeunes officiels dure environ 30 minutes.",
+     "r": "valable",
+     "e": "Elle dure environ 30 minutes, pouvant être rallongée selon les questions."
+    },
+    {
+     "q": "Pendant la course de leur équipe, les relayeurs doivent rester dans leur zone attribuée.",
+     "r": "valable",
+     "e": "Ils doivent rester dans la zone qui leur est attribuée pendant toute la course."
+    },
+    {
+     "q": "En phase A et B, le départ se fait en pack-start.",
+     "r": "valable",
+     "e": "Le pack-start s'applique en phase A et B ; le handicap-start en finale."
+    },
+    {
+     "q": "Les relais 2 et 4 sont toujours assurés par des garçons, sans exception.",
+     "r": "faute",
+     "e": "Attention : en année paire, les relais 2 et 4 sont assurés par des filles (1 et 3 en année impaire)."
+    },
+    {
+     "q": "Le premier concurrent peut se positionner n'importe où avant le départ.",
+     "r": "faute",
+     "e": "Attention : il se positionne précisément derrière la ligne de départ."
+    },
+    {
+     "q": "La zone de transmission du relais s'étend sur 10 m avant et 10 m après la ligne.",
+     "r": "valable",
+     "e": "La zone s'étend sur 20 m au total : 10 m avant et 10 m après la ligne."
+    },
+    {
+     "q": "Les relayeurs peuvent se déplacer librement n'importe où pendant la course.",
+     "r": "faute",
+     "e": "Attention : ils doivent rester dans la zone qui leur est attribuée pendant toute la course."
+    },
+    {
+     "q": "L'arbitre de relais intervient rapidement avec un coup de sifflet en cas de faute.",
+     "r": "valable",
+     "e": "Il intervient avec un coup de sifflet en cas d'irrégularité."
+    },
+    {
+     "q": "La reconnaissance du parcours est sous la seule responsabilité de l'organisateur.",
+     "r": "faute",
+     "e": "Attention : les reconnaissances sont sous l'entière responsabilité du professeur accompagnateur."
+    },
+    {
+     "q": "L'arbitre de départ se place judicieusement pour être vu des coureurs.",
+     "r": "valable",
+     "e": "Il se place judicieusement pour être vu par les coureurs."
+    },
+    {
+     "q": "Les relais 2 et 4 sont assurés par des filles en année paire.",
+     "r": "valable",
+     "e": "En année paire, les relais 2 et 4 sont assurés par des filles (1 et 3 en année impaire)."
+    },
+    {
+     "q": "Le premier concurrent de chaque équipe se positionne derrière la ligne de départ.",
+     "r": "valable",
+     "e": "Il se positionne précisément derrière la ligne de départ."
+    },
+    {
+     "q": "L'arbitre de parcours peut se placer n'importe où, sans consigne précise.",
+     "r": "faute",
+     "e": "Attention : il se positionne à un point stratégique prévu par l'organisateur."
+    },
+    {
+     "q": "Un seul concurrent suffit à l'intérieur de la zone pour valider le relais.",
+     "r": "faute",
+     "e": "Attention : les deux concurrents doivent être entièrement dans la zone."
+    },
+    {
+     "q": "Seul le contact main-main est autorisé pour la transmission.",
+     "r": "faute",
+     "e": "Attention : le contact peut être main-main ou dos-main."
+    },
+    {
+     "q": "La reconnaissance du parcours est sous la responsabilité du professeur accompagnateur.",
+     "r": "valable",
+     "e": "Les reconnaissances sont sous l'entière responsabilité du professeur accompagnateur."
+    },
+    {
+     "q": "La séquence individuelle débute directement par le tir, sans course préalable.",
+     "r": "faute",
+     "e": "Attention : elle débute par une course de 40 à 60 m qui mène à la zone de tir."
+    },
+    {
+     "q": "En finale, le départ se fait en handicap-start, derrière l'équipe ayant le meilleur temps.",
+     "r": "valable",
+     "e": "Le départ en finale se fait en handicap-start, décalé selon le classement."
+    },
+    {
+     "q": "Une fois le départ donné, l'arbitre de départ peut devenir juge de relais.",
+     "r": "valable",
+     "e": "Il peut ensuite prendre le rôle de juge de relais."
+    },
+    {
+     "q": "Le parcours de course reste ouvert jusqu'au dernier moment, sans fermeture.",
+     "r": "faute",
+     "e": "Attention : il ferme 10 minutes avant le départ."
+    },
+    {
+     "q": "Le site de compétition est accessible 30 minutes avant le premier départ.",
+     "r": "valable",
+     "e": "Accessible 30 minutes avant le premier départ."
+    },
+    {
+     "q": "Un relais effectué sur la ligne de début de zone peut entraîner une élimination.",
+     "r": "valable",
+     "e": "C'est justement un cas qui peut entraîner une élimination."
+    },
+    {
+     "q": "La réunion technique a lieu la veille des épreuves, avec présence obligatoire du jeune coach.",
+     "r": "valable",
+     "e": "Elle a lieu la veille, avec présence obligatoire du jeune coach et du professeur."
+    },
+    {
+     "q": "La distance des courses varie entre 50 et 100 m selon les catégories.",
+     "r": "faute",
+     "e": "Attention : 400 m pour tous, selon le règlement en vigueur."
+    },
+    {
+     "q": "L'arbitre de départ n'a pas besoin d'être vu des coureurs.",
+     "r": "faute",
+     "e": "Attention : il se place judicieusement pour être vu par les coureurs."
+    },
+    {
+     "q": "L'arbitre de parcours note le passage des coureurs sur une fiche de pointage.",
+     "r": "valable",
+     "e": "Il note le passage des coureurs grâce à la fiche de pointage."
+    },
+    {
+     "q": "En finale, toutes les équipes partent systématiquement en même temps.",
+     "r": "faute",
+     "e": "Attention : le départ en finale se fait en handicap-start, décalé selon le classement."
+    },
+    {
+     "q": "Le parcours de course ferme 10 minutes avant le départ.",
+     "r": "valable",
+     "e": "Il ferme 10 minutes avant le départ."
+    },
+    {
+     "q": "En sport partagé, l'ordre d'alternance au départ est ESH-Valide-ESH-Valide.",
+     "r": "valable",
+     "e": "L'ordre réglementaire est ESH-Valide-ESH-Valide."
+    },
+    {
+     "q": "L'arbitre de départ n'a plus aucun rôle une fois le départ donné.",
+     "r": "faute",
+     "e": "Attention : il peut ensuite prendre le rôle de juge de relais."
+    },
+    {
+     "q": "L'arbitre de parcours n'intervient jamais en cas de chute d'un athlète.",
+     "r": "faute",
+     "e": "Attention : il assure le relais de secours en cas de chute et sait donner l'alerte."
+    },
+    {
+     "q": "L'arrivée peut être franchie par n'importe quel concurrent de l'équipe.",
+     "r": "faute",
+     "e": "Attention : seul le dernier concurrent franchit l'arrivée, chrono arrêté au niveau des épaules."
+    },
+    {
+     "q": "En phase A et B, le départ se fait toujours en handicap-start.",
+     "r": "faute",
+     "e": "Attention : le pack-start s'applique en phase A et B ; le handicap-start en finale."
+    },
+    {
+     "q": "L'arbitre de parcours ne tient aucune fiche de suivi.",
+     "r": "faute",
+     "e": "Attention : il note le passage des coureurs grâce à la fiche de pointage."
+    }
+   ]
+  }
+ ]
+}

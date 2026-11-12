@@ -1,0 +1,320 @@
+{
+ "id": "athletisme-1",
+ "titre": "Le Carnet du Juge",
+ "sousTitre": "Questionnaire officiels d'athlétisme",
+ "entete": "Fiche d'entraînement — officiels d'athlétisme",
+ "sport": "athletisme",
+ "source": "https://charming-creponne-ad3624.netlify.app/",
+ "themes": [
+  {
+   "nom": "Courses — Juges des départs",
+   "questions": [
+    {
+     "q": "Jusqu'à 400 m inclus, le starter donne « à vos marques », puis « prêts », puis le coup de feu.",
+     "r": "valable",
+     "e": "Jusqu'à 400 m inclus (relais 4x100, 4x200, 4x400 compris), la séquence complète « à vos marques » → « prêts » → coup de feu s'applique."
+    },
+    {
+     "q": "Au-delà de 400 m, le starter dit « à vos marques », « prêts », puis coup de feu, comme sur les distances courtes.",
+     "r": "faute",
+     "e": "Au-delà de 400 m, il n'y a pas de commandement « prêts » : dès que les concurrents sont immobiles après « à vos marques », le starter tire directement."
+    },
+    {
+     "q": "Seul le starter décide d'un avertissement, d'une disqualification ou d'un carton vert.",
+     "r": "valable",
+     "e": "C'est le starter qui prend ces décisions ; les starters de rappel ne font que lui rapporter leurs observations."
+    },
+    {
+     "q": "Pour un cadet, une première responsabilité de faux départ sur la course est tolérée sans disqualification.",
+     "r": "faute",
+     "e": "De cadet à senior, la tolérance est nulle : tout athlète responsable d'un faux départ est disqualifié immédiatement (contrairement aux benjamins/minimes qui ont droit à 1 responsabilité)."
+    },
+    {
+     "q": "Le carton rouge/blanc autorise un athlète à courir sous réserve, en cas de faux départ contesté.",
+     "r": "valable",
+     "e": "Ce carton mi-rouge/mi-blanc permet à l'athlète de courir ; sa performance sera validée ou non après étude du cas par la commission d'appel."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Commissaires de courses",
+   "questions": [
+    {
+     "q": "Dans les relais jusqu'au 4x200 m inclus, les athlètes peuvent poser du ruban adhésif au sol pour repérer leur prise d'élan.",
+     "r": "valable",
+     "e": "C'est autorisé jusqu'au 4x200 m inclus, pour aider le relayeur à anticiper le passage de son équipier."
+    },
+    {
+     "q": "Pour juger une transmission de témoin, on observe la position des athlètes dans la zone plutôt que celle du témoin.",
+     "r": "faute",
+     "e": "C'est la position du témoin qui fait foi, pas celle des pieds ou du corps des athlètes dans la zone de transmission de 30 m."
+    },
+    {
+     "q": "Dans le 800 m, les concurrents peuvent se rabattre vers le couloir intérieur dès le coup de feu.",
+     "r": "faute",
+     "e": "Le rabattement n'est autorisé qu'après la ligne compensée, matérialisée par des cônes à l'entrée de la ligne opposée à l'arrivée."
+    },
+    {
+     "q": "En haies, le franchissement doit se faire avec les deux pieds au-dessus de l'obstacle.",
+     "r": "valable",
+     "e": "C'est la règle : passage à 2 pieds au-dessus, sans faire tomber volontairement la haie."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Chronométrie électrique",
+   "questions": [
+    {
+     "q": "Le point zéro doit être vérifié avant la compétition, avec un délai de déclenchement inférieur ou égal à 10 dix-millièmes de seconde.",
+     "r": "valable",
+     "e": "C'est la tolérance imposée : 0,0010 seconde maximum entre la déflagration et le déclenchement du système."
+    },
+    {
+     "q": "Les temps électriques sont lus et notés au 1/10e de seconde pour tous les arrivants.",
+     "r": "faute",
+     "e": "La lecture se fait au 1/100e pour tous les arrivants ; le départage en cas d'ex æquo se fait au 1/1000e."
+    },
+    {
+     "q": "Au-delà de 10 000 m et hors stade, le temps électrique lu au 100e est converti à la seconde supérieure.",
+     "r": "valable",
+     "e": "C'est le cas pour toutes les courses hors stade et sur piste au-delà de 10 000 m (le 20 000 m sur piste, lui, se convertit au 1/10e)."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Chronométrie manuelle",
+   "questions": [
+    {
+     "q": "Le chronométreur déclenche son chronomètre au son de la détonation du pistolet.",
+     "r": "faute",
+     "e": "Il doit déclencher à la flamme, à l'éclair ou à la fumée du pistolet, pas au son : l'écart entre les deux est d'environ 2/10e de seconde."
+    },
+    {
+     "q": "L'arrêt du chronomètre se fait quand le torse de l'athlète atteint le plan vertical de la ligne d'arrivée.",
+     "r": "valable",
+     "e": "Seul le buste compte, pas la tête, les bras, les mains ou les pieds."
+    },
+    {
+     "q": "Sur trois temps pris, on retient la moyenne arithmétique des trois valeurs.",
+     "r": "faute",
+     "e": "On retient le temps moyen (la valeur médiane), pas la moyenne calculée : par exemple 11''09-11''27-11''11 donne 11''11, converti en 11''2."
+    },
+    {
+     "q": "Quand seulement deux temps ont été pris pour un athlète, c'est le temps le plus rapide qui est retenu.",
+     "r": "faute",
+     "e": "C'est au contraire le temps le plus lent des deux qui devient le temps officiel."
+    }
+   ]
+  },
+  {
+   "nom": "Courses — Juges aux arrivées & compteurs de tours",
+   "questions": [
+    {
+     "q": "Le chef juge prend le 1er arrivé, le 1er juge prend les 1er et 2e, le 2e juge prend les 2e et 3e, et ainsi de suite.",
+     "r": "valable",
+     "e": "C'est exactement la répartition des rôles décrite pour les juges aux arrivées."
+    },
+    {
+     "q": "Pour juger une arrivée, on se base sur la tête de l'athlète qui franchit la ligne en premier.",
+     "r": "faute",
+     "e": "Seul le buste (le torse) compte au passage du plan vertical de la ligne d'arrivée, pas la tête."
+    },
+    {
+     "q": "Le compteur de tours fait sonner la cloche pour tous les athlètes lors de leur dernier tour, même les athlètes doublés.",
+     "r": "valable",
+     "e": "La cloche retentit pour chaque athlète à son propre dernier tour, quel que soit son classement dans la course."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut en hauteur",
+   "questions": [
+    {
+     "q": "La montée minimale de barre en hauteur est de 2 cm.",
+     "r": "valable",
+     "e": "C'est la montée minimale autorisée ; on peut démarrer en montant de 5 en 5 puis 3 en 3, jamais l'inverse."
+    },
+    {
+     "q": "Un athlète qui s'abstient au 1er essai d'une hauteur peut encore tenter le 2e essai à cette même hauteur.",
+     "r": "faute",
+     "e": "En cas d'impasse au 1er essai, les 2e et 3e essais à cette hauteur sont perdus ; l'athlète doit attendre la hauteur suivante."
+    },
+    {
+     "q": "Un athlète est éliminé après 3 échecs successifs.",
+     "r": "valable",
+     "e": "C'est la règle d'élimination standard en saut en hauteur (comme en perche)."
+    },
+    {
+     "q": "La barre peut être redescendue si un concurrent le demande pour retenter une hauteur déjà manquée.",
+     "r": "faute",
+     "e": "La barre n'est jamais redescendue au cours du concours."
+    },
+    {
+     "q": "Prendre son impulsion avec les deux pieds simultanément est une faute.",
+     "r": "valable",
+     "e": "Le saut doit se faire en appel sur un seul pied ; un appel à deux pieds est comptabilisé comme un échec."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut à la perche",
+   "questions": [
+    {
+     "q": "Les montants peuvent être déplacés entre le point zéro et jusqu'à 80 cm de celui-ci.",
+     "r": "valable",
+     "e": "C'est la plage de réglage autorisée pour la position des montants dans l'axe de la course."
+    },
+    {
+     "q": "La montée minimale de barre à la perche est de 5 cm.",
+     "r": "valable",
+     "e": "On peut commencer en montant de 10 en 10 (ou plus) puis de 5 en 5, jamais l'inverse."
+    },
+    {
+     "q": "Faire passer la main inférieure au-dessus de l'autre main pendant le saut est autorisé.",
+     "r": "faute",
+     "e": "C'est une faute explicitement listée dans le règlement de la perche."
+    },
+    {
+     "q": "Chaque athlète, même seul engagé, dispose d'1 minute pour effectuer son premier saut.",
+     "r": "valable",
+     "e": "C'est le temps de concentration prévu pour le premier essai, quel que soit le nombre d'engagés."
+    },
+    {
+     "q": "Un concurrent peut emprunter la perche d'un autre athlète si la sienne est indisponible.",
+     "r": "faute",
+     "e": "Chaque concurrent doit utiliser sa propre perche : c'est une exigence du règlement."
+    }
+   ]
+  },
+  {
+   "nom": "Sauts — Saut en longueur & triple saut",
+   "questions": [
+    {
+     "q": "La plasticine sert à détecter un appel pris au-delà de la ligne d'appel (le « mordu »).",
+     "r": "valable",
+     "e": "Immédiatement après la ligne d'appel, la plasticine retient l'empreinte du pied en cas de faute de pied."
+    },
+    {
+     "q": "Après avoir sauté, un concurrent peut marcher en arrière pour sortir de la zone de chute sans que cela soit une faute.",
+     "r": "faute",
+     "e": "Sortir en marchant en arrière après le saut est explicitement listé comme une faute."
+    },
+    {
+     "q": "La mesure d'un saut réussi est annoncée au centimètre inférieur si elle n'est pas un centimètre entier.",
+     "r": "valable",
+     "e": "C'est la règle de lecture appliquée pour les sauts horizontaux, comme pour les lancers."
+    },
+    {
+     "q": "Au triple saut, l'athlète doit retomber sur le pied d'appel puis sur l'autre pied pour le 3e bond (par exemple G-G-D).",
+     "r": "valable",
+     "e": "C'est la particularité du triple saut par rapport à la longueur (avec une variante D-G-D/G-D-G autorisée pour les benjamin-e-s)."
+    },
+    {
+     "q": "En UNSS, chaque concurrent a droit à 6 essais quel que soit le nombre de participants.",
+     "r": "faute",
+     "e": "En UNSS, chaque concurrent dispose de 4 essais ; les 6 essais (ou 3+3) correspondent au règlement FFA selon le nombre de concurrents."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de poids",
+   "questions": [
+    {
+     "q": "Le poids doit être lancé d'une seule main, en avant de l'épaule.",
+     "r": "valable",
+     "e": "C'est la technique réglementaire : le poids doit toucher ou être proche du menton, la main ne doit jamais être abaissée pendant le lancer."
+    },
+    {
+     "q": "Le concurrent est autorisé à toucher l'intérieur de la bande de fer et du butoir.",
+     "r": "valable",
+     "e": "Ce contact est explicitement autorisé pendant le déroulement du lancer."
+    },
+    {
+     "q": "Le concurrent peut ramener le poids en arrière du plan des épaules avant de lancer.",
+     "r": "faute",
+     "e": "C'est une faute : le poids ne doit jamais être ramené en arrière du plan des épaules."
+    },
+    {
+     "q": "Le concurrent dispose d'1 minute pour effectuer son lancer à l'appel de son nom.",
+     "r": "valable",
+     "e": "C'est le temps de concentration accordé pour chaque essai."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de disque",
+   "questions": [
+    {
+     "q": "L'athlète doit être seul à l'intérieur de la cage de protection au moment du lancer.",
+     "r": "valable",
+     "e": "C'est une exigence de sécurité incontournable pour le lancer de disque."
+    },
+    {
+     "q": "Le concurrent peut quitter le cercle avant que le disque ait touché le sol.",
+     "r": "faute",
+     "e": "C'est une faute explicitement listée : il faut attendre que le disque touche le sol avant de sortir du cercle."
+    },
+    {
+     "q": "Toucher le haut du cercle pendant l'essai constitue une faute.",
+     "r": "valable",
+     "e": "Si l'athlète touche le haut du cercle ou le sol à l'extérieur, l'essai est nul."
+    },
+    {
+     "q": "En UNSS, chaque athlète dispose de 6 essais.",
+     "r": "faute",
+     "e": "En UNSS, chaque athlète a droit à 4 essais ; les 6 essais (ou 3+3) relèvent du règlement FFA selon le nombre de concurrents."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de javelot",
+   "questions": [
+    {
+     "q": "Le javelot doit être lancé par-dessus l'épaule, sans mouvement rotatif.",
+     "r": "valable",
+     "e": "C'est la règle technique du javelot : lancer par-dessus l'épaule (ou au-dessus du bras lanceur), tout mouvement rotatif est interdit."
+    },
+    {
+     "q": "Pour être valable, la pointe métallique doit toucher le sol avant toute autre partie du javelot.",
+     "r": "valable",
+     "e": "C'est la condition de validité du lancer : la tête métallique doit toucher le sol en premier."
+    },
+    {
+     "q": "Le concurrent a droit à 50 m d'élan maximum sur la piste.",
+     "r": "faute",
+     "e": "La piste d'élan est limitée à 36,50 m maximum."
+    },
+    {
+     "q": "Le concurrent peut se tourner complètement pour diriger son dos vers l'arc de lancement pendant l'élan.",
+     "r": "faute",
+     "e": "C'est interdit à aucun moment du jet jusqu'à la projection du javelot en l'air."
+    }
+   ]
+  },
+  {
+   "nom": "Lancers — Lancer de marteau",
+   "questions": [
+    {
+     "q": "Le concurrent peut porter un gant à chaque main pour se protéger.",
+     "r": "faute",
+     "e": "Un seul gant est autorisé, lisse des deux côtés, avec le bout des doigts découvert (sauf le pouce)."
+    },
+    {
+     "q": "La tête du marteau peut toucher le sol pendant la préparation, avant le lancer, sans que ce soit une faute.",
+     "r": "valable",
+     "e": "C'est autorisé : avant les balancements ou rotations, le concurrent peut poser la tête du marteau au sol, à l'intérieur ou à l'extérieur du cercle."
+    },
+    {
+     "q": "Répandre une substance dans le cercle ou sur ses chaussures pour améliorer l'adhérence est autorisé.",
+     "r": "faute",
+     "e": "C'est explicitement interdit : aucune substance ne doit être répandue ou pulvérisée dans le cercle ou sur les chaussures."
+    },
+    {
+     "q": "Le lancer du marteau s'effectue à partir d'un cercle situé à l'intérieur d'une cage de protection.",
+     "r": "valable",
+     "e": "Comme pour le disque, la cage de protection est obligatoire pour la sécurité des athlètes, officiels et spectateurs."
+    }
+   ]
+  }
+ ]
+}
