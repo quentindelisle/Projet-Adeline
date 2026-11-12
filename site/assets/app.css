@@ -379,3 +379,120 @@ footer.pied{padding:18px clamp(12px,2.5vw,40px) 36px}
   .hub .etape-img.n6{order:7;width:78%}
   .btn-retour{display:flex;justify-content:flex-start;font-size:14.5px}
 }
+
+/* =====================================================================
+   Version 3 : bandeau illustré = navigation sur toutes les pages,
+   encart « Note du SR », page activité en ligne, gros boutons d'étape
+   ===================================================================== */
+body.accueil::before{display:none}
+body.accueil footer.pied{display:none}
+.entete{padding:12px clamp(12px,2.5vw,40px) 0}
+.entete-in{display:flex;gap:16px;align-items:stretch;justify-content:center}
+.entete .banniere{position:relative;flex:0 1 auto;width:min(100%,calc(30vh * 3.25));margin:0;border-radius:18px;overflow:hidden;box-shadow:0 4px 16px rgba(22,53,159,.15);background:#fff;height:auto;max-width:none}
+.entete.avec-note .banniere{width:min(calc(100% - 300px),calc(30vh * 3.25))}
+.entete .banniere img{display:block;width:100%;height:auto;object-fit:contain}
+/* Boutons de navigation dans le bandeau */
+.ban-nav{position:absolute;top:auto;bottom:auto;right:2%;top:12%;display:flex;gap:8px;align-items:center}
+.ban-nav a,.ban-nav button{display:inline-flex;align-items:center;gap:7px;background:var(--bleu);color:#fff;text-decoration:none;font-family:'Nunito',system-ui,sans-serif;font-weight:800;font-size:clamp(13px,1.15vw,16px);padding:8px 16px;border-radius:999px;box-shadow:0 3px 10px rgba(0,0,0,.25);border:2px solid #fff;cursor:pointer;line-height:1}
+.ban-nav svg{width:20px;height:20px;flex:none}
+.ban-nav .nb-retour{padding:8px 10px;background:var(--rouge)}
+.ban-nav .nb-retour svg{width:22px;height:22px}
+.ban-nav a:hover,.ban-nav button:hover{filter:brightness(1.15);transform:translateY(-1px)}
+.ban-nav .nb-gestion{background:#fff;color:var(--bleu);border-color:var(--bleu)}
+/* Post-it « Note du SR » */
+.postit{position:relative;flex:0 0 clamp(240px,22vw,340px);background:linear-gradient(180deg,#fff8b0,#ffef7a);color:#3b3200;border-radius:4px 4px 18px 4px;padding:26px 18px 14px;box-shadow:0 8px 18px rgba(0,0,0,.18),inset 0 -12px 18px rgba(0,0,0,.04);transform:rotate(1.2deg);overflow:auto;font-size:15px;line-height:1.45}
+.postit::before{content:"";position:absolute;top:-9px;left:50%;width:96px;height:24px;transform:translateX(-50%) rotate(-3deg);background:rgba(214,10,61,.55);border-radius:3px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
+.postit-titre{display:block;font-family:'Nunito',system-ui,sans-serif;font-weight:900;font-size:18px;color:var(--rouge);margin-bottom:6px}
+.postit-txt a{color:var(--bleu);font-weight:700}
+.postit[hidden]{display:none}
+/* Accueil */
+.hero-ligne{align-items:center;margin-top:4px}
+.hero-ligne h1::after{display:none}
+.hero-ligne h1{font-size:clamp(20px,2.4vw,28px)}
+
+/* ----- Page d'une activité : tuiles côte à côte, titre en dessous ----- */
+.cadre-sport{max-width:none}
+.hub{display:grid;align-items:start;justify-items:stretch;gap:clamp(10px,1.4vw,22px);padding:clamp(12px,1.6vw,24px)}
+.hub.hub-5{grid-template-columns:repeat(5,minmax(0,1fr))}
+.hub.hub-6{grid-template-columns:repeat(4,minmax(0,1fr))}
+.hub .etape-img{width:100%;justify-self:stretch}
+.hub .etape-img img{width:100%;height:auto;max-height:none}
+.hub .etape-img:hover{transform:scale(1.025)}
+.titre-hub{display:flex;align-items:center;justify-content:center;gap:clamp(14px,2.5vw,40px);--t:clamp(54px,8vw,120px)}
+.hub-5 .titre-hub{grid-column:1/-1;padding:4px 0}
+.hub-6 .titre-hub{grid-column:span 2;align-self:center;flex-direction:column;gap:clamp(8px,1.4vw,18px)}
+.titre-hub .logo-hub{height:var(--t);width:auto;max-height:none;max-width:none}
+.titre-hub .nom-sport{display:flex;align-items:center;gap:14px}
+.titre-hub .nom-sport img{height:var(--t);width:auto;filter:drop-shadow(0 3px 6px rgba(22,53,159,.18))}
+.titre-hub .nom-sport h1{margin:0;font-family:'Nunito',system-ui,sans-serif;font-weight:900;color:var(--bleu);font-size:calc(var(--t) * .62);line-height:1}
+.hub .retour-rond{display:none}
+
+/* ----- Page d'une étape : boutons d'étape trois fois plus grands ----- */
+.nav-etapes{display:flex;flex-wrap:nowrap;gap:12px;margin-top:18px}
+.nav-etapes .btn-etape{flex:1 1 0;min-width:0;display:flex;align-items:center;gap:14px;padding:10px 16px 10px 10px;border-radius:18px;font-size:clamp(14px,1.25vw,18px);line-height:1.2}
+.nav-etapes .btn-etape img{width:auto;height:clamp(84px,14vh,140px);aspect-ratio:1;object-fit:cover;border-radius:12px;flex:none;background:#fff}
+.nav-etapes .btn-etape span{display:flex;flex-direction:column;gap:3px}
+.nav-etapes .btn-etape small{font-size:.75em;opacity:.85;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+.btn-retour{margin-top:16px;font-size:17px;padding:8px 22px 8px 8px}
+.btn-retour .fleche{width:44px;height:44px}
+.btn-retour .fleche svg{width:26px;height:26px}
+
+/* ----- Tablette portrait ----- */
+@media (orientation:portrait) and (max-width:1100px){
+  .entete .banniere,.entete.avec-note .banniere{width:100%}
+  .entete-in{flex-direction:column}
+  .postit{flex:none;transform:none;max-height:none}
+  .hub.hub-5,.hub.hub-6{grid-template-columns:1fr 1fr}
+  .hub .etape-img.n3{grid-column:auto;width:100%}
+  .hub-5 .etape-img.n5{grid-column:1/-1;justify-self:center;width:50%}
+  .hub-6 .titre-hub{grid-column:1/-1;flex-direction:row}
+  .hub .titre-hub{order:-1}
+}
+/* ----- Smartphone ----- */
+@media (max-width:600px){
+  .entete{padding:0}
+  .entete .banniere{border-radius:0 0 16px 16px}
+  .entete-in{gap:10px}
+  .ban-nav{top:6%;right:2%;gap:5px}
+  .ban-nav a,.ban-nav button{font-size:12px;padding:6px 9px;border-width:1.5px}
+  .ban-nav svg{width:16px;height:16px}
+  .ban-nav .nb-home span{display:none}
+  .postit{margin:0 10px;padding:20px 14px 10px;font-size:14px}
+  .hub .titre-hub{--t:52px;flex-wrap:wrap}
+  .hub .etape-img.n3,.hub-5 .etape-img.n5{width:100%}
+  .hub-5 .etape-img.n5{grid-column:1/-1;justify-self:center;width:70%}
+  .hub .etape-img.n6{grid-column:1/-1;justify-self:center;width:70%}
+  .nav-etapes{gap:6px}
+  .nav-etapes .btn-etape{flex-direction:column;align-items:center;text-align:center;padding:6px 4px 8px;gap:6px;font-size:11px;border-radius:12px}
+  .nav-etapes .btn-etape img{width:100%;height:auto;max-width:none}
+  .nav-etapes .btn-etape small{display:none}
+  .btn-retour{display:flex;font-size:15px}
+}
+/* Tuiles toutes carrées (l'image 5 est plus large que haute) */
+.hub .etape-img img{aspect-ratio:1;object-fit:contain}
+.hub .etape-img.n5{background:#efe6fb}
+.hub .etape-img.n4{background:#fde9df}
+/* La page tient dans la hauteur de l'écran : tuiles limitées, cadre pleine largeur */
+.hub.hub-6{max-width:calc((100vh - 400px) / 2 * 4 + 140px);margin:0 auto}
+.hub.hub-5{max-width:calc((100vh - 470px) * 5 + 160px);margin:0 auto}
+.hub-6 .titre-hub{--t:clamp(50px,6vw,96px)}
+@media (orientation:portrait) and (max-width:1100px){.hub.hub-5,.hub.hub-6{max-width:none}}
+.hub.hub-6{max-width:none;grid-template-columns:repeat(4,minmax(0,max(160px,calc((100vh - 400px) / 2))));justify-content:center}
+.hub.hub-5{max-width:none;grid-template-columns:repeat(5,minmax(0,max(150px,calc(100vh - 470px))));justify-content:center}
+@media (orientation:portrait) and (max-width:1100px){.hub.hub-5,.hub.hub-6{grid-template-columns:1fr 1fr}}
+@media (max-width:600px){.hub-6 .etape-img.n6{grid-column:auto;width:100%;justify-self:stretch}}
+
+/* Bandeau + post-it alignés sur les bords du cadre des activités */
+.entete-in{justify-content:flex-start}
+.entete.avec-note .banniere{flex:0 0 auto;width:min(calc(100% - 280px),calc(30vh * 3.25))}
+.postit{flex:1 1 auto;min-width:260px;transform:none;border-radius:6px 6px 22px 6px}
+.entete:not(.avec-note) .entete-in{justify-content:center}
+@media (orientation:portrait) and (max-width:1100px){.entete.avec-note .banniere{width:100%}.postit{min-width:0}}
+
+/* Smartphone : bandeau et post-it alignés sur le cadre ; tuiles 5 et 6 côte à côte */
+@media (max-width:600px){
+  .entete{padding:10px 10px 0}
+  .entete .banniere{border-radius:14px}
+  .postit{margin:0;min-width:0}
+  .hub.hub-6 .etape-img.n5,.hub.hub-6 .etape-img.n6{grid-column:auto;width:100%;justify-self:stretch;align-self:start}
+}

@@ -2797,5 +2797,9 @@
    "videos": []
   }
  ],
- "version": 1
+ "version": 1,
+ "notes": {
+  "defaut": "Bienvenue sur le nouveau site des formations Jeune Juge / Jeune Arbitre !\n**Nouveau** : les quiz « Valable ou Faute ? » sont intégrés au site.",
+  "s/futsal": "**Nouveau** : une vidéo d'arbitrage commentée est disponible dans « Regarder une situation d'arbitrage »."
+ }
 }

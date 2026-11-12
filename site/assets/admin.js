@@ -117,6 +117,19 @@
     renderCote();
   }
 
+  /* ---------- Notes du SR (post-it, une par page) ---------- */
+  function champNote(cle, libelle, aide) {
+    const v = (D.notes || {})[cle] || '';
+    return `<div class="champ note-sr"><label>🗒 ${esc(libelle)}</label><textarea data-note="${esc(cle)}" rows="3" placeholder="${esc(aide || 'Laisse vide pour afficher la note par défaut.')}">${esc(v)}</textarea></div>`;
+  }
+  function brancherNotes() {
+    ed.querySelectorAll('[data-note]').forEach(t => t.addEventListener('input', () => {
+      D.notes = D.notes || {};
+      if (t.value.trim()) D.notes[t.dataset.note] = t.value; else delete D.notes[t.dataset.note];
+      modifie();
+    }));
+  }
+
   /* ---------- Réglages généraux ---------- */
   function renderGeneral() {
     ed.innerHTML = `<h1>Réglages généraux</h1>
@@ -127,9 +140,13 @@
           <div class="champ"><label for="g-st">Sous-titre</label><input id="g-st" data-g="sousTitre" value="${esc(D.sousTitre || '')}"></div>
           <div class="champ"><label for="g-ct">Contact (affiché en pied de page)</label><input id="g-ct" data-g="contact" value="${esc(D.contact || '')}" placeholder="ex. : nom ou adresse académique"></div>
         </div>
-        <div class="champ"><label for="g-acc">Phrase d'accueil</label><textarea id="g-acc" data-g="accroche" placeholder="Choisis ton activité, puis suis les cinq étapes…">${esc(D.accroche || '')}</textarea></div>
       </div>
-      <div class="bloc"><h2>Les cinq étapes du parcours</h2>
+      <div class="bloc"><h2>Note du SR (post-it à droite du bandeau)</h2>
+        <p class="a-aide" style="margin:0 0 8px">Une note peut être écrite pour chaque page : accueil, page d'une activité, page d'une étape, quiz. Une page sans note affiche la note par défaut ; si les deux sont vides, le post-it n'apparaît pas. Astuce : **texte** s'affiche en gras, les liens https://… sont cliquables.</p>
+        ${champNote('defaut', 'Note par défaut (toutes les pages sans note)', 'Ex. : Nouveau ! Les vidéos de futsal sont en ligne.')}
+        ${champNote('accueil', "Note de la page d'accueil")}
+      </div>
+      <div class="bloc"><h2>Les étapes du parcours</h2>
         ${D.etapes.map((e, i) => `<div class="ligne"><div class="champ" style="flex:.8"><label>Étape ${e.num} — titre</label><input data-etape="${i}" data-c="titre" value="${esc(e.titre)}"></div>
           <div class="champ"><label>Description</label><input data-etape="${i}" data-c="desc" value="${esc(e.desc || '')}"></div>
           <div class="champ" style="flex:.8"><label>Illustration</label><div style="display:flex;gap:8px;align-items:center">${e.image ? `<img src="${esc(e.image)}" alt="" style="width:46px;height:46px;object-fit:cover;border-radius:8px">` : ''}
@@ -137,6 +154,7 @@
       </div>
       <div class="note">Astuce : le bouton <b>Aperçu</b> montre le site avec tes modifications avant de les publier. Le bouton <b>Contrôle qualité</b> liste les liens cassés, en double ou incomplets.</div>`;
     ed.querySelectorAll('[data-g]').forEach(i => i.addEventListener('input', () => { D[i.dataset.g] = i.value; modifie(); }));
+    brancherNotes();
     ed.querySelectorAll('[data-etape]').forEach(i => i.addEventListener('input', () => { D.etapes[+i.dataset.etape][i.dataset.c] = i.value; modifie(); }));
     ed.querySelectorAll('[data-etape-img]').forEach(i => i.addEventListener('change', () => { D.etapes[+i.dataset.etapeImg].image = i.value; modifie(); renderGeneral(); }));
   }
@@ -167,7 +185,9 @@
         <div style="display:flex;gap:10px;align-items:center">${s.icone ? `<img src="assets/icones/${esc(s.icone)}.png" alt="" style="width:46px;height:46px">` : ''}
         <select id="s-icone"><option value="">— initiales —</option>${JAJJ.ICONES.map(n => `<option value="${esc(n)}"${n === s.icone ? ' selected' : ''}>${esc(n.replace(/^CA\d-/, '').replace(/-/g, ' '))} (${esc(n.slice(0, 3))})</option>`).join('')}</select></div></div>
       </div>
+      <div class="bloc">${champNote('s/' + s.id, "Note du SR — page de l'activité " + s.nom)}</div>
       ${D.etapes.map(e => blocEtapeEd(s, e)).join('')}`;
+    brancherNotes();
     ed.querySelector('[data-retour]').onclick = () => aller({ type: 'general' });
     ed.querySelector('#s-nom').addEventListener('input', e => { s.nom = e.target.value; modifie(); });
     ed.querySelector('#s-nom').addEventListener('change', () => renderCote());
@@ -197,6 +217,7 @@
     const items = s[e.cle] || (s[e.cle] = []);
     return `<section class="bloc" id="ed-${e.cle}"><h2><span class="pastille e${e.num}">${e.num}</span>${esc(e.titre)}</h2>
       ${items.length ? items.map((it, i) => rangHtml(s, e.cle, it, i)).join('') : '<p class="vide-ed">Aucun contenu pour l\'instant : l\'étape affichera « Contenu en préparation ».</p>'}
+      <details class="note-etape"${(D.notes || {})['s/' + s.id + '/' + e.cle] ? ' open' : ''}><summary>🗒 Note du SR pour la page « ${esc(e.titre)} »</summary>${champNote('s/' + s.id + '/' + e.cle, 'Note de cette page')}</details>
       <div class="ligne" style="flex-wrap:wrap;gap:6px"><button class="btn petit" data-ajout="${e.cle}:lien" style="flex:0 0 auto">+ Ajouter un lien ou un document</button>
       <button class="btn petit" data-ajout="${e.cle}:video" style="flex:0 0 auto">+ Ajouter une vidéo</button>
       <button class="btn petit" data-ajout="${e.cle}:quiz" style="flex:0 0 auto">+ Créer un quiz Valable / Faute</button></div></section>`;
@@ -304,6 +325,7 @@
           <button class="btn petit" id="q-theme" style="flex:0 0 auto">+ Ajouter un thème</button>
           <button class="btn petit dang" id="q-suppr" style="flex:0 0 auto">Supprimer le quiz</button>
         </div>
+        ${champNote('q/' + q.id, 'Note du SR — page de ce quiz', "Laisse vide pour reprendre la note de l'étape ou la note par défaut.")}
       </div>
       ${q.themes.map((t, ti) => `<section class="bloc"><div class="ligne"><div class="champ"><label>Thème ${ti + 1} ${q.themes.length === 1 ? '(facultatif : laisse vide s\'il n\'y a qu\'une série)' : ''}</label><input data-t="${ti}" value="${esc(t.nom || '')}" placeholder="ex. : Courses — Juges des départs"></div>
         ${q.themes.length > 1 ? `<div style="flex:0 0 auto"><button class="btn petit dang" data-tsuppr="${ti}">Supprimer le thème</button></div>` : ''}</div>
@@ -314,6 +336,7 @@
           <div class="act" style="display:flex;flex-direction:column;gap:4px"><button class="btn petit" data-m="-1" aria-label="Monter">↑</button><button class="btn petit" data-m="1" aria-label="Descendre">↓</button><button class="btn petit" data-del aria-label="Supprimer">✕</button></div></div>`).join('')}</div>
         <button class="btn petit" data-ajq="${ti}" style="margin-top:6px">+ Ajouter une affirmation</button></section>`).join('')}`;
     ed.querySelector('[data-retour]')?.addEventListener('click', () => aller({ type: 'sport', id: q.sport }));
+    brancherNotes();
     ed.querySelector('[data-essai]').addEventListener('click', () => sauverBrouillon());
     ed.querySelectorAll('[data-q]').forEach(i => i.addEventListener('input', () => {
       const ancien = q[i.dataset.q];

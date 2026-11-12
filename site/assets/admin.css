@@ -69,3 +69,8 @@ body.verrouille > :not(.acces):not(script){display:none!important}
 .acces-boite button{justify-content:center;padding:11px;margin-top:4px;font-weight:700}
 .acces-boite a{text-align:center;font-size:13.5px;color:var(--doux)}
 .acces-err{color:var(--rouge);font-size:13.5px;min-height:1em;margin:0}
+
+.note-sr textarea{background:#fff9c4;border-color:#e6d36a}
+.note-sr label{color:#8a6d00}
+details.note-etape{margin:4px 0 10px}
+details.note-etape summary{cursor:pointer;font-size:13.5px;color:#8a6d00;font-weight:700}

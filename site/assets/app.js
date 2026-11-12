@@ -6,6 +6,45 @@
   const COUL = ['', 'e1', 'e2', 'e3', 'e4', 'e5'];
 
 
+  const SVG_MAISON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg>';
+  const SVG_RETOUR = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6"/></svg>';
+  let profondeur = 0;
+  function construireEntete() {
+    document.getElementById('entete').innerHTML = `
+      <div class="entete-in">
+        <div class="banniere">
+          <img src="assets/bandeau.webp" srcset="assets/bandeau-1024.webp 1024w, assets/bandeau.webp 2048w" sizes="(max-width: 900px) 100vw, 75vw" alt="Jeunes juges et jeunes arbitres UNSS — Académie de Nantes" fetchpriority="high">
+          <nav class="ban-nav" aria-label="Navigation">
+            <button type="button" class="nb-retour" id="nav-retour" aria-label="Revenir à la page précédente" title="Revenir en arrière">${SVG_RETOUR}</button>
+            <a class="nb-home" href="#/" aria-label="Accueil" title="Accueil">${SVG_MAISON}<span>Accueil</span></a>
+            <a class="nb-gestion" href="admin.html">Gestion</a>
+          </nav>
+        </div>
+        <aside class="postit" id="postit" hidden aria-label="Note du SR"><b class="postit-titre">Note du SR</b><div class="postit-txt" id="postit-txt"></div></aside>
+      </div>`;
+    document.getElementById('nav-retour').addEventListener('click', () => {
+      if (profondeur > 1) { history.back(); return; }
+      const h = location.hash.replace(/^#\/?/, '').split('/');
+      if (h[0] === 'q' && DATA) {
+        const s = DATA.sports.find(x => [...DATA.etapes].some(e => (x[e.cle] || []).some(it => it.quiz === h[1])));
+        const e = s && DATA.etapes.find(e => (s[e.cle] || []).some(it => it.quiz === h[1]));
+        location.hash = s ? `#/s/${s.id}${e ? '/' + e.cle : ''}` : '#/';
+      } else if (h[0] === 's' && h[2]) location.hash = '#/s/' + h[1];
+      else location.hash = '#/';
+    });
+  }
+  function texteNote(t) {
+    return esc(t).replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>').replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\n/g, '<br>');
+  }
+  function majNote(cle) {
+    const notes = DATA.notes || {};
+    const t = (notes[cle] || '').trim() || (notes.defaut || '').trim();
+    const p = document.getElementById('postit');
+    p.hidden = !t;
+    document.getElementById('entete').classList.toggle('avec-note', !!t);
+    if (t) document.getElementById('postit-txt').innerHTML = texteNote(t);
+  }
+
   const icone = s => s.icone ? `assets/icones/${encodeURIComponent(s.icone)}.png` : '';
   const imgIcone = (s, cls = '') => s.icone ? `<img class="${cls}" src="${icone(s)}" alt="" loading="lazy">` : `<span class="ini ${cls}" aria-hidden="true">${esc(initiales(s.nom))}</span>`;
 
@@ -13,12 +52,11 @@
   function accueil() {
     document.title = DATA.titre;
     document.body.classList.add('accueil');
+    majNote('accueil');
     const tri = [...DATA.sports].sort((a, b) => (a.actif === false) - (b.actif === false) || a.nom.localeCompare(b.nom, 'fr'));
     app.innerHTML = `
-      <div class="banniere"><img src="assets/bandeau.webp" srcset="assets/bandeau-1024.webp 1024w, assets/bandeau.webp 2048w" sizes="(max-width: 1200px) 100vw, 1150px" alt="Jeunes juges et jeunes arbitres UNSS — Académie de Nantes" fetchpriority="high"><nav class="ban-nav" aria-label="Navigation"><a href="#/">Activités</a><a href="admin.html">Espace gestion</a></nav></div>
       <div class="hero-ligne">
-        <div><h1>${esc(DATA.titre)}</h1>
-        <p>${esc(DATA.accroche || 'Choisis ton activité, puis suis les cinq étapes du parcours pour devenir jeune juge ou jeune arbitre certifié.')}</p></div>
+        <h1>${esc(DATA.titre)}</h1>
         <label class="sr" for="cherche">Rechercher une activité</label>
         <input id="cherche" class="recherche" type="search" placeholder="Rechercher une activité…" autocomplete="off">
       </div>
@@ -55,18 +93,16 @@
       return `<${tag} class="etape-img n${e.num}${n ? '' : ' vide'}" ${href} ${direct ? `data-direct="${e.cle}"` : ''} ${!n ? 'aria-disabled="true" disabled style="border:0;padding:0;cursor:default"' : tag === 'button' ? 'style="border:0;padding:0;cursor:pointer"' : ''} aria-label="Étape ${e.num} : ${esc(e.titre)} (${label})">
         <img src="${esc((!n && e.imageVide) || e.image || '')}" alt="Étape ${e.num} — ${esc(e.titre)}"${!n && e.imageVide ? ' style="filter:none;opacity:1"' : ''}>${!n && e.imageVide ? '' : `<span class="nb">${label}</span>`}</${tag}>`;
     };
+    const visibles = E.filter(e => !e.optionnelle || (s[e.cle] || []).length);
+    const six = visibles.length > 5;
+    const titre = `<div class="titre-hub"><img class="logo-hub" src="assets/logo-unss-nantes.png" alt="UNSS Académie de Nantes"><div class="nom-sport">${s.icone ? `<img src="${icone(s)}" alt="">` : ''}<h1>${esc(s.nom)}</h1></div></div>`;
+    majNote('s/' + s.id);
     app.innerHTML = `
       <p class="fil"><a href="#/">Activités</a> › ${esc(s.nom)}</p>
-      <div class="cadre-sport"><div class="hub${E.slice(5).some(e => (s[e.cle] || []).length) ? ' avec-plus' : ''}">
-        <a class="retour-rond" href="#/" aria-label="Retour aux activités">←</a>
-        <div class="col">${img(E[0])}${img(E[1])}</div>
-        <div class="centre">
-          <img class="logo-hub" src="assets/logo-unss-nantes.png" alt="UNSS Académie de Nantes">
-          ${img(E[2])}
-          <div class="nom-sport${s.nom.length > 13 ? ' long' : ''}">${s.icone ? `<img src="${icone(s)}" alt="">` : ''}<h1>${esc(s.nom)}</h1></div>
-        </div>
-        <div class="col">${img(E[3])}${img(E[4])}</div>
-        ${E.slice(5).filter(e => (s[e.cle] || []).length).map(e => `<div class="col col-plus">${img(e)}</div>`).join('')}
+      <div class="cadre-sport"><div class="hub ${six ? 'hub-6' : 'hub-5'}">
+        ${six
+          ? visibles.slice(0, 4).map(img).join('') + titre + visibles.slice(4).map(img).join('')
+          : visibles.map(img).join('') + titre}
       </div></div>`;
     app.querySelectorAll('[data-direct]').forEach(b => b.addEventListener('click', () => ouvrir(s[b.dataset.direct][0])));
   }
@@ -77,6 +113,7 @@
     const e = DATA.etapes.find(x => x.cle === cle);
     if (!s || !e) return introuvable();
     document.title = e.titre + ' — ' + s.nom;
+    majNote('s/' + s.id + '/' + cle);
     const items = s[cle] || [];
     let html = '', groupe = null;
     items.forEach((it, i) => {
@@ -95,7 +132,7 @@
         ${items.length ? `<ul class="items" style="padding-top:14px">${html}</ul>` : '<p class="vide" style="padding-top:16px">Contenu en préparation.</p>'}
       </section>
       <nav class="nav-etapes" aria-label="Autres étapes">
-        ${autres.map(x => `<a class="btn-etape e${x.num}" href="#/s/${esc(s.id)}/${x.cle}">${x.image ? `<img src="${esc(x.image)}" alt="">` : ''}<span>${x.optionnelle ? '' : x.num + '. '}${esc(x.titre)}</span></a>`).join('')}
+        ${autres.map(x => `<a class="btn-etape e${x.num}" href="#/s/${esc(s.id)}/${x.cle}">${x.image ? `<img src="${esc(x.image)}" alt="">` : ''}<span><small>${x.optionnelle ? 'Vidéos' : 'Étape ' + x.num}</small>${esc(x.titre)}</span></a>`).join('')}
       </nav>
       <a class="btn-retour" href="#/s/${esc(s.id)}"><span class="fleche" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 6l-6 6 6 6"/></svg></span>Retour au parcours ${esc(s.nom)}</a>`;
     app.querySelectorAll('[data-ouvrir]').forEach(b => b.addEventListener('click', () => {
@@ -146,6 +183,7 @@
     const et = s && DATA.etapes.find(e => (s[e.cle] || []).some(it => it.quiz === q.id));
     const lienEtape = s && et ? `#/s/${s.id}/${et.cle}` : s ? `#/s/${s.id}` : '#/';
     document.title = q.titre + ' — Quiz';
+    majNote((DATA.notes || {})['q/' + q.id] ? 'q/' + q.id : s && et ? 's/' + s.id + '/' + et.cle : 'q/' + q.id);
     const etat = { melange: false, extrait: 0 };
 
     function construire() {
@@ -221,11 +259,13 @@
   }
 
   function introuvable() {
+    majNote('');
     app.innerHTML = `<p class="fil"><a href="#/">Activités</a></p><h1>Page introuvable</h1><p>Ce contenu n'existe pas ou a été déplacé.</p><p><a class="btn prim" href="#/">Revenir aux activités</a></p>`;
   }
 
   /* ---------- Routeur ---------- */
   function route() {
+    profondeur++;
     if (dlg.open) dlg.close();
     const h = location.hash.replace(/^#\/?/, '').split('/');
     document.body.classList.remove('accueil');
@@ -239,8 +279,7 @@
 
   JAJJ.chargerDonnees().then(d => {
     DATA = d;
-    document.getElementById('titre-site').textContent = d.titre;
-    document.getElementById('sous-titre-site').textContent = d.sousTitre || '';
+    construireEntete();
     document.getElementById('pied').innerHTML = `${esc(d.titre)}${d.sousTitre ? ' — ' + esc(d.sousTitre) : ''}${d.contact ? ' · Contact : ' + esc(d.contact) : ''}${d.maj ? ' · Mise à jour : ' + esc(new Date(d.maj).toLocaleDateString('fr-FR')) : ''}`;
     if (JAJJ.enApercu()) document.getElementById('bandeau').innerHTML = '<div class="apercu">Aperçu des modifications non publiées — <a href="index.html">voir le site publié</a></div>';
     window.addEventListener('hashchange', route);
