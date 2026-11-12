@@ -15,7 +15,7 @@
     document.body.classList.add('accueil');
     const tri = [...DATA.sports].sort((a, b) => (a.actif === false) - (b.actif === false) || a.nom.localeCompare(b.nom, 'fr'));
     app.innerHTML = `
-      <div class="banniere"><img src="assets/bandeau.webp" srcset="assets/bandeau-1024.webp 1024w, assets/bandeau.webp 2048w" sizes="(max-width: 1200px) 100vw, 1150px" alt="Jeunes juges et jeunes arbitres UNSS — Académie de Nantes" fetchpriority="high"></div>
+      <div class="banniere"><img src="assets/bandeau.webp" srcset="assets/bandeau-1024.webp 1024w, assets/bandeau.webp 2048w" sizes="(max-width: 1200px) 100vw, 1150px" alt="Jeunes juges et jeunes arbitres UNSS — Académie de Nantes" fetchpriority="high"><nav class="ban-nav" aria-label="Navigation"><a href="#/">Activités</a><a href="admin.html">Espace gestion</a></nav></div>
       <div class="hero-ligne">
         <div><h1>${esc(DATA.titre)}</h1>
         <p>${esc(DATA.accroche || 'Choisis ton activité, puis suis les cinq étapes du parcours pour devenir jeune juge ou jeune arbitre certifié.')}</p></div>

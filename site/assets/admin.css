@@ -57,3 +57,15 @@
   .qrow{grid-template-columns:28px 1fr}
   .qrow > *:not(.n){grid-column:2}
 }
+
+/* Écran de connexion */
+body.verrouille > :not(.acces):not(script){display:none!important}
+.acces{min-height:100vh;display:grid;place-items:center;background:linear-gradient(160deg,var(--bleu),#0e2473);padding:16px}
+.acces-boite{background:#fff;border-radius:18px;padding:28px 26px;width:min(380px,100%);display:grid;gap:8px;box-shadow:0 20px 50px rgba(0,0,0,.3);border-top:6px solid var(--rouge)}
+.acces-boite img{width:150px;margin:0 auto 4px}
+.acces-boite h1{margin:0;text-align:center;color:var(--bleu);font-family:'Nunito',system-ui,sans-serif;font-weight:900}
+.acces-boite > p{margin:0 0 8px;text-align:center;color:var(--doux);font-size:14px}
+.acces-boite label{font-size:13px;font-weight:700;color:var(--doux)}
+.acces-boite button{justify-content:center;padding:11px;margin-top:4px;font-weight:700}
+.acces-boite a{text-align:center;font-size:13.5px;color:var(--doux)}
+.acces-err{color:var(--rouge);font-size:13.5px;min-height:1em;margin:0}

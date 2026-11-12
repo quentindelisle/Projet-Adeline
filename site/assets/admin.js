@@ -643,5 +643,5 @@
   }
 
   window.addEventListener('beforeunload', e => { if (estModifie()) { sauverBrouillon(); } });
-  charger().catch(e => { ed.innerHTML = `<h1>Erreur</h1><p>${esc(e.message)}</p>`; });
+  JAJJ_ACCES.attendre().then(() => charger()).catch(e => { ed.innerHTML = `<h1>Erreur</h1><p>${esc(e.message)}</p>`; });
 })();
