@@ -265,3 +265,89 @@ body.accueil .top{display:none}
 .ban-nav a{background:var(--bleu);color:#fff;text-decoration:none;font-family:'Nunito',system-ui,sans-serif;font-weight:800;font-size:14.5px;padding:8px 14px;border-radius:999px;box-shadow:0 3px 10px rgba(0,0,0,.25);border:2px solid #fff}
 .ban-nav a:hover{background:var(--rouge)}
 @media (max-width:600px){.ban-nav{top:8px;right:8px}.ban-nav a{font-size:12.5px;padding:6px 10px}}
+/* Bandeau affiché en entier, sans recadrage */
+.banniere{height:auto}
+.banniere img{height:auto;object-fit:contain}
+
+/* ===== Pleine largeur (paysage) et lecture sur smartphone (portrait) ===== */
+main,.top-in,footer.pied{max-width:none}
+main{padding:18px clamp(12px,2.5vw,40px) 50px}
+.top-in{padding:8px clamp(12px,2.5vw,40px)}
+footer.pied{padding:18px clamp(12px,2.5vw,40px) 36px}
+.cadre-sport{max-width:1600px;margin:0 auto}
+.banniere{max-width:1800px;margin-left:auto;margin-right:auto}
+@media (min-width:1500px){.grille.tuiles{grid-template-columns:repeat(auto-fill,minmax(128px,1fr))}.tuile img{width:88px;height:88px}}
+
+/* Tablette en portrait : la page activité passe sur 2 colonnes */
+@media (orientation:portrait) and (max-width:1100px){
+  .hub{grid-template-columns:1fr 1fr;--h:auto}
+  .hub .centre{grid-column:1/-1;order:-1}
+  .hub .col{display:contents}
+  .hub .col .etape-img img,.hub .centre .etape-img img{max-height:none;width:100%}
+  .etape-img{width:auto}
+  .hub .centre .etape-img{width:min(520px,100%)}
+}
+
+/* Smartphone */
+@media (max-width:600px){
+  body{font-size:15.5px}
+  main{padding:10px 10px 40px}
+  .top-in{padding:6px 10px;gap:8px}
+  .marque .logo img{height:28px}
+  .marque b{font-size:14px;line-height:1.2}
+  .marque .txt span{display:none}
+  .top nav a{padding:6px 9px;font-size:13px}
+  .fil{font-size:13px;margin-bottom:8px}
+  /* Accueil */
+  .banniere{margin:-10px -10px 10px;border-radius:0 0 16px 16px}
+  .hero-ligne{gap:8px;margin-bottom:10px}
+  .hero-ligne h1{font-size:19px}
+  .hero-ligne p{font-size:13.5px}
+  .hero-ligne .recherche{flex:1 1 100%;margin-left:0;min-width:0}
+  .grille.tuiles{grid-template-columns:repeat(3,1fr);gap:8px}
+  .tuile{padding:8px 4px}
+  .tuile img,.tuile .ini{width:62px;height:62px}
+  .tuile b{font-size:12.5px}
+  /* Page activité */
+  .cadre-sport{border-radius:16px;padding:6px}
+  .hub{padding:10px;gap:10px;border-radius:12px}
+  .hub .centre{gap:6px}
+  .hub .centre .logo-hub{max-height:46px}
+  .hub .centre .etape-img{width:100%}
+  .hub .nom-sport img,.hub .nom-sport.long img{width:56px}
+  .hub .nom-sport h1,.hub .nom-sport.long h1{font-size:24px}
+  .retour-rond{width:32px;height:32px;font-size:17px;top:8px;left:8px}
+  .etape-img .nb{font-size:11px;padding:2px 7px;bottom:6px;right:6px}
+  /* Page étape */
+  .tete-etape{gap:10px;padding:8px}
+  .tete-etape img.ill{width:64px}
+  .tete-etape h1{font-size:19px}
+  .tete-etape p{font-size:13.5px}
+  .tete-etape .icone-sport{width:36px;height:36px}
+  .items{grid-template-columns:1fr;padding:8px}
+  .nav-etapes{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .nav-etapes .btn.prim{grid-column:1/-1;justify-content:center}
+  .btn-etape{font-size:13px;padding:4px 8px 4px 4px}
+  .btn-etape img{width:30px;height:30px}
+  /* Quiz */
+  .quiz-tete{padding:12px}
+  .q{padding:12px}
+  .q p{font-size:15.5px}
+  .choix button{min-width:0;padding:12px 6px}
+  .score{top:50px;padding:8px 10px;font-size:14px}
+  /* Visionneuse plein écran */
+  dialog.vision{width:100vw;height:100dvh;max-width:none;max-height:none;border-radius:0;margin:0}
+  .vision-bar h2{font-size:14px}
+}
+/* Smartphone portrait : nom de l'activité en haut, puis les étapes 1 à 5 dans l'ordre */
+@media (max-width:600px){
+  .hub{grid-template-columns:1fr 1fr}
+  .hub .centre{display:contents}
+  .hub .centre .logo-hub{grid-column:1/-1;justify-self:center;order:0}
+  .hub .nom-sport{grid-column:1/-1;order:1;margin-bottom:2px}
+  .hub .etape-img.n1{order:2}.hub .etape-img.n2{order:3}
+  .hub .etape-img.n3{order:4;grid-column:1/-1;justify-self:center;width:78%}
+  .hub .etape-img.n4{order:5}.hub .etape-img.n5{order:6}
+  .hub .etape-img img{width:100%;max-height:none}
+  .score .barre{order:3;flex-basis:100%}
+}

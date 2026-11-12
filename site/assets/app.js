@@ -52,7 +52,7 @@
       const direct = n === 1 && items[0].type !== 'quiz' && urlIntegree(items[0]);
       const href = !n ? '' : direct ? '' : `href="#/s/${esc(s.id)}/${e.cle}"`;
       const tag = n && !direct ? 'a' : 'button';
-      return `<${tag} class="etape-img${n ? '' : ' vide'}" ${href} ${direct ? `data-direct="${e.cle}"` : ''} ${!n ? 'aria-disabled="true" disabled style="border:0;padding:0;cursor:default"' : tag === 'button' ? 'style="border:0;padding:0;cursor:pointer"' : ''} aria-label="Étape ${e.num} : ${esc(e.titre)} (${label})">
+      return `<${tag} class="etape-img n${e.num}${n ? '' : ' vide'}" ${href} ${direct ? `data-direct="${e.cle}"` : ''} ${!n ? 'aria-disabled="true" disabled style="border:0;padding:0;cursor:default"' : tag === 'button' ? 'style="border:0;padding:0;cursor:pointer"' : ''} aria-label="Étape ${e.num} : ${esc(e.titre)} (${label})">
         <img src="${esc((!n && e.imageVide) || e.image || '')}" alt="Étape ${e.num} — ${esc(e.titre)}"${!n && e.imageVide ? ' style="filter:none;opacity:1"' : ''}>${!n && e.imageVide ? '' : `<span class="nb">${label}</span>`}</${tag}>`;
     };
     app.innerHTML = `
