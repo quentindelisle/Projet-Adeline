@@ -844,17 +844,17 @@
    ],
    "regles": [
     {
-     "titre": " Juge de Voie  ",
+     "titre": "POSTE 1 / 3 – Juge de Voie — Difficulté",
      "url": "https://docs.google.com/document/d/e/2PACX-1vS0IRY5yulDLQb8LDkeT6vq1ij2Uh4ihFgOaZtAc6yUH0vSXmqLF7N7V6HOU_Nn7w/pub?embedded=true",
      "type": "doc"
     },
     {
-     "titre": " Juge de Bloc",
+     "titre": "POSTE 2 / 3 – Juge de Bloc",
      "url": "https://docs.google.com/document/d/e/2PACX-1vR1Ny9sYWdWXllYaO2D_EJU0C0p0Ai_yC2VmnRnzL_QVfb9B9GL8A7poJXY5tmSRA/pub?embedded=true",
      "type": "doc"
     },
     {
-     "titre": " Juge de Vitesse",
+     "titre": "POSTE 3 / 3 – Juge de Vitesse",
      "url": "https://docs.google.com/document/d/e/2PACX-1vQuzsbINUkxK_NAjeJ1zPjULfYks0cbkCei-OpwXWt0-EA4nkGr6JUf7z_eQcRRAQ/pub?embedded=true",
      "type": "doc"
     }
@@ -869,11 +869,6 @@
      "titre": "Bloc",
      "type": "quiz",
      "quiz": "escalade-2"
-    },
-    {
-     "titre": "",
-     "type": "lien",
-     "url": ""
     }
    ],
    "construction": [
@@ -2771,7 +2766,7 @@
  ],
  "version": 1,
  "notes": {
-  "defaut": "Bienvenue sur le nouveau site des formations Jeune Juge / Jeune Arbitre !\n\nCe site est actuellement en phase d’expérimentation. Des erreurs peuvent subsister. Si vous en constatez, merci de nous les signaler à l’adresse suivante : srunss@unss.org.\n\nMerci pour vos retours, qui nous aideront à améliorer cet outil.\n",
+  "defaut": "Bienvenue sur le nouveau site des formations Jeune Juge / Jeune Arbitre !\n\nCe site est actuellement en phase d’expérimentation. Des erreurs peuvent subsister. Si vous en constatez, merci de nous les signaler à l’adresse suivante : srunss@unss.org.\n\nMerci pour vos retours, qui nous aideront à améliorer cet outil!\n",
   "s/futsal": "**Nouveau** : une vidéo d'arbitrage commentée est disponible dans « Regarder une situation d'arbitrage »."
  }
 }
