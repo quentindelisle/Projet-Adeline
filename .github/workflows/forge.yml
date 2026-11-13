@@ -5,19 +5,24 @@
 # Réglage à faire une seule fois sur GitHub :
 #   Settings › Secrets and variables › Actions › New repository secret
 #   Nom : FORGE_TOKEN   Valeur : un jeton de la Forge avec la portée write_repository
-# Si ton projet Forge n'est pas UNSS/JA, change la ligne FORGE_PROJET ci-dessous.
+# Si ton projet Forge n'est pas unssnantes/JA, change la ligne FORGE_PROJET ci-dessous.
 name: Copier sur la Forge
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      ecraser:
+        description: "Remplacer entièrement le contenu de la Forge par celui de GitHub (à utiliser une seule fois si les deux dépôts ont divergé)"
+        type: boolean
+        default: false
 
 jobs:
   copier:
     runs-on: ubuntu-latest
     env:
-      FORGE_PROJET: UNSS/JA
+      FORGE_PROJET: unssnantes/JA
     steps:
       - uses: actions/checkout@v5
         with:
@@ -27,4 +32,7 @@ jobs:
           FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
         run: |
           if [ -z "$FORGE_TOKEN" ]; then echo "::error::Secret FORGE_TOKEN manquant (Settings › Secrets and variables › Actions)"; exit 1; fi
-          git push "https://oauth2:${FORGE_TOKEN}@forge.apps.education.fr/${FORGE_PROJET}.git" HEAD:main
+          OPT=""
+          if [ "${{ inputs.ecraser }}" = "true" ]; then OPT="--force"; echo "Mode : remplacement complet de la Forge"; fi
+          git push $OPT "https://oauth2:${FORGE_TOKEN}@forge.apps.education.fr/${FORGE_PROJET}.git" HEAD:main 2>&1 | sed "s/${FORGE_TOKEN}/***/g"
+          exit ${PIPESTATUS[0]}
