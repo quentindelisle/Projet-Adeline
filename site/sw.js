@@ -2,7 +2,7 @@
    - pages, scripts, styles et données : réseau d'abord (toujours à jour), copie en cache si pas de réseau ;
    - images et police : cache d'abord (elles changent rarement).
    Les documents Google, vidéos et sessions externes nécessitent toujours une connexion. */
-const CACHE = 'jajj-v2';
+const CACHE = 'jajj-v3';
 const SOCLE = [
   './', 'index.html', 'manifest.webmanifest',
   'assets/app.css', 'assets/commun.js', 'assets/app.js',

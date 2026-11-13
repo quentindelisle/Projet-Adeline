@@ -560,3 +560,8 @@ footer.pied a{color:inherit}
 a:focus-visible,button:focus-visible,.tuile:focus-visible,.etape-img:focus-visible{outline:4px solid #ffbf47;outline-offset:3px}
 .sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+/* ===== Bandeau v4 (moins haut, format 4:1) : le post-it prend toute la largeur restante ===== */
+.entete .banniere{width:min(100%,calc(26vh * 4.07))}
+.entete.avec-note .banniere{width:min(calc(100% - 300px),calc(26vh * 4.07))}
+@media (orientation:portrait) and (max-width:1100px){.entete.avec-note .banniere{width:100%}}
