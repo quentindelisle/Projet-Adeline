@@ -496,3 +496,67 @@ body.accueil footer.pied{display:none}
   .postit{margin:0;min-width:0}
   .hub.hub-6 .etape-img.n5,.hub.hub-6 .etape-img.n6{grid-column:auto;width:100%;justify-self:stretch;align-self:start}
 }
+
+/* ===== Progression de l'élève ===== */
+.tuile{position:relative}
+.tuile .avance{position:absolute;left:12%;right:12%;bottom:7px;height:5px;border-radius:9px;background:rgba(22,53,159,.15);overflow:hidden}
+.tuile .avance i{display:block;height:100%;background:#089f3b;border-radius:9px}
+.etape-img{position:relative}
+.etape-img .coche{position:absolute;top:8px;right:8px;min-width:34px;height:34px;padding:0 8px;border-radius:999px;background:#078a33;color:#fff;font-weight:900;font-size:18px;display:grid;place-items:center;box-shadow:0 2px 6px rgba(0,0,0,.3);border:2px solid #fff;font-family:'Nunito',system-ui,sans-serif}
+.etape-img .coche.partiel{background:#fff;color:#16359f;border-color:#16359f;font-size:14px}
+.item{position:relative}
+.item .vu{display:none;margin-left:auto;width:24px;height:24px;border-radius:50%;background:#078a33;color:#fff;font-size:13px;font-weight:900;place-items:center;flex:none}
+.item.fait .vu{display:grid}
+.item.fait{border-color:#9fd3b0}
+.item .score-item{margin-left:auto;flex:none;font-weight:800;font-size:13px;padding:3px 9px;border-radius:999px;background:#e5f4ea;color:#06622a;font-family:'Nunito',system-ui,sans-serif}
+.item.certif{background:linear-gradient(135deg,#fff7d6,#fff);border:2px solid #4f1f96;grid-column:1/-1}
+.item.certif .t{font-size:17px;font-weight:900;color:#4f1f96}
+.item .ico.certif{background:#4f1f96}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .item.certif{background:linear-gradient(135deg,#2c2240,var(--carte))}:root:not([data-theme=light]) .item.certif .t{color:#cdb8ff}}
+
+/* ===== Certification blanche ===== */
+.examen-barre{position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.examen-barre .barre{flex:1;min-width:120px}
+.examen-barre #chrono{font-variant-numeric:tabular-nums;font-size:18px}
+.examen-barre.urgent #chrono{color:#d60a3d}
+#examen fieldset.q{border:1px solid var(--bord);margin:0 0 10px;min-width:0}
+#examen fieldset.q legend{float:left;margin-right:10px}
+#examen fieldset.q > p{margin:0 0 10px;overflow:hidden}
+.choix-radio{display:flex;gap:8px;clear:both}
+.choix-radio label{flex:1;position:relative}
+.choix-radio input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
+.choix-radio span{display:block;text-align:center;padding:10px;border-radius:10px;border:2px solid var(--bord);font-weight:800;background:var(--carte)}
+.choix-radio input:checked + span{border-color:#16359f;background:#16359f;color:#fff}
+.choix-radio input:focus-visible + span{outline:3px solid #ffbf47;outline-offset:2px}
+#examen fieldset.juste{border-color:#078a33}
+#examen fieldset.faux{border-color:#d60a3d}
+.bilan.ko{border-color:#d60a3d}.bilan.ko .gros{color:#d60a3d}
+.attest-form{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;align-items:end;margin:14px 0}
+.attest-form label{display:grid;gap:4px;font-size:13px;font-weight:700;text-align:left}
+.attest-form input{font:inherit;padding:8px 10px;border:1px solid var(--bord);border-radius:9px;min-width:220px}
+.attestation{display:none}
+@media print{
+  body.impression > *:not(main){display:none!important}
+  body.impression main > *:not(.attestation){display:none!important}
+  body.impression .attestation{display:block!important;text-align:center;border:6px double #16359f;padding:40px;margin:20px;font-family:'Nunito',system-ui,sans-serif}
+  .attestation > img{width:200px}
+  .attestation h2{color:#16359f;font-size:30px}
+  .attestation .at-sport{font-size:24px;font-weight:900;color:#16359f;display:flex;align-items:center;justify-content:center;gap:10px}
+  .attestation .at-sport img{width:60px}
+  .attestation .at-note{font-size:12px;color:#555;margin-top:30px}
+}
+
+/* ===== Pages texte (mentions) et pied ===== */
+.page-texte{max-width:820px;background:var(--carte);border:1px solid var(--bord);border-radius:var(--r);padding:20px clamp(16px,3vw,36px);margin:0 auto 20px;line-height:1.55}
+.page-texte h1{color:#16359f;font-family:'Nunito',system-ui,sans-serif}
+.page-texte h2{font-size:18px;margin:22px 0 6px;color:#16359f}
+.page-texte a{color:#16359f}
+footer.pied a{color:inherit}
+
+/* ===== Accessibilité ===== */
+.evitement{position:absolute;left:8px;top:-60px;z-index:100;background:#16359f;color:#fff;padding:10px 14px;border-radius:0 0 10px 10px;font-weight:700}
+.evitement:focus{top:0}
+.btn-etape.e3{--c:#078a33}.btn-etape.e4{--c:#d14f04}.btn-etape.e6{--c:#027a9b}
+a:focus-visible,button:focus-visible,.tuile:focus-visible,.etape-img:focus-visible{outline:4px solid #ffbf47;outline-offset:3px}
+.sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

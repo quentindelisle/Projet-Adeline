@@ -130,3 +130,15 @@ Si un fichier de données est mal formé, la publication s'arrête (onglet *Acti
 - **Sessions Wayground** (`join?gc=…`) : ces codes expirent à la fin de chaque session. Il vaut mieux les remplacer par des liens permanents, ou par des quiz Valable/Faute.
 - **Liens SharePoint personnels** : ils demandent une connexion UNSS. Il vaut mieux les publier en Google Sheets, ou les déposer dans le projet.
 - **Activités sans contenu** (Gym acro, Danse hip-hop, Danse chorégraphiée, Judo, Tir à l'arc) : elles s'affichent « Bientôt disponible ».
+
+## Nouveautés (novembre 2026)
+
+- **Certification blanche** : à l'étape 5 de chaque activité, un examen d'entraînement chronométré est généré à partir des quiz Valable / Faute de l'activité (réglages : nombre de questions, durée, seuil, dans « Réglages généraux »). Il remplace les sessions Wayground qui expirent (masquées aux élèves par défaut). Les élèves qui réussissent peuvent imprimer une attestation d'entraînement.
+- **Progression de l'élève** : étapes vues, meilleurs scores et barre d'avancement par activité, enregistrés uniquement dans le navigateur (aucun compte, aucun cookie). Effaçable depuis la page « Mentions légales ».
+- **Application installable et hors connexion** (`manifest.webmanifest`, `sw.js`) : depuis le téléphone, « Ajouter à l'écran d'accueil ». Les quiz d'une activité déjà ouverte restent disponibles sans réseau.
+- **Espace gestion** :
+  - « Déposer… » pour téléverser une icône d'activité ou une illustration d'étape (réduite et convertie automatiquement, publiée dans `site/assets/televerse/`) ;
+  - « Historique » pour voir les publications et restaurer une ancienne version des contenus ;
+  - « Affiches QR code » pour imprimer une affiche par activité (A4, A6 ou étiquettes) ou la télécharger en PNG ;
+  - mentions légales, crédits et licence modifiables ; statistiques Matomo sans cookie (facultatif, adresse et numéro de site à demander au service numérique académique).
+- **Accessibilité** : lien d'évitement, contrastes renforcés, focus visible, animations réduites si l'appareil le demande.

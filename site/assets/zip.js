@@ -6,7 +6,7 @@ const ZipMini = (() => {
     const enc = new TextEncoder(), parts = [], central = [];
     let offset = 0;
     for (const f of fichiers) {
-      const nom = enc.encode(f.nom), data = enc.encode(f.texte), crc = crc32(data);
+      const nom = enc.encode(f.nom), data = f.octets || enc.encode(f.texte), crc = crc32(data);
       const h = new DataView(new ArrayBuffer(30));
       h.setUint32(0, 0x04034b50, true); h.setUint16(4, 20, true); h.setUint16(6, 0x0800, true);
       h.setUint32(14, crc, true); h.setUint32(18, data.length, true); h.setUint32(22, data.length, true); h.setUint16(26, nom.length, true);

@@ -1,0 +1,15 @@
+{
+  "name": "Jeune Officiel UNSS — Académie de Nantes",
+  "short_name": "Jeune Officiel",
+  "description": "Parcours de formation des jeunes juges et jeunes arbitres UNSS.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16359f",
+  "icons": [
+    { "src": "assets/app-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/app-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

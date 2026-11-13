@@ -9,13 +9,16 @@
   let D = null, ORIG = '';            // données du site et version publiée (texte)
   const QZ = {}, QZ_ORIG = {};        // quiz chargés / version publiée (texte, null si nouveau)
   const SUPPR = new Set();            // quiz publiés à supprimer
+  const IMG = {};                     // images téléversées en attente : chemin -> { b64, url }
   let vue = { type: 'general' };
 
   /* ---------- Outils ---------- */
   const sport = id => D.sports.find(s => s.id === id);
   const quizDuSport = id => Object.values(QZ).filter(q => q.sport === id);
   const quizModifies = () => Object.keys(QZ).filter(id => JSON.stringify(QZ[id]) !== QZ_ORIG[id]);
-  const estModifie = () => JSON.stringify(D) !== ORIG || quizModifies().length > 0 || SUPPR.size > 0;
+  const estModifie = () => JSON.stringify(D) !== ORIG || quizModifies().length > 0 || SUPPR.size > 0 || Object.keys(IMG).length > 0;
+  /* Affichage d'une image dans l'espace gestion (y compris celles pas encore publiées) */
+  const srcImg = chemin => (IMG[chemin] && IMG[chemin].url) || chemin;
   const today = () => new Date().toISOString().slice(0, 10);
   function telecharger(nom, blob) {
     const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nom;
@@ -56,7 +59,7 @@
   function sauverBrouillon() {
     const quiz = {}; quizModifies().forEach(id => { quiz[id] = QZ[id]; });
     try {
-      if (estModifie()) localStorage.setItem(JAJJ.CLE_BROUILLON, JSON.stringify({ ts: Date.now(), data: D, quiz, suppr: [...SUPPR] }));
+      if (estModifie()) localStorage.setItem(JAJJ.CLE_BROUILLON, JSON.stringify({ ts: Date.now(), data: D, quiz, suppr: [...SUPPR], img: IMG }));
       else localStorage.removeItem(JAJJ.CLE_BROUILLON);
     } catch (e) { console.warn('Brouillon non enregistré', e); }
   }
@@ -85,6 +88,7 @@
         if (x === 'reprendre') {
           D = b.data; Object.entries(b.quiz || {}).forEach(([id, q]) => { QZ[id] = q; if (!(id in QZ_ORIG)) QZ_ORIG[id] = null; });
           (b.suppr || []).forEach(id => { SUPPR.add(id); delete QZ[id]; });
+          Object.assign(IMG, b.img || {});
         } else { try { localStorage.removeItem(JAJJ.CLE_BROUILLON); } catch (e) {} }
         afficher(); majEtat();
       });
@@ -113,8 +117,42 @@
     if (vue.type === 'sport' && sport(vue.id)) renderSport(sport(vue.id));
     else if (vue.type === 'quiz' && QZ[vue.id]) renderQuiz(QZ[vue.id]);
     else if (vue.type === 'qualite') renderQualite();
+    else if (vue.type === 'affiches') renderAffiches();
     else { vue = { type: 'general' }; renderGeneral(); }
     renderCote();
+  }
+
+  /* ---------- Téléversement d'images (icônes, illustrations) ---------- */
+  /* L'image est réduite dans le navigateur, convertie en WebP, puis publiée avec les autres modifications. */
+  function choisirImage(taille, nomBase) {
+    return new Promise(ok => {
+      const inp = document.createElement('input'); inp.type = 'file'; inp.accept = 'image/png,image/jpeg,image/webp,image/gif,image/svg+xml';
+      inp.onchange = async () => {
+        const f = inp.files[0]; if (!f) return ok(null);
+        try {
+          const url = URL.createObjectURL(f);
+          const img = await new Promise((r, k) => { const i = new Image(); i.onload = () => r(i); i.onerror = k; i.src = url; });
+          const ech = Math.min(1, taille / Math.max(img.naturalWidth || taille, img.naturalHeight || taille));
+          const c = document.createElement('canvas');
+          c.width = Math.round((img.naturalWidth || taille) * ech); c.height = Math.round((img.naturalHeight || taille) * ech);
+          c.getContext('2d').drawImage(img, 0, 0, c.width, c.height);
+          URL.revokeObjectURL(url);
+          let donnees = c.toDataURL('image/webp', 0.86);
+          let ext = 'webp';
+          if (!donnees.startsWith('data:image/webp')) { donnees = c.toDataURL('image/png'); ext = 'png'; }
+          const chemin = `assets/televerse/${slug(nomBase || f.name.replace(/\.\w+$/, '')) || 'image'}-${Date.now().toString(36)}.${ext}`;
+          IMG[chemin] = { b64: donnees.split(',')[1], url: donnees };
+          if (IMG[chemin].b64.length > 1.4e6) { delete IMG[chemin]; alert('Image trop lourde même après réduction.'); return ok(null); }
+          ok(chemin);
+        } catch (e) { alert('Image illisible : ' + e.message); ok(null); }
+      };
+      inp.click();
+    });
+  }
+  /* retire les images en attente qui ne sont plus utilisées */
+  function nettoyerImages() {
+    const txt = JSON.stringify(D);
+    Object.keys(IMG).forEach(k => { if (!txt.includes(k)) delete IMG[k]; });
   }
 
   /* ---------- Notes du SR (post-it, une par page) ---------- */
@@ -149,14 +187,48 @@
       <div class="bloc"><h2>Les étapes du parcours</h2>
         ${D.etapes.map((e, i) => `<div class="ligne"><div class="champ" style="flex:.8"><label>Étape ${e.num} — titre</label><input data-etape="${i}" data-c="titre" value="${esc(e.titre)}"></div>
           <div class="champ"><label>Description</label><input data-etape="${i}" data-c="desc" value="${esc(e.desc || '')}"></div>
-          <div class="champ" style="flex:.8"><label>Illustration</label><div style="display:flex;gap:8px;align-items:center">${e.image ? `<img src="${esc(e.image)}" alt="" style="width:46px;height:46px;object-fit:cover;border-radius:8px">` : ''}
-            <select data-etape-img="${i}">${JAJJ.IMAGES_ETAPES.map(f => `<option value="assets/etapes/${esc(f)}"${'assets/etapes/' + f === e.image ? ' selected' : ''}>${esc(f.replace(/\.\w+$/, ''))}</option>`).join('')}</select></div></div></div>`).join('')}
+          <div class="champ" style="flex:.8"><label>Illustration</label><div style="display:flex;gap:8px;align-items:center">${e.image ? `<img src="${esc(srcImg(e.image))}" alt="" style="width:46px;height:46px;object-fit:cover;border-radius:8px">` : ''}
+            <select data-etape-img="${i}">${JAJJ.IMAGES_ETAPES.map(f => `<option value="assets/etapes/${esc(f)}"${'assets/etapes/' + f === e.image ? ' selected' : ''}>${esc(f.replace(/\.\w+$/, ''))}</option>`).join('')}${e.image && !e.image.startsWith('assets/etapes/') ? `<option value="${esc(e.image)}" selected>Image déposée</option>` : ''}</select>
+            <button class="btn petit" data-etape-up="${i}" title="Déposer une image depuis l'ordinateur" style="flex:none">Déposer…</button></div></div></div>`).join('')}
+      </div>
+      <div class="bloc"><h2>Certification blanche (remplace les sessions Wayground)</h2>
+        <p class="a-aide" style="margin:0 0 8px">À l'étape 5 de chaque activité, un examen d'entraînement est créé automatiquement : les questions sont tirées au hasard dans les quiz Valable / Faute de l'activité, avec un chronomètre et la correction à la fin. Les élèves qui réussissent peuvent imprimer une attestation d'entraînement.</p>
+        <div class="ligne">
+          <div class="champ" style="flex:.7"><label for="c-actif">Examen blanc</label><select id="c-actif" data-cert="actif"><option value="1"${D.certification?.actif !== false ? ' selected' : ''}>Activé</option><option value="0"${D.certification?.actif === false ? ' selected' : ''}>Désactivé</option></select></div>
+          <div class="champ" style="flex:.5"><label for="c-q">Nombre de questions</label><input id="c-q" type="number" min="5" max="100" data-cert="questions" value="${esc(D.certification?.questions ?? 30)}"></div>
+          <div class="champ" style="flex:.5"><label for="c-m">Durée (minutes)</label><input id="c-m" type="number" min="1" max="120" data-cert="minutes" value="${esc(D.certification?.minutes ?? 20)}"></div>
+          <div class="champ" style="flex:.5"><label for="c-s">Seuil de réussite (%)</label><input id="c-s" type="number" min="10" max="100" data-cert="seuil" value="${esc(D.certification?.seuil ?? 80)}"></div>
+          <div class="champ"><label for="c-w">Anciennes sessions Wayground</label><select id="c-w" data-cert="garderWayground"><option value="0"${!D.certification?.garderWayground ? ' selected' : ''}>Masquées aux élèves</option><option value="1"${D.certification?.garderWayground ? ' selected' : ''}>Affichées sous l'examen blanc</option></select></div>
+        </div>
+      </div>
+      <div class="bloc"><h2>Mentions légales, crédits et licence</h2>
+        <p class="a-aide" style="margin:0 0 8px">Affichés sur la page « Mentions légales et crédits » (lien en bas des pages). La rubrique « Données personnelles » est rédigée automatiquement.</p>
+        ${[['editeur', 'Éditeur du site'], ['auteurs', 'Conception des contenus (autrice / auteurs)'], ['realisation', 'Réalisation du site'], ['hebergement', 'Hébergement'], ['licence', 'Licence (texte complet)'], ['licenceCourte', 'Licence (texte court, en bas des pages)'], ['accessibilite', 'Accessibilité'], ['illustrations', 'Crédits des icônes et illustrations']]
+          .map(([k, l]) => `<div class="champ"><label for="m-${k}">${esc(l)}</label>${k === 'licenceCourte' ? `<input id="m-${k}" data-ment="${k}" value="${esc(D.mentions?.[k] || '')}">` : `<textarea id="m-${k}" data-ment="${k}" rows="2">${esc(D.mentions?.[k] || '')}</textarea>`}</div>`).join('')}
+      </div>
+      <div class="bloc"><h2>Statistiques de visite (facultatif)</h2>
+        <p class="a-aide" style="margin:0 0 8px">Mesure d'audience anonyme <b>sans cookie</b> avec Matomo, compatible RGPD sans bandeau de consentement. Il faut disposer d'une instance Matomo (à demander à la DRANE ou au service numérique académique) et y déclarer le site. Laisse vide pour ne rien mesurer.</p>
+        <div class="ligne"><div class="champ"><label for="st-url">Adresse de Matomo</label><input id="st-url" type="url" data-stat="url" value="${esc(D.stats?.url || '')}" placeholder="ex. : https://matomo.exemple.fr/"></div>
+        <div class="champ" style="flex:.4"><label for="st-id">Numéro du site</label><input id="st-id" data-stat="site" value="${esc(D.stats?.site || '')}" placeholder="ex. : 12"></div></div>
       </div>
       <div class="note">Astuce : le bouton <b>Aperçu</b> montre le site avec tes modifications avant de les publier. Le bouton <b>Contrôle qualité</b> liste les liens cassés, en double ou incomplets.</div>`;
     ed.querySelectorAll('[data-g]').forEach(i => i.addEventListener('input', () => { D[i.dataset.g] = i.value; modifie(); }));
     brancherNotes();
     ed.querySelectorAll('[data-etape]').forEach(i => i.addEventListener('input', () => { D.etapes[+i.dataset.etape][i.dataset.c] = i.value; modifie(); }));
-    ed.querySelectorAll('[data-etape-img]').forEach(i => i.addEventListener('change', () => { D.etapes[+i.dataset.etapeImg].image = i.value; modifie(); renderGeneral(); }));
+    ed.querySelectorAll('[data-etape-img]').forEach(i => i.addEventListener('change', () => { D.etapes[+i.dataset.etapeImg].image = i.value; nettoyerImages(); modifie(); renderGeneral(); }));
+    ed.querySelectorAll('[data-etape-up]').forEach(b => b.addEventListener('click', async () => {
+      const e = D.etapes[+b.dataset.etapeUp];
+      const ch = await choisirImage(900, 'etape-' + e.num); if (!ch) return;
+      e.image = ch; nettoyerImages(); modifie(); renderGeneral();
+    }));
+    ed.querySelectorAll('[data-cert]').forEach(i => i.addEventListener('input', () => {
+      const c = D.certification = D.certification || {};
+      const k = i.dataset.cert;
+      c[k] = (k === 'actif') ? i.value === '1' : k === 'garderWayground' ? i.value === '1' : Math.max(1, parseInt(i.value, 10) || 0);
+      modifie();
+    }));
+    ed.querySelectorAll('[data-ment]').forEach(i => i.addEventListener('input', () => { (D.mentions = D.mentions || {})[i.dataset.ment] = i.value; modifie(); }));
+    ed.querySelectorAll('[data-stat]').forEach(i => i.addEventListener('input', () => { (D.stats = D.stats || {})[i.dataset.stat] = i.value.trim(); modifie(); }));
   }
 
   /* ---------- Édition d'une activité ---------- */
@@ -166,7 +238,7 @@
     if (it.type === 'quiz' && !QZ[it.quiz]) m.push(['ko', 'Quiz introuvable : choisis-en un ou crée-le.']);
     if (it.type !== 'quiz' && !it.url) m.push(['ko', 'Lien manquant.']);
     if (['doc', 'slides', 'sheet'].includes(it.type) && it.url && !/\/d\/e\/|\/pub/.test(it.url)) m.push(['av', 'Ce document Google ne semble pas « publié sur le web » : il ne s\'affichera pas pour les élèves. Dans Google : Fichier › Partager › Publier sur le web, puis colle le lien obtenu.']);
-    if (it.type === 'wayground' && /join\?gc=/.test(it.url || '')) m.push(['av', 'Code de session Wayground : il cessera de fonctionner quand la session sera terminée. Préfère un lien de quiz permanent ou un quiz Valable/Faute.']);
+    if (it.type === 'wayground' && /join\?gc=/.test(it.url || '')) m.push(['av', 'Code de session Wayground : il cessera de fonctionner quand la session sera terminée. Elle est désormais masquée aux élèves : la certification blanche du site la remplace (réglage dans « Réglages généraux »).']);
     if (it.type === 'sharepoint' || /sharepoint\.com\/.*personal/.test(it.url || '')) m.push(['av', 'Lien vers un espace OneDrive personnel : il demandera sans doute une connexion aux élèves.']);
     if (/sans titre|^Ressource \d+$|^Session Wayground \d+$/i.test(it.titre || '')) m.push(['av', 'Titre peu parlant : renomme-le pour les élèves.']);
     return m;
@@ -182,8 +254,9 @@
         <div style="flex:0 0 auto"><button class="btn dang" id="s-suppr">Supprimer l'activité</button></div>
       </div>
       <div class="champ"><label for="s-icone">Icône de la tuile</label>
-        <div style="display:flex;gap:10px;align-items:center">${s.icone ? `<img src="assets/icones/${esc(s.icone)}.png" alt="" style="width:46px;height:46px">` : ''}
-        <select id="s-icone"><option value="">— initiales —</option>${JAJJ.ICONES.map(n => `<option value="${esc(n)}"${n === s.icone ? ' selected' : ''}>${esc(n.replace(/^CA\d-/, '').replace(/-/g, ' '))} (${esc(n.slice(0, 3))})</option>`).join('')}</select></div></div>
+        <div style="display:flex;gap:10px;align-items:center">${s.icone ? `<img src="${esc(srcImg(JAJJ.cheminIcone(s.icone)))}" alt="" style="width:46px;height:46px;object-fit:contain">` : ''}
+        <select id="s-icone"><option value="">— initiales —</option>${s.icone && s.icone.includes('/') ? `<option value="${esc(s.icone)}" selected>Image déposée</option>` : ''}${JAJJ.ICONES.map(n => `<option value="${esc(n)}"${n === s.icone ? ' selected' : ''}>${esc(n.replace(/^CA\d-/, '').replace(/-/g, ' '))} (${esc(n.slice(0, 3))})</option>`).join('')}</select>
+        <button class="btn petit" id="s-icone-up" style="flex:none" title="Image carrée conseillée, fond transparent (PNG)">Déposer une icône…</button></div></div>
       </div>
       <div class="bloc">${champNote('s/' + s.id, "Note du SR — page de l'activité " + s.nom)}</div>
       ${D.etapes.map(e => blocEtapeEd(s, e)).join('')}`;
@@ -192,7 +265,11 @@
     ed.querySelector('#s-nom').addEventListener('input', e => { s.nom = e.target.value; modifie(); });
     ed.querySelector('#s-nom').addEventListener('change', () => renderCote());
     ed.querySelector('#s-actif').addEventListener('change', e => { s.actif = e.target.value === '1'; modifie(); });
-    ed.querySelector('#s-icone').addEventListener('change', e => { s.icone = e.target.value; modifie(); renderSport(s); });
+    ed.querySelector('#s-icone').addEventListener('change', e => { s.icone = e.target.value; nettoyerImages(); modifie(); renderSport(s); });
+    ed.querySelector('#s-icone-up').addEventListener('click', async () => {
+      const ch = await choisirImage(512, 'icone-' + s.id); if (!ch) return;
+      s.icone = ch; nettoyerImages(); modifie(); renderSport(s);
+    });
     ed.querySelector('#s-suppr').onclick = () => {
       ouvrirDlg(`<h2>Supprimer « ${esc(s.nom)} » ?</h2><p>L'activité et ses liens seront retirés du site à la prochaine publication. Ses quiz seront aussi supprimés (${quizDuSport(s.id).length}).</p>
         <div class="pied-dlg"><button class="btn" data-x="non">Annuler</button><button class="btn prim" data-x="oui" style="background:var(--rouge);border-color:var(--rouge)">Supprimer</button></div>`, x => {
@@ -490,6 +567,8 @@
     if (data || quizModifies().length || SUPPR.size) { D.maj = today(); f.push({ chemin: 'site/data/data.json', action: 'update', texte: JSON.stringify(D, null, 1) + '\n' }); }
     quizModifies().forEach(id => f.push({ chemin: `site/data/quiz/${id}.json`, action: QZ_ORIG[id] ? 'update' : 'create', texte: JSON.stringify(QZ[id], null, 1) + '\n' }));
     SUPPR.forEach(id => f.push({ chemin: `site/data/quiz/${id}.json`, action: 'delete' }));
+    nettoyerImages();
+    Object.entries(IMG).forEach(([chemin, im]) => f.push({ chemin: 'site/' + chemin, action: 'create', b64: im.b64 }));
     return f;
   }
   document.getElementById('b-export').addEventListener('click', () => {
@@ -497,8 +576,10 @@
     let f;
     if (tous) f = [{ chemin: 'site/data/data.json', texte: JSON.stringify(D, null, 1) + '\n' }, ...Object.values(QZ).map(q => ({ chemin: `site/data/quiz/${q.id}.json`, texte: JSON.stringify(q, null, 1) + '\n' }))];
     else f = fichiersModifies().filter(x => x.action !== 'delete');
+    if (tous) Object.entries(IMG).forEach(([chemin, im]) => f.push({ chemin: 'site/' + chemin, b64: im.b64 }));
     if (!f.length) return alert('Aucune modification à télécharger.');
-    telecharger('donnees-jajj-' + today() + '.zip', ZipMini.creer(f.map(x => ({ nom: x.chemin.replace(/^site\//, ''), texte: x.texte }))));
+    const octets = b64 => Uint8Array.from(atob(b64), c => c.charCodeAt(0));
+    telecharger('donnees-jajj-' + today() + '.zip', ZipMini.creer(f.map(x => ({ nom: x.chemin.replace(/^site\//, ''), texte: x.texte, octets: x.b64 ? octets(x.b64) : null }))));
   });
   document.getElementById('f-import').addEventListener('change', async e => {
     const fic = e.target.files[0]; if (!fic) return;
@@ -525,8 +606,20 @@
         const niv = Math.max(j.permissions?.project_access?.access_level || 0, j.permissions?.group_access?.access_level || 0);
         return { nom: j.name_with_namespace, peutEcrire: niv >= 30, role: 'au moins « Développeur »' };
       },
+      async historique(v) {
+        const r = await fetch(`${v.forge}/api/v4/projects/${encodeURIComponent(v.projet)}/repository/commits?path=site/data/data.json&ref_name=${encodeURIComponent(v.branche)}&per_page=40`, { headers: { 'PRIVATE-TOKEN': v.jeton } });
+        if (!r.ok) throw new Error('historique illisible (' + r.status + ')');
+        return (await r.json()).map(c => ({ sha: c.id, message: c.title, auteur: c.author_name, date: c.created_at }));
+      },
+      async version(v, sha) {
+        const r = await fetch(`${v.forge}/api/v4/projects/${encodeURIComponent(v.projet)}/repository/files/${encodeURIComponent('site/data/data.json')}/raw?ref=${sha}`, { headers: { 'PRIVATE-TOKEN': v.jeton } });
+        if (!r.ok) throw new Error('version illisible (' + r.status + ')');
+        return r.json();
+      },
       async publier(v, fichiers, message) {
-        const corps = { branch: v.branche, commit_message: message, actions: fichiers.map(x => x.action === 'delete' ? { action: 'delete', file_path: x.chemin } : { action: x.action, file_path: x.chemin, content: x.texte }) };
+        const corps = { branch: v.branche, commit_message: message, actions: fichiers.map(x => x.action === 'delete' ? { action: 'delete', file_path: x.chemin }
+          : x.b64 ? { action: 'create', file_path: x.chemin, content: x.b64, encoding: 'base64' }
+          : { action: x.action, file_path: x.chemin, content: x.texte }) };
         const rep = await fetch(`${v.forge}/api/v4/projects/${encodeURIComponent(v.projet)}/repository/commits`, { method: 'POST', headers: { 'PRIVATE-TOKEN': v.jeton, 'Content-Type': 'application/json' }, body: JSON.stringify(corps) });
         if (rep.ok) return;
         let m = ''; try { m = (await rep.json()).message; } catch (e) {}
@@ -554,14 +647,25 @@
         const j = await this.appel(v, '');
         return { nom: j.full_name, peutEcrire: !!(j.permissions && (j.permissions.push || j.permissions.admin)), role: 'le droit d\'écriture sur le dépôt' };
       },
+      async historique(v) {
+        const l = await this.appel(v, `/commits?path=site/data/data.json&sha=${encodeURIComponent(v.branche)}&per_page=40`);
+        return l.map(c => ({ sha: c.sha, message: c.commit.message.split('\n')[0], auteur: c.commit.author.name, date: c.commit.author.date }));
+      },
+      async version(v, sha) {
+        const r = await fetch(`https://api.github.com/repos/${v.projet}/contents/site/data/data.json?ref=${sha}`, { headers: { ...this.entetes(v), Accept: 'application/vnd.github.raw+json' } });
+        if (!r.ok) throw new Error('version illisible (' + r.status + ')');
+        return r.json();
+      },
       async publier(v, fichiers, message) {
         const ref = await this.appel(v, `/git/ref/heads/${encodeURIComponent(v.branche)}`);
         const parent = ref.object.sha;
         const commitParent = await this.appel(v, `/git/commits/${parent}`);
+        for (const x of fichiers) if (x.b64) x.sha = (await this.appel(v, '/git/blobs', { method: 'POST', body: JSON.stringify({ content: x.b64, encoding: 'base64' }) })).sha;
         const arbre = await this.appel(v, '/git/trees', { method: 'POST', body: JSON.stringify({
           base_tree: commitParent.tree.sha,
           tree: fichiers.map(x => x.action === 'delete'
             ? { path: x.chemin, mode: '100644', type: 'blob', sha: null }
+            : x.sha ? { path: x.chemin, mode: '100644', type: 'blob', sha: x.sha }
             : { path: x.chemin, mode: '100644', type: 'blob', content: x.texte }),
         }) });
         const commit = await this.appel(v, '/git/commits', { method: 'POST', body: JSON.stringify({ message, tree: arbre.sha, parents: [parent] }) });
@@ -629,7 +733,7 @@
     const err = controler().filter(x => x.niv === 'err').length;
     ouvrirDlg(`<h2>Publier les modifications</h2>
       <p>${f.length} fichier(s) seront enregistrés sur ${plat.nom} dans <b>${esc(r.projet)}</b> (branche ${esc(r.branche)}) :</p>
-      <ul style="font-size:14px;max-height:180px;overflow:auto">${f.map(x => `<li>${{ update: 'Modifié', create: 'Nouveau', delete: 'Supprimé' }[x.action]} : ${esc(x.chemin.replace('site/data/', ''))}</li>`).join('')}</ul>
+      <ul style="font-size:14px;max-height:180px;overflow:auto">${f.map(x => `<li>${{ update: 'Modifié', create: 'Nouveau', delete: 'Supprimé' }[x.action]} : ${esc(x.chemin.replace('site/data/', '').replace('site/assets/televerse/', 'image '))}</li>`).join('')}</ul>
       ${err ? `<div class="note">⚠ Le contrôle qualité signale ${err} erreur(s). Tu peux publier quand même et corriger plus tard.</div>` : ''}
       <div class="champ"><label for="p-msg">Message (pour l'historique)</label><input id="p-msg" value="Mise à jour du ${new Date().toLocaleDateString('fr-FR')}"></div>
       <p id="p-etat" class="a-aide"></p>
@@ -642,6 +746,7 @@
         ORIG = JSON.stringify(D);
         quizModifies().forEach(id => { QZ_ORIG[id] = JSON.stringify(QZ[id]); });
         SUPPR.clear();
+        Object.keys(IMG).forEach(k => delete IMG[k]);
         try { localStorage.removeItem(JAJJ.CLE_BROUILLON); } catch (e) {}
         majEtat();
         const lien = JAJJ.horsLigne ? '' : '<a class="btn" href="index.html" target="_blank" rel="noopener">Voir le site</a>';
@@ -650,6 +755,110 @@
       return true;
     });
   });
+
+  /* ---------- Historique des publications ---------- */
+  document.getElementById('b-histo').addEventListener('click', async () => {
+    const r = lireReglages();
+    if (!r.projet || !r.jeton) return dlgReglages(() => document.getElementById('b-histo').click());
+    const plat = PLATEFORMES[r.plateforme] || PLATEFORMES.forge;
+    ouvrirDlg('<h2>Historique des publications</h2><p id="h-etat">Chargement…</p><div id="h-liste"></div><div class="pied-dlg"><button class="btn" data-x="non">Fermer</button></div>', null, async () => {
+      try {
+        const l = await plat.historique(r);
+        document.getElementById('h-etat').innerHTML = 'Chaque ligne est une publication. « Restaurer » recharge cette version des contenus (activités, liens, notes, réglages) <b>dans le brouillon</b> : vérifie-la avec l\'Aperçu, puis clique sur Publier pour la remettre en ligne. Les quiz ne sont pas modifiés.';
+        document.getElementById('h-liste').innerHTML = `<ul class="histo">${l.map((c, i) => `<li><div><b>${esc(c.message)}</b><small>${esc(new Date(c.date).toLocaleString('fr-FR', { dateStyle: 'medium', timeStyle: 'short' }))} · ${esc(c.auteur)}${i === 0 ? ' · <em>version en ligne</em>' : ''}</small></div>${i ? `<button class="btn petit" data-restaurer="${esc(c.sha)}">Restaurer</button>` : ''}</li>`).join('')}</ul>`;
+        document.querySelectorAll('[data-restaurer]').forEach(b => b.addEventListener('click', async () => {
+          if (estModifie() && !confirm('Tes modifications non publiées seront remplacées par cette ancienne version. Continuer ?')) return;
+          b.disabled = true; b.textContent = '…';
+          try {
+            const d = await plat.version(r, b.dataset.restaurer);
+            if (!Array.isArray(d.sports)) throw new Error('fichier inattendu');
+            D = d; nettoyerImages(); modifie(); dlg.close(); aller({ type: 'general' });
+            alert('Version restaurée dans le brouillon. Vérifie avec « Aperçu », puis « Publier ».');
+          } catch (e) { b.textContent = 'Échec'; alert('Restauration impossible : ' + e.message); }
+        }));
+      } catch (e) { document.getElementById('h-etat').textContent = '✘ ' + e.message; }
+    });
+  });
+
+  /* ---------- Affiches avec QR code ---------- */
+  const urlPublique = () => {
+    const r = lireReglages();
+    if (r.urlSite) return r.urlSite.replace(/\/?$/, '/');
+    return location.href.replace(/[#?].*$/, '').replace(/admin\.html$/, '');
+  };
+  function qrSvg(texte, taille) {
+    const q = qrcode(0, 'M'); q.addData(texte); q.make();
+    const n = q.getModuleCount(), m = 4, t = n + 2 * m;
+    let d = '';
+    for (let r = 0; r < n; r++) for (let c = 0; c < n; c++) if (q.isDark(r, c)) d += `M${c + m},${r + m}h1v1h-1z`;
+    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${t} ${t}" width="${taille}" height="${taille}" shape-rendering="crispEdges" role="img" aria-label="QR code"><rect width="${t}" height="${t}" fill="#fff"/><path d="${d}" fill="#000"/></svg>`;
+  }
+  const chargerImg = src => new Promise(ok => { const i = new Image(); i.onload = () => ok(i); i.onerror = () => ok(null); i.src = src; });
+  async function affichePng(s, base) {
+    const W = 1240, H = 1754, c = document.createElement('canvas'); c.width = W; c.height = H;
+    const x = c.getContext('2d');
+    x.fillStyle = '#fff'; x.fillRect(0, 0, W, H);
+    x.fillStyle = '#16359f'; x.fillRect(0, 0, W, 26); x.fillStyle = '#d60a3d'; x.fillRect(0, H - 26, W, 26);
+    const logo = await chargerImg('assets/logo-unss-nantes.png');
+    if (logo) { const lw = 520, lh = lw * logo.height / logo.width; x.drawImage(logo, (W - lw) / 2, 70, lw, lh); }
+    const ic = s.icone ? await chargerImg(srcImg(JAJJ.cheminIcone(s.icone))) : null;
+    if (ic) x.drawImage(ic, (W - 260) / 2, 420, 260, 260);
+    x.fillStyle = '#16359f'; x.textAlign = 'center';
+    x.font = '900 92px Nunito, system-ui, sans-serif'; x.fillText(s.nom, W / 2, 790);
+    x.font = '700 44px Nunito, system-ui, sans-serif'; x.fillStyle = '#333'; x.fillText('Deviens jeune officiel : scanne et entraîne-toi !', W / 2, 870);
+    const qr = await chargerImg('data:image/svg+xml;charset=utf-8,' + encodeURIComponent(qrSvg(base + '#/s/' + s.id, 640)));
+    if (qr) x.drawImage(qr, (W - 640) / 2, 930, 640, 640);
+    x.font = '600 30px system-ui, sans-serif'; x.fillStyle = '#555'; x.fillText(base + '#/s/' + s.id, W / 2, 1640);
+    return new Promise(ok => c.toBlob(ok, 'image/png'));
+  }
+  function renderAffiches() {
+    const base = urlPublique();
+    const actifs = [...D.sports].filter(s => s.actif !== false).sort((a, b) => a.nom.localeCompare(b.nom, 'fr'));
+    ed.innerHTML = `<h1>Affiches QR code</h1>
+      <p class="a-aide">Une affiche par activité, à imprimer et afficher au gymnase ou au CDI : les élèves scannent le QR code et arrivent directement sur la page de l'activité.</p>
+      <div class="bloc"><div class="ligne">
+        <div class="champ"><label for="qr-base">Adresse du site publié</label><input id="qr-base" type="url" value="${esc(base)}"></div>
+        <div class="champ" style="flex:.6"><label for="qr-format">Format d'impression</label><select id="qr-format"><option value="1">1 affiche A4 par page</option><option value="4">4 par page (A6)</option><option value="12">12 par page (étiquettes)</option></select></div>
+        <div style="flex:0 0 auto;display:flex;gap:6px"><button class="btn" id="qr-tout">Tout cocher</button><button class="btn prim" id="qr-imprimer">Imprimer la sélection</button></div>
+      </div>
+      <p class="a-aide" style="margin:6px 0 0">Vérifie l'adresse : elle doit être celle du site en ligne (par exemple https://unss.forge.apps.education.fr/ja/). Elle est mémorisée sur cet ordinateur.</p></div>
+      <div class="qr-grille">${actifs.map(s => `<label class="qr-carte"><input type="checkbox" data-qr="${esc(s.id)}">
+        ${s.icone ? `<img src="${esc(srcImg(JAJJ.cheminIcone(s.icone)))}" alt="">` : ''}<b>${esc(s.nom)}</b>
+        <span class="qr-mini">${qrSvg(base + '#/s/' + s.id, 110)}</span>
+        <button class="btn petit" type="button" data-png="${esc(s.id)}">Télécharger (PNG)</button></label>`).join('')}</div>`;
+    const lireBase = () => { const v = ed.querySelector('#qr-base').value.trim(); return v.replace(/[#?].*$/, '').replace(/admin\.html$/, '').replace(/\/?$/, '/'); };
+    ed.querySelector('#qr-base').addEventListener('change', () => { const r = lireReglages(); r.urlSite = lireBase(); ecrireReglages(r, (localStorage.getItem(CLE_REGLAGES) || '').includes('jeton')); renderAffiches(); });
+    ed.querySelector('#qr-tout').onclick = () => { const cs = ed.querySelectorAll('[data-qr]'); const tous = [...cs].every(c => c.checked); cs.forEach(c => { c.checked = !tous; }); };
+    ed.querySelectorAll('[data-png]').forEach(b => b.addEventListener('click', async e => {
+      e.preventDefault(); const s = sport(b.dataset.png);
+      telecharger('affiche-' + s.id + '.png', await affichePng(s, lireBase()));
+    }));
+    ed.querySelector('#qr-imprimer').onclick = () => {
+      let ids = [...ed.querySelectorAll('[data-qr]:checked')].map(c => c.dataset.qr);
+      if (!ids.length) return alert('Coche au moins une activité.');
+      const fmt = ed.querySelector('#qr-format').value, b = lireBase();
+      const racine = location.href.replace(/[#?].*$/, '').replace(/[^/]*$/, '');
+      const w = window.open('', '_blank');
+      if (!w) return alert('Autorise les fenêtres surgissantes pour imprimer.');
+      const taille = { 1: 420, 4: 200, 12: 110 }[fmt];
+      w.document.write(`<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Affiches QR</title><base href="${esc(racine)}">
+        <link rel="stylesheet" href="assets/app.css"><style>
+        @page{size:A4;margin:10mm} body{margin:0;background:#fff;font-family:Nunito,system-ui,sans-serif;color:#16359f}
+        .f{display:grid;gap:6mm;grid-template-columns:repeat(${fmt === '1' ? 1 : fmt === '4' ? 2 : 3},1fr)}
+        .a{border:${fmt === '1' ? 0 : '1px dashed #bbb'};text-align:center;padding:${fmt === '1' ? '10mm 0' : '4mm'};break-inside:avoid;${fmt === '1' ? 'height:270mm;break-after:page;display:flex;flex-direction:column;align-items:center;justify-content:space-between' : ''}}
+        .a .lg{width:${fmt === '1' ? 70 : fmt === '4' ? 40 : 28}mm}.a .ic{width:${fmt === '1' ? 45 : fmt === '4' ? 20 : 12}mm;height:auto}
+        .a h2{margin:2mm 0;font-size:${fmt === '1' ? 44 : fmt === '4' ? 20 : 13}pt;font-weight:900}
+        .a p{margin:1mm 0;color:#333;font-size:${fmt === '1' ? 16 : 9}pt;font-weight:700}.a small{color:#555;font-size:${fmt === '1' ? 10 : 6.5}pt;word-break:break-all}
+        .a svg{max-width:100%;height:auto}</style></head><body><div class="f">${ids.map(id => { const s = sport(id); return `<div class="a">
+        <img class="lg" src="assets/logo-unss-nantes.png" alt="UNSS Académie de Nantes">
+        ${s.icone ? `<img class="ic" src="${esc(srcImg(JAJJ.cheminIcone(s.icone)))}" alt="">` : ''}<h2>${esc(s.nom)}</h2>
+        ${fmt !== '12' ? '<p>Deviens jeune officiel : scanne et entraîne-toi !</p>' : ''}
+        ${qrSvg(b + '#/s/' + id, taille)}<small>${esc(b + '#/s/' + id)}</small></div>`; }).join('')}</div>
+        <script>window.onload=()=>setTimeout(()=>print(),400)<\/script></body></html>`);
+      w.document.close();
+    };
+  }
+  document.getElementById('b-affiches').addEventListener('click', () => aller({ type: 'affiches' }));
 
   /* ---------- Boîte de dialogue ---------- */
   function ouvrirDlg(html, surChoix, auMontage, surAction) {

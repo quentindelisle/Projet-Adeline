@@ -74,3 +74,16 @@ body.verrouille > :not(.acces):not(script){display:none!important}
 .note-sr label{color:#8a6d00}
 details.note-etape{margin:4px 0 10px}
 details.note-etape summary{cursor:pointer;font-size:13.5px;color:#8a6d00;font-weight:700}
+
+/* Historique */
+.histo{list-style:none;margin:8px 0 0;padding:0;max-height:52vh;overflow:auto;display:grid;gap:6px}
+.histo li{display:flex;gap:10px;align-items:center;justify-content:space-between;border:1px solid var(--bord);border-radius:10px;padding:8px 10px;background:var(--fond)}
+.histo small{display:block;color:var(--doux);font-size:12.5px}
+/* Affiches QR */
+.qr-grille{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
+.qr-carte{display:grid;justify-items:center;gap:6px;text-align:center;background:var(--carte);border:1px solid var(--bord);border-radius:12px;padding:10px;cursor:pointer;position:relative}
+.qr-carte input{position:absolute;top:8px;left:8px;width:20px;height:20px}
+.qr-carte:has(input:checked){border-color:var(--bleu);box-shadow:0 0 0 2px var(--bleu)}
+.qr-carte img{width:54px;height:54px;object-fit:contain}
+.qr-carte b{color:var(--bleu);font-size:15px}
+.qr-mini svg{display:block;border-radius:6px}

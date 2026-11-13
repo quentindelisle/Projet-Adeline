@@ -107,5 +107,35 @@ const JAJJ = (() => {
   }
   const nbQuestions = q => (q.themes || []).reduce((a, t) => a + (t.questions || []).length, 0);
 
-  return { TYPES, ICONES, IMAGES_ETAPES, CLE_BROUILLON, esc, slug, initiales, typeDepuisUrl, urlIntegree, urlOnglet, lireBrouillon, enApercu, chargerDonnees, chargerQuiz, lireJson, horsLigne, nbQuestions };
+
+  /* Chemin d'une icône : nom d'une icône fournie, ou image déposée depuis l'espace gestion */
+  const cheminIcone = nom => !nom ? '' : nom.includes('/') ? nom : 'assets/icones/' + encodeURIComponent(nom) + '.png';
+
+  /* Progression de l'élève : enregistrée uniquement dans son navigateur */
+  const Progres = (() => {
+    const CLE = 'jajj-progression-v1';
+    let p;
+    const lire = () => { if (!p) { try { p = JSON.parse(localStorage.getItem(CLE) || '{}'); } catch (e) { p = {}; } p.vu = p.vu || {}; p.quiz = p.quiz || {}; p.certif = p.certif || {}; } return p; };
+    const ecrire = () => { try { localStorage.setItem(CLE, JSON.stringify(p)); } catch (e) {} };
+    return {
+      vu: (sport, ref) => { lire(); (p.vu[sport] = p.vu[sport] || {})[ref] = Date.now(); ecrire(); },
+      estVu: (sport, ref) => !!(lire().vu[sport] || {})[ref],
+      scoreQuiz: (id, ok, total) => { lire(); const a = p.quiz[id]; if (!a || ok / total > a.ok / a.total) p.quiz[id] = { ok, total, date: Date.now() }; ecrire(); },
+      meilleur: id => lire().quiz[id] || null,
+      certif: (sport, res) => { lire(); const a = p.certif[sport]; if (!a || res.pct > a.pct) p.certif[sport] = res; ecrire(); },
+      meilleureCertif: sport => lire().certif[sport] || null,
+      effacer: () => { p = { vu: {}, quiz: {}, certif: {} }; ecrire(); },
+      /* Avancement d'une activité : ressources ouvertes + quiz terminés / total */
+      avancement(s, etapes) {
+        lire(); let fait = 0, total = 0;
+        etapes.forEach(e => (s[e.cle] || []).forEach((it, i) => {
+          total++;
+          if (it.type === 'quiz' ? p.quiz[it.quiz] : (p.vu[s.id] || {})[e.cle + ':' + (it.url || it.titre)]) fait++;
+        }));
+        return total ? Math.round(fait / total * 100) : 0;
+      },
+    };
+  })();
+
+  return { cheminIcone, Progres, TYPES, ICONES, IMAGES_ETAPES, CLE_BROUILLON, esc, slug, initiales, typeDepuisUrl, urlIntegree, urlOnglet, lireBrouillon, enApercu, chargerDonnees, chargerQuiz, lireJson, horsLigne, nbQuestions };
 })();
