@@ -23,9 +23,16 @@ const JAJJ = (() => {
     return (m.length > 1 ? m[0][0] + m[1][0] : String(nom).slice(0, 2)).toUpperCase();
   };
 
+  /* Lien propre : si on colle le code « <iframe src=…> » donné par Google, on garde seulement l'adresse */
+  function urlPropre(u) {
+    u = String(u || '').trim();
+    const m = u.match(/<iframe[^>]*\ssrc=["']([^"']+)["']/i);
+    if (m) u = m[1];
+    return u.replace(/&amp;/g, '&');
+  }
   /* Devine le type d'un lien collé */
   function typeDepuisUrl(u) {
-    u = String(u || '');
+    u = urlPropre(u);
     if (/wayground\.com|quizizz\.com/.test(u)) return 'wayground';
     if (/docs\.google\.com\/presentation/.test(u)) return 'slides';
     if (/docs\.google\.com\/spreadsheets/.test(u)) return 'sheet';
@@ -37,7 +44,7 @@ const JAJJ = (() => {
 
   /* Adresse à mettre dans la visionneuse (null = ouvrir dans un onglet) */
   function urlIntegree(it) {
-    const u = it.url || '';
+    const u = urlPropre(it.url);
     if (it.type === 'doc' && /\/pub(\?|$)/.test(u)) return u.includes('embedded=') ? u : u + (u.includes('?') ? '&' : '?') + 'embedded=true';
     if (it.type === 'slides' && /\/pub(embed)?(\?|$)/.test(u)) return u.replace('/pub?', '/pubembed?').replace(/\/pub$/, '/pubembed');
     if (it.type === 'sheet' && /\/pubhtml/.test(u)) return u + (u.includes('?') ? '&' : '?') + 'widget=true&headers=false';
@@ -57,7 +64,7 @@ const JAJJ = (() => {
   }
   /* Adresse « normale » pour ouvrir le document dans un onglet */
   function urlOnglet(it) {
-    const u = it.url || '';
+    const u = urlPropre(it.url);
     if (it.type === 'slides') return u.replace('/pubembed?', '/pub?');
     if (it.type === 'doc') return u.replace(/[?&]embedded=true/, '');
     return u;
@@ -137,5 +144,5 @@ const JAJJ = (() => {
     };
   })();
 
-  return { cheminIcone, Progres, TYPES, ICONES, IMAGES_ETAPES, CLE_BROUILLON, esc, slug, initiales, typeDepuisUrl, urlIntegree, urlOnglet, lireBrouillon, enApercu, chargerDonnees, chargerQuiz, lireJson, horsLigne, nbQuestions };
+  return { urlPropre, cheminIcone, Progres, TYPES, ICONES, IMAGES_ETAPES, CLE_BROUILLON, esc, slug, initiales, typeDepuisUrl, urlIntegree, urlOnglet, lireBrouillon, enApercu, chargerDonnees, chargerQuiz, lireJson, horsLigne, nbQuestions };
 })();

@@ -323,7 +323,8 @@
     r.querySelector('[data-f=groupe]').addEventListener('input', e => { if (e.target.value) it.groupe = e.target.value; else delete it.groupe; modifie(); });
     const u = r.querySelector('[data-f=url]');
     if (u) {
-      u.addEventListener('input', () => { it.url = u.value.trim(); delete it.alerte; modifie(); });
+      u.addEventListener('input', () => { it.url = JAJJ.urlPropre(u.value); delete it.alerte; modifie(); });
+      u.addEventListener('blur', () => { if (u.value !== it.url) u.value = it.url || ''; });
       u.addEventListener('change', async () => {
         const t = JAJJ.typeDepuisUrl(it.url);
         if (it.type === 'lien' || !it.type || (it.type === 'video' && t !== 'lien')) it.type = t;

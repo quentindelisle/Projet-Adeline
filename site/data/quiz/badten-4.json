@@ -1,0 +1,509 @@
+{
+ "id": "badten-4",
+ "titre": "Niveau 1 (Les Fondamentaux)",
+ "sousTitre": "Quiz Badten",
+ "entete": "",
+ "sport": "badten",
+ "themes": [
+  {
+   "nom": "1",
+   "questions": [
+    {
+     "q": "Un match de Badten comprend deux sets de badminton.",
+     "r": "faute",
+     "e": "C'est faux. Un match de Badten correspond à 1 set joué en badminton et 1 set joué en tennis de table."
+    }
+   ]
+  },
+  {
+   "nom": "2",
+   "questions": [
+    {
+     "q": "Un match de Badten comprend un set de badminton et un set de tennis de table.",
+     "r": "valable",
+     "e": "Un match de Badten correspond à 1 set joué en badminton et 1 set joué en tennis de table."
+    }
+   ]
+  },
+  {
+   "nom": "3",
+   "questions": [
+    {
+     "q": "Un set de Badten se joue en 15 points.",
+     "r": "valable",
+     "e": "Un set s'arrête au premier joueur ou à la première paire arrivé à 15 points."
+    }
+   ]
+  },
+  {
+   "nom": "4",
+   "questions": [
+    {
+     "q": "Un set de Badten se joue en 21 points.",
+     "r": "faute",
+     "e": "C'est faux. Un set s'arrête au premier joueur ou à la première paire arrivé à 15 points."
+    }
+   ]
+  },
+  {
+   "nom": "5",
+   "questions": [
+    {
+     "q": "Une rencontre de Badten comporte cinq matchs.",
+     "r": "valable",
+     "e": "Une rencontre comporte un SF, un SG, un DF, un DG et un DM."
+    }
+   ]
+  },
+  {
+   "nom": "6",
+   "questions": [
+    {
+     "q": "Une rencontre de Badten comporte trois matchs.",
+     "r": "faute",
+     "e": "C'est faux. Une rencontre comporte un SF, un SG, un DF, un DG et un DM."
+    }
+   ]
+  },
+  {
+   "nom": "7",
+   "questions": [
+    {
+     "q": "Un joueur peut jouer 4 matchs dans une rencontre.",
+     "r": "faute",
+     "e": "C'est faux. 2 matchs maximum par joueur(se)."
+    }
+   ]
+  },
+  {
+   "nom": "8",
+   "questions": [
+    {
+     "q": "Un joueur peut jouer 2 matchs au maximum dans une rencontre.",
+     "r": "valable",
+     "e": "2 matchs maximum par joueur(se)."
+    }
+   ]
+  },
+  {
+   "nom": "9",
+   "questions": [
+    {
+     "q": "Une équipe peut compter jusqu'à 10 compétiteurs.",
+     "r": "faute",
+     "e": "C'est faux. 6 compétiteurs maximum dont un Jeune Coach."
+    }
+   ]
+  },
+  {
+   "nom": "10",
+   "questions": [
+    {
+     "q": "Une équipe compte au maximum 6 compétiteurs, dont un Jeune Coach.",
+     "r": "valable",
+     "e": "6 compétiteurs maximum dont un Jeune Coach."
+    }
+   ]
+  },
+  {
+   "nom": "11",
+   "questions": [
+    {
+     "q": "Une équipe peut compter trois cadets.",
+     "r": "faute",
+     "e": "C'est faux. Il y a 1 seul(e) cadet(te) par équipe."
+    }
+   ]
+  },
+  {
+   "nom": "12",
+   "questions": [
+    {
+     "q": "Une équipe ne peut compter qu'un seul cadet ou une seule cadette.",
+     "r": "valable",
+     "e": "Il y a 1 seul(e) cadet(te) par équipe."
+    }
+   ]
+  },
+  {
+   "nom": "13",
+   "questions": [
+    {
+     "q": "Le tirage au sort a lieu avant chaque set.",
+     "r": "valable",
+     "e": "Avant chaque set, de badminton ou de tennis de table, il y a un tirage au sort."
+    }
+   ]
+  },
+  {
+   "nom": "14",
+   "questions": [
+    {
+     "q": "Le tirage au sort a lieu une seule fois, au début de la rencontre.",
+     "r": "faute",
+     "e": "C'est faux. Avant chaque set, de badminton ou de tennis de table, il y a un tirage au sort."
+    }
+   ]
+  },
+  {
+   "nom": "15",
+   "questions": [
+    {
+     "q": "Le gagnant du tirage au sort a trois choix possibles.",
+     "r": "valable",
+     "e": "Il peut servir, relancer ou choisir le côté."
+    }
+   ]
+  },
+  {
+   "nom": "16",
+   "questions": [
+    {
+     "q": "Le gagnant du tirage au sort est obligé de servir.",
+     "r": "faute",
+     "e": "C'est faux. Il peut servir, relancer ou choisir le côté."
+    }
+   ]
+  },
+  {
+   "nom": "17",
+   "questions": [
+    {
+     "q": "La minute d'adaptation n'a lieu qu'avant le premier set de la rencontre.",
+     "r": "faute",
+     "e": "C'est faux. Avant chaque début de set, dès que le tirage au sort a été fait, il y a une minute d'adaptation."
+    }
+   ]
+  },
+  {
+   "nom": "18",
+   "questions": [
+    {
+     "q": "Une minute d'adaptation précède chaque set.",
+     "r": "valable",
+     "e": "Avant chaque début de set, dès que le tirage au sort a été fait, il y a une minute d'adaptation."
+    }
+   ]
+  },
+  {
+   "nom": "19",
+   "questions": [
+    {
+     "q": "Aucun coaching n'est autorisé pendant la minute d'adaptation.",
+     "r": "valable",
+     "e": "Il n'y a aucun coaching à partir du début de la minute d'adaptation."
+    }
+   ]
+  },
+  {
+   "nom": "20",
+   "questions": [
+    {
+     "q": "Le Jeune Coach peut conseiller pendant la minute d'adaptation.",
+     "r": "faute",
+     "e": "C'est faux. Il n'y a aucun coaching à partir du début de la minute d'adaptation."
+    }
+   ]
+  },
+  {
+   "nom": "21",
+   "questions": [
+    {
+     "q": "Les joueurs changent de côté dès que l'un d'eux atteint 7 points.",
+     "r": "valable",
+     "e": "Le changement de côté s'effectue dès que le score d'un des deux est de 7 points."
+    }
+   ]
+  },
+  {
+   "nom": "22",
+   "questions": [
+    {
+     "q": "Les joueurs changent de côté à 10 points.",
+     "r": "faute",
+     "e": "C'est faux. Le changement de côté s'effectue dès que le score d'un des deux est de 7 points."
+    }
+   ]
+  },
+  {
+   "nom": "23",
+   "questions": [
+    {
+     "q": "En double, le joueur de gauche porte le brassard.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur de droite est porteur du brassard."
+    }
+   ]
+  },
+  {
+   "nom": "24",
+   "questions": [
+    {
+     "q": "En double, le joueur de droite porte le brassard.",
+     "r": "valable",
+     "e": "Le joueur de droite est porteur du brassard."
+    }
+   ]
+  },
+  {
+   "nom": "25",
+   "questions": [
+    {
+     "q": "Le brassard est mis après le tirage au sort.",
+     "r": "valable",
+     "e": "Le joueur de droite met donc son brassard après le tirage au sort."
+    }
+   ]
+  },
+  {
+   "nom": "26",
+   "questions": [
+    {
+     "q": "Les joueurs mettent leur brassard avant le tirage au sort.",
+     "r": "faute",
+     "e": "C'est faux. Le joueur de droite met donc son brassard après le tirage au sort."
+    }
+   ]
+  },
+  {
+   "nom": "27",
+   "questions": [
+    {
+     "q": "Il faut 2 points d'écart pour gagner un set.",
+     "r": "faute",
+     "e": "C'est faux. Le set s'arrête dès qu'un joueur ou une paire atteint 15 points."
+    }
+   ]
+  },
+  {
+   "nom": "28",
+   "questions": [
+    {
+     "q": "On joue en tie break : chaque échange rapporte un point, quel que soit le serveur.",
+     "r": "valable",
+     "e": "Le set s'arrête dès qu'un joueur ou une paire atteint 15 points."
+    }
+   ]
+  },
+  {
+   "nom": "29",
+   "questions": [
+    {
+     "q": "C'est l'arbitre adjoint qui déclenche le chronomètre de la minute d'adaptation.",
+     "r": "faute",
+     "e": "C'est faux. Le principal déclenche son chronomètre et annonce « Début de la minute d'adaptation »."
+    }
+   ]
+  },
+  {
+   "nom": "30",
+   "questions": [
+    {
+     "q": "L'arbitre principal déclenche son chronomètre pour la minute d'adaptation.",
+     "r": "valable",
+     "e": "Le principal déclenche son chronomètre et annonce « Début de la minute d'adaptation »."
+    }
+   ]
+  },
+  {
+   "nom": "31",
+   "questions": [
+    {
+     "q": "Le scorer est tenu par le joueur qui vient de marquer.",
+     "r": "faute",
+     "e": "C'est faux. L'arbitre adjoint tient le scorer."
+    }
+   ]
+  },
+  {
+   "nom": "32",
+   "questions": [
+    {
+     "q": "L'arbitre adjoint tient le scorer.",
+     "r": "valable",
+     "e": "L'arbitre adjoint tient le scorer."
+    }
+   ]
+  },
+  {
+   "nom": "33",
+   "questions": [
+    {
+     "q": "Les arbitres arrivent 5 minutes avant le début de la rencontre.",
+     "r": "valable",
+     "e": "Ils arrivent 5 minutes avant le début de la rencontre."
+    }
+   ]
+  },
+  {
+   "nom": "34",
+   "questions": [
+    {
+     "q": "Les arbitres arrivent 2 minutes avant le début de la rencontre.",
+     "r": "faute",
+     "e": "C'est faux. Ils arrivent 5 minutes avant le début de la rencontre."
+    }
+   ]
+  },
+  {
+   "nom": "35",
+   "questions": [
+    {
+     "q": "Il y a 4 ou 5 arbitres par rencontre.",
+     "r": "valable",
+     "e": "2 arbitres principaux, 2 adjoints et, facultativement, A5."
+    }
+   ]
+  },
+  {
+   "nom": "36",
+   "questions": [
+    {
+     "q": "Il y a un seul arbitre par rencontre.",
+     "r": "faute",
+     "e": "C'est faux. 2 arbitres principaux, 2 adjoints et, facultativement, A5."
+    }
+   ]
+  },
+  {
+   "nom": "37",
+   "questions": [
+    {
+     "q": "L'arbitre indique un point en croisant les bras.",
+     "r": "faute",
+     "e": "C'est faux. Point marqué = poing fermé du côté où le point est marqué."
+    }
+   ]
+  },
+  {
+   "nom": "38",
+   "questions": [
+    {
+     "q": "L'arbitre indique un point en levant le poing du côté du gagnant de l'échange.",
+     "r": "valable",
+     "e": "Point marqué = poing fermé du côté où le point est marqué."
+    }
+   ]
+  },
+  {
+   "nom": "39",
+   "questions": [
+    {
+     "q": "L'arbitre croise les bras devant lui pour le changement de côté.",
+     "r": "valable",
+     "e": "Les bras croisés indiquent le changement de côté la main levée interrompt l'échange (balle ou volant à remettre)."
+    }
+   ]
+  },
+  {
+   "nom": "40",
+   "questions": [
+    {
+     "q": "L'arbitre lève la main au-dessus de la tête pour le changement de côté.",
+     "r": "faute",
+     "e": "C'est faux. Les bras croisés indiquent le changement de côté la main levée interrompt l'échange (balle ou volant à remettre)."
+    }
+   ]
+  },
+  {
+   "nom": "41",
+   "questions": [
+    {
+     "q": "Le responsable d'équipe se place dans les tribunes.",
+     "r": "valable",
+     "e": "Le responsable d'équipe n'a pas le droit de se trouver sur l'aire de jeu."
+    }
+   ]
+  },
+  {
+   "nom": "42",
+   "questions": [
+    {
+     "q": "Le responsable d'équipe peut se placer sur l'aire de jeu pour conseiller.",
+     "r": "faute",
+     "e": "C'est faux. Le responsable d'équipe n'a pas le droit de se trouver sur l'aire de jeu."
+    }
+   ]
+  },
+  {
+   "nom": "43",
+   "questions": [
+    {
+     "q": "Le responsable d'équipe peut conseiller ses joueurs à tout moment.",
+     "r": "faute",
+     "e": "C'est faux. Le Jeune Coach est autorisé à donner des conseils lors de la pause de 45 secondes."
+    }
+   ]
+  },
+  {
+   "nom": "44",
+   "questions": [
+    {
+     "q": "Seul le Jeune Coach peut conseiller pendant la pause du changement de côté.",
+     "r": "valable",
+     "e": "Le Jeune Coach est autorisé à donner des conseils lors de la pause de 45 secondes."
+    }
+   ]
+  },
+  {
+   "nom": "45",
+   "questions": [
+    {
+     "q": "Le 1er incident antisportif d'un joueur donne lieu à un avertissement verbal.",
+     "r": "valable",
+     "e": "1er incident = avertissement verbal, 2e = carton jaune, 3e = carton rouge."
+    }
+   ]
+  },
+  {
+   "nom": "46",
+   "questions": [
+    {
+     "q": "Le 1er incident antisportif d'un joueur donne lieu à un carton rouge.",
+     "r": "faute",
+     "e": "C'est faux. 1er incident = avertissement verbal, 2e = carton jaune, 3e = carton rouge."
+    }
+   ]
+  },
+  {
+   "nom": "47",
+   "questions": [
+    {
+     "q": "Le niveau national s'obtient à partir de 16/20.",
+     "r": "valable",
+     "e": "Départemental 12/20, académique 14/20, national 16/20."
+    }
+   ]
+  },
+  {
+   "nom": "48",
+   "questions": [
+    {
+     "q": "Le niveau national s'obtient à partir de 10/20.",
+     "r": "faute",
+     "e": "C'est faux. Départemental 12/20, académique 14/20, national 16/20."
+    }
+   ]
+  },
+  {
+   "nom": "49",
+   "questions": [
+    {
+     "q": "Le jeune arbitre n'arbitre que le badminton.",
+     "r": "faute",
+     "e": "C'est faux. Il doit être polyvalent badminton et tennis de table."
+    }
+   ]
+  },
+  {
+   "nom": "50",
+   "questions": [
+    {
+     "q": "Le jeune arbitre arbitre à la fois des sets de badminton et de tennis de table.",
+     "r": "valable",
+     "e": "Il doit être polyvalent badminton et tennis de table."
+    }
+   ]
+  }
+ ]
+}

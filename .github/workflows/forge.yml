@@ -1,25 +1,44 @@
-# Copie automatique du dépôt GitHub vers La Forge (forge.apps.education.fr)
-# À chaque « Push » sur GitHub, la branche main est envoyée sur la Forge,
-# qui remet alors le site à jour toute seule (fichier .gitlab-ci.yml).
+# Synchronisation GitHub <-> La Forge (forge.apps.education.fr)
+#
+# - À chaque Push sur GitHub, et toutes les 30 minutes, ce workflow récupère
+#   les publications faites depuis l'espace Gestion du site de la Forge,
+#   les fusionne avec GitHub, puis envoie le résultat des deux côtés.
+# - On peut donc publier depuis GitHub Desktop OU depuis l'espace Gestion
+#   (sur la Forge comme sur GitHub) : rien n'est écrasé.
+# - En cas de modifications contradictoires sur les mêmes lignes, le workflow
+#   s'arrête en rouge sans rien écraser.
 #
 # Réglage à faire une seule fois sur GitHub :
-#   Settings › Secrets and variables › Actions › New repository secret
-#   Nom : FORGE_TOKEN   Valeur : un jeton de la Forge avec la portée write_repository
-# Si ton projet Forge n'est pas unssnantes/JA, change la ligne FORGE_PROJET ci-dessous.
-name: Copier sur la Forge
+#   Settings › Secrets and variables › Actions › secret FORGE_TOKEN
+#   (jeton de projet Forge, rôle Maintainer, portée write_repository)
+name: Synchroniser avec la Forge
 
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
+      priorite_github:
+        description: "En cas de conflit, garder la version GitHub"
+        type: boolean
+        default: false
       ecraser:
-        description: "Remplacer entièrement le contenu de la Forge par celui de GitHub (à utiliser une seule fois si les deux dépôts ont divergé)"
+        description: "Remplacer entièrement la Forge par GitHub (dernier recours)"
         type: boolean
         default: false
 
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: synchro-forge
+  cancel-in-progress: false
+
 jobs:
-  copier:
+  synchroniser:
     runs-on: ubuntu-latest
     env:
       FORGE_PROJET: unssnantes/JA
@@ -27,12 +46,47 @@ jobs:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - name: Envoyer sur la Forge
+          ref: main
+      - name: Récupérer la Forge, fusionner et envoyer des deux côtés
         env:
           FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ -z "$FORGE_TOKEN" ]; then echo "::error::Secret FORGE_TOKEN manquant (Settings › Secrets and variables › Actions)"; exit 1; fi
-          OPT=""
-          if [ "${{ inputs.ecraser }}" = "true" ]; then OPT="--force"; echo "Mode : remplacement complet de la Forge"; fi
-          git push $OPT "https://oauth2:${FORGE_TOKEN}@forge.apps.education.fr/${FORGE_PROJET}.git" HEAD:main 2>&1 | sed "s/${FORGE_TOKEN}/***/g"
-          exit ${PIPESTATUS[0]}
+          masquer() { sed "s/${FORGE_TOKEN}/***/g"; }
+          git config user.name "Synchro Forge"
+          git config user.email "synchro-forge@users.noreply.github.com"
+          git remote add forge "https://oauth2:${FORGE_TOKEN}@forge.apps.education.fr/${FORGE_PROJET}.git"
+          git fetch -q forge main 2>&1 | masquer
+          AVANT=$(git rev-parse HEAD)
+
+          if [ "${{ inputs.ecraser }}" = "true" ]; then
+            echo "Mode : remplacement complet de la Forge"
+            git push --force forge HEAD:main 2>&1 | masquer
+            exit 0
+          fi
+
+          if git merge-base --is-ancestor forge/main HEAD; then
+            echo "La Forge n'a rien de nouveau."
+          elif git merge-base --is-ancestor HEAD forge/main; then
+            echo "Récupération des publications faites sur la Forge."
+            git merge -q --ff-only forge/main
+          else
+            echo "Fusion des modifications GitHub et Forge."
+            OPT=""
+            if [ "${{ inputs.priorite_github }}" = "true" ]; then OPT="-X ours"; fi
+            if ! git merge --no-edit $OPT -m "Fusion des publications de la Forge" forge/main; then
+              git merge --abort || true
+              echo "::error::Les mêmes lignes ont été modifiées sur GitHub et sur la Forge. Relance ce workflow (Run workflow) en cochant « En cas de conflit, garder la version GitHub »."
+              exit 1
+            fi
+          fi
+
+          if ! git merge-base --is-ancestor HEAD forge/main; then
+            git push forge HEAD:main 2>&1 | masquer
+          fi
+          if [ "$(git rev-parse HEAD)" != "$AVANT" ]; then
+            git push origin HEAD:main
+            # un envoi fait par le workflow ne relance pas GitHub Pages : on le déclenche
+            gh workflow run pages.yml --ref main || echo "::warning::Publication GitHub Pages à relancer à la main."
+          fi
