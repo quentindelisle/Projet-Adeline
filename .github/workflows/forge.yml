@@ -1,0 +1,30 @@
+# Copie automatique du dépôt GitHub vers La Forge (forge.apps.education.fr)
+# À chaque « Push » sur GitHub, la branche main est envoyée sur la Forge,
+# qui remet alors le site à jour toute seule (fichier .gitlab-ci.yml).
+#
+# Réglage à faire une seule fois sur GitHub :
+#   Settings › Secrets and variables › Actions › New repository secret
+#   Nom : FORGE_TOKEN   Valeur : un jeton de la Forge avec la portée write_repository
+# Si ton projet Forge n'est pas UNSS/JA, change la ligne FORGE_PROJET ci-dessous.
+name: Copier sur la Forge
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  copier:
+    runs-on: ubuntu-latest
+    env:
+      FORGE_PROJET: UNSS/JA
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Envoyer sur la Forge
+        env:
+          FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
+        run: |
+          if [ -z "$FORGE_TOKEN" ]; then echo "::error::Secret FORGE_TOKEN manquant (Settings › Secrets and variables › Actions)"; exit 1; fi
+          git push "https://oauth2:${FORGE_TOKEN}@forge.apps.education.fr/${FORGE_PROJET}.git" HEAD:main
