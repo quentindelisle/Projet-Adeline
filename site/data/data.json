@@ -2768,27 +2768,5 @@
  "notes": {
   "defaut": "Bienvenue sur le nouveau site des formations Jeune Juge / Jeune Arbitre !\n\nCe site est actuellement en phase d’expérimentation. Des erreurs peuvent subsister. Si vous en constatez, merci de nous les signaler à l’adresse suivante : srunss@unss.org.\n\nMerci pour vos retours, qui nous aideront à améliorer cet outil!\n",
   "s/futsal": "**Nouveau** : une vidéo d'arbitrage commentée est disponible dans « Regarder une situation d'arbitrage »."
- },
- "certification": {
-  "actif": true,
-  "questions": 30,
-  "minutes": 20,
-  "seuil": 80,
-  "garderWayground": false
- },
- "mentions": {
-  "editeur": "Service régional UNSS de l'Académie de Nantes.",
-  "auteurs": "Adeline Couturier-Detrez, pour le Service régional UNSS de l'Académie de Nantes : conception des parcours, fiches, diaporamas, quiz et sessions d'entraînement.",
-  "realisation": "Site statique réalisé pour la Forge des communs numériques éducatifs, à partir du Genially d'origine.",
-  "hebergement": "La Forge des communs numériques éducatifs (forge.apps.education.fr), ministère de l'Éducation nationale. Copie de secours : GitHub Pages (GitHub Inc.).",
-  "licence": "Sauf mention contraire, les contenus sont placés sous licence Creative Commons BY-NC-SA 4.0 (attribution, pas d'utilisation commerciale, partage dans les mêmes conditions) : https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr\nLe logo UNSS reste la propriété de l'UNSS.",
-  "licenceCourte": "Contenus sous licence CC BY-NC-SA 4.0",
-  "contact": "",
-  "accessibilite": "Le site vise la conformité au RGAA : navigation complète au clavier, contrastes renforcés, textes alternatifs, animations réduites si l'appareil le demande. Signale toute difficulté au Service régional UNSS de l'Académie de Nantes.",
-  "illustrations": "Bandeau, icônes des activités et illustrations des étapes : UNSS Académie de Nantes."
- },
- "stats": {
-  "url": "",
-  "site": ""
  }
 }
