@@ -1,7 +1,7 @@
 {
  "titre": "Formations Jeune Juge / Jeune Arbitre UNSS",
  "sousTitre": "Académie de Nantes",
- "maj": "2026-11-13",
+ "maj": "2026-11-14",
  "etapes": [
   {
    "cle": "decouvrir",
@@ -55,7 +55,7 @@
    "decouvrir": [
     {
      "titre": "Le Jeune Juge Athletisme",
-     "url": "https://docs.google.com/presentation/d/e/2PACX-1vQL6ZVkKSA2sNIxMOm--vTEEbiXQdHC9mXi-ioyjxMImYxWIHdKyU1Zfj-mUrIxWA/pubembed?start=false&loop=false&delayms=60000",
+     "url": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vQL6ZVkKSA2sNIxMOm--vTEEbiXQdHC9mXi-ioyjxMImYxWIHdKyU1Zfj-mUrIxWA/pubembed?start=false&loop=false&delayms=60000\" frameborder=\"0\" width=\"1280\" height=\"749\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
      "type": "slides"
     }
    ],
@@ -136,7 +136,7 @@
    "construction": [
     {
      "titre": "Scénarios Vidéo Athlé",
-     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWI_DGYWxQqOg7jkQPZVXzjhd80pGhuA-rTZuAn8EKWlN66RmXKfK0zHbWKltVwQ/pubhtml?widget=true&headers=false",
+     "url": "<iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTWI_DGYWxQqOg7jkQPZVXzjhd80pGhuA-rTZuAn8EKWlN66RmXKfK0zHbWKltVwQ/pubhtml?widget=true&amp;headers=false\"></iframe>",
      "type": "sheet"
     }
    ],
@@ -210,7 +210,7 @@
     {
      "titre": "SANCTIONS et Cartons",
      "type": "doc",
-     "url": "https://docs.google.com/document/d/e/2PACX-1vSFNpmeadLqghczoM5gLqdbCfo0DCBgmmDyBhJYKmVpM9dTS4hkvGAb_s5Rs4uG9Q/pub?embedded=true"
+     "url": "<iframe src=\"https://docs.google.com/document/d/e/2PACX-1vSFNpmeadLqghczoM5gLqdbCfo0DCBgmmDyBhJYKmVpM9dTS4hkvGAb_s5Rs4uG9Q/pub?embedded=true\"></iframe>"
     }
    ],
    "analyse": [
@@ -254,7 +254,7 @@
      "type": "wayground"
     }
    ],
-   "icone": "assets/televerse/icone-aviron-indoor-mwf6oy0q.webp",
+   "icone": "CA5-musculation",
    "videos": []
   },
   {
@@ -710,7 +710,7 @@
    "construction": [
     {
      "titre": "Scenarios Video Circuit Training",
-     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Vc0uvpvYJ-UIfdZ20PGNIUQwr4SRUlQkttkNJ_1BCBtOvkTpM13sr4ip81cY4g/pubhtml?widget=true&headers=false",
+     "url": "<iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vT7Vc0uvpvYJ-UIfdZ20PGNIUQwr4SRUlQkttkNJ_1BCBtOvkTpM13sr4ip81cY4g/pubhtml?widget=true&amp;headers=false\"></iframe>",
      "type": "sheet"
     }
    ],
@@ -844,17 +844,17 @@
    ],
    "regles": [
     {
-     "titre": "POSTE 1 / 3 – Juge de Voie — Difficulté",
+     "titre": " Juge de Voie  ",
      "url": "https://docs.google.com/document/d/e/2PACX-1vS0IRY5yulDLQb8LDkeT6vq1ij2Uh4ihFgOaZtAc6yUH0vSXmqLF7N7V6HOU_Nn7w/pub?embedded=true",
      "type": "doc"
     },
     {
-     "titre": "POSTE 2 / 3 – Juge de Bloc",
+     "titre": " Juge de Bloc",
      "url": "https://docs.google.com/document/d/e/2PACX-1vR1Ny9sYWdWXllYaO2D_EJU0C0p0Ai_yC2VmnRnzL_QVfb9B9GL8A7poJXY5tmSRA/pub?embedded=true",
      "type": "doc"
     },
     {
-     "titre": "POSTE 3 / 3 – Juge de Vitesse",
+     "titre": " Juge de Vitesse",
      "url": "https://docs.google.com/document/d/e/2PACX-1vQuzsbINUkxK_NAjeJ1zPjULfYks0cbkCei-OpwXWt0-EA4nkGr6JUf7z_eQcRRAQ/pub?embedded=true",
      "type": "doc"
     }
@@ -869,6 +869,11 @@
      "titre": "Bloc",
      "type": "quiz",
      "quiz": "escalade-2"
+    },
+    {
+     "titre": "",
+     "type": "lien",
+     "url": ""
     }
    ],
    "construction": [
@@ -915,7 +920,7 @@
    "decouvrir": [
     {
      "titre": "Page introuvable",
-     "url": "https://docs.google.com/presentation/d/e/2PACX-1vTe5c5hSUHM6D3V82gembi_L1f6OqRyw6y6id6yg1eZImSSv6RELpVhjauvUukN8s5nB3JTCES3fjmm/pubembed?start=false&loop=false&delayms=60000",
+     "url": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTe5c5hSUHM6D3V82gembi_L1f6OqRyw6y6id6yg1eZImSSv6RELpVhjauvUukN8s5nB3JTCES3fjmm/pubembed?start=false&loop=false&delayms=60000\" frameborder=\"0\" width=\"1280\" height=\"749\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
      "type": "slides"
     }
    ],
@@ -1161,7 +1166,7 @@
    "construction": [
     {
      "titre": "Scenarios Video Golf",
-     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTOjMn0mqPcxxMVc8xnpvXexPhfOSBRlKywCyeLC3o2C4eW_UgXe41p0mvoJrhBDw/pubhtml?widget=true&headers=false",
+     "url": "<iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vTOjMn0mqPcxxMVc8xnpvXexPhfOSBRlKywCyeLC3o2C4eW_UgXe41p0mvoJrhBDw/pubhtml?widget=true&amp;headers=false\"></iframe>",
      "type": "sheet"
     }
    ],
@@ -2050,7 +2055,7 @@
    "construction": [
     {
      "titre": "Scenarios Video Surf",
-     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQf6moxfXAD3V4zOVIqaNqgksyBtXIuauDMx4oD-nbQAmNgJy7DzcSYyOQaMpocog/pubhtml?widget=true&headers=false",
+     "url": "<iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQf6moxfXAD3V4zOVIqaNqgksyBtXIuauDMx4oD-nbQAmNgJy7DzcSYyOQaMpocog/pubhtml?widget=true&amp;headers=false\"></iframe>",
      "type": "sheet"
     }
    ],
@@ -2071,7 +2076,7 @@
      "type": "wayground"
     }
    ],
-   "icone": "assets/televerse/icone-surf-mwf6nxer.webp",
+   "icone": "CA2-activites-nautiques",
    "videos": []
   },
   {
@@ -2327,7 +2332,7 @@
     {
      "titre": "Scripts Vidéo Raid ",
      "type": "sheet",
-     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBAlGhpc6OQ9Nyt-KH2_wDXnll6epbpNZbdvnVNm3L-jhH9iFixP1sbAcBL_BRxQ/pubhtml?widget=true&headers=false"
+     "url": "<iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vSBAlGhpc6OQ9Nyt-KH2_wDXnll6epbpNZbdvnVNm3L-jhH9iFixP1sbAcBL_BRxQ/pubhtml?widget=true&amp;headers=false\"></iframe>"
     }
    ],
    "certification": [
@@ -2766,29 +2771,7 @@
  ],
  "version": 1,
  "notes": {
-  "defaut": "Bienvenue sur le nouveau site des formations Jeune Juge / Jeune Arbitre !\n\nCe site est actuellement en phase d’expérimentation. Des erreurs peuvent subsister. Si vous en constatez, merci de nous les signaler à l’adresse suivante : srunss@unss.org.\n\nMerci pour vos retours, qui nous aideront à améliorer cet outil!\n",
+  "defaut": "Bienvenue sur le nouveau site des formations Jeune Juge / Jeune Arbitre !\n\nCe site est actuellement en phase d’expérimentation. Des erreurs peuvent subsister. Si vous en constatez, merci de nous les signaler à l’adresse suivante : srunss@unss.org.\n\nMerci pour vos retours, qui nous aideront à améliorer cet outil.\n",
   "s/futsal": "**Nouveau** : une vidéo d'arbitrage commentée est disponible dans « Regarder une situation d'arbitrage »."
- },
- "certification": {
-  "actif": true,
-  "questions": 30,
-  "minutes": 20,
-  "seuil": 80,
-  "garderWayground": false
- },
- "mentions": {
-  "editeur": "Service régional UNSS de l'Académie de Nantes.",
-  "auteurs": "Adeline Couturier-Detrez, pour le Service régional UNSS de l'Académie de Nantes : conception des parcours, fiches, diaporamas, quiz et sessions d'entraînement.",
-  "realisation": "Site statique réalisé pour la Forge des communs numériques éducatifs, à partir du Genially d'origine.",
-  "hebergement": "La Forge des communs numériques éducatifs (forge.apps.education.fr), ministère de l'Éducation nationale. Copie de secours : GitHub Pages (GitHub Inc.).",
-  "licence": "Sauf mention contraire, les contenus sont placés sous licence Creative Commons BY-NC-SA 4.0 (attribution, pas d'utilisation commerciale, partage dans les mêmes conditions) : https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr\nLe logo UNSS reste la propriété de l'UNSS.",
-  "licenceCourte": "Contenus sous licence CC BY-NC-SA 4.0",
-  "contact": "",
-  "accessibilite": "Le site vise la conformité au RGAA : navigation complète au clavier, contrastes renforcés, textes alternatifs, animations réduites si l'appareil le demande. Signale toute difficulté au Service régional UNSS de l'Académie de Nantes.",
-  "illustrations": "Bandeau, icônes des activités et illustrations des étapes : UNSS Académie de Nantes."
- },
- "stats": {
-  "url": "",
-  "site": ""
  }
 }
