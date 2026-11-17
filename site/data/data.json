@@ -1,7 +1,7 @@
 {
  "titre": "Formations Jeune Juge / Jeune Arbitre UNSS",
  "sousTitre": "Académie de Nantes",
- "maj": "2026-11-16",
+ "maj": "2026-11-17",
  "etapes": [
   {
    "cle": "decouvrir",
@@ -869,6 +869,11 @@
      "titre": "Bloc",
      "type": "quiz",
      "quiz": "escalade-2"
+    },
+    {
+     "titre": "Quiz Escalade ",
+     "type": "quiz",
+     "quiz": "escalade-3"
     }
    ],
    "construction": [

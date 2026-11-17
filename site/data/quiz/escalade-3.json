@@ -1,0 +1,509 @@
+{
+ "id": "escalade-3",
+ "titre": "Quiz Escalade ",
+ "sousTitre": "Vitesse",
+ "entete": "",
+ "sport": "escalade",
+ "themes": [
+  {
+   "nom": "1",
+   "questions": [
+    {
+     "q": "L'escalade de vitesse se pratique en moulinette.",
+     "r": "valable",
+     "e": "Le règlement précise que les voies de vitesse sont escaladées en moulinette."
+    }
+   ]
+  },
+  {
+   "nom": "2",
+   "questions": [
+    {
+     "q": "L'escalade de vitesse se pratique en tête, comme la difficulté.",
+     "r": "faute",
+     "e": "La vitesse se pratique en moulinette, pas en tête comme la difficulté."
+    }
+   ]
+  },
+  {
+   "nom": "3",
+   "questions": [
+    {
+     "q": "Le déroulement de l'épreuve de vitesse se fait sur 2 voies parallèles.",
+     "r": "valable",
+     "e": "Le règlement prévoit ce déroulement sur 2 voies parallèles."
+    }
+   ]
+  },
+  {
+   "nom": "4",
+   "questions": [
+    {
+     "q": "L'épreuve de vitesse se déroule sur une seule voie, empruntée successivement par tous les concurrents.",
+     "r": "faute",
+     "e": "Les 2 voies parallèles permettent aux compétiteurs de ne pas se gêner."
+    }
+   ]
+  },
+  {
+   "nom": "5",
+   "questions": [
+    {
+     "q": "Chaque équipier dispose de 2 essais chronométrés en vitesse.",
+     "r": "valable",
+     "e": "Le règlement fixe ce nombre de 2 essais chronométrés."
+    }
+   ]
+  },
+  {
+   "nom": "6",
+   "questions": [
+    {
+     "q": "Chaque équipier ne dispose que d'un seul essai chronométré en vitesse.",
+     "r": "faute",
+     "e": "Chaque équipier dispose bien de 2 essais chronométrés, pas d'un seul."
+    }
+   ]
+  },
+  {
+   "nom": "7",
+   "questions": [
+    {
+     "q": "Le meilleur des 2 essais de chaque grimpeur est comptabilisé pour le classement.",
+     "r": "valable",
+     "e": "Le règlement retient le meilleur des deux essais."
+    }
+   ]
+  },
+  {
+   "nom": "8",
+   "questions": [
+    {
+     "q": "C'est la moyenne des 2 essais qui est comptabilisée pour le classement en vitesse.",
+     "r": "faute",
+     "e": "C'est le meilleur temps qui est retenu, pas la moyenne des deux essais."
+    }
+   ]
+  },
+  {
+   "nom": "9",
+   "questions": [
+    {
+     "q": "Le chronométrage électronique a une précision d'au moins un millième de seconde.",
+     "r": "valable",
+     "e": "Le règlement exige cette précision minimale pour le système électronique."
+    }
+   ]
+  },
+  {
+   "nom": "10",
+   "questions": [
+    {
+     "q": "Le chronométrage électronique n'a qu'une précision à la seconde près.",
+     "r": "faute",
+     "e": "La précision exigée est d'au moins un millième de seconde, pas à la seconde près."
+    }
+   ]
+  },
+  {
+   "nom": "11",
+   "questions": [
+    {
+     "q": "En chronométrage manuel, le temps retenu est le temps médian de 3 chronomètres.",
+     "r": "valable",
+     "e": "Le règlement retient le temps médian, les extrêmes étant écartés."
+    }
+   ]
+  },
+  {
+   "nom": "12",
+   "questions": [
+    {
+     "q": "En chronométrage manuel, c'est toujours le temps le plus rapide des 3 chronomètres qui est retenu.",
+     "r": "faute",
+     "e": "Le temps médian est retenu, pas le temps le plus rapide."
+    }
+   ]
+  },
+  {
+   "nom": "13",
+   "questions": [
+    {
+     "q": "Si un chronomètre manuel est défaillant, le temps retenu est la moyenne des deux autres.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette solution en cas de défaillance d'un chronomètre."
+    }
+   ]
+  },
+  {
+   "nom": "14",
+   "questions": [
+    {
+     "q": "Si un chronomètre manuel est défaillant, l'essai est automatiquement annulé sans recours.",
+     "r": "faute",
+     "e": "La moyenne des deux chronomètres restants est utilisée, l'essai n'est pas annulé."
+    }
+   ]
+  },
+  {
+   "nom": "15",
+   "questions": [
+    {
+     "q": "Un buzzer est installé en haut de la voie et matérialise la fin de la voie.",
+     "r": "valable",
+     "e": "Le règlement prévoit ce dispositif sonore de fin de voie."
+    }
+   ]
+  },
+  {
+   "nom": "16",
+   "questions": [
+    {
+     "q": "La fin de la voie est matérialisée uniquement par un juge levant le bras, sans dispositif sonore.",
+     "r": "faute",
+     "e": "Un buzzer sonore matérialise la fin de la voie, pas seulement un geste du juge."
+    }
+   ]
+  },
+  {
+   "nom": "17",
+   "questions": [
+    {
+     "q": "Le départ « à vos marques » impose un pied au sol et l'autre sur la première prise de pied.",
+     "r": "valable",
+     "e": "C'est la position de départ réglementaire en vitesse."
+    }
+   ]
+  },
+  {
+   "nom": "18",
+   "questions": [
+    {
+     "q": "Le départ « à vos marques » impose les deux pieds sur les premières prises de pied, aucun au sol.",
+     "r": "faute",
+     "e": "Un pied reste au sol, l'autre est sur la première prise de pied."
+    }
+   ]
+  },
+  {
+   "nom": "19",
+   "questions": [
+    {
+     "q": "Lors d'un départ vocal, le juge annonce « Prêts ? » puis marque une pause de 1 à 2 secondes avant le signal.",
+     "r": "valable",
+     "e": "Le règlement impose cette pause de 1 à 2 secondes."
+    }
+   ]
+  },
+  {
+   "nom": "20",
+   "questions": [
+    {
+     "q": "Lors d'un départ vocal, le signal de départ est donné immédiatement après « Prêts ? », sans aucune pause.",
+     "r": "faute",
+     "e": "Une pause de 1 à 2 secondes est obligatoire entre « Prêts ? » et le signal de départ."
+    }
+   ]
+  },
+  {
+   "nom": "21",
+   "questions": [
+    {
+     "q": "Lors d'un départ automatique, le système produit une succession de 3 beeps espacés d'une seconde.",
+     "r": "valable",
+     "e": "Le règlement décrit précisément cette séquence de 3 beeps."
+    }
+   ]
+  },
+  {
+   "nom": "22",
+   "questions": [
+    {
+     "q": "Lors d'un départ automatique, un seul beep unique signale le départ, sans succession de signaux.",
+     "r": "faute",
+     "e": "Le système produit 3 beeps espacés d'une seconde, pas un signal unique."
+    }
+   ]
+  },
+  {
+   "nom": "23",
+   "questions": [
+    {
+     "q": "Un faux départ est signalé si le compétiteur commence sa tentative avant l'annonce de l'ordre de départ.",
+     "r": "valable",
+     "e": "C'est la définition réglementaire du faux départ."
+    }
+   ]
+  },
+  {
+   "nom": "24",
+   "questions": [
+    {
+     "q": "Un faux départ ne peut être signalé qu'après la fin de la tentative du compétiteur.",
+     "r": "faute",
+     "e": "Le faux départ est signalé dès que la tentative commence avant l'ordre de départ."
+    }
+   ]
+  },
+  {
+   "nom": "25",
+   "questions": [
+    {
+     "q": "Un concurrent commettant 2 faux départs sur un même essai ne sera pas chronométré.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette conséquence après 2 faux départs."
+    }
+   ]
+  },
+  {
+   "nom": "26",
+   "questions": [
+    {
+     "q": "Un concurrent peut commettre autant de faux départs qu'il le souhaite sans conséquence sur son chronométrage.",
+     "r": "faute",
+     "e": "2 faux départs sur un même essai empêchent le chronométrage de cet essai."
+    }
+   ]
+  },
+  {
+   "nom": "27",
+   "questions": [
+    {
+     "q": "Un concurrent non chronométré après 2 faux départs reçoit le moins bon temps de sa catégorie, majoré d'une seconde.",
+     "r": "valable",
+     "e": "Le règlement fixe cette pénalité précise."
+    }
+   ]
+  },
+  {
+   "nom": "28",
+   "questions": [
+    {
+     "q": "Un concurrent non chronométré après 2 faux départs reçoit automatiquement le meilleur temps de la compétition.",
+     "r": "faute",
+     "e": "C'est le moins bon temps de sa catégorie, majoré d'une seconde, qui est attribué."
+    }
+   ]
+  },
+  {
+   "nom": "29",
+   "questions": [
+    {
+     "q": "Chaque compétiteur finit son essai en arrêtant le chronomètre en pressant le buzzer avec la main.",
+     "r": "valable",
+     "e": "C'est la procédure réglementaire de fin d'essai en cas général."
+    }
+   ]
+  },
+  {
+   "nom": "30",
+   "questions": [
+    {
+     "q": "Chaque compétiteur finit son essai lorsque le juge de voie arrête manuellement le chronomètre.",
+     "r": "faute",
+     "e": "C'est le compétiteur lui-même qui arrête son chronomètre en pressant le buzzer."
+    }
+   ]
+  },
+  {
+   "nom": "31",
+   "questions": [
+    {
+     "q": "Une tentative est arrêtée si le compétiteur chute.",
+     "r": "valable",
+     "e": "Le règlement liste la chute parmi les cas d'arrêt de tentative."
+    }
+   ]
+  },
+  {
+   "nom": "32",
+   "questions": [
+    {
+     "q": "Une chute en cours de tentative n'entraîne jamais l'arrêt de celle-ci en vitesse.",
+     "r": "faute",
+     "e": "Une chute entraîne bien l'arrêt de la tentative, sans chronométrage."
+    }
+   ]
+  },
+  {
+   "nom": "33",
+   "questions": [
+    {
+     "q": "Toucher ou utiliser avec les pieds une plaquette ou un point de fixation n'entraîne pas l'arrêt de la tentative en UNSS.",
+     "r": "valable",
+     "e": "Le règlement précise cette exception spécifique à l'UNSS."
+    }
+   ]
+  },
+  {
+   "nom": "34",
+   "questions": [
+    {
+     "q": "Toucher un point de fixation avec les pieds entraîne systématiquement l'arrêt de la tentative en UNSS.",
+     "r": "faute",
+     "e": "Cette action est tolérée avec les pieds en UNSS, sans arrêt de la tentative."
+    }
+   ]
+  },
+  {
+   "nom": "35",
+   "questions": [
+    {
+     "q": "Les grimpeurs utilisent un enrouleur automatique fourni par les organisateurs.",
+     "r": "valable",
+     "e": "Le règlement prévoit la fourniture de cet enrouleur par les organisateurs."
+    }
+   ]
+  },
+  {
+   "nom": "36",
+   "questions": [
+    {
+     "q": "Les grimpeurs doivent toujours apporter leur propre enrouleur automatique en vitesse.",
+     "r": "faute",
+     "e": "L'enrouleur automatique est fourni par les organisateurs, pas par les grimpeurs."
+    }
+   ]
+  },
+  {
+   "nom": "37",
+   "questions": [
+    {
+     "q": "Le mousqueton de la sangle de l'enrouleur doit toujours être connecté au pontet du grimpeur ou à la longe du superviseur.",
+     "r": "valable",
+     "e": "Le règlement impose cette connexion permanente pour éviter la remontée accidentelle."
+    }
+   ]
+  },
+  {
+   "nom": "38",
+   "questions": [
+    {
+     "q": "Le mousqueton de la sangle de l'enrouleur n'a besoin d'être connecté qu'au tout début de la compétition.",
+     "r": "faute",
+     "e": "Cette connexion doit rester permanente, pas seulement en début de compétition."
+    }
+   ]
+  },
+  {
+   "nom": "39",
+   "questions": [
+    {
+     "q": "La corde est passée dans 2 points sommitaux distincts, chacun avec maillon rapide, sangle et mousqueton de sécurité.",
+     "r": "valable",
+     "e": "Le règlement décrit cet équipement précis des voies de vitesse."
+    }
+   ]
+  },
+  {
+   "nom": "40",
+   "questions": [
+    {
+     "q": "La corde n'est passée que dans un seul point sommital en vitesse.",
+     "r": "faute",
+     "e": "2 points sommitaux distincts sont utilisés, pas un seul."
+    }
+   ]
+  },
+  {
+   "nom": "41",
+   "questions": [
+    {
+     "q": "Le plus haut point sommital doit être placé au-dessus du buzzer de fin de voie.",
+     "r": "valable",
+     "e": "Le règlement impose ce positionnement précis."
+    }
+   ]
+  },
+  {
+   "nom": "42",
+   "questions": [
+    {
+     "q": "Le plus haut point sommital doit toujours être placé en dessous du buzzer de fin de voie.",
+     "r": "faute",
+     "e": "Le point sommital le plus haut doit être au-dessus du buzzer, pas en dessous."
+    }
+   ]
+  },
+  {
+   "nom": "43",
+   "questions": [
+    {
+     "q": "En l'absence d'enrouleur, l'assurage est effectué par 2 assureurs locaux.",
+     "r": "valable",
+     "e": "Le règlement prévoit ces 2 assureurs en l'absence d'enrouleur."
+    }
+   ]
+  },
+  {
+   "nom": "44",
+   "questions": [
+    {
+     "q": "En l'absence d'enrouleur, un seul assureur suffit toujours pour assurer le grimpeur.",
+     "r": "faute",
+     "e": "2 assureurs locaux sont nécessaires en l'absence d'enrouleur."
+    }
+   ]
+  },
+  {
+   "nom": "45",
+   "questions": [
+    {
+     "q": "Les points sont attribués à l'issue du passage de toutes les équipes, en dégressif selon l'écart au meilleur temps.",
+     "r": "valable",
+     "e": "Le règlement décrit ce mode de calcul dégressif."
+    }
+   ]
+  },
+  {
+   "nom": "46",
+   "questions": [
+    {
+     "q": "Les points sont attribués immédiatement après chaque essai individuel, sans attendre les autres équipes.",
+     "r": "faute",
+     "e": "L'attribution des points attend le passage de toutes les équipes, en dégressif selon l'écart au meilleur temps."
+    }
+   ]
+  },
+  {
+   "nom": "47",
+   "questions": [
+    {
+     "q": "Si un grimpeur fait deux échecs, on lui attribue le plus mauvais temps de sa catégorie majoré d'une seconde.",
+     "r": "valable",
+     "e": "Le règlement prévoit cette pénalité en cas de deux échecs."
+    }
+   ]
+  },
+  {
+   "nom": "48",
+   "questions": [
+    {
+     "q": "Si un grimpeur fait deux échecs, il est automatiquement exclu du classement de vitesse.",
+     "r": "faute",
+     "e": "Le grimpeur reçoit le plus mauvais temps de sa catégorie + 1 seconde, il n'est pas exclu."
+    }
+   ]
+  },
+  {
+   "nom": "49",
+   "questions": [
+    {
+     "q": "Une tension ou un mou de corde qui aide ou gêne un concurrent, en l'absence d'enrouleur, peut être un incident technique.",
+     "r": "valable",
+     "e": "Le règlement reconnaît ce cas comme incident technique possible en vitesse."
+    }
+   ]
+  },
+  {
+   "nom": "50",
+   "questions": [
+    {
+     "q": "La tension ou le mou de la corde ne peut jamais être considéré comme un incident technique en vitesse.",
+     "r": "faute",
+     "e": "Cette situation peut bien constituer un incident technique en l'absence d'enrouleur."
+    }
+   ]
+  }
+ ]
+}
