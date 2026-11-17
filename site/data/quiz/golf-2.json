@@ -15,11 +15,6 @@
      "e": "Le temps pour chercher sa balle est de 3 minutes."
     },
     {
-     "q": "Le temps pour chercher sa balle est de 10 minutes.",
-     "r": "faute",
-     "e": "Le temps réglementaire est de 3 minutes, pas 10."
-    },
-    {
      "q": "Si on bouge accidentellement sa balle pendant la recherche, on la replace sans pénalité.",
      "r": "valable",
      "e": "Si on bouge accidentellement sa balle pendant la recherche, on la replace sans pénalité."
@@ -45,9 +40,9 @@
      "e": "Dégagement gratuit pour une balle se trouvant dans un trou d'animal (sauf zone à pénalité)."
     },
     {
-     "q": "Une balle dans un trou d'animal entraîne systématiquement une pénalité.",
+     "q": "Le temps pour chercher sa balle est de 10 minutes.",
      "r": "faute",
-     "e": "Le dégagement est gratuit dans ce cas (sauf en zone à pénalité)."
+     "e": "Le temps réglementaire est de 3 minutes, pas 10."
     },
     {
      "q": "Un club endommagé pendant un tour (hors abus) peut être réparé ou remplacé.",
@@ -65,14 +60,14 @@
      "e": "Si la balle heurte accidentellement le joueur, son équipement ou son cadet, il n'y a pas de pénalité."
     },
     {
+     "q": "Une balle dans un trou d'animal entraîne systématiquement une pénalité.",
+     "r": "faute",
+     "e": "Le dégagement est gratuit dans ce cas (sauf en zone à pénalité)."
+    },
+    {
      "q": "Si la balle en mouvement heurte accidentellement son propre cadet, le joueur reçoit 1 coup de pénalité.",
      "r": "faute",
      "e": "Aucune pénalité n'est appliquée dans ce cas précis."
-    },
-    {
-     "q": "Pour identifier sa balle, il n'est pas nécessaire d'informer un autre joueur.",
-     "r": "valable",
-     "e": "Il n'est pas nécessaire d'informer un autre joueur pour identifier sa balle ; on la replace, on ne la droppe pas."
     },
     {
      "q": "Pour identifier sa balle, il faut obligatoirement prévenir tous les autres joueurs du groupe.",
@@ -80,9 +75,9 @@
      "e": "Aucune obligation d'informer les autres joueurs n'existe pour identifier sa balle."
     },
     {
-     "q": "Pour dropper à 1 ou 2 longueurs de club, on peut utiliser n'importe quel club du sac (sauf le putter).",
+     "q": "Pour identifier sa balle, il n'est pas nécessaire d'informer un autre joueur.",
      "r": "valable",
-     "e": "La longueur officielle est celle du club le plus long du sac, à l'exception du putter."
+     "e": "Il n'est pas nécessaire d'informer un autre joueur pour identifier sa balle ; on la replace, on ne la droppe pas."
     },
     {
      "q": "Pour dropper à 1 ou 2 longueurs, seul le putter peut être utilisé comme référence.",
@@ -90,9 +85,9 @@
      "e": "C'est au contraire le putter qui est exclu de cette référence de longueur."
     },
     {
-     "q": "Le drop doit être effectué vers le bas, à partir de la hauteur du genou.",
+     "q": "Pour dropper à 1 ou 2 longueurs de club, on peut utiliser n'importe quel club du sac (sauf le putter).",
      "r": "valable",
-     "e": "Le drop : la balle doit être droppée vers le bas à partir de la hauteur de genou."
+     "e": "La longueur officielle est celle du club le plus long du sac, à l'exception du putter."
     },
     {
      "q": "Le drop doit être effectué à hauteur d'épaule.",
@@ -105,6 +100,11 @@
      "e": "La pénalité pour la substitution non autorisée d'une autre balle est d'un coup."
     },
     {
+     "q": "On peut librement placer ses pieds sur le green d'un autre trou sans conséquence.",
+     "r": "faute",
+     "e": "Ceci est interdit ; un dégagement gratuit doit être pris."
+    },
+    {
      "q": "La substitution non autorisée d'une balle n'entraîne jamais de pénalité.",
      "r": "faute",
      "e": "Cette substitution non autorisée entraîne bien une pénalité d'un coup."
@@ -113,6 +113,11 @@
      "q": "Une balle droppée peut toujours être nettoyée au préalable ou remplacée par une nouvelle balle.",
      "r": "valable",
      "e": "Si une balle est droppée, elle peut toujours être nettoyée au préalable ou une nouvelle balle peut être utilisée."
+    },
+    {
+     "q": "On ne peut pas placer ses pieds ou sa balle sur un autre green que celui du trou joué.",
+     "r": "valable",
+     "e": "Mauvais green : on ne peut pas placer ses pieds ou sa balle sur un autre green que celui du trou joué (dégagement gratuit)."
     },
     {
      "q": "Une balle droppée doit impérativement rester sale, sans nettoyage possible.",
@@ -125,19 +130,14 @@
      "e": "Si un joueur effectue une double ou triple touche sur la balle, cela compte seulement comme un coup et pas de pénalité."
     },
     {
+     "q": "Le drop doit être effectué vers le bas, à partir de la hauteur du genou.",
+     "r": "valable",
+     "e": "Le drop : la balle doit être droppée vers le bas à partir de la hauteur de genou."
+    },
+    {
      "q": "Une double touche sur la balle entraîne systématiquement 1 coup de pénalité supplémentaire.",
      "r": "faute",
      "e": "Cela compte comme un seul coup, sans pénalité additionnelle."
-    },
-    {
-     "q": "On ne peut pas placer ses pieds ou sa balle sur un autre green que celui du trou joué.",
-     "r": "valable",
-     "e": "Mauvais green : on ne peut pas placer ses pieds ou sa balle sur un autre green que celui du trou joué (dégagement gratuit)."
-    },
-    {
-     "q": "On peut librement placer ses pieds sur le green d'un autre trou sans conséquence.",
-     "r": "faute",
-     "e": "Ceci est interdit ; un dégagement gratuit doit être pris."
     },
     {
      "q": "Il est interdit de poser un club au sol pour s'aligner.",
@@ -170,29 +170,24 @@
      "e": "On peut s'appuyer sur son club dans un bunker si ce n'est pas dans la ligne de jeu."
     },
     {
-     "q": "Dans un bunker, on peut ratisser si ce n'est pas dans la ligne de jeu, en s'appuyant sur son club.",
-     "r": "valable",
-     "e": "On peut ratisser si ce n'est pas dans la ligne de jeu et s'appuyer sur son club."
-    },
-    {
-     "q": "Les piquets jaunes et rouges offrent exactement le même nombre d'options.",
-     "r": "faute",
-     "e": "Les piquets jaunes offrent 3 options, les rouges 4, ce n'est pas le même nombre."
-    },
-    {
-     "q": "Dans un bunker, on peut enlever les détritus, avec 1 point de pénalité si la balle bouge.",
-     "r": "valable",
-     "e": "On peut enlever les détritus ; attention, 1 point de pénalité si la balle bouge, et on doit la replacer."
-    },
-    {
      "q": "Il est totalement interdit de toucher le sol avec son club dans une zone à pénalité.",
      "r": "faute",
      "e": "Cela est au contraire autorisé dans les zones à pénalité, contrairement aux bunkers pour certains gestes."
     },
     {
+     "q": "Dans un bunker, on peut ratisser si ce n'est pas dans la ligne de jeu, en s'appuyant sur son club.",
+     "r": "valable",
+     "e": "On peut ratisser si ce n'est pas dans la ligne de jeu et s'appuyer sur son club."
+    },
+    {
      "q": "On peut se dropper en dehors du bunker avec 2 coups de pénalité sur la ligne balle/drapeau.",
      "r": "valable",
      "e": "On peut se dropper en dehors du bunker avec 2 coups de pénalité sur la ligne balle/drapeau."
+    },
+    {
+     "q": "Dans un bunker, on peut enlever les détritus, avec 1 point de pénalité si la balle bouge.",
+     "r": "valable",
+     "e": "On peut enlever les détritus ; attention, 1 point de pénalité si la balle bouge, et on doit la replacer."
     },
     {
      "q": "Il est totalement interdit de toucher la ligne de putt, même du doigt.",
@@ -203,6 +198,11 @@
      "q": "Les piquets jaunes offrent 3 options de jeu, les piquets rouges en offrent 4.",
      "r": "valable",
      "e": "Piquets jaunes, 3 options ; piquets rouges, 4 options."
+    },
+    {
+     "q": "Les piquets jaunes et rouges offrent exactement le même nombre d'options.",
+     "r": "faute",
+     "e": "Les piquets jaunes offrent 3 options, les rouges 4, ce n'est pas le même nombre."
     },
     {
      "q": "Les appareils de mesure de distance sont strictement interdits, quels qu'ils soient.",
